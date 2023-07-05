@@ -1,0 +1,110 @@
+[
+    {
+        "categoriy": "brain",
+        "title_fr": "Suivre sa routine\n\n",
+        "message_fr": "Créer une routine nous aide à organiser notre journée et à ne pas oublier les choses importantes.",
+        "title_us": "Create a routine",
+        "message_us": "Having a set routine helps us organize our day and not to forget the important things.",
+        "title_it": "Seguire una routine",
+        "message_it": "Creare delle routine ci aiuta a organizzare la giornata e a non dimenticare le cose importanti."
+    },
+    {
+        "categoriy": "brain",
+        "title_fr": "Lire 2 pages du journal",
+        "message_fr": "La lecture est une activité relaxante qui permet de se reposer en gardant son cerveau éveillé. \r",
+        "title_us": "Read two pages of the newspaper",
+        "message_us": "Reading is a relaxing activity that allows you to unwind while keeping your brain active.\n",
+        "title_it": "Leggere 2 pagine del giornale",
+        "message_it": "La lettura é un'attività rilassante che permette di riposarsi, mantenendo il cervello attivo."
+    },
+    {
+        "categoriy": "brain",
+        "title_fr": "Boire 1 litre d’eau",
+        "message_fr": "Rester hydraté est important pour la santé physique et mentale ! ",
+        "title_us": "Drink 1 gallon of water",
+        "message_us": "Staying hydrated is very important for your physical and mental health!",
+        "title_it": "Bere 1 litro di acqua",
+        "message_it": "Rimanere idratati é importante per la salute fisica e mentale !"
+    },
+    {
+        "categoriy": "brain",
+        "title_fr": "Jouer aux cartes",
+        "message_fr": "Les jeux de cartes sont un moyen très répandu pour garder votre cerveau éveillé en s’amusant. ",
+        "title_us": "Play cards",
+        "message_us": "Card games are a well-known tool to keep your brain active while having fun.",
+        "title_it": "Giocare a carte",
+        "message_it": "I giochi di carte sono un modo conosciuto per mantenere il cervello attivo divertendosi."
+    },
+    {
+        "categoriy": "habits",
+        "title_fr": "Cuisiner un repas\r",
+        "message_fr": "Manger est synonyme de bonheur : un bon repas peut faire retrouver le sourire. ",
+        "title_us": "Cook a meal",
+        "message_us": "Cooking is synonym with happiness. A nice cooked meal can make you smile.",
+        "title_it": "Cucinare un piatto",
+        "message_it": "Mangiare é sinonimo di benessere: un buon piatto può far tornare il sorriso."
+    },
+    {
+        "categoriy": "habits",
+        "title_fr": "Faire une chose que vous aimez",
+        "message_fr": "Découvrir une nouvelle passion permet de rendre vos journée plus dynamiques.",
+        "title_us": "Do something you enjoy",
+        "message_us": "It's possible to find a new hobbie at any age, a little something to brighten up your day.",
+        "title_it": "Fare qualcosa che si ama",
+        "message_it": "Scoprire una nuova passione permette di rendere le giornate più dinamiche."
+    },
+    {
+        "categoriy": "habits",
+        "title_fr": "Appeler ou écrire à vos proches",
+        "message_fr": "La famille et les amis sont des membres importants de la vie, ne les oubliez pas. ",
+        "title_us": "Call or write to a closed one",
+        "message_us": "Family and friends are important members of your life, it is important not to neglect them.",
+        "title_it": "Chiama o scrivi ai tuoi cari",
+        "message_it": "La famiglia e gli amici sono membri importanti della nostra vita, é importante non trascurarli."
+    },
+    {
+        "categoriy": "habits",
+        "title_fr": "Avoir une pensée positive",
+        "message_fr": "Penser à un événement qui vous a fait sourire vous permet de voir les bons côtés de la vie !",
+        "title_us": "Think of something positive",
+        "message_us": "Think of something that made you smile today. It's better to focus on the good things in life!",
+        "title_it": "Pensare a una cosa positiva ",
+        "message_it": "Pensare a una cosa positiva permette di focalizzarsi sugli aspetti positivi della vita! "
+    },
+    {
+        "categoriy": "outside",
+        "title_fr": "S’activer pendant 20 minutes",
+        "message_fr": "Il est important de faire du sport à tout âge. Faites un peu de gym, de yoga ou une promenade.",
+        "title_us": "Get moving for 20 minutes",
+        "message_us": "Being physically active is important at any age. Do some gymnastics, yoga or even just go for a walk.",
+        "title_it": "Essere attivi per 20 minuti",
+        "message_it": "Fare sport é importante ad ogni età. Fate un pò di palestra, di yoga o una passeggiata."
+    },
+    {
+        "categoriy": "outside",
+        "title_fr": " Sourire aux autres",
+        "message_fr": "Sourire aux personnes que vous croisez dans la rue peut améliorer votre journée et celle des autres.\n",
+        "title_us": "Smile!",
+        "message_us": "Smiling at people you pass on the street can improve your day and the day of others.",
+        "title_it": "Sorridere agli altri",
+        "message_it": "Sorridere alle persone che si incontrano per strada può migliorare la nostra giornata e la loro."
+    },
+    {
+        "categoriy": "outside",
+        "title_fr": "Aller chez le coiffeur",
+        "message_fr": "Prendre soin de soi est important. Allez chez le coiffeur pour vous détendre et rencontrer des gens.\n",
+        "title_us": "Go to the salon ",
+        "message_us": "Taking time for you is essential. Enjoy a nice hair appointment to relax and meet new people. ",
+        "title_it": "Andare dal parrucchiere",
+        "message_it": "Prendersi cura di sé é importante. Andate dal parrucchiere per rilassarvi e incontrare altre persone."
+    },
+    {
+        "categoriy": "outside",
+        "title_fr": "Sortir se promener",
+        "message_fr": "Faire des activités en dehors de chez vous permet de garder un lien social et de ne pas vous isoler.",
+        "title_us": "Go for a walk",
+        "message_us": "Doing activities outside of your house allows you to stay socially connected and not isolate yourself.",
+        "title_it": "Fare una passeggiata",
+        "message_it": "Fare delle attività all'aperto permette di mantenere dei legami sociali e di non isolarsi. "
+    }
+]

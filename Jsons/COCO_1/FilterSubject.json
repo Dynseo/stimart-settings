@@ -1,0 +1,71 @@
+[
+  {
+    "title_fr": "Lecture",
+    "title_us": "Language",
+    "games": [
+      "PUZZLE",
+      "INTRUS",
+      "QUIZZLE",
+      "LOST_POEM",
+      "COOK",
+      "SYLLABUS",
+      "TIMELINE"
+    ]
+  },
+  {
+    "title_fr": "Mathématiques",
+    "title_us": "Math",
+    "games": [
+      "COLORFORM",
+      "CALCULUS",
+      "RELIBULLE",
+      "SCROLLANDCATCH",
+      "SEQUENCE",
+      "SUDOKU",
+      "SNAKE"
+    ]
+  },
+  {
+    "title_fr": "Anglais",
+    "games": [
+      "PUZZLE",
+      "INTRUS",
+      "MUSIC",
+      "SYLLABUS",
+      "HANGMAN",
+      "PROVERB",
+      "COOK"
+    ]
+  },
+  {
+    "title_fr": "Orthographe",
+    "title_us": "Spelling",
+    "games": [
+      "INTRUS",
+      "SYLLABUS",
+      "HANGMAN",
+      "PROVERB"
+    ]
+  },
+  {
+    "title_fr": "Histoire",
+    "title_us": "History",
+    "games": [
+      "QUIZZLE",
+      "TIMELINE"
+    ]
+  },
+  {
+    "title_fr": "Questionner le monde",
+    "title_us": "Science",
+    "games": [
+      "ANIMALS",
+      "WALKER",
+      "SLIDE_MAZE",
+      "CARS",
+      "SNOWBALL_EFFECT",
+      "TIMELINE",
+      "QUIZZLE"
+    ]
+  }
+]

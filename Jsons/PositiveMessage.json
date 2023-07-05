@@ -1,0 +1,170 @@
+[
+    {
+        "category": "positive_message",
+        "fr": "C'est formidable de voir que vous allez bien !",
+        "us": "It's great to see you doing well!",
+        "it": "É bello vedere che stai bene!"
+    },
+    {
+        "category": "positive_message",
+        "fr": "Je suis très heureux de voir que vous allez bien !",
+        "us": "I'm very happy to see that you're doing well!",
+        "it": "Sono molto contento di vedere che stai bene!"
+    },
+    {
+        "category": "positive_message",
+        "fr": "Votre bonheur est une priorité pour moi et je suis ravi de constater que vous allez bien !",
+        "us": "Your happiness is a priority for me and I am delighted to see that you are doing well!",
+        "it": "La tua felicità é una priorità per me e sono contento di vedere che stai bene!"
+    },
+    {
+        "category": "positive_message",
+        "fr": "Votre humeur est importante, donc je suis ravi de constater que vous allez bien !",
+        "us": "Your mood is important, so I'm glad to see you're doing well!",
+        "it": "Il tuo umore é importante quindi sono contento di vedere che stai bene!"
+    },
+    {
+        "category": "positive_message",
+        "fr": "Je suis content de voir que vous allez bien ! Votre bien-être est primordial, alors continuez à en prendre soin.",
+        "us": "I'm glad to see you're doing well! Your well-being is paramount, so please continue to take care of it.",
+        "it": "Sono contento di vedere che stai bene! Il tuo benessere é importante quindi continua a prenderti cura di te."
+    },
+    {
+        "category": "positive_message",
+        "fr": "Je suis satisfait de voir que vous allez bien ! C'est un grand pas dans la bonne direction.",
+        "us": "I'm glad to see you're doing well! This is a big step in the right direction.",
+        "it": "Sono soddisfatto di vedere che stai bene! É un grande passo nella giusta direzione"
+    },
+    {
+        "category": "positive_message",
+        "fr": "C'est fantastique de voir que vous vous portez bien !",
+        "us": "It's amazing to see you doing well!",
+        "it": "É fantastico vedere che stai bene!"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "« Le bonheur n’est pas toujours dans un ciel éternellement bleu, mais dans les choses les plus simples de la vie » Confucius",
+        "us": "\"Many seek happiness higher than man; others beneath him. But happiness is the. same height as man.\" - Confucius",
+        "it": "\"La vita è veramente molto semplice; ma noi insistiamo nel renderla complicata\" - Confucio\r\n"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "« Rêve ta vie en couleur, c’est le secret du bonheur » Walt Disney",
+        "us": "\"Dream your life in color, it is the secret of hapiness!\" Walt Disney",
+        "it": "\"Sogna la tua vita a colori. É il segreto della felicità\" - Walt Disney"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "« Un seul moment de joie chasse cent moments de tristesse » Proverbe chinois",
+        "us": "\"One happiness scatters a thousand sorrows.\" – Chinese proverb",
+        "it": "\"Una gioia disperde un centinaio di dolori\" - Proverbio cinese"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur n'est pas une destination à atteindre, mais une façon de voyager.\" - Margaret Lee Runbeck",
+        "us": "\"Happiness is not a station you arrive at, but a manner of traveling.” - Maragret Lee Runbeck",
+        "it": "\"La felicità non é uno stato a cui arrivare, ma un modo di viaggiare\" - Margaret Lee Runbeck"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est une direction, pas une destination.\" - Sydney J. Harris",
+        "us": "\"Happiness is a direction, not a place.\" - Sydney J. Harris",
+        "it": "\" La felicità é una direzione, non un luogo\" - Sydney J. Harris"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur, c'est quand ce que vous pensez, ce que vous dites et ce que vous faites sont en harmonie.\" - Mahatma Gandhi",
+        "us": "“Happiness is when what you think, what you say, and what you do are in harmony.” - Mahatma Gandhi\n",
+        "it": "\"La felicità é quando ciò che pensi, ciò che dici e ciò che fai sono in armonia\" - Mahatma Gandhi"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur n'est pas quelque chose de prêt à l'emploi. Il vient de vos propres actions.\" - Dalai Lama",
+        "us": "\"Happiness is not something ready-made. It comes from your own actions.\" - Dalai Lama",
+        "it": "\"La felicità non é qualcosa di pronto per l'uso. Proviene dalle nostre azioni\" - Dalai Lama"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur n'est pas d'avoir ce que l'on désire mais d'apprécier ce que l'on a.\" - Dale Carnegie",
+        "us": "\"Happiness is largely an attitude of mind, of viewing life from the right angle.\" - Dale Carnegie",
+        "it": "\"Il successo é avere ciò che desideri. La felicità é apprezzare ciò che ottieni\" - Dale Carnegie "
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est quelque chose qui se multiplie quand il est partagé.\" - Alexander Dumas",
+        "us": "\"It is only possible to live happily ever after on a daily basis.\" —Margaret Bonann\r\n",
+        "it": "\"La felicità é qualcosa che si moltiplica quando viene condivisa\" - Paulo Coelho"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est la seule chose qui se double si on le partage.\" - Albert Schweitzer",
+        "us": "“Happiness is the only thing that multiplies when you share it.” - Albert Schweitzer",
+        "it": "\"La felicità é la sola cosa che si raddoppia quando la si condivide\" - Albert Schweitzer"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est comme un papillon : plus vous le poursuivez, plus il vous échappe. Mais si vous tournez votre attention vers d'autres choses, il viendra tranquillement se poser sur votre épaule.\" - Henry David Thoreau",
+        "us": "\"Happiness is like a butterfly, the more you chase it, the more it will elude, but if you turn your attention to other things, it will come and sit softly on your shoulder.\" 6 Henry David Thoreau",
+        "it": "\"La felicità é come una farfalla: più la insegui, più lei ti sfugge, ma se poni attenzione su altre cose, lei verrà e si poserà dolcemente sulla tua spalla\" - Henry David Thoreau"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur ne dépend pas de ce que vous possédez, mais de ce que vous êtes.\" - Robert Louis Stevenson",
+        "us": "“There is no duty we so much underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.” - Robert Louis Stevenson",
+        "it": "\"La felicità non dipende da ciò che abbiamo, ma da ciò che siamo\" - Henry Van Dyke"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le secret du bonheur est de voir toutes les merveilles du monde et jamais se lasser de la plus petite chose.\" - Gilbert Keith Chesterton",
+        "us": "\"Gratitude is happiness doubled by wonder.\" - Gilbert Keith Chesterton",
+        "it": "\"La vera contentezza é una cosa attiva come l'agricoltura. É la capacità di tirar fuori da una situazione tutto quello che contiene. É difficile e rara\" - Gilbert Keith Chesterton"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est un parfum que l'on ne peut pas répandre sur les autres sans en mettre sur soi-même.\" - Ralph Waldo Emerson",
+        "us": "\"Happiness is a perfume you cannot pour on others without getting a few drops on yourself.\" – Ralph Waldo Emerson.",
+        "it": "\"La felicità é un profumo che non puoi versare sugli altri senza che te ne casca addosso qualche goccia\" - Ralph Waldo Emerson"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est une décision, pas une condition.\" - Anais Nin",
+        "us": "\"Action may not always bring happiness, but there is no happiness without action.\" Benjamin Disraeli. ",
+        "it": "\"I sogni sono necessari alla vita\" - Anais Nin"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est le résultat d'un choix, celui de vivre sa vie avec un état d'esprit positif.\" - Barbara De Angelis",
+        "us": "\"When I look for happiness, I lose it. When I stop looking, and surrender to where I am, I find it.\" Barbara De Angelis",
+        "it": "\"Nessuno comanda la tua felicità se non te stesso; quindi hai il potere di cambiare qualsiasi cosa desideri cambiare riguardo a te stesso o alla tua vita\" - Barbara De Angelis"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est un état d'esprit. Ce n'est pas ce que vous avez ou qui vous êtes ou ce que vous faites qui vous rend heureux ou malheureux. C'est la façon dont vous pensez à ce qui se passe autour de vous.\" - Dale Carnegie",
+        "us": "\"Remember happiness doesn't depend upon who you are or what you have; it depends solely on what you think.\" - Dale Carnegie",
+        "it": "\"Trova te stesso e sii te stesso: nessun altro al mondo é come te\" - Dale Carnegie"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est une attitude mentale, une volonté de trouver le bien dans chaque situation.\" - Roy Bennett",
+        "us": "\"Happiness depends on your mindset and attitude. Happiness is in your mind, not in the circumstance\" - Roy Bennett",
+        "it": "\"Non lasciarti controllare dalle paure nella tua mente. Lasciati guidare dai sogni nel tuo cuore\" - Roy Bennett"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez.\" - Albert Schweitzer",
+        "us": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\" - Albert Schweitzer",
+        "it": "\"Il successo non é la chiave della felicità. La felicità é la chiave del successo, se ami ciò che stai facendo, avrai successo\" - Albert Schweitzer"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur n'est pas une acquisition, c'est une compétence.\" - Peter Bregman",
+        "us": "\"Happiness is not an acquisition – it is a skill. We do not experience happiness because of what we get. We experience happiness because of how we live each moment.\" - Barbara De Angelis",
+        "it": "\"La felicità non é un'acquisizione, é una capacità\" - Peter Bregman"
+    },
+    {
+        "category": "positive_citation",
+        "fr": "\"Le bonheur est la chose la plus rare au monde. Celui qui sait le trouver doit le partager.\" - Jean Giono",
+        "us": "\"Remember, all of man's happiness is in the little valleys. Tiny little ones. Small enough to call from one side to the other.\" - Jean Giono",
+        "it": "\"La felicità é una ricerca. Occorre impegnarvi l'esperienza e la propria immaginazione\" - Jean Giono"
+    }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title_fr": "Trisomie",
+    "title_us": "Down syndrome",
+    "games": [
+      "COLORFORM",
+      "COLORMIND",
+      "SIMILI",
+      "PUZZLE",
+      "MEMORY",
+      "MUSIC",
+      "CHESSBOARD",
+      "RELIBULLE",
+      "BALL",
+      "ANIMMALS",
+      "POPBALLOON",
+      "SHAPEBOX",
+      "NOAHS_ARK"
+    ]
+  },
+  {
+    "title_fr": "Autisme",
+    "title_us": "Autism",
+    "games": [
+      "COLORFORM",
+      "COLORMIND",
+      "SIMILI",
+      "MEMORY",
+      "MUSIC",
+      "FURIOUS",
+      "SCROLLANDCATCH",
+      "ANIMMALS",
+      "SHAPEBOX",
+      "NOAHS_ARK",
+      "COOK",
+      "TANGRAM"
+    ]
+  },
+  {
+    "title_fr": "TDAH",
+    "title_us": "ADHD",
+    "games": [
+      "COLORFORM",
+      "MEMORY",
+      "CASCADE",
+      "RELIBULLE",
+      "BALL",
+      "SCROLLANDCATCH",
+      "SEQUENCE",
+      "POPBALLOON",
+      "SHAPEBOX",
+      "WHACKAMOLE",
+      "CARS",
+      "SNAKE"
+    ]
+  },
+  {
+    "title_fr": "Dyspraxie",
+    "title_us": "Dyspraxia",
+    "games": [
+      "PUZZLE",
+      "RELIBULLE",
+      "SYLLABUS",
+      "BALL",
+      "WALKER",
+      "POPBALLOON",
+      "SLIDE_MAZE",
+      "WHACKAMOLE",
+      "CARS",
+      "NOAHS_ARK",
+      "HANGMAN",
+      "PROVERB",
+      "COOK",
+      "TANGRAM",
+      "SUDOKU",
+      "SNOWBALL_EFFECT",
+      "SNAKE"
+    ]
+  },
+  {
+    "title_fr": "Dyscalculie",
+    "title_us": "Dyscalculia",
+    "games": [
+      "CALCULUS",
+      "RELIBULLE",
+      "SCROLLANDCATCH",
+      "SEQUENCE",
+      "SUDOKU"
+    ]
+  },
+  {
+    "title_fr": "Dyslexie et Dysorthographie",
+    "title_us": "Dyslexia and dysgraphia",
+    "games": [
+      "INTRUS",
+      "SYLLABUS",
+      "LOST_POEM",
+      "HANGMAN",
+      "PROVERB"
+    ]
+  },
+  {
+    "title_fr": "Dysphasie",
+    "title_us": "Dysphasia",
+    "games": [
+      "INTRUS",
+      "MUSIC",
+      "SYLLABUS",
+      "LOST_POEM",
+      "PROVERB",
+      "COOK"
+    ]
+  }
+]

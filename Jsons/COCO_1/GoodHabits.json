@@ -1,0 +1,86 @@
+[
+    {
+        "category": "brain",
+        "title_fr": "Lis un livre",
+        "message_fr": "La lecture stimule l’imagination et le langage. Trouve un livre adapté à ton âge et à tes intérêts.",
+        "title_us": "Read a book",
+        "message_us": "Reading stimulates your imagination and language. Find a book adapted to your age and interests."
+    },
+    {
+        "category": "brain",
+        "title_fr": "Diminue ton temps d’écran",
+        "message_fr": "Il est important d’avoir un temps d’écran équilibré. Fais des pauses régulièrement.",
+        "title_us": "Reduce your screentime",
+        "message_us": "Having a measured use of screens is important for your development. Take regular breaks."
+    },
+    {
+        "category": "brain",
+        "title_fr": "Aide tes parents à la maison",
+        "message_fr": "Aider tes parents avant qu'ils ne le demandent t'apprends à être autonome, et leur fais plaisir.",
+        "title_us": "Help your parents at home",
+        "message_us": "Helping your parents before they ask teaches you to be responsible, and makes them happy."
+    },
+    {
+        "category": "brain",
+        "title_fr": "Apprend quelque chose",
+        "message_fr": "Apprendre de nouvelles choses aide à découvrir le monde et à assouvir ta curiosité.",
+        "title_us": "Learn something new",
+        "message_us": "Learning about something new helps you discover the world and satisfies your curiosity."
+    },
+    {
+        "category": "habits",
+        "title_fr": "Fais un compliment à quelqu'un",
+        "message_fr": "Dire à tes proches qu’ils sont importants permet de renforcer les amitiés et d’exprimer tes émotions.",
+        "title_us": "Compliment someone",
+        "message_us": "Telling your loved ones they matter to you helps to strengthen friendships and express your emotions."
+    },
+    {
+        "category": "habits",
+        "title_fr": "Pense aux mots magiques !",
+        "message_fr": "Dire « merci » ou « s’il te plait » est un signe de gentillesse et de respect envers les autres. ",
+        "title_us": "Don't forget the \"magic words\"!",
+        "message_us": "Saying \"thank you\" or \"please\" is a sign of kindness and respect for others."
+    },
+    {
+        "category": "habits",
+        "title_fr": "Pense à ce qui te rends fier",
+        "message_fr": "Avoir confiance en ce que tu sais faire te permet de ne pas t’arrêter face aux difficultés.",
+        "title_us": "Be proud of yourself",
+        "message_us": "Being confident in what you can do helps you overcome adversities."
+    },
+    {
+        "category": "habits",
+        "title_fr": "Fais une bonne action",
+        "message_fr": "Penser et aider les autres t'apprend à être altruiste. Il suffit d’un petit mot, d'un petit sourire…",
+        "title_us": "Do something nice",
+        "message_us": "Thinking and helping others teaches you altruism. All it takes is a little word, a little smile..."
+    },
+    {
+        "category": "outside",
+        "title_fr": "Fais 1 heure de sport",
+        "message_fr": "Faire du sport est essentiel à ton développement. Il faut faire 1 heure d’activité physique par jour !",
+        "title_us": "Exercise for 1 hour",
+        "message_us": "Playing sports is essential for your development. You have to exercise at least 1 hour per day!"
+    },
+    {
+        "category": "outside",
+        "title_fr": "Fais du jardinage",
+        "message_fr": "Aider à jardiner t'apprends à être responsable et patient, et t'aides aussi à t'organiser.",
+        "title_us": "Help your parents in the garden",
+        "message_us": "Helping with gardening teaches you how to be responsible and patient, but also how to stay organized."
+    },
+    {
+        "category": "outside",
+        "title_fr": "Essaie de nouvelles choses",
+        "message_fr": "Être curieux te permet de découvrir le monde qui t'entoure. Ne te limite pas à ce que tu connais.",
+        "title_us": "Try something new",
+        "message_us": "Being curious allows to discover the world around you. Don't limit to what you know."
+    },
+    {
+        "category": "outside",
+        "title_fr": "Regarde la nature autour de toi",
+        "message_fr": "Observer la nature te permet de te relaxer et d'apprécier la beauté de la faune et la flore.  ",
+        "title_us": "Look at the nature around you",
+        "message_us": "Observing nature allows you to relax and appreciate the beauty of the fauna and flora.  "
+    }
+]

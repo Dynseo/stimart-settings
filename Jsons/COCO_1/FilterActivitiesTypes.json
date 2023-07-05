@@ -1,0 +1,23 @@
+[
+  {
+    "title_fr": "Activités physiques",
+    "title_us": "Physical activities",
+    "games": [
+      "DANCING_MUSIC",
+      "FOLLOW_MUSIC",
+      "SPRING",
+      "BALANCE",
+      "ANIMAL_MIME",
+      "COCO_SAID"
+    ]
+  },
+  {
+    "title_fr": "Activités calmes",
+    "title_us": "Quiet activities",
+    "games": [
+      "EMOTION_MIME",
+      "YOGA",
+      "QUIET_TIME"
+    ]
+  }
+]
