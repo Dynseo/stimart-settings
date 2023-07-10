@@ -8,6 +8,6 @@ https://drive.google.com/drive/folders/1JhIraP-B2aK7P37qhNvabhHpn85qenL8?usp=sha
 
 You need to changes the values on the google sheet
 
-When you cant to integrate the changes click on InApp Inegration -> Commit sheet changes
+When you want to integrate the changes click on InApp Inegration -> Commit sheet changes
 
 This will use the bitbucket API to create and push a commit with your changes
