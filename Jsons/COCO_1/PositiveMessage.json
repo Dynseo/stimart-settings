@@ -1,8 +1,67 @@
 [
   {
-    "category": "positive_message"
+    "category": "positive_message",
+    "fr": "Je suis très heureux de voir que  tu vas bien !",
+    "us": "I am very happy to see that you are doing well!"
   },
   {
-    "category": "positive_citation"
+    "category": "positive_message",
+    "fr": "Je suis tellement content de savoir que tu te sens bien. ",
+    "us": "I'm so glad to know you're feeling good."
+  },
+  {
+    "category": "positive_message",
+    "fr": "Profite de cette belle énergie et continue comme ça.",
+    "us": "Enjoy this beautiful energy and keep it up."
+  },
+  {
+    "category": "positive_message",
+    "fr": "Quelle excellente nouvelle ! Savoir que tu te sens bien me remplit de joie. ",
+    "us": "What great news! Knowing that you are feeling good fills me with joy."
+  },
+  {
+    "category": "positive_message",
+    "fr": "C'est merveilleux ! Rien de tel que de se sentir bien dans sa peau. ",
+    "us": "That's wonderful ! Nothing like feeling good about yourself."
+  },
+  {
+    "category": "positive_message",
+    "fr": "Continue à t'épanouir, je suis fier de toi.",
+    "us": "Keep growing, I'm proud of you."
+  },
+  {
+    "category": "positive_message",
+    "fr": "Merci de partager ta joie avec moi !",
+    "us": "Thank you for sharing your joy with me!"
+  },
+  {
+    "category": "positive_citation",
+    "fr": "\"Le bonheur, c'est comme une bulle de savon : parfois, il faut souffler un peu pour le faire durer plus longtemps.\" - Coco ",
+    "us": "\"Happiness is like a soap bubble: sometimes you have to blow a little to make it last longer.\" - coconut"
+  },
+  {
+    "category": "positive_citation",
+    "fr": "\"Le bonheur, c'est quand tes rêves deviennent réalité et que tu partages ces moments avec ceux que tu aimes.\" -  Coco ",
+    "us": "\"Happiness is when your dreams come true and you share those moments with those you love.\" - coconut"
+  },
+  {
+    "category": "positive_citation",
+    "fr": "\"Le secret du bonheur, c'est de voir chaque instant comme un cadeau.\" - Coco ",
+    "us": "\"The secret to happiness is seeing every moment as a gift.\" - coconut"
+  },
+  {
+    "category": "positive_citation",
+    "fr": "\"Le bonheur, c'est comme un rayon de soleil qui réchauffe ton cœur.\" - Coco ",
+    "us": "\"Happiness is like a ray of sunshine that warms your heart.\" - coconut"
+  },
+  {
+    "category": "positive_citation",
+    "fr": "\"Le bonheur, c'est quand tu te sens bien dans ta peau et que tu aimes être toi-même.\" - Coco ",
+    "us": "\"Happiness is when you feel good about yourself and enjoy being yourself.\" - coconut"
+  },
+  {
+    "category": "positive_citation",
+    "fr": "\"Le bonheur, c'est quand tu souris sans raison, juste parce que tu es heureux d'être là.\" - Coco",
+    "us": "\"Happiness is when you smile for no reason, just because you're happy to be there.\" - coconut"
   }
 ]
