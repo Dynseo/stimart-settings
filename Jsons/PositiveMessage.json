@@ -4,195 +4,198 @@
     "fr": "C'est formidable de voir que vous allez bien !",
     "us": "It's great to see you doing well!",
     "it": "É bello vedere che stai bene!",
-    "cn": "很高兴看到你做得很好！"
+    "cn": "很高兴看到你过得很好！"
   },
   {
     "category": "positive_message",
     "fr": "Je suis très heureux de voir que vous allez bien !",
     "us": "I'm very happy to see that you're doing well!",
     "it": "Sono molto contento di vedere che stai bene!",
-    "cn": "我很高兴看到你做得很好！"
+    "cn": "很高兴看到你过得很好！"
   },
   {
     "category": "positive_message",
     "fr": "Votre bonheur est une priorité pour moi et je suis ravi de constater que vous allez bien !",
     "us": "Your happiness is a priority for me and I am delighted to see that you are doing well!",
     "it": "La tua felicità é una priorità per me e sono contento di vedere che stai bene!",
-    "cn": "您的幸福是我的首要任务，我很高兴看到您一切都好！"
+    "cn": "您的幸福是我的头等大事，看到您过得很好，我感到非常高兴！"
   },
   {
     "category": "positive_message",
     "fr": "Votre humeur est importante, donc je suis ravi de constater que vous allez bien !",
     "us": "Your mood is important, so I'm glad to see you're doing well!",
     "it": "Il tuo umore é importante quindi sono contento di vedere che stai bene!",
-    "cn": "你的心情很重要，所以我很高兴看到你做得很好！"
+    "cn": "您的心情很重要，所以看到您过得很好，我非常高兴！\""
   },
   {
     "category": "positive_message",
     "fr": "Je suis content de voir que vous allez bien ! Votre bien-être est primordial, alors continuez à en prendre soin.",
     "us": "I'm glad to see you're doing well! Your well-being is paramount, so please continue to take care of it.",
     "it": "Sono contento di vedere che stai bene! Il tuo benessere é importante quindi continua a prenderti cura di te.",
-    "cn": "我很高兴看到你做得很好！您的健康至关重要，因此请继续照顾好它。"
+    "cn": "看到您过得很好，我非常高兴！您的幸福是最重要的，所以请继续保重。"
   },
   {
     "category": "positive_message",
     "fr": "Je suis satisfait de voir que vous allez bien ! C'est un grand pas dans la bonne direction.",
     "us": "I'm glad to see you're doing well! This is a big step in the right direction.",
     "it": "Sono soddisfatto di vedere che stai bene! É un grande passo nella giusta direzione",
-    "cn": "我很高兴看到你做得很好！这是朝着正确方向迈出的一大步。"
+    "cn": "看到您过得很好，我非常高兴！这是朝正确方向迈出的一大步"
   },
   {
     "category": "positive_message",
     "fr": "C'est fantastique de voir que vous vous portez bien !",
     "us": "It's amazing to see you doing well!",
     "it": "É fantastico vedere che stai bene!",
-    "cn": "很高兴看到你做得很好！"
+    "cn": "看到你过得很好真是太好了"
   },
   {
     "category": "positive_citation",
     "fr": "« Le bonheur n’est pas toujours dans un ciel éternellement bleu, mais dans les choses les plus simples de la vie » Confucius",
     "us": "\"Many seek happiness higher than man; others beneath him. But happiness is the. same height as man.\" - Confucius",
     "it": "\"La vita è veramente molto semplice; ma noi insistiamo nel renderla complicata\" - Confucio\r\n",
-    "cn": "孔子说：“幸福不在于永远的蓝天，而在于生活中最简单的事情”"
+    "cn": "“幸福并不总是在永远蔚蓝的天空中，而是在生活中最简单的事物中 。” - 孔子"
   },
   {
     "category": "positive_citation",
     "fr": "« Rêve ta vie en couleur, c’est le secret du bonheur » Walt Disney",
     "us": "\"Dream your life in color, it is the secret of hapiness!\" Walt Disney",
     "it": "\"Sogna la tua vita a colori. É il segreto della felicità\" - Walt Disney",
-    "cn": "“梦想你的生活充满色彩，这是幸福的秘密”沃尔特·迪士尼"
+    "cn": "“让你的生活充满色彩，这就是幸福的秘诀 。” - 华特·迪斯尼"
   },
   {
     "category": "positive_citation",
     "fr": "« Un seul moment de joie chasse cent moments de tristesse » Proverbe chinois",
     "us": "\"One happiness scatters a thousand sorrows.\" – Chinese proverb",
     "it": "\"Una gioia disperde un centinaio di dolori\" - Proverbio cinese",
-    "cn": "中国有句俗话：“一时欢喜，百时悲伤”"
+    "cn": "“一刻的快乐能驱走百分的悲伤 。” - 中国谚语"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur n'est pas une destination à atteindre, mais une façon de voyager.\" - Margaret Lee Runbeck",
     "us": "\"Happiness is not a station you arrive at, but a manner of traveling.” - Maragret Lee Runbeck",
     "it": "\"La felicità non é uno stato a cui arrivare, ma un modo di viaggiare\" - Margaret Lee Runbeck",
-    "cn": "“幸福不是一个要到达的目的地，而是一种旅行的方式。” ——玛格丽特·李·朗贝克"
+    "cn": "“幸福不是你到达的一个站点，而是一种旅行方式。” - 玛格丽特·李·伦贝克"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est une direction, pas une destination.\" - Sydney J. Harris",
     "us": "\"Happiness is a direction, not a place.\" - Sydney J. Harris",
     "it": "\" La felicità é una direzione, non un luogo\" - Sydney J. Harris",
-    "cn": "“幸福是一个方向，而不是终点。” -悉尼·J·哈里斯"
+    "cn": "“幸福是一个方向，而不是一个地方。” - 悉尼·J·哈里斯"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur, c'est quand ce que vous pensez, ce que vous dites et ce que vous faites sont en harmonie.\" - Mahatma Gandhi",
     "us": "“Happiness is when what you think, what you say, and what you do are in harmony.” - Mahatma Gandhi\n",
     "it": "\"La felicità é quando ciò che pensi, ciò che dici e ciò che fai sono in armonia\" - Mahatma Gandhi",
-    "cn": "“幸福就是你的所想、所言、所行都和谐一致。” - 圣雄甘地"
+    "cn": "“幸福是当你所想的，你所说的，你所做的都是和谐的。” - 圣雄甘地"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur n'est pas quelque chose de prêt à l'emploi. Il vient de vos propres actions.\" - Dalai Lama",
     "us": "\"Happiness is not something ready-made. It comes from your own actions.\" - Dalai Lama",
     "it": "\"La felicità non é qualcosa di pronto per l'uso. Proviene dalle nostre azioni\" - Dalai Lama",
-    "cn": "“幸福不是现成的东西，它来自于你自己的行动。” - 达赖喇嘛"
+    "cn": "“幸福不是现成的东西。它源于你自己的行动 。” - 达赖喇嘛"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur n'est pas d'avoir ce que l'on désire mais d'apprécier ce que l'on a.\" - Dale Carnegie",
     "us": "\"Happiness is largely an attitude of mind, of viewing life from the right angle.\" - Dale Carnegie",
     "it": "\"Il successo é avere ciò che desideri. La felicità é apprezzare ciò che ottieni\" - Dale Carnegie ",
-    "cn": "“幸福不是拥有你想要的，而是享受你所拥有的。” -戴尔卡耐基"
+    "cn": "“幸福不在于得到你想要的，而在于欣赏你已经拥有的。” - 戴尔·卡耐基"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est quelque chose qui se multiplie quand il est partagé.\" - Alexandre Dumas",
     "us": "\"It is only possible to live happily ever after on a daily basis.\" —Margaret Bonann\r\n",
     "it": "\"La felicità é qualcosa che si moltiplica quando viene condivisa\" - Paulo Coelho",
-    "cn": "“幸福是分享时倍增的东西。” ——大仲马"
+    "cn": "幸福是一种在分享时会倍增的东西。\" - 亚历山大·杜马"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est la seule chose qui se double si on le partage.\" - Albert Schweitzer",
     "us": "“Happiness is the only thing that multiplies when you share it.” - Albert Schweitzer",
     "it": "\"La felicità é la sola cosa che si raddoppia quando la si condivide\" - Albert Schweitzer",
-    "cn": "“只有分享，幸福才会加倍。” ——阿尔伯特·史怀哲"
+    "cn": "幸福是唯一一种在分享时会加倍的东西。\" - 阿尔贝特·施韦策"
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est comme un papillon : plus vous le poursuivez, plus il vous échappe. Mais si vous tournez votre attention vers d'autres choses, il viendra tranquillement se poser sur votre épaule.\" - Henry David Thoreau",
     "us": "\"Happiness is like a butterfly, the more you chase it, the more it will elude, but if you turn your attention to other things, it will come and sit softly on your shoulder.\" 6 Henry David Thoreau",
     "it": "\"La felicità é come una farfalla: più la insegui, più lei ti sfugge, ma se poni attenzione su altre cose, lei verrà e si poserà dolcemente sulla tua spalla\" - Henry David Thoreau",
-    "cn": "“幸福就像一只蝴蝶，你越追它，它就越逃离你。但如果你把注意力转移到其他事情上，它就会静静地停在你的肩上。” ——亨利·大卫·梭罗"
+    "cn": "“幸福就像一只蝴蝶，你越是追逐它，它就越是逃避你，但是如果你把注意力转移到其他事情上，它就会飞到你肩上轻轻地停留。” - 亨利·大卫·梭罗\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur ne dépend pas de ce que vous possédez, mais de ce que vous êtes.\" - Robert Louis Stevenson",
     "us": "“There is no duty we so much underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.” - Robert Louis Stevenson",
     "it": "\"La felicità non dipende da ciò che abbiamo, ma da ciò che siamo\" - Henry Van Dyke",
-    "cn": "“幸福不在于你拥有什么，而在于你是什么。” ——罗伯特·路易斯·史蒂文森"
+    "cn": "“幸福不取决于你拥有什么，而是取决于你是什么样的人。” - 罗伯特·路易斯·史蒂文森\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le secret du bonheur est de voir toutes les merveilles du monde et jamais se lasser de la plus petite chose.\" - Gilbert Keith Chesterton",
     "us": "\"Gratitude is happiness doubled by wonder.\" - Gilbert Keith Chesterton",
     "it": "\"La vera contentezza é una cosa attiva come l'agricoltura. É la capacità di tirar fuori da una situazione tutto quello che contiene. É difficile e rara\" - Gilbert Keith Chesterton",
-    "cn": "“幸福的秘诀就是看到世界上所有的奇迹，并且对最小的事情永不厌倦。” ——吉尔伯特·基思·切斯特顿"
+    "cn": "\"幸福的秘诀是看到世界上的一切奇迹，并永远不对最小的事物感到厌倦。\\\" - 吉尔伯特·基思·切斯特顿\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est un parfum que l'on ne peut pas répandre sur les autres sans en mettre sur soi-même.\" - Ralph Waldo Emerson",
     "us": "\"Happiness is a perfume you cannot pour on others without getting a few drops on yourself.\" – Ralph Waldo Emerson.",
     "it": "\"La felicità é un profumo che non puoi versare sugli altri senza che te ne casca addosso qualche goccia\" - Ralph Waldo Emerson",
-    "cn": "“幸福是一种香水，如果你不把它喷在自己身上，就无法喷洒在别人身上。” ——拉尔夫·沃尔多·爱默生"
+    "cn": "\"幸福是一种香水，如果不洒在别人身上，自己也沾不到几滴。\\\" - 爱默生\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est une décision, pas une condition.\" - Anais Nin",
     "us": "\"Action may not always bring happiness, but there is no happiness without action.\" Benjamin Disraeli. ",
     "it": "\"I sogni sono necessari alla vita\" - Anais Nin",
-    "cn": "“幸福是一个决定，而不是一个条件。” - 阿奈斯·宁"
+    "cn": "“行动不一定带来幸福，但没有行动就没有幸福。” - 本杰明·迪斯雷利\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est le résultat d'un choix, celui de vivre sa vie avec un état d'esprit positif.\" - Barbara De Angelis",
     "us": "\"When I look for happiness, I lose it. When I stop looking, and surrender to where I am, I find it.\" Barbara De Angelis",
     "it": "\"Nessuno comanda la tua felicità se non te stesso; quindi hai il potere di cambiare qualsiasi cosa desideri cambiare riguardo a te stesso o alla tua vita\" - Barbara De Angelis",
-    "cn": "“幸福是选择的结果，是以积极的心态生活的结果。” ——芭芭拉·德·安吉利斯"
+    "cn": "“幸福是一种选择，选择用积极的心态来生活。” - 巴巴拉·德安吉利斯\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est un état d'esprit. Ce n'est pas ce que vous avez ou qui vous êtes ou ce que vous faites qui vous rend heureux ou malheureux. C'est la façon dont vous pensez à ce qui se passe autour de vous.\" - Dale Carnegie",
     "us": "\"Remember happiness doesn't depend upon who you are or what you have; it depends solely on what you think.\" - Dale Carnegie",
     "it": "\"Trova te stesso e sii te stesso: nessun altro al mondo é come te\" - Dale Carnegie",
-    "cn": "“幸福是一种心态。让你快乐或不快乐的不是你拥有什么、你是谁或你做了什么。而是你如何看待周围发生的事情。你。” -戴尔卡耐基"
+    "cn": "“记住，幸福不取决于你是谁或你拥有什么，它完全取决于你的想法。” - 戴尔·卡耐基\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est une attitude mentale, une volonté de trouver le bien dans chaque situation.\" - Roy Bennett",
     "us": "\"Happiness depends on your mindset and attitude. Happiness is in your mind, not in the circumstance\" - Roy Bennett",
     "it": "\"Non lasciarti controllare dalle paure nella tua mente. Lasciati guidare dai sogni nel tuo cuore\" - Roy Bennett",
-    "cn": "“幸福是一种心态，一种在任何情况下都愿意寻找美好事物的意愿。” ——罗伊·贝内特"
+    "cn": "“幸福取决于你的心态和态度。幸福在你的心里，而不是在环境中。” - 罗伊·贝内特\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez.\" - Albert Schweitzer",
     "us": "\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\" - Albert Schweitzer",
     "it": "\"Il successo non é la chiave della felicità. La felicità é la chiave del successo, se ami ciò che stai facendo, avrai successo\" - Albert Schweitzer",
-    "cn": "“快乐是成功的关键。如果你热爱你所做的事情，你就会成功。” ——阿尔伯特·史怀哲"
+    "cn": "“幸福是成功的关键。如果你热爱你所做的事情，你就会成功。” - 阿尔伯特·施韦泽\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur n'est pas une acquisition, c'est une compétence.\" - Peter Bregman",
     "us": "\"Happiness is not an acquisition – it is a skill. We do not experience happiness because of what we get. We experience happiness because of how we live each moment.\" - Barbara De Angelis",
     "it": "\"La felicità non é un'acquisizione, é una capacità\" - Peter Bregman",
-    "cn": "“幸福不是获得的，而是一种技能。” ——彼得·布雷格曼"
+    "cn": "“幸福不是一种获得，而是一种技能。” - 彼得·布雷格曼\""
   },
   {
     "category": "positive_citation",
     "fr": "\"Le bonheur est la chose la plus rare au monde. Celui qui sait le trouver doit le partager.\" - Jean Giono",
     "us": "\"Remember, all of man's happiness is in the little valleys. Tiny little ones. Small enough to call from one side to the other.\" - Jean Giono",
     "it": "\"La felicità é una ricerca. Occorre impegnarvi l'esperienza e la propria immaginazione\" - Jean Giono",
-    "cn": "“幸福是世界上最稀有的东西，谁知道如何找到它，就必须分享它。” ——让·吉奥诺"
+    "cn": "“记住，人类所有的幸福都在小山谷里。非常小的山谷。足够小，可以从一边喊到另一边。” - 让·热奥诺\""
+  },
+  {
+    "cn": "很高兴看到你过得很好！你的幸福至关重要，所以继续照顾好自己"
   }
 ]
