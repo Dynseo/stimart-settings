@@ -19,8 +19,7 @@
   },
   {
     "scoreMnemonic": "time",
-    "scoreColumn": "duration",
-    "isAscendent": "NO"
+    "scoreColumn": "duration"
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
