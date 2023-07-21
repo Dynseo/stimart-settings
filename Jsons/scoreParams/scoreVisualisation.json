@@ -1,0 +1,217 @@
+[
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbBadAnswers",
+      "nbClues",
+      "nbSolutionViewed"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "scoreVisualisation": [
+      "time"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "CARS",
+    "scoreVisualisation": [
+      "nbMoveMin",
+      "nbGoodAnswer",
+      "nbClues",
+      "nbSolutionViewed"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "CASCADE",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbItemsForgotten",
+      "nbItemClickedByMistakes"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "GEO",
+    "mode": "placeIt",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbBadAnswers",
+      "nbItemsSkipped",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "PONG",
+    "scoreVisualisation": [
+      "nbBadAnswers"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "PROVERB",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbBadAnswers",
+      "nbItemsSkipped"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "PUZZLE",
+    "scoreVisualisation": [
+      "time",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "SLIDE_MAZE",
+    "scoreVisualisation": [
+      "nbMoveMin",
+      "nbGoodAnswer",
+      "nbDeaths",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "SLIDE_MAZE",
+    "scoreVisualisation": [
+      "time",
+      "nbResets"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "SUDOKU",
+    "scoreVisualisation": [
+      "time"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "SYLLABUS",
+    "scoreVisualisation": [
+      "nbMoveMin",
+      "nbGoodAnswer",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "TIMELINE",
+    "mode": "chrono",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbBadAnswers",
+      "nbItemsSkipped"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "WALKER",
+    "scoreVisualisation": [
+      "time",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "PANURGE",
+    "scoreVisualisation": [
+      "nbGoodAnswer"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "FURIOUS",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbItemsSkipped",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "POPBALLOON",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbMoveMin",
+      "nbItemClickedByMistakes"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "SHAPEBOX",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbItemsForgotten",
+      "nbItemClickedByMistakes"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "WHACKAMOLE",
+    "scoreVisualisation": [
+      "nbGoodAnswerDetails1",
+      "nbGoodAnswerDetails2",
+      "nbItemClickedByMistakes",
+      "nbItemsForgotten"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "SNOWBALL_EFFECT",
+    "mode": "quick",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbBadAnswers",
+      "nbChallenges"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "SNOWBALL_EFFECT",
+    "mode": "careful",
+    "scoreVisualisation": [
+      "nbChallenges"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "SNOWBALL_EFFECT",
+    "scoreVisualisation": [
+      "time",
+      "nbChallenges"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "HANGMAN",
+    "scoreVisualisation": [
+      "nbGoodAnswerDetails1",
+      "nbItemClickedByMistakes",
+      "time"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "SNAKE",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "time"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "SNAKE",
+    "scoreVisualisation": [
+      "nbBadAnswers"
+    ]
+  }
+]
