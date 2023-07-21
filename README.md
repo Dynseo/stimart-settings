@@ -7,5 +7,6 @@ The Jsons are manged by Google Sheets (You need to changes the values on the goo
 - https://drive.google.com/drive/folders/1JhIraP-B2aK7P37qhNvabhHpn85qenL8?usp=share_link
 
 When you want to integrate the changes click on InApp Inegration -> Commit sheet changes
-
 This will use the bitbucket API to create and push a commit with your changes.
+
+If you don't have the right access to commit the change from the sheet ask someone how have it using Slack Notification -> AskForIntegration  
