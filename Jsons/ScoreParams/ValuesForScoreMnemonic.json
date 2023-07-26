@@ -257,5 +257,15 @@
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
     "scoreColumn": "score1"
+  },
+  {
+    "scoreMnemonic": "nbChallenges",
+    "game": "BLOCK_PUZZLE",
+    "scoreColumn": "score1"
+  },
+  {
+    "scoreMnemonic": "nbObjectives",
+    "game": "BLOCK_PUZZLE",
+    "scoreColumn": "score2"
   }
 ]
