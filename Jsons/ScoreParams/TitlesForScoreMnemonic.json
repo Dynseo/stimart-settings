@@ -427,5 +427,25 @@
     "cn": "镜片数量",
     "nl": "Aantal lenzen",
     "pt": "Número de lentes"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "NOAHS_ARK",
+    "fr": "Nombre d'animaux sauvés",
+    "us": "Number of animals saved",
+    "it": "Numero di animali salvati",
+    "cn": "获救动物数量",
+    "nl": "Aantal geredde dieren",
+    "pt": "Número de animais salvos"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "NOAHS_ARK",
+    "fr": "Nombre de mauvaises paires",
+    "us": "Number of bad pairs",
+    "it": "Numero di cattive coppie",
+    "cn": "坏对数量",
+    "nl": "Aantal slechte paren",
+    "pt": "Número de pares ruins"
   }
 ]
