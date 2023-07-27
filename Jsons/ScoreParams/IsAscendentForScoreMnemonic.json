@@ -1,0 +1,52 @@
+[
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "isAscendent": "YES"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbSolutionViewed",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbItemsSkipped",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbItemsForgotten",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbItemClickedByMistakes",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbResets",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbDeaths",
+    "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbChallenges",
+    "isAscendent": "YES"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WHACKAMOLE",
+    "isAscendent": "YES"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "game": "WHACKAMOLE",
+    "isAscendent": "YES"
+  }
+]
