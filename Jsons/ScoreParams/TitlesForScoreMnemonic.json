@@ -1,0 +1,431 @@
+[
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "fr": "Bonnes réponses",
+    "us": "Correct answers",
+    "it": "Risposte corrette",
+    "cn": "正确答案",
+    "nl": "Juiste antwoorden",
+    "pt": "Respostas corretas"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "fr": "Mauvaises réponses",
+    "us": "Wrong answers",
+    "it": "Risposte sbagliate",
+    "cn": "错误答案",
+    "nl": "Verkeerde antwoorden",
+    "pt": "respostas erradas"
+  },
+  {
+    "scoreMnemonic": "nbSolutionViewed",
+    "fr": "Visualisations de la solution",
+    "us": "Solution Visualizations",
+    "it": "Visualizzazioni della soluzione",
+    "cn": "解决方案可视化",
+    "nl": "Oplossing visualisaties",
+    "pt": "Visualizações da solução"
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "fr": "Indices utilisés",
+    "us": "Indexes used",
+    "it": "Indici utilizzati",
+    "cn": "使用的索引",
+    "nl": "Indexen gebruikt",
+    "pt": "Índices usados"
+  },
+  {
+    "scoreMnemonic": "time",
+    "fr": "Temps",
+    "us": "Time",
+    "it": "Tempo",
+    "cn": "时间",
+    "nl": "Tijd",
+    "pt": "Tempo"
+  },
+  {
+    "scoreMnemonic": "nbItemsSkipped",
+    "fr": "Questions passées",
+    "us": "Past questions",
+    "it": "Domande passate",
+    "cn": "过去的问题",
+    "nl": "Eerdere vragen",
+    "pt": "Perguntas anteriores"
+  },
+  {
+    "scoreMnemonic": "nbItemsForgotten",
+    "fr": "Objets oubliés",
+    "us": "Forgotten items",
+    "it": "Oggetti dimenticati",
+    "cn": "遗忘物品",
+    "nl": "Vergeten artikelen",
+    "pt": "objetos esquecidos"
+  },
+  {
+    "scoreMnemonic": "nbItemClickedByMistakes",
+    "fr": "Objets tapés par erreur",
+    "us": "Objects typed in error",
+    "it": "Oggetti digitati per errore",
+    "cn": "输入错误的对象",
+    "nl": "Objecten zijn fout getypt",
+    "pt": "Objetos digitados com erro"
+  },
+  {
+    "scoreMnemonic": "nbResets",
+    "fr": "Retours au départ",
+    "us": "Returns to departure",
+    "it": "Torna alla partenza",
+    "cn": "返回出发地",
+    "nl": "Keert terug naar vertrek",
+    "pt": "Retorna para partida"
+  },
+  {
+    "scoreMnemonic": "nbDeaths",
+    "fr": "Vies perdues",
+    "us": "Lives lost",
+    "it": "Vite perdute",
+    "cn": "失去生命",
+    "nl": "Levens verloren",
+    "pt": "vidas perdidas"
+  },
+  {
+    "scoreMnemonic": "nbMoveMin",
+    "fr": "Déplacements minimum",
+    "us": "Minimum moves",
+    "it": "Mosse minime",
+    "cn": "最少移动次数",
+    "nl": "Minimale bewegingen",
+    "pt": "Movimentos mínimos"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "CARS",
+    "fr": "Déplacements effectués",
+    "us": "Trips made",
+    "it": "Viaggi fatti",
+    "cn": "出行次数",
+    "nl": "Uitstapjes gemaakt",
+    "pt": "Viagens feitas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "PANURGE",
+    "fr": "Mes moutons",
+    "us": "my sheep",
+    "it": "le mie pecore",
+    "cn": "我的羊",
+    "nl": "mijn schapen",
+    "pt": "minhas ovelhas"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "PONG",
+    "fr": "Fautes",
+    "us": "Fouls",
+    "it": "Falli",
+    "cn": "犯规",
+    "nl": "Overtredingen",
+    "pt": "Faltas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "SLIDE_MAZE",
+    "fr": "Déplacements effectués",
+    "us": "Trips made",
+    "it": "Viaggi fatti",
+    "cn": "出行次数",
+    "nl": "Uitstapjes gemaakt",
+    "pt": "Viagens feitas"
+  },
+  {
+    "scoreMnemonic": "nbMoveMin",
+    "game": "SYLLABUS",
+    "fr": "Syllabes à trouver",
+    "us": "syllables to find",
+    "it": "sillabe da trovare",
+    "cn": "要查找的音节",
+    "nl": "lettergrepen te vinden",
+    "pt": "sílabas para encontrar"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "SYLLABUS",
+    "fr": "Coups",
+    "us": "Blows",
+    "it": "Colpi",
+    "cn": "打击",
+    "nl": "Blaast",
+    "pt": "golpes"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "MEMORY",
+    "fr": "Paires trouvées",
+    "us": "Pairs found",
+    "it": "Coppie trovate",
+    "cn": "找到对",
+    "nl": "Paren gevonden",
+    "pt": "Pares encontrados"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "LOST_POEM",
+    "fr": "Mots trouvés",
+    "us": "Words found",
+    "it": "Parole trovate",
+    "cn": "找到的单词",
+    "nl": "Woorden gevonden",
+    "pt": "palavras encontradas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "PROVERB",
+    "fr": "Proverbes résolus",
+    "us": "Proverbs resolved",
+    "it": "Proverbi risolti",
+    "cn": "谚语已解决",
+    "nl": "Spreekwoorden opgelost",
+    "pt": "Provérbios resolvidos"
+  },
+  {
+    "scoreMnemonic": "nbItemsSkipped",
+    "game": "PROVERB",
+    "fr": "Proverbes passés",
+    "us": "Past proverbs",
+    "it": "Proverbi del passato",
+    "cn": "过去的谚语",
+    "nl": "Spreekwoorden uit het verleden",
+    "pt": "provérbios passados"
+  },
+  {
+    "scoreMnemonic": "nbItemClickedByMistakes",
+    "game": "POPBALLOON",
+    "fr": "Mauvais ballons touchés",
+    "us": "Wrong balls hit",
+    "it": "colpite le palle sbagliate",
+    "cn": "击中错误的球",
+    "nl": "Verkeerde ballen geraakt",
+    "pt": "Bolas erradas acertadas"
+  },
+  {
+    "scoreMnemonic": "nbMoveMin",
+    "game": "POPBALLOON",
+    "fr": "Bons ballons à toucher",
+    "us": "Good balls to touch",
+    "it": "Buone palle da toccare",
+    "cn": "好球触碰",
+    "nl": "Goede ballen om aan te raken",
+    "pt": "Boas bolas para tocar"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "POPBALLOON",
+    "fr": "Bons ballons touchés",
+    "us": "Good balls touched",
+    "it": "Buone palle toccate",
+    "cn": "好球触碰",
+    "nl": "Goede ballen raakten",
+    "pt": "Boas bolas tocadas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "SHAPEBOX",
+    "fr": "Bonnes formes touchées",
+    "us": "Good forms touched",
+    "it": "Buone forme toccate",
+    "cn": "感动的好形式",
+    "nl": "Goede vormen raakten elkaar",
+    "pt": "Boas formas tocadas"
+  },
+  {
+    "scoreMnemonic": "nbItemClickedByMistakes",
+    "game": "SHAPEBOX",
+    "fr": "Mauvaises formes touchées",
+    "us": "Wrong forms touched",
+    "it": "Toccate forme sbagliate",
+    "cn": "触及错误的表格",
+    "nl": "Verkeerde vormen aangeraakt",
+    "pt": "Formas erradas tocadas"
+  },
+  {
+    "scoreMnemonic": "nbItemsForgotten",
+    "game": "SHAPEBOX",
+    "fr": "Formes ratées ",
+    "us": "Failed forms",
+    "it": "Moduli falliti",
+    "cn": "失败的表格",
+    "nl": "Mislukte formulieren",
+    "pt": "Formulários com falha"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WHACKAMOLE",
+    "fr": "Taupes normales tappées",
+    "us": "Tapped normal moles",
+    "it": "Talpe normali sfruttate",
+    "cn": "正常痣被敲击",
+    "nl": "Getapte normale moedervlekken",
+    "pt": "Toupeiras normais tocadas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "game": "WHACKAMOLE",
+    "fr": "Taupes à casque tappées",
+    "us": "Helmeted moles tapped",
+    "it": "Talpe con elmetto picchiettate",
+    "cn": "戴头盔的鼹鼠被窃听",
+    "nl": "Gehelmde mollen tikten",
+    "pt": "Toupeiras de capacete tocadas"
+  },
+  {
+    "scoreMnemonic": "nbItemClickedByMistakes",
+    "game": "WHACKAMOLE",
+    "fr": "Taupes à lunettes tappées",
+    "us": "Spectacled moles tapped",
+    "it": "Talpe dagli occhiali picchiettate",
+    "cn": "眼镜鼹鼠被窃听",
+    "nl": "Gebrilde mollen tikten",
+    "pt": "Toupeiras de óculos tocadas"
+  },
+  {
+    "scoreMnemonic": "nbItemsForgotten",
+    "game": "WHACKAMOLE",
+    "fr": "Taupes ratées",
+    "us": "Failed moles",
+    "it": "Talpe fallite",
+    "cn": "失败的痣",
+    "nl": "Mislukte mollen",
+    "pt": "Toupeiras falhadas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "SNOWBALL_EFFECT",
+    "fr": "Flèches déclenchées",
+    "us": "Arrows triggered",
+    "it": "Frecce scattate",
+    "cn": "箭被触发",
+    "nl": "Pijlen geactiveerd",
+    "pt": "Setas acionadas"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "SNOWBALL_EFFECT",
+    "fr": "Flèches non déclenchées",
+    "us": "Arrows not triggered",
+    "it": "Frecce non attivate",
+    "cn": "箭头未触发",
+    "nl": "Pijlen niet geactiveerd",
+    "pt": "Setas não acionadas"
+  },
+  {
+    "scoreMnemonic": "nbChallenges",
+    "game": "SNOWBALL_EFFECT",
+    "fr": "Bonhommes de neige complétés",
+    "us": "Completed snowmen",
+    "it": "Pupazzi di neve completati",
+    "cn": "已完成的雪人",
+    "nl": "Voltooide sneeuwpoppen",
+    "pt": "bonecos de neve concluídos"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "HANGMAN",
+    "fr": "Mots trouvés",
+    "us": "Words found",
+    "it": "Parole trovate",
+    "cn": "找到的单词",
+    "nl": "Woorden gevonden",
+    "pt": "palavras encontradas"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "HANGMAN",
+    "fr": "Mots pas trouvés",
+    "us": "Words not found",
+    "it": "Parole non trovate",
+    "cn": "未找到单词",
+    "nl": "Woorden niet gevonden",
+    "pt": "Palavras não encontradas"
+  },
+  {
+    "scoreMnemonic": "nbItemClickedByMistakes",
+    "game": "HANGMAN",
+    "fr": "Lettres ratées",
+    "us": "Failed letters",
+    "it": "Lettere fallite",
+    "cn": "失败的信件",
+    "nl": "Mislukte brieven",
+    "pt": "cartas falhadas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "HANGMAN",
+    "fr": "Lettres trouvés",
+    "us": "Letters found",
+    "it": "Lettere ritrovate",
+    "cn": "找到信件",
+    "nl": "Brieven gevonden",
+    "pt": "cartas encontradas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "SNAKE",
+    "fr": "Proies mangées",
+    "us": "prey eaten",
+    "it": "preda mangiata",
+    "cn": "猎物被吃掉",
+    "nl": "prooi gegeten",
+    "pt": "presa comida"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "SNAKE",
+    "fr": "Proies manquées",
+    "us": "Missed prey",
+    "it": "Preda mancata",
+    "cn": "错过猎物",
+    "nl": "Gemiste prooi",
+    "pt": "presa perdida"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "BALL",
+    "fr": "Balles manquées",
+    "us": "Missed balls",
+    "it": "Palle mancate",
+    "cn": "失球",
+    "nl": "Gemiste ballen",
+    "pt": "bolas perdidas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "BALL",
+    "fr": "Balles touchées",
+    "us": "Balls hit",
+    "it": "Palle colpite",
+    "cn": "球击中",
+    "nl": "Ballen geraakt",
+    "pt": "Bolas batidas"
+  },
+  {
+    "scoreMnemonic": "nbChallenges",
+    "game": "BLOCK_PUZZLE",
+    "fr": "Nombre de lignes et colonnes",
+    "us": "Number of rows and columns",
+    "it": "Numero di righe e colonne",
+    "cn": "行数和列数",
+    "nl": "Aantal rijen en kolommen",
+    "pt": "Número de linhas e colunas"
+  },
+  {
+    "scoreMnemonic": "nbObjectives",
+    "game": "BLOCK_PUZZLE",
+    "fr": "Nombre d'objectifs",
+    "us": "Number of lenses",
+    "it": "Numero di lenti",
+    "cn": "镜片数量",
+    "nl": "Aantal lenzen",
+    "pt": "Número de lentes"
+  }
+]
