@@ -2,7 +2,7 @@
   {
     "title_fr": "Trisomie",
     "title_us": "Down syndrome",
-    "game": [
+    "games": [
       "COLORFORM",
       "COLORMIND",
       "SIMILI",
@@ -21,7 +21,7 @@
   {
     "title_fr": "Autisme",
     "title_us": "Autism",
-    "game": [
+    "games": [
       "COLORFORM",
       "COLORMIND",
       "SIMILI",
@@ -39,7 +39,7 @@
   {
     "title_fr": "TDAH",
     "title_us": "ADHD",
-    "game": [
+    "games": [
       "COLORFORM",
       "MEMORY",
       "CASCADE",
@@ -57,7 +57,7 @@
   {
     "title_fr": "Dyspraxie",
     "title_us": "Dyspraxia",
-    "game": [
+    "games": [
       "PUZZLE",
       "RELIBULLE",
       "SYLLABUS",
@@ -80,7 +80,7 @@
   {
     "title_fr": "Dyscalculie",
     "title_us": "Dyscalculia",
-    "game": [
+    "games": [
       "CALCULUS",
       "RELIBULLE",
       "SCROLLANDCATCH",
@@ -91,7 +91,7 @@
   {
     "title_fr": "Dyslexie et Dysorthographie",
     "title_us": "Dyslexia and dysgraphia",
-    "game": [
+    "games": [
       "INTRUS",
       "SYLLABUS",
       "LOST_POEM",
@@ -102,7 +102,7 @@
   {
     "title_fr": "Dysphasie",
     "title_us": "Dysphasia",
-    "game": [
+    "games": [
       "INTRUS",
       "MUSIC",
       "SYLLABUS",
