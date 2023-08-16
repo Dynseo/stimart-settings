@@ -2,7 +2,7 @@
   {
     "title_fr": "Trisomie",
     "title_us": "Down syndrome",
-    "games": [
+    "game": [
       "COLORFORM",
       "COLORMIND",
       "SIMILI",
@@ -12,7 +12,7 @@
       "CHESSBOARD",
       "RELIBULLE",
       "BALL",
-      "ANIMMALS",
+      "ANIMALS",
       "POPBALLOON",
       "SHAPEBOX",
       "NOAHS_ARK"
@@ -21,7 +21,7 @@
   {
     "title_fr": "Autisme",
     "title_us": "Autism",
-    "games": [
+    "game": [
       "COLORFORM",
       "COLORMIND",
       "SIMILI",
@@ -29,7 +29,7 @@
       "MUSIC",
       "FURIOUS",
       "SCROLLANDCATCH",
-      "ANIMMALS",
+      "ANIMALS",
       "SHAPEBOX",
       "NOAHS_ARK",
       "COOK",
@@ -39,7 +39,7 @@
   {
     "title_fr": "TDAH",
     "title_us": "ADHD",
-    "games": [
+    "game": [
       "COLORFORM",
       "MEMORY",
       "CASCADE",
@@ -57,7 +57,7 @@
   {
     "title_fr": "Dyspraxie",
     "title_us": "Dyspraxia",
-    "games": [
+    "game": [
       "PUZZLE",
       "RELIBULLE",
       "SYLLABUS",
@@ -80,7 +80,7 @@
   {
     "title_fr": "Dyscalculie",
     "title_us": "Dyscalculia",
-    "games": [
+    "game": [
       "CALCULUS",
       "RELIBULLE",
       "SCROLLANDCATCH",
@@ -91,7 +91,7 @@
   {
     "title_fr": "Dyslexie et Dysorthographie",
     "title_us": "Dyslexia and dysgraphia",
-    "games": [
+    "game": [
       "INTRUS",
       "SYLLABUS",
       "LOST_POEM",
@@ -102,7 +102,7 @@
   {
     "title_fr": "Dysphasie",
     "title_us": "Dysphasia",
-    "games": [
+    "game": [
       "INTRUS",
       "MUSIC",
       "SYLLABUS",
