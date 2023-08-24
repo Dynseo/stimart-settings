@@ -225,8 +225,13 @@
     "scoreColumn": "score1"
   },
   {
-    "scoreMnemonic": "nbObjectives",
+    "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
     "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "game": "BLOCK_PUZZLE",
+    "scoreColumn": "score3"
   }
 ]
