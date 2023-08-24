@@ -213,5 +213,14 @@
     "scoreVisualisation": [
       "nbBadAnswers"
     ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "BLOCK_PUZZLE",
+    "scoreVisualisation": [
+      "nbChallenges",
+      "nbGoodAnswerDetails1",
+      "nbGoodAnswerDetails2"
+    ]
   }
 ]
