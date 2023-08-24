@@ -411,22 +411,32 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "fr": "Nombre de lignes et colonnes",
-    "us": "Number of rows and columns",
-    "it": "Numero di righe e colonne",
-    "cn": "行数和列数",
-    "nl": "Aantal rijen en kolommen",
-    "pt": "Número de linhas e colunas"
+    "fr": "Points",
+    "us": "Points",
+    "it": "Punti",
+    "cn": "积分",
+    "nl": "Punten",
+    "pt": "Pontos"
   },
   {
-    "scoreMnemonic": "nbObjectives",
+    "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "fr": "Nombre d'objectifs",
-    "us": "Number of lenses",
-    "it": "Numero di lenti",
-    "cn": "镜片数量",
-    "nl": "Aantal lenzen",
-    "pt": "Número de lentes"
+    "fr": "Lignes et colonnes complétées",
+    "us": "Completed rows and columns",
+    "it": "Righe e colonne completate",
+    "cn": "完成的行和列",
+    "nl": "Voltooide rijen en kolommen",
+    "pt": "Linhas e colunas concluídas"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "game": "BLOCK_PUZZLE",
+    "fr": "Combos",
+    "us": "Combos",
+    "it": "Combinazioni",
+    "cn": "组合",
+    "nl": "Combo's",
+    "pt": "Combos"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
