@@ -20,7 +20,7 @@
   {
     "scoreMnemonic": "nbSolutionViewed",
     "fr": "Visualisations de la solution",
-    "us": "Solution Visualizations",
+    "us": "Solution viewed",
     "it": "Visualizzazioni della soluzione",
     "cn": "解决方案可视化",
     "nl": "Oplossing visualisaties",
@@ -29,7 +29,7 @@
   {
     "scoreMnemonic": "nbClues",
     "fr": "Indices utilisés",
-    "us": "Indexes used",
+    "us": "Clues used",
     "it": "Indici utilizzati",
     "cn": "使用的索引",
     "nl": "Indexen gebruikt",
@@ -47,7 +47,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "fr": "Questions passées",
-    "us": "Past questions",
+    "us": "Skipped questions",
     "it": "Domande passate",
     "cn": "过去的问题",
     "nl": "Eerdere vragen",
@@ -56,7 +56,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "fr": "Objets oubliés",
-    "us": "Forgotten items",
+    "us": "Missing items",
     "it": "Oggetti dimenticati",
     "cn": "遗忘物品",
     "nl": "Vergeten artikelen",
@@ -65,7 +65,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "fr": "Objets tapés par erreur",
-    "us": "Objects typed in error",
+    "us": "Objects hit by mistake",
     "it": "Oggetti digitati per errore",
     "cn": "输入错误的对象",
     "nl": "Objecten zijn fout getypt",
@@ -74,7 +74,7 @@
   {
     "scoreMnemonic": "nbResets",
     "fr": "Retours au départ",
-    "us": "Returns to departure",
+    "us": "Reset game",
     "it": "Torna alla partenza",
     "cn": "返回出发地",
     "nl": "Keert terug naar vertrek",
@@ -83,7 +83,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "fr": "Vies perdues",
-    "us": "Lives lost",
+    "us": "Obstacles hit",
     "it": "Vite perdute",
     "cn": "失去生命",
     "nl": "Levens verloren",
@@ -102,7 +102,7 @@
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
     "fr": "Déplacements effectués",
-    "us": "Trips made",
+    "us": "Moves",
     "it": "Viaggi fatti",
     "cn": "出行次数",
     "nl": "Uitstapjes gemaakt",
@@ -112,7 +112,7 @@
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
     "fr": "Mes moutons",
-    "us": "my sheep",
+    "us": "My sheep",
     "it": "le mie pecore",
     "cn": "我的羊",
     "nl": "mijn schapen",
@@ -372,8 +372,8 @@
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNAKE",
     "fr": "Proies mangées",
-    "us": "prey eaten",
-    "it": "preda mangiata",
+    "us": "Prey eaten",
+    "it": "Preda mangiata",
     "cn": "猎物被吃掉",
     "nl": "prooi gegeten",
     "pt": "presa comida"
