@@ -51,7 +51,8 @@
       "SHAPEBOX",
       "WHACKAMOLE",
       "CARS",
-      "SNAKE"
+      "SNAKE",
+      "BLOCK_PUZZLE"
     ]
   },
   {
@@ -74,7 +75,8 @@
       "TANGRAM",
       "SUDOKU",
       "SNOWBALL_EFFECT",
-      "SNAKE"
+      "SNAKE",
+      "BLOCK_PUZZLE"
     ]
   },
   {
