@@ -1,24 +1,5 @@
 [
   {
-    "title_fr": "Trisomie",
-    "title_us": "Down syndrome",
-    "games": [
-      "COLORFORM",
-      "COLORMIND",
-      "SIMILI",
-      "PUZZLE",
-      "MEMORY",
-      "MUSIC",
-      "CHESSBOARD",
-      "RELIBULLE",
-      "BALL",
-      "ANIMALS",
-      "POPBALLOON",
-      "SHAPEBOX",
-      "NOAHS_ARK"
-    ]
-  },
-  {
     "title_fr": "Autisme",
     "title_us": "Autism",
     "games": [
@@ -111,6 +92,25 @@
       "LOST_POEM",
       "PROVERB",
       "COOK"
+    ]
+  },
+  {
+    "title_fr": "Trisomie",
+    "title_us": "Down syndrome",
+    "games": [
+      "COLORFORM",
+      "COLORMIND",
+      "SIMILI",
+      "PUZZLE",
+      "MEMORY",
+      "MUSIC",
+      "CHESSBOARD",
+      "RELIBULLE",
+      "BALL",
+      "ANIMALS",
+      "POPBALLOON",
+      "SHAPEBOX",
+      "NOAHS_ARK"
     ]
   }
 ]
