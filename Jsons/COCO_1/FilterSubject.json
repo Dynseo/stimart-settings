@@ -15,6 +15,16 @@
     ]
   },
   {
+    "title_fr": "Orthographe",
+    "title_us": "Spelling",
+    "games": [
+      "INTRUS",
+      "SYLLABUS",
+      "HANGMAN",
+      "PROVERB"
+    ]
+  },
+  {
     "title_fr": "Mathématiques",
     "title_us": "Math",
     "games": [
@@ -37,16 +47,6 @@
       "HANGMAN",
       "PROVERB",
       "COOK"
-    ]
-  },
-  {
-    "title_fr": "Orthographe",
-    "title_us": "Spelling",
-    "games": [
-      "INTRUS",
-      "SYLLABUS",
-      "HANGMAN",
-      "PROVERB"
     ]
   },
   {
