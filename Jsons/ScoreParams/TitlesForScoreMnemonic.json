@@ -439,6 +439,16 @@
     "pt": "Combos"
   },
   {
+    "scoreMnemonic": "nbGoodAnswerDetails3",
+    "game": "BLOCK_PUZZLE",
+    "fr": "Combo max",
+    "us": "Max Combo",
+    "it": "Combinazione massima",
+    "cn": "最大组合",
+    "nl": "Maximale combinatie",
+    "pt": "Combinação máxima"
+  },
+  {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
     "fr": "Nombre d'animaux sauvés",
