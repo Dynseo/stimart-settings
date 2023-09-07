@@ -41,12 +41,14 @@
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
-    "game": "WHACKAMOLE",
     "isAscendent": "YES"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
-    "game": "WHACKAMOLE",
+    "isAscendent": "YES"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails3",
     "isAscendent": "YES"
   }
 ]
