@@ -233,5 +233,10 @@
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
     "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails3",
+    "game": "BLOCK_PUZZLE",
+    "scoreColumn": "score4"
   }
 ]
