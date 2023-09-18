@@ -62,12 +62,8 @@
     "title_us": "Science",
     "games": [
       "ANIMALS",
-      "WALKER",
-      "SLIDE_MAZE",
-      "CARS",
-      "SNOWBALL_EFFECT",
-      "TIMELINE",
-      "QUIZZLE"
+      "QUIZZLE",
+      "TIMELINE"
     ]
   }
 ]
