@@ -223,5 +223,14 @@
       "nbGoodAnswerDetails2",
       "nbGoodAnswerDetails3"
     ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "CATERPILLAR",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbBadAnswers",
+      "reactionTime"
+    ]
   }
 ]
