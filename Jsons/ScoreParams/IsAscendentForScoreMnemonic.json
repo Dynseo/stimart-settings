@@ -52,7 +52,7 @@
     "isAscendent": "YES"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
-    "game": "CATERPILLAR"
+    "scoreMnemonic": "reactionTime",
+    "isAscendent": "NO"
   }
 ]
