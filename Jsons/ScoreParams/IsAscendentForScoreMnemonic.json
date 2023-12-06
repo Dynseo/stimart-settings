@@ -50,5 +50,9 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "isAscendent": "YES"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "CATERPILLAR"
   }
 ]
