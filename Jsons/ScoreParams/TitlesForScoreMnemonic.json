@@ -99,6 +99,15 @@
     "pt": "Movimentos mínimos"
   },
   {
+    "scoreMnemonic": "reactionTime",
+    "fr": "Temps de réaction",
+    "us": "Reaction time",
+    "it": "Tempo di reazione",
+    "cn": "反应时间",
+    "nl": "Reactietijd",
+    "pt": "Tempo de reação"
+  },
+  {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
     "fr": "Déplacements effectués",
