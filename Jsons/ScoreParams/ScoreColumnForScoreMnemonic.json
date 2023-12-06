@@ -238,5 +238,10 @@
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
     "scoreColumn": "score4"
+  },
+  {
+    "scoreMnemonic": "reactionTime",
+    "game": "CATERPILLAR",
+    "scoreColumn": "score3"
   }
 ]
