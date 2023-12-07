@@ -225,12 +225,11 @@
     ]
   },
   {
-    "scoreVisualisationType": "gradeDetail",
+    "scoreVisualisationType": "moreInfo",
     "game": "CATERPILLAR",
     "scoreVisualisation": [
-      "nbGoodAnswer",
-      "nbBadAnswers",
-      "reactionTime"
+      "reactionTime",
+      "time"
     ]
   }
 ]
