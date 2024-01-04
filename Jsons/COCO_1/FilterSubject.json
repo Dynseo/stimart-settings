@@ -34,7 +34,8 @@
       "SCROLLANDCATCH",
       "SEQUENCE",
       "SUDOKU",
-      "SNAKE"
+      "SNAKE",
+      "CATERPILLAR"
     ]
   },
   {
