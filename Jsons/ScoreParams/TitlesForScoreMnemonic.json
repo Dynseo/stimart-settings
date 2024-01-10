@@ -130,12 +130,13 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "fr": "Champ rempli (%)",
-    "us": "Field filled (%)",
-    "it": "Campo compilato (%)",
-    "cn": "字段填充 (%)",
-    "nl": "Veld gevuld (%)",
-    "pt": "Campo preenchido (%)"
+    "unity": "%",
+    "fr": "Champ rempli",
+    "us": "Field filled",
+    "it": "Campo compilato",
+    "cn": "字段填充",
+    "nl": "Veld gevuld",
+    "pt": "Campo preenchido"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
