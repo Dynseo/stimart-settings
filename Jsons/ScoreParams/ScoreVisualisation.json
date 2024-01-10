@@ -124,7 +124,8 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "PANURGE",
     "scoreVisualisation": [
-      "nbGoodAnswer"
+      "nbGoodAnswer",
+      "nbGoodAnswerDetails1"
     ]
   },
   {
@@ -230,14 +231,6 @@
     "scoreVisualisation": [
       "reactionTime",
       "time"
-    ]
-  },
-  {
-    "scoreVisualisationType": "gradeDetail",
-    "game": "PANURGE",
-    "scoreVisualisation": [
-      "nbGoodAnswer",
-      "nbGoodAnswerDetails1"
     ]
   }
 ]
