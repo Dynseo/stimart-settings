@@ -243,5 +243,10 @@
     "scoreMnemonic": "reactionTime",
     "game": "CATERPILLAR",
     "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "PANURGE",
+    "scoreColumn": "score2"
   }
 ]
