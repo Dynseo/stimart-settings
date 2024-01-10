@@ -231,5 +231,13 @@
       "reactionTime",
       "time"
     ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "PANURGE",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbGoodAnswerDetails1"
+    ]
   }
 ]
