@@ -1,0 +1,535 @@
+[
+  {
+    "id": "autism",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": true,
+    "title": {
+      "fr": "Autisme",
+      "us": "Autism",
+      "it": "Autismo",
+      "cn": "自闭症",
+      "nl": "Autisme"
+    },
+    "games": [
+      "COLORFORM",
+      "COLORMIND",
+      "SIMILI",
+      "MEMORY",
+      "MUSIC",
+      "FURIOUS",
+      "SCROLLANDCATCH",
+      "ANIMALS",
+      "SHAPEBOX",
+      "NOAHS_ARK",
+      "COOK",
+      "TANGRAM"
+    ]
+  },
+  {
+    "id": "adhd",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": true,
+    "title": {
+      "fr": "TDAH",
+      "us": "ADHD",
+      "it": "ADHD",
+      "cn": "多动症",
+      "nl": "ADHD"
+    },
+    "games": [
+      "COLORFORM",
+      "MEMORY",
+      "CASCADE",
+      "RELIBULLE",
+      "BALL",
+      "SCROLLANDCATCH",
+      "SEQUENCE",
+      "POPBALLOON",
+      "SHAPEBOX",
+      "WHACKAMOLE",
+      "CARS",
+      "SNAKE",
+      "BLOCK_PUZZLE",
+      "PANURGE",
+      "CATERPILLAR"
+    ]
+  },
+  {
+    "id": "dyspraxia",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": true,
+    "title": {
+      "fr": "Dyspraxie",
+      "us": "Dyspraxia",
+      "it": "Disprassia",
+      "cn": "运用障碍",
+      "nl": "Dyspraxie"
+    },
+    "games": [
+      "PUZZLE",
+      "RELIBULLE",
+      "SYLLABUS",
+      "BALL",
+      "WALKER",
+      "POPBALLOON",
+      "SLIDE_MAZE",
+      "WHACKAMOLE",
+      "CARS",
+      "NOAHS_ARK",
+      "HANGMAN",
+      "PROVERB",
+      "COOK",
+      "TANGRAM",
+      "SUDOKU",
+      "SNOWBALL_EFFECT",
+      "SNAKE",
+      "BLOCK_PUZZLE",
+      "PANURGE",
+      "CATERPILLAR"
+    ]
+  },
+  {
+    "id": "dyscalculia",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": true,
+    "title": {
+      "fr": "Dyscalculie",
+      "us": "Dyscalculia",
+      "it": "Discalculia",
+      "cn": "计算障碍",
+      "nl": "Dyscalculie"
+    },
+    "games": [
+      "CALCULUS",
+      "RELIBULLE",
+      "SCROLLANDCATCH",
+      "SEQUENCE",
+      "SUDOKU",
+      "CATERPILLAR"
+    ]
+  },
+  {
+    "id": "dyslexia_and_dysgraphia",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": true,
+    "title": {
+      "fr": "Dyslexie et Dysorthographie",
+      "us": "Dyslexia and dysgraphia",
+      "it": "Dislessia e disortografia",
+      "cn": "诵读困难和拼写障碍",
+      "nl": "Dyslexie en dysorthografie"
+    },
+    "games": [
+      "SLIDE_MAZE",
+      "SYLLABUS",
+      "LOST_POEM",
+      "HANGMAN",
+      "PROVERB"
+    ]
+  },
+  {
+    "id": "dysphasia",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": true,
+    "title": {
+      "fr": "Dysphasie",
+      "us": "Dysphasia",
+      "it": "Disfasia",
+      "cn": "失语症",
+      "nl": "Dysfasie"
+    },
+    "games": [
+      "INTRUS",
+      "MUSIC",
+      "SYLLABUS",
+      "LOST_POEM",
+      "PROVERB",
+      "COOK"
+    ]
+  },
+  {
+    "id": "down_syndrome",
+    "category": "specific_need",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Trisomie",
+      "us": "Down syndrome",
+      "it": "Trisomia",
+      "cn": "三体性",
+      "nl": "Trisomie"
+    },
+    "games": [
+      "COLORFORM",
+      "COLORMIND",
+      "SIMILI",
+      "PUZZLE",
+      "MEMORY",
+      "MUSIC",
+      "CHESSBOARD",
+      "RELIBULLE",
+      "BALL",
+      "ANIMALS",
+      "POPBALLOON",
+      "SHAPEBOX",
+      "NOAHS_ARK"
+    ]
+  },
+  {
+    "id": "stroke",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": false,
+    "title": {
+      "fr": "AVC",
+      "us": "Stroke",
+      "it": "Colpo",
+      "cn": "中风",
+      "nl": "Hartinfarct"
+    },
+    "games": [
+      "CALCULUS",
+      "CARS",
+      "CASCADE",
+      "COLORMIND",
+      "COOK",
+      "INTRUS",
+      "NOAHS_ARK",
+      "PANURGE",
+      "POPBALLOON",
+      "PROVERB",
+      "PUZZLE",
+      "MUSIC",
+      "SLIDE_MAZE",
+      "SYLLABUS",
+      "WHACKAMOLE"
+    ]
+  },
+  {
+    "id": "reading",
+    "category": "subject",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Lecture",
+      "us": "Reading",
+      "it": "Lettura",
+      "cn": "阅读",
+      "nl": "Lectuur"
+    },
+    "games": [
+      "PUZZLE",
+      "INTRUS",
+      "QUIZZLE",
+      "LOST_POEM",
+      "COOK",
+      "SYLLABUS",
+      "TIMELINE",
+      "HANGMAN",
+      "PROVERB"
+    ]
+  },
+  {
+    "id": "spelling",
+    "category": "subject",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Orthographe",
+      "us": "Spelling",
+      "it": "Ortografia",
+      "cn": "拼写",
+      "nl": "Spelling"
+    },
+    "games": [
+      "INTRUS",
+      "SYLLABUS",
+      "HANGMAN",
+      "PROVERB"
+    ]
+  },
+  {
+    "id": "mathematics",
+    "category": "subject",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Mathématiques",
+      "us": "Math",
+      "it": "Matematica",
+      "cn": "数学",
+      "nl": "Wiskunde"
+    },
+    "games": [
+      "COLORFORM",
+      "CALCULUS",
+      "RELIBULLE",
+      "SCROLLANDCATCH",
+      "SEQUENCE",
+      "SUDOKU",
+      "SNAKE",
+      "CATERPILLAR"
+    ]
+  },
+  {
+    "id": "english",
+    "category": "subject",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Anglais"
+    },
+    "games": [
+      "PUZZLE",
+      "INTRUS",
+      "MUSIC",
+      "SYLLABUS",
+      "HANGMAN",
+      "PROVERB",
+      "COOK"
+    ]
+  },
+  {
+    "id": "history",
+    "category": "subject",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Histoire",
+      "us": "History",
+      "it": "Storia",
+      "cn": "历史",
+      "nl": "Geschiedenis"
+    },
+    "games": [
+      "QUIZZLE",
+      "TIMELINE"
+    ]
+  },
+  {
+    "id": "question_the_world",
+    "category": "subject",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Questionner le monde",
+      "us": "Exploring the World",
+      "it": "Interroga il mondo",
+      "cn": "质疑世界",
+      "nl": "Stel de wereld in vraag"
+    },
+    "games": [
+      "ANIMALS",
+      "QUIZZLE",
+      "TIMELINE"
+    ]
+  },
+  {
+    "id": "physical_activities",
+    "category": "activities_types",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Activités physiques",
+      "us": "Physical activities",
+      "it": "Attività fisica",
+      "cn": "体力活动",
+      "nl": "Fysieke activiteit"
+    },
+    "games": [
+      "DANCING_MUSIC",
+      "FOLLOW_MUSIC",
+      "SPRING",
+      "BALANCE",
+      "ANIMAL_MIME",
+      "COCO_SAID"
+    ]
+  },
+  {
+    "id": "quiet_activities",
+    "category": "activities_types",
+    "isForPapy": false,
+    "isForCoco": true,
+    "title": {
+      "fr": "Activités calmes",
+      "us": "Quiet activities",
+      "it": "Attività tranquille",
+      "cn": "安静的活动",
+      "nl": "Rustige activiteiten"
+    },
+    "games": [
+      "EMOTION_MIME",
+      "YOGA",
+      "QUIET_TIME"
+    ]
+  },
+  {
+    "id": "culture",
+    "category": "themes",
+    "isForPapy": true,
+    "isForCoco": false,
+    "title": {
+      "fr": "Culture",
+      "us": "Culture",
+      "it": "Cultura",
+      "cn": "文化",
+      "nl": "Cultuur"
+    },
+    "description": {
+      "fr": "Testez vos connaissances culturelles",
+      "cn": "测试你的文化知识",
+      "nl": "Test je culturele kennis"
+    },
+    "decription": {
+      "us": "Test your cultural knowledge",
+      "it": "Metti alla prova la tua cultura generale"
+    },
+    "games": [
+      "PUZZLE",
+      "COOK",
+      "TIMELINE",
+      "PROVERB",
+      "QUIZZLE",
+      "GEO",
+      "TEXT",
+      "POEME",
+      "LOST_POEM",
+      "SYLLABUS",
+      "MUSIC"
+    ]
+  },
+  {
+    "id": "dexterity",
+    "category": "themes",
+    "isForPapy": true,
+    "isForCoco": false,
+    "title": {
+      "fr": "Dextérité",
+      "us": "Dexterity ",
+      "it": "Destrezza",
+      "cn": "灵巧",
+      "nl": "Behendigheid"
+    },
+    "description": {
+      "fr": "Travaillez votre dextérité pour mieux contrôler le mouvement de vos mains",
+      "cn": "锻炼你的灵活性，更好地控制你的手的运动",
+      "nl": "Werk aan uw behendigheid om de beweging van uw handen beter te controleren"
+    },
+    "decription": {
+      "us": "Work on your dexterity to better control your hand movements",
+      "it": "Lavora sulla tua destrezza per controllare meglio il movimento delle tue mani"
+    },
+    "games": [
+      "PUZZLE",
+      "PANURGE",
+      "PONG",
+      "WHACKAMOLE",
+      "NOAHS_ARK",
+      "POPBALLOON"
+    ]
+  },
+  {
+    "id": "logic",
+    "category": "themes",
+    "isForPapy": true,
+    "isForCoco": false,
+    "title": {
+      "fr": "Logique",
+      "us": "Logic",
+      "it": "Logica",
+      "cn": "逻辑",
+      "nl": "Logica"
+    },
+    "description": {
+      "fr": "Travaillez votre logique pour améliorer votre stratégie",
+      "cn": "锻炼你的逻辑来改进你的策略",
+      "nl": "Werk aan uw logica om uw strategie te verbeteren"
+    },
+    "decription": {
+      "us": "Work on your logic to improve your strategy",
+      "it": "Lavora sulla logica per migliorare le tue strategie"
+    },
+    "games": [
+      "SUDOKU",
+      "CALCULUS",
+      "WALKER",
+      "SLIDE_MAZE",
+      "CARS",
+      "SNOWBALL_EFFECT",
+      "PANURGE"
+    ]
+  },
+  {
+    "id": "curious",
+    "category": "themes",
+    "isForPapy": true,
+    "isForCoco": false,
+    "title": {
+      "fr": "Je suis curieux",
+      "us": "I'm curious",
+      "it": "Sono curioso",
+      "cn": "我很好奇",
+      "nl": "Ik ben nieuwsgierig"
+    },
+    "description": {
+      "fr": "Laissez-nous vous surprendre avec l'un de ces jeux",
+      "cn": "让我们通过其中一款游戏给您带来惊喜",
+      "nl": "Laat je verrassen met één van deze spellen"
+    },
+    "decription": {
+      "us": "Let us surprise you with one of these games",
+      "it": "Lasciati sorprendere con uno di questi giochi"
+    },
+    "games": [
+      "COLORMIND",
+      "MEMORY",
+      "CHESSBOARD",
+      "FURIOUS",
+      "SCROLLANDCATCH",
+      "SEQUENCE",
+      "HANGMAN",
+      "MUSIC"
+    ]
+  },
+  {
+    "id": "collective",
+    "category": "themes",
+    "isForPapy": true,
+    "isForCoco": false,
+    "title": {
+      "fr": "Animation collective",
+      "us": "Group activities",
+      "it": "Intrattenimento collettivo",
+      "cn": "集体娱乐",
+      "nl": "Collectief vermaak"
+    },
+    "description": {
+      "fr": "Idéal pour jouer à plusieurs joueurs sur un seul écran",
+      "cn": "非常适合在一个屏幕上与多个玩家一起玩",
+      "nl": "Ideaal om met meerdere spelers op één scherm te spelen"
+    },
+    "decription": {
+      "us": "Ideal for playing with multiple players on a single screen",
+      "it": "Ideale per giocare con più giocatori su un unico schermo"
+    },
+    "games": [
+      "QUIZZLE",
+      "MUSIC",
+      "INTRUS",
+      "TIMELINE",
+      "COOK",
+      "GEO",
+      "LOST_POEM",
+      "CALCULUS",
+      "HANGMAN",
+      "SYLLABUS",
+      "PROVERB"
+    ]
+  }
+]
