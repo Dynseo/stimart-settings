@@ -383,12 +383,10 @@
     },
     "description": {
       "fr": "Testez vos connaissances culturelles",
+      "us": "Test your cultural knowledge",
+      "it": "Metti alla prova la tua cultura generale",
       "cn": "测试你的文化知识",
       "nl": "Test je culturele kennis"
-    },
-    "decription": {
-      "us": "Test your cultural knowledge",
-      "it": "Metti alla prova la tua cultura generale"
     },
     "games": [
       "PUZZLE",
@@ -418,12 +416,10 @@
     },
     "description": {
       "fr": "Travaillez votre dextérité pour mieux contrôler le mouvement de vos mains",
+      "us": "Work on your dexterity to better control your hand movements",
+      "it": "Lavora sulla tua destrezza per controllare meglio il movimento delle tue mani",
       "cn": "锻炼你的灵活性，更好地控制你的手的运动",
       "nl": "Werk aan uw behendigheid om de beweging van uw handen beter te controleren"
-    },
-    "decription": {
-      "us": "Work on your dexterity to better control your hand movements",
-      "it": "Lavora sulla tua destrezza per controllare meglio il movimento delle tue mani"
     },
     "games": [
       "PUZZLE",
@@ -448,12 +444,10 @@
     },
     "description": {
       "fr": "Travaillez votre logique pour améliorer votre stratégie",
+      "us": "Work on your logic to improve your strategy",
+      "it": "Lavora sulla logica per migliorare le tue strategie",
       "cn": "锻炼你的逻辑来改进你的策略",
       "nl": "Werk aan uw logica om uw strategie te verbeteren"
-    },
-    "decription": {
-      "us": "Work on your logic to improve your strategy",
-      "it": "Lavora sulla logica per migliorare le tue strategie"
     },
     "games": [
       "SUDOKU",
@@ -479,12 +473,10 @@
     },
     "description": {
       "fr": "Laissez-nous vous surprendre avec l'un de ces jeux",
+      "us": "Let us surprise you with one of these games",
+      "it": "Lasciati sorprendere con uno di questi giochi",
       "cn": "让我们通过其中一款游戏给您带来惊喜",
       "nl": "Laat je verrassen met één van deze spellen"
-    },
-    "decription": {
-      "us": "Let us surprise you with one of these games",
-      "it": "Lasciati sorprendere con uno di questi giochi"
     },
     "games": [
       "COLORMIND",
@@ -511,12 +503,10 @@
     },
     "description": {
       "fr": "Idéal pour jouer à plusieurs joueurs sur un seul écran",
+      "us": "Ideal for playing with multiple players on a single screen",
+      "it": "Ideale per giocare con più giocatori su un unico schermo",
       "cn": "非常适合在一个屏幕上与多个玩家一起玩",
       "nl": "Ideaal om met meerdere spelers op één scherm te spelen"
-    },
-    "decription": {
-      "us": "Ideal for playing with multiple players on a single screen",
-      "it": "Ideale per giocare con più giocatori su un unico schermo"
     },
     "games": [
       "QUIZZLE",
