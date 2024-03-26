@@ -11,6 +11,13 @@
       "cn": "自闭症",
       "nl": "Autisme"
     },
+    "description": {
+      "fr": "Découvrez les jeux adaptés à l'autisme, conçus pour travailler sur des fonctions cognitives telles que la communication, les schémas mentaux ou l'adaptation aux stimuli.",
+      "us": "Discover games adapted for autism, designed to work on cognitive functions such as communication, mental patterns or adaptation to stimuli.",
+      "it": "Scopri i giochi adattati per l'autismo, per lavorare su funzioni cognitive come la comunicazione, gli schemi mentali o l'adattamento agli stimoli.",
+      "cn": "探索适合自闭症的游戏，旨在改善沟通、心理模式或对刺激的适应等认知功能。",
+      "nl": "Ontdek games die zijn aangepast voor autisme, ontworpen om te werken aan cognitieve functies zoals communicatie, mentale patronen of aanpassing aan stimuli."
+    },
     "games": [
       "COLORFORM",
       "COLORMIND",
@@ -37,6 +44,13 @@
       "it": "ADHD",
       "cn": "多动症",
       "nl": "ADHD"
+    },
+    "description": {
+      "fr": "Découvrez les jeux adaptés au TDAH, pour travailler sur des fonctions cognitives telles que l'inhibition, l'organisation des mouvements ou l'attention.",
+      "us": "Discover games adapted to ADHD, to work on cognitive functions such as inhibition, organization of movements or attention.",
+      "it": "Scopri i giochi adattati per l'ADHD, per lavorare su funzioni cognitive come l'inibizione, l'organizzazione dei movimenti o l'attenzione.",
+      "cn": "探索适合多动症的游戏，以改善抑制、运动组织或注意力等认知功能。",
+      "nl": "Ontdek games aangepast aan ADHD, om te werken aan cognitieve functies zoals remming, organisatie van bewegingen of aandacht."
     },
     "games": [
       "COLORFORM",
@@ -67,6 +81,13 @@
       "it": "Disprassia",
       "cn": "运用障碍",
       "nl": "Dyspraxie"
+    },
+    "description": {
+      "fr": "Découvrez les jeux adaptés à la dyspraxie, pour travailler sur des fonctions cognitives telles que la coordination, la séquentialité ou la coordination œil-main.",
+      "us": "Discover games adapted to dyspraxia, to work on cognitive functions such as coordination, sequentiality or hand-eye coordination.",
+      "it": "Scopri i giochi adattati per la disprassia, per lavorare su funzioni cognitive come la coordinazione, la sequenzialità o la coordinazione oculo manuale.",
+      "cn": "探索适合运用障碍的游戏，以锻炼协调性、顺序性或手眼协调性等认知功能。",
+      "nl": "Ontdek games die zijn aangepast aan dyspraxie, om te werken aan cognitieve functies zoals coördinatie, volgordelijkheid of hand-oogcoördinatie."
     },
     "games": [
       "PUZZLE",
@@ -103,6 +124,13 @@
       "cn": "计算障碍",
       "nl": "Dyscalculie"
     },
+    "description": {
+      "fr": "Découvrez les jeux adaptés à la dyscalculie, pour travailler sur des fonctions cognitives telles que l'ordre du système numérique, les tables de multiplication ou les calculs.",
+      "us": "Discover games adapted to dyscalculia, to work on cognitive functions such as the order of the numerical system, multiplication tables or calculations.",
+      "it": "Scopri i giochi adattati per la discalculia, per lavorare su funzioni cognitive come l'ordine del sistema numerico, le tabelline o i calcoli.",
+      "cn": "探索适合计算障碍的游戏，以锻炼认知功能，例如数字系统的顺序、乘法表或计算。",
+      "nl": "Ontdek games die zijn aangepast aan dyscalculie, om te werken aan cognitieve functies zoals de volgorde van het numerieke systeem, tafels van vermenigvuldiging of berekeningen."
+    },
     "games": [
       "CALCULUS",
       "RELIBULLE",
@@ -124,6 +152,13 @@
       "cn": "诵读困难和拼写障碍",
       "nl": "Dyslexie en dysorthografie"
     },
+    "description": {
+      "fr": "Découvrez les jeux adaptés à la dyslexie et à la dysorthographie, pour travailler sur des fonctions cognitives telles que la lecture, la structure de la phrase ou la classification sémantique.",
+      "us": "Discover games adapted to dyslexia and dysorthography, to work on cognitive functions such as reading, sentence structure or semantic classification.",
+      "it": "Scopri i giochi adattati per la dislessia e la disortografia, per lavorare su funzioni cognitive come la lettura, la struttura della frase o la classificazione semantica.",
+      "cn": "探索适合阅读障碍和拼写障碍的游戏，以改善阅读、句子结构或语义分类等认知功能。",
+      "nl": "Ontdek games die zijn aangepast aan dyslexie en dysorthografie, om te werken aan cognitieve functies zoals lezen, zinsstructuur of semantische classificatie."
+    },
     "games": [
       "SLIDE_MAZE",
       "SYLLABUS",
@@ -144,6 +179,13 @@
       "cn": "失语症",
       "nl": "Dysfasie"
     },
+    "description": {
+      "fr": "Découvrez les jeux adaptés à la dysphasie, pour travailler sur des fonctions cognitives telles que le vocabulaire, la discrimination auditive ou la recherche de mots.",
+      "us": "Discover games adapted to dysphasia, to work on cognitive functions such as vocabulary, auditory discrimination or word search.",
+      "it": "Scopri i giochi adattati per la disfasia, per lavorare su funzioni cognitive come il vocabolario, la disciminazione auditiva o la ricerca di parole.",
+      "cn": "探索适合失语症的游戏，以锻炼词汇、听觉辨别或单词搜索等认知功能。",
+      "nl": "Ontdek games die zijn aangepast aan dysfasie, om te werken aan cognitieve functies zoals woordenschat, auditieve discriminatie of woordzoeken."
+    },
     "games": [
       "INTRUS",
       "MUSIC",
@@ -161,7 +203,7 @@
     "title": {
       "fr": "Trisomie",
       "us": "Down syndrome",
-      "it": "Trisomia",
+      "it": "Sindrome di Down",
       "cn": "三体性",
       "nl": "Trisomie"
     },
@@ -189,9 +231,16 @@
     "title": {
       "fr": "AVC",
       "us": "Stroke",
-      "it": "Colpo",
+      "it": "Ictus",
       "cn": "中风",
       "nl": "Hartinfarct"
+    },
+    "description": {
+      "fr": "Découvrez les jeux adaptés aux séquelles d'AVC, pour travailler sur des fonctions cognitives telles que la communication, l'exploration visuelle ou l'attention.",
+      "us": "Discover games adapted to the after-effects of stroke, to work on cognitive functions such as communication, visual exploration or attention.",
+      "it": "Scopri i giochi adattati per l'ictus, per lavorare su funzioni cognitive come la comunicazione, l'esplorazione visiva o l'attenzione.",
+      "cn": "探索适合中风后遗症的游戏，以改善沟通、视觉探索或注意力等认知功能。",
+      "nl": "Ontdek games die zijn aangepast aan de nawerkingen van een beroerte, om te werken aan cognitieve functies zoals communicatie, visuele verkenning of aandacht."
     },
     "games": [
       "CALCULUS",
@@ -320,7 +369,7 @@
     "title": {
       "fr": "Questionner le monde",
       "us": "Exploring the World",
-      "it": "Interroga il mondo",
+      "it": "Conoscere il mondo",
       "cn": "质疑世界",
       "nl": "Stel de wereld in vraag"
     },
@@ -338,7 +387,7 @@
     "title": {
       "fr": "Activités physiques",
       "us": "Physical activities",
-      "it": "Attività fisica",
+      "it": "Attività fisiche",
       "cn": "体力活动",
       "nl": "Fysieke activiteit"
     },
@@ -497,7 +546,7 @@
     "title": {
       "fr": "Animation collective",
       "us": "Group activities",
-      "it": "Intrattenimento collettivo",
+      "it": "Animazione collettiva",
       "cn": "集体娱乐",
       "nl": "Collectief vermaak"
     },
