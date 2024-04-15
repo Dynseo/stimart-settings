@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sleep",
+    "title": {
+      "fr": "Se coucher",
+      "us": "To go to bed",
+      "it": "Andare a letto",
+      "nl": "Naar bed gaan",
+      "cn": "去睡觉",
+      "pt": "Para ir para a cama"
+    }
+  },
+  {
+    "id": "put_table",
+    "title": {
+      "fr": "Mettre le table",
+      "us": "Set the table",
+      "it": "Apparecchia la tavola",
+      "nl": "Dek de tafel",
+      "cn": "布置桌面",
+      "pt": "Arrume a mesa"
+    }
+  },
+  {
+    "id": "eat",
+    "title": {
+      "fr": "Manger",
+      "us": "Eat",
+      "it": "Mangiare",
+      "nl": "Eten",
+      "cn": "吃",
+      "pt": "Comer"
+    }
+  },
+  {
+    "id": "dressing",
+    "title": {
+      "fr": "S'habiller",
+      "us": "Get dressed",
+      "it": "Vestirsi",
+      "nl": "Zich aankleden",
+      "cn": "穿上衣服",
+      "pt": "Vestir-se"
+    }
+  },
+  {
+    "id": "toilettes",
+    "title": {
+      "fr": "Aller aux toilettes",
+      "us": "Go to the toilet",
+      "it": "Andare al bagno",
+      "nl": "Ga naar het toilet",
+      "cn": "去厕所",
+      "pt": "Ir ao banheiro"
+    }
+  },
+  {
+    "id": "brush_teeth",
+    "title": {
+      "fr": "Se brosser les dents",
+      "us": "Brush your teeth",
+      "it": "Lavati i denti",
+      "nl": "Poets je tanden",
+      "cn": "刷牙",
+      "pt": "Escove seus dentes"
+    }
+  }
+]
