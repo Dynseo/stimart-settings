@@ -1,0 +1,314 @@
+[
+  {
+    "id": "remove_clothing",
+    "category": "sleep",
+    "title": {
+      "fr": "Enlever les vêtements",
+      "us": "Remove the clothes",
+      "it": "Togli i vestiti",
+      "nl": "Verwijder de kleding",
+      "cn": "脱掉衣服",
+      "pt": "Tire as roupas"
+    }
+  },
+  {
+    "id": "put_pyjamas",
+    "category": "sleep",
+    "title": {
+      "fr": "Mettre le pyjama",
+      "us": "Put on pajamas",
+      "it": "Metti il ​​pigiama",
+      "nl": "Trek een pyjama aan",
+      "cn": "穿上睡衣",
+      "pt": "Coloque o pijama"
+    }
+  },
+  {
+    "id": "brush_teeths",
+    "category": "sleep",
+    "title": {
+      "fr": "Se brosser les dents",
+      "us": "Brush your teeth",
+      "it": "Lavati i denti",
+      "nl": "Poets je tanden",
+      "cn": "刷牙",
+      "pt": "Escove seus dentes"
+    }
+  },
+  {
+    "id": "go_to_toillets",
+    "category": "sleep",
+    "title": {
+      "fr": "Aller aux toilettes",
+      "us": "Go to the toilet",
+      "it": "Andare al bagno",
+      "nl": "Ga naar het toilet",
+      "cn": "去厕所",
+      "pt": "Ir ao banheiro"
+    }
+  },
+  {
+    "id": "go_to_bed",
+    "category": "sleep",
+    "title": {
+      "fr": "Se coucher",
+      "us": "To go to bed",
+      "it": "Andare a letto",
+      "nl": "Naar bed gaan",
+      "cn": "去睡觉",
+      "pt": "Para ir para a cama"
+    }
+  },
+  {
+    "id": "put_napkin",
+    "category": "put_table",
+    "title": {
+      "fr": "Mettre la nappe",
+      "us": "Put the tablecloth",
+      "it": "Metti la tovaglia",
+      "nl": "Leg het tafelkleed",
+      "cn": "铺上桌布",
+      "pt": "Coloque a toalha de mesa"
+    }
+  },
+  {
+    "id": "put_plate",
+    "category": "put_table",
+    "title": {
+      "fr": "Mettre les assiettes",
+      "us": "Put the plates",
+      "it": "Metti i piatti",
+      "nl": "Zet de borden",
+      "cn": "放上盘子",
+      "pt": "Coloque os pratos"
+    }
+  },
+  {
+    "id": "set_cutlery",
+    "category": "put_table",
+    "title": {
+      "fr": "Mettre les couverts",
+      "us": "To set the table",
+      "it": "Per apparecchiare la tavola",
+      "nl": "De tafel dekken",
+      "cn": "设置桌子",
+      "pt": "Para pôr a mesa"
+    }
+  },
+  {
+    "id": "set_glasses",
+    "category": "put_table",
+    "title": {
+      "fr": "Mettre les verres",
+      "us": "Put the glasses",
+      "it": "Metti gli occhiali",
+      "nl": "Zet de bril",
+      "cn": "戴上眼镜",
+      "pt": "Coloque os óculos"
+    }
+  },
+  {
+    "id": "wash_hand",
+    "category": "eat",
+    "title": {
+      "fr": "Se laver les mains",
+      "us": "Wash one's hands",
+      "it": "Lavarsi le mani",
+      "nl": "Was je handen",
+      "cn": "洗手",
+      "pt": "Lave as mãos"
+    }
+  },
+  {
+    "id": "eat",
+    "category": "eat",
+    "title": {
+      "fr": "Eat",
+      "us": "Sit at the table",
+      "it": "Siediti al tavolo",
+      "nl": "Zit aan de tafel",
+      "cn": "坐在桌边",
+      "pt": "Sente-se à mesa"
+    }
+  },
+  {
+    "id": "finish_meal",
+    "category": "eat",
+    "title": {
+      "fr": "Finir son repas",
+      "us": "Finish your meal",
+      "it": "Finisci il tuo pasto",
+      "nl": "Maak uw maaltijd af",
+      "cn": "吃完饭",
+      "pt": "Termine sua refeição"
+    }
+  },
+  {
+    "id": "dishwasher",
+    "category": "eat",
+    "title": {
+      "fr": "Lancer la machine",
+      "us": "Start the machine",
+      "it": "Avviare la macchina",
+      "nl": "Start de machine",
+      "cn": "启动机器",
+      "pt": "Ligue a máquina"
+    }
+  },
+  {
+    "id": "put_underwear",
+    "category": "dressing",
+    "title": {
+      "fr": "Mettre ses sous-vêtements.",
+      "us": "Put on your underwear.",
+      "it": "Mettiti la biancheria intima.",
+      "nl": "Trek je ondergoed aan.",
+      "cn": "穿上你的内衣。",
+      "pt": "Vista sua roupa íntima."
+    }
+  },
+  {
+    "id": "put_pants",
+    "category": "dressing",
+    "title": {
+      "fr": "Mettre un pentalon",
+      "us": "Put on pants",
+      "it": "Mettiti i pantaloni",
+      "nl": "Broek aantrekken",
+      "cn": "穿上裤子",
+      "pt": "Coloque calças"
+    }
+  },
+  {
+    "id": "put_top",
+    "category": "dressing",
+    "title": {
+      "fr": "Mettre le haut",
+      "us": "Put on the top",
+      "it": "Mettilo sopra",
+      "nl": "Zet de bovenkant erop",
+      "cn": "放在上面",
+      "pt": "Coloque no topo"
+    }
+  },
+  {
+    "id": "put_shoes",
+    "category": "dressing",
+    "title": {
+      "fr": "Mettre les chaussures.",
+      "us": "Put on the shoes.",
+      "it": "Metti le scarpe.",
+      "nl": "Trek de schoenen aan.",
+      "cn": "穿上鞋子。",
+      "pt": "Coloque os sapatos."
+    }
+  },
+  {
+    "id": "put_down_pants",
+    "category": "toilettes",
+    "title": {
+      "fr": "baisser le pantalon",
+      "us": "pull down your pants",
+      "it": "abbassati i pantaloni",
+      "nl": "trek je broek naar beneden",
+      "cn": "拉下你的裤子",
+      "pt": "abaixe as calças"
+    }
+  },
+  {
+    "id": "flush",
+    "category": "toilettes",
+    "title": {
+      "fr": "tirer la chasse",
+      "us": "flush",
+      "it": "sciacquone",
+      "nl": "doorspoelen",
+      "cn": "冲水",
+      "pt": "rubor"
+    }
+  },
+  {
+    "id": "open_water_tap",
+    "category": "toilettes",
+    "title": {
+      "fr": "Ouvrir le robinet d'eau.",
+      "us": "Open the water tap.",
+      "it": "Aprire il rubinetto dell'acqua.",
+      "nl": "Open de waterkraan.",
+      "cn": "打开水龙头。",
+      "pt": "Abra a torneira da água."
+    }
+  },
+  {
+    "id": "put_soap",
+    "category": "toilettes",
+    "title": {
+      "fr": "Prendre du savon et le faire mousser.",
+      "us": "Take some soap and lather it.",
+      "it": "Prendi un po' di sapone e insaponalo.",
+      "nl": "Neem wat zeep en laat het schuimen.",
+      "cn": "取一些肥皂并起泡沫。",
+      "pt": "Pegue um pouco de sabão e ensaboe."
+    }
+  },
+  {
+    "id": "close_water_tap",
+    "category": "toilettes",
+    "title": {
+      "fr": "Fermer le robinet.",
+      "us": "Turn off the tap.",
+      "it": "Chiudere il rubinetto.",
+      "nl": "Draai de kraan dicht.",
+      "cn": "关掉水龙头。",
+      "pt": "Feche a torneira."
+    }
+  },
+  {
+    "id": "dry_hands",
+    "category": "toilettes",
+    "title": {
+      "fr": "Sécher les mains avec une serviette propre ou un sèche-mains.",
+      "us": "Dry hands with a clean towel or hand dryer.",
+      "it": "Asciugare le mani con un asciugamano pulito o un asciuga mani.",
+      "nl": "Droog de handen af ​​met een schone handdoek of handdroger.",
+      "cn": "用干净的毛巾或干手器擦干双手。",
+      "pt": "Seque as mãos com uma toalha limpa ou secador de mãos."
+    }
+  },
+  {
+    "id": "put_toothpaste",
+    "category": "brush_teeth",
+    "title": {
+      "fr": "Mettre le dentifrice",
+      "us": "Put the toothpaste",
+      "it": "Metti il ​​dentifricio",
+      "nl": "Doe de tandpasta",
+      "cn": "放上牙膏",
+      "pt": "Coloque a pasta de dente"
+    }
+  },
+  {
+    "id": "brush_teeths",
+    "category": "brush_teeth",
+    "title": {
+      "fr": "Se brosser les dents",
+      "us": "Brush your teeth",
+      "it": "Lavati i denti",
+      "nl": "Poets je tanden",
+      "cn": "刷牙",
+      "pt": "Escove seus dentes"
+    }
+  },
+  {
+    "id": "rinse_toothbrush",
+    "category": "brush_teeth",
+    "title": {
+      "fr": "Rincer la brosse a dents",
+      "us": "Rinse the toothbrush",
+      "it": "Sciacquare lo spazzolino",
+      "nl": "Spoel de tandenborstel af",
+      "cn": "冲洗牙刷",
+      "pt": "Enxágue a escova de dentes"
+    }
+  }
+]
