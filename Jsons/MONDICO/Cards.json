@@ -123,12 +123,12 @@
     "id": "eat",
     "category": "eat",
     "title": {
-      "fr": "Eat",
-      "us": "Sit at the table",
-      "it": "Siediti al tavolo",
-      "nl": "Zit aan de tafel",
-      "cn": "坐在桌边",
-      "pt": "Sente-se à mesa"
+      "fr": "Manger",
+      "us": "Eat",
+      "it": "Mangiare",
+      "nl": "Eten",
+      "cn": "吃",
+      "pt": "Comer"
     }
   },
   {
@@ -159,19 +159,19 @@
     "id": "put_underwear",
     "category": "dressing",
     "title": {
-      "fr": "Mettre ses sous-vêtements.",
-      "us": "Put on your underwear.",
-      "it": "Mettiti la biancheria intima.",
-      "nl": "Trek je ondergoed aan.",
-      "cn": "穿上你的内衣。",
-      "pt": "Vista sua roupa íntima."
+      "fr": "Mettre ses sous-vêtements",
+      "us": "Put on your underwear",
+      "it": "Mettiti la biancheria intima",
+      "nl": "Trek je ondergoed aan",
+      "cn": "穿上你的内衣",
+      "pt": "Coloque sua roupa íntima"
     }
   },
   {
     "id": "put_pants",
     "category": "dressing",
     "title": {
-      "fr": "Mettre un pentalon",
+      "fr": "Mettre un pantalon",
       "us": "Put on pants",
       "it": "Mettiti i pantaloni",
       "nl": "Broek aantrekken",
@@ -195,12 +195,12 @@
     "id": "put_shoes",
     "category": "dressing",
     "title": {
-      "fr": "Mettre les chaussures.",
-      "us": "Put on the shoes.",
-      "it": "Metti le scarpe.",
-      "nl": "Trek de schoenen aan.",
-      "cn": "穿上鞋子。",
-      "pt": "Coloque os sapatos."
+      "fr": "Mettre les chaussures",
+      "us": "Put on the shoes",
+      "it": "Metti le scarpe",
+      "nl": "Trek de schoenen aan",
+      "cn": "穿上鞋子",
+      "pt": "Coloque os sapatos"
     }
   },
   {
@@ -231,48 +231,48 @@
     "id": "open_water_tap",
     "category": "toilettes",
     "title": {
-      "fr": "Ouvrir le robinet d'eau.",
-      "us": "Open the water tap.",
-      "it": "Aprire il rubinetto dell'acqua.",
-      "nl": "Open de waterkraan.",
-      "cn": "打开水龙头。",
-      "pt": "Abra a torneira da água."
+      "fr": "Ouvrir le robinet d'eau",
+      "us": "Open the water tap",
+      "it": "Aprire il rubinetto dell'acqua",
+      "nl": "Open de waterkraan",
+      "cn": "打开水龙头",
+      "pt": "Abra a torneira da água"
     }
   },
   {
     "id": "put_soap",
     "category": "toilettes",
     "title": {
-      "fr": "Prendre du savon et le faire mousser.",
-      "us": "Take some soap and lather it.",
-      "it": "Prendi un po' di sapone e insaponalo.",
-      "nl": "Neem wat zeep en laat het schuimen.",
-      "cn": "取一些肥皂并起泡沫。",
-      "pt": "Pegue um pouco de sabão e ensaboe."
+      "fr": "Prendre du savon et le faire mousser",
+      "us": "Take soap and lather it",
+      "it": "Prendi il sapone e insaponalo",
+      "nl": "Neem zeep en laat het schuimen",
+      "cn": "取肥皂并起泡沫",
+      "pt": "Pegue o sabonete e ensaboe"
     }
   },
   {
     "id": "close_water_tap",
     "category": "toilettes",
     "title": {
-      "fr": "Fermer le robinet.",
-      "us": "Turn off the tap.",
-      "it": "Chiudere il rubinetto.",
-      "nl": "Draai de kraan dicht.",
-      "cn": "关掉水龙头。",
-      "pt": "Feche a torneira."
+      "fr": "Fermer le robinet",
+      "us": "Turn off the tap",
+      "it": "Chiudere il rubinetto",
+      "nl": "Draai de kraan dicht",
+      "cn": "关掉水龙头",
+      "pt": "Feche a torneira"
     }
   },
   {
     "id": "dry_hands",
     "category": "toilettes",
     "title": {
-      "fr": "Sécher les mains avec une serviette propre ou un sèche-mains.",
-      "us": "Dry hands with a clean towel or hand dryer.",
-      "it": "Asciugare le mani con un asciugamano pulito o un asciuga mani.",
-      "nl": "Droog de handen af ​​met een schone handdoek of handdroger.",
-      "cn": "用干净的毛巾或干手器擦干双手。",
-      "pt": "Seque as mãos com uma toalha limpa ou secador de mãos."
+      "fr": "Se sécher les mains",
+      "us": "Dry your hands",
+      "it": "Asciugati le mani",
+      "nl": "Droog je handen",
+      "cn": "擦干双手",
+      "pt": "Seque as mãos"
     }
   },
   {
