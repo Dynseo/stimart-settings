@@ -64,5 +64,16 @@
       "cn": "刷牙",
       "pt": "Escove seus dentes"
     }
+  },
+  {
+    "id": "wash_hands",
+    "title": {
+      "fr": "Se laver les mains",
+      "us": "To wash hands",
+      "it": "Lavarsi le mani",
+      "nl": "Om handen te wassen",
+      "cn": "洗手",
+      "pt": "Para lavar as mãos"
+    }
   }
 ]
