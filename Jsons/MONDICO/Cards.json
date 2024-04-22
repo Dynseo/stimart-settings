@@ -48,6 +48,18 @@
     }
   },
   {
+    "id": "turn_off_light",
+    "category": "steep",
+    "title": {
+      "fr": "Éteindre la lumière",
+      "us": "Turn off the light",
+      "it": "Spegni la luce",
+      "nl": "Doe het licht uit",
+      "cn": "关掉灯",
+      "pt": "Apague a luz"
+    }
+  },
+  {
     "id": "go_to_bed",
     "category": "sleep",
     "title": {
@@ -144,6 +156,18 @@
     }
   },
   {
+    "id": "clean_mouth",
+    "category": "eat",
+    "title": {
+      "fr": "Nettoyez votre bouche",
+      "us": "Clean your mouth",
+      "it": "Pulire la bocca",
+      "nl": "Maak je mond schoon",
+      "cn": "清洁你的嘴",
+      "pt": "Limpe sua boca"
+    }
+  },
+  {
     "id": "dishwasher",
     "category": "eat",
     "title": {
@@ -216,6 +240,54 @@
     }
   },
   {
+    "id": "go_to_toillets",
+    "category": "toilettes",
+    "title": {
+      "fr": "Aller aux toilettes",
+      "us": "Go to the toilet",
+      "it": "Andare in bagno",
+      "nl": "Ga naar het toilet",
+      "cn": "去厕所",
+      "pt": "Ir ao banheiro"
+    }
+  },
+  {
+    "id": "use_toilet_paper",
+    "category": "toilettes",
+    "title": {
+      "fr": "Utiliser le papier toilette",
+      "us": "Use toilet paper",
+      "it": "Usare la carta igienica",
+      "nl": "Gebruik toiletpapier",
+      "cn": "使用卫生纸",
+      "pt": "Use papel higiênico"
+    }
+  },
+  {
+    "id": "throw_away_paper",
+    "category": "toilettes",
+    "title": {
+      "fr": "Jetter le papier toilette",
+      "us": "Throw away the toilet paper",
+      "it": "Buttare la carta igienica",
+      "nl": "Gooi het toiletpapier weg",
+      "cn": "把卫生纸扔掉",
+      "pt": "Jogue fora o papel higiênico"
+    }
+  },
+  {
+    "id": "put_pants",
+    "category": "toilettes",
+    "title": {
+      "fr": "Mettre un pantalon",
+      "us": "Put on pants",
+      "it": "Mettere i pantaloni",
+      "nl": "Broek aantrekken",
+      "cn": "穿上裤子",
+      "pt": "Coloque calças"
+    }
+  },
+  {
     "id": "flush",
     "category": "toilettes",
     "title": {
@@ -228,8 +300,20 @@
     }
   },
   {
-    "id": "open_water_tap",
+    "id": "wash_hand",
     "category": "toilettes",
+    "title": {
+      "fr": "Se laver les mains",
+      "us": "Wash your hands",
+      "it": "Lavarsi le mani",
+      "nl": "Was je handen",
+      "cn": "洗手",
+      "pt": "Lave as mãos"
+    }
+  },
+  {
+    "id": "open_water_tap",
+    "category": "wash_hands",
     "title": {
       "fr": "Ouvrir le robinet d'eau",
       "us": "Open the water tap",
@@ -241,7 +325,7 @@
   },
   {
     "id": "put_soap",
-    "category": "toilettes",
+    "category": "wash_hands",
     "title": {
       "fr": "Prendre du savon et le faire mousser",
       "us": "Take soap and lather it",
@@ -252,8 +336,20 @@
     }
   },
   {
+    "id": "wash_hand",
+    "category": "wash_hands",
+    "title": {
+      "fr": "Se laver les mains",
+      "us": "Wash your hands",
+      "it": "Lavarsi le mani",
+      "nl": "Was je handen",
+      "cn": "洗手",
+      "pt": "Lave as mãos"
+    }
+  },
+  {
     "id": "close_water_tap",
-    "category": "toilettes",
+    "category": "wash_hands",
     "title": {
       "fr": "Fermer le robinet",
       "us": "Turn off the tap",
@@ -265,7 +361,7 @@
   },
   {
     "id": "dry_hands",
-    "category": "toilettes",
+    "category": "wash_hands",
     "title": {
       "fr": "Se sécher les mains",
       "us": "Dry your hands",
@@ -273,6 +369,18 @@
       "nl": "Droog je handen",
       "cn": "擦干双手",
       "pt": "Seque as mãos"
+    }
+  },
+  {
+    "id": "open_water_tap",
+    "category": "brush_teeth",
+    "title": {
+      "fr": "Ouvrir le robinet d'eau",
+      "us": "Open the water tap",
+      "it": "Aprire il rubinetto dell'acqua",
+      "nl": "Open de waterkraan",
+      "cn": "打开水龙头",
+      "pt": "Abra a torneira da água"
     }
   },
   {
@@ -300,6 +408,18 @@
     }
   },
   {
+    "id": "rinse_with_water",
+    "category": "brush_teeth",
+    "title": {
+      "fr": "Rincer la bouche à l\"eau",
+      "us": "Rinse your mouth with water",
+      "it": "Sciacquare la bocca",
+      "nl": "Spoel uw mond met water",
+      "cn": "用水漱口",
+      "pt": "Enxágue a boca com água"
+    }
+  },
+  {
     "id": "rinse_toothbrush",
     "category": "brush_teeth",
     "title": {
@@ -309,6 +429,18 @@
       "nl": "Spoel de tandenborstel af",
       "cn": "冲洗牙刷",
       "pt": "Enxágue a escova de dentes"
+    }
+  },
+  {
+    "id": "close_water_tap",
+    "category": "brush_teeth",
+    "title": {
+      "fr": "Fermer le robinet",
+      "us": "Turn off the tap",
+      "it": "Chiudere il rubinetto",
+      "nl": "Draai de kraan dicht",
+      "cn": "关掉水龙头",
+      "pt": "Feche a torneira"
     }
   }
 ]
