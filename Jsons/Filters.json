@@ -10,7 +10,9 @@
       "it": "Autismo",
       "cn": "自闭症",
       "nl": "Autisme",
-      "pt": "Autismo"
+      "pt": "Autismo",
+      "es": "Autismo",
+      "de": "Autismus"
     },
     "description": {
       "fr": "Découvrez les jeux adaptés à l'autisme, conçus pour travailler sur des fonctions cognitives telles que la communication, les schémas mentaux ou l'adaptation aux stimuli.",
@@ -18,7 +20,9 @@
       "it": "Scopri i giochi adattati per l'autismo, per lavorare su funzioni cognitive come la comunicazione, gli schemi mentali o l'adattamento agli stimoli.",
       "cn": "探索适合自闭症的游戏，旨在改善沟通、心理模式或对刺激的适应等认知功能。",
       "nl": "Ontdek games die zijn aangepast voor autisme, ontworpen om te werken aan cognitieve functies zoals communicatie, mentale patronen of aanpassing aan stimuli.",
-      "pt": "Descubra jogos adaptados para o autismo, desenvolvidos para trabalhar funções cognitivas como comunicação, padrões mentais ou adaptação a estímulos."
+      "pt": "Descubra jogos adaptados para o autismo, desenvolvidos para trabalhar funções cognitivas como comunicação, padrões mentais ou adaptação a estímulos.",
+      "es": "Descubre juegos aptos para autistas, diseñados para trabajar funciones cognitivas como la comunicación, los patrones mentales o la adaptación a estímulos.",
+      "de": "Entdecken Sie autismusfreundliche Spiele, die darauf ausgelegt sind, kognitive Funktionen wie Kommunikation, mentale Muster oder die Anpassung an Reize zu fördern."
     },
     "games": [
       "COLORFORM",
@@ -46,7 +50,9 @@
       "it": "ADHD",
       "cn": "多动症",
       "nl": "ADHD",
-      "pt": "TDAH"
+      "pt": "TDAH",
+      "es": "TDAH",
+      "de": "ADHS"
     },
     "description": {
       "fr": "Découvrez les jeux adaptés au TDAH, pour travailler sur des fonctions cognitives telles que l'inhibition, l'organisation des mouvements ou l'attention.",
@@ -54,7 +60,9 @@
       "it": "Scopri i giochi adattati per l'ADHD, per lavorare su funzioni cognitive come l'inibizione, l'organizzazione dei movimenti o l'attenzione.",
       "cn": "探索适合多动症的游戏，以改善抑制、运动组织或注意力等认知功能。",
       "nl": "Ontdek games aangepast aan ADHD, om te werken aan cognitieve functies zoals remming, organisatie van bewegingen of aandacht.",
-      "pt": "Descubra jogos adaptados ao TDAH, para trabalhar funções cognitivas como inibição, organização de movimentos ou atenção."
+      "pt": "Descubra jogos adaptados ao TDAH, para trabalhar funções cognitivas como inibição, organização de movimentos ou atenção.",
+      "es": "Descubre juegos adaptados al TDAH, para trabajar funciones cognitivas como la inhibición, la organización de los movimientos o la atención.",
+      "de": "Entdecken Sie Spiele, die an ADHS angepasst sind und kognitive Funktionen wie Hemmung, Bewegungsorganisation oder Aufmerksamkeit trainieren."
     },
     "games": [
       "COLORFORM",
@@ -85,7 +93,9 @@
       "it": "Disprassia",
       "cn": "运用障碍",
       "nl": "Dyspraxie",
-      "pt": "Dispraxia"
+      "pt": "Dispraxia",
+      "es": "dispraxia",
+      "de": "Dyspraxie"
     },
     "description": {
       "fr": "Découvrez les jeux adaptés à la dyspraxie, pour travailler sur des fonctions cognitives telles que la coordination, la séquentialité ou la coordination œil-main.",
@@ -93,7 +103,9 @@
       "it": "Scopri i giochi adattati per la disprassia, per lavorare su funzioni cognitive come la coordinazione, la sequenzialità o la coordinazione oculo manuale.",
       "cn": "探索适合运用障碍的游戏，以锻炼协调性、顺序性或手眼协调性等认知功能。",
       "nl": "Ontdek games die zijn aangepast aan dyspraxie, om te werken aan cognitieve functies zoals coördinatie, volgordelijkheid of hand-oogcoördinatie.",
-      "pt": "Descubra jogos adaptados à dispraxia, para trabalhar funções cognitivas como coordenação, sequencialidade ou coordenação olho-mão."
+      "pt": "Descubra jogos adaptados à dispraxia, para trabalhar funções cognitivas como coordenação, sequencialidade ou coordenação olho-mão.",
+      "es": "Descubre juegos adaptados a la dispraxia, para trabajar funciones cognitivas como la coordinación, la secuencialidad o la coordinación ojo-mano.",
+      "de": "Entdecken Sie Spiele, die an Dyspraxie angepasst sind und kognitive Funktionen wie Koordination, Sequentialität oder Hand-Auge-Koordination trainieren."
     },
     "games": [
       "PUZZLE",
@@ -129,7 +141,9 @@
       "it": "Discalculia",
       "cn": "计算障碍",
       "nl": "Dyscalculie",
-      "pt": "Discalculia"
+      "pt": "Discalculia",
+      "es": "discalculia",
+      "de": "Dyskalkulie"
     },
     "description": {
       "fr": "Découvrez les jeux adaptés à la dyscalculie, pour travailler sur des fonctions cognitives telles que l'ordre du système numérique, les tables de multiplication ou les calculs.",
@@ -137,7 +151,9 @@
       "it": "Scopri i giochi adattati per la discalculia, per lavorare su funzioni cognitive come l'ordine del sistema numerico, le tabelline o i calcoli.",
       "cn": "探索适合计算障碍的游戏，以锻炼认知功能，例如数字系统的顺序、乘法表或计算。",
       "nl": "Ontdek games die zijn aangepast aan dyscalculie, om te werken aan cognitieve functies zoals de volgorde van het numerieke systeem, tafels van vermenigvuldiging of berekeningen.",
-      "pt": "Descubra jogos adaptados à discalculia, para trabalhar funções cognitivas como a ordem do sistema numérico, tabuada ou cálculos."
+      "pt": "Descubra jogos adaptados à discalculia, para trabalhar funções cognitivas como a ordem do sistema numérico, tabuada ou cálculos.",
+      "es": "Descubre juegos adaptados a la discalculia, para trabajar funciones cognitivas como el orden del sistema numérico, las tablas de multiplicar o los cálculos.",
+      "de": "Entdecken Sie Spiele, die an Dyskalkulie angepasst sind, um kognitive Funktionen wie die Reihenfolge des Zahlensystems, Multiplikationstabellen oder Berechnungen zu trainieren."
     },
     "games": [
       "CALCULUS",
@@ -159,7 +175,9 @@
       "it": "Dislessia e disortografia",
       "cn": "诵读困难和拼写障碍",
       "nl": "Dyslexie en dysorthografie",
-      "pt": "Dislexia e disortografia"
+      "pt": "Dislexia e disortografia",
+      "es": "Dislexia y disgrafia",
+      "de": "Legasthenie und Dysgraphie"
     },
     "description": {
       "fr": "Découvrez les jeux adaptés à la dyslexie et à la dysorthographie, pour travailler sur des fonctions cognitives telles que la lecture, la structure de la phrase ou la classification sémantique.",
@@ -167,7 +185,9 @@
       "it": "Scopri i giochi adattati per la dislessia e la disortografia, per lavorare su funzioni cognitive come la lettura, la struttura della frase o la classificazione semantica.",
       "cn": "探索适合阅读障碍和拼写障碍的游戏，以改善阅读、句子结构或语义分类等认知功能。",
       "nl": "Ontdek games die zijn aangepast aan dyslexie en dysorthografie, om te werken aan cognitieve functies zoals lezen, zinsstructuur of semantische classificatie.",
-      "pt": "Descubra jogos adaptados à dislexia e à disortografia, para trabalhar funções cognitivas como leitura, estrutura de frases ou classificação semântica."
+      "pt": "Descubra jogos adaptados à dislexia e à disortografia, para trabalhar funções cognitivas como leitura, estrutura de frases ou classificação semântica.",
+      "es": "Descubre juegos adaptados a la dislexia y la disortografía, para trabajar funciones cognitivas como la lectura, la estructura de las frases o la clasificación semántica.",
+      "de": "Entdecken Sie Spiele, die an Legasthenie und Dysorthographie angepasst sind, um kognitive Funktionen wie Lesen, Satzstruktur oder semantische Klassifizierung zu trainieren."
     },
     "games": [
       "SLIDE_MAZE",
@@ -188,7 +208,9 @@
       "it": "Disfasia",
       "cn": "失语症",
       "nl": "Dysfasie",
-      "pt": "Disfasia"
+      "pt": "Disfasia",
+      "es": "Disfasia",
+      "de": "Dysphasie"
     },
     "description": {
       "fr": "Découvrez les jeux adaptés à la dysphasie, pour travailler sur des fonctions cognitives telles que le vocabulaire, la discrimination auditive ou la recherche de mots.",
@@ -196,7 +218,9 @@
       "it": "Scopri i giochi adattati per la disfasia, per lavorare su funzioni cognitive come il vocabolario, la disciminazione auditiva o la ricerca di parole.",
       "cn": "探索适合失语症的游戏，以锻炼词汇、听觉辨别或单词搜索等认知功能。",
       "nl": "Ontdek games die zijn aangepast aan dysfasie, om te werken aan cognitieve functies zoals woordenschat, auditieve discriminatie of woordzoeken.",
-      "pt": "Descubra jogos adaptados à disfasia, para trabalhar funções cognitivas como vocabulário, discriminação auditiva ou caça-palavras."
+      "pt": "Descubra jogos adaptados à disfasia, para trabalhar funções cognitivas como vocabulário, discriminação auditiva ou caça-palavras.",
+      "es": "Descubre juegos adaptados a la disfasia, para trabajar funciones cognitivas como el vocabulario, la discriminación auditiva o la búsqueda de palabras.",
+      "de": "Entdecken Sie Spiele, die an Dysphasie angepasst sind, um kognitive Funktionen wie Wortschatz, auditive Unterscheidung oder Wortsuche zu trainieren."
     },
     "games": [
       "INTRUS",
@@ -218,7 +242,9 @@
       "it": "Sindrome di Down",
       "cn": "三体性",
       "nl": "Downsyndroom",
-      "pt": "Trissomia"
+      "pt": "Trissomia",
+      "es": "Síndrome de Down",
+      "de": "Down-Syndrom"
     },
     "games": [
       "COLORFORM",
@@ -247,7 +273,9 @@
       "it": "Ictus",
       "cn": "中风",
       "nl": "Hartinfarct",
-      "pt": "Ataque cardíaco"
+      "pt": "Ataque cardíaco",
+      "es": "Ataque",
+      "de": "Schlaganfall"
     },
     "description": {
       "fr": "Découvrez les jeux adaptés aux séquelles d'AVC, pour travailler sur des fonctions cognitives telles que la communication, l'exploration visuelle ou l'attention.",
@@ -255,7 +283,9 @@
       "it": "Scopri i giochi adattati per l'ictus, per lavorare su funzioni cognitive come la comunicazione, l'esplorazione visiva o l'attenzione.",
       "cn": "探索适合中风后遗症的游戏，以改善沟通、视觉探索或注意力等认知功能。",
       "nl": "Ontdek games die zijn aangepast aan de nawerkingen van een beroerte, om te werken aan cognitieve functies zoals communicatie, visuele verkenning of aandacht.",
-      "pt": "Descubra jogos adaptados às sequelas do AVC, para trabalhar funções cognitivas como comunicação, exploração visual ou atenção."
+      "pt": "Descubra jogos adaptados às sequelas do AVC, para trabalhar funções cognitivas como comunicação, exploração visual ou atenção.",
+      "es": "Descubre juegos adaptados a las secuelas del ictus, para trabajar funciones cognitivas como la comunicación, la exploración visual o la atención.",
+      "de": "Entdecken Sie Spiele, die an die Folgen eines Schlaganfalls angepasst sind, um kognitive Funktionen wie Kommunikation, visuelle Erkundung oder Aufmerksamkeit zu trainieren."
     },
     "games": [
       "CALCULUS",
@@ -286,7 +316,9 @@
       "it": "Lettura",
       "cn": "阅读",
       "nl": "Lezen",
-      "pt": "Leitura"
+      "pt": "Leitura",
+      "es": "Lectura",
+      "de": "Lektüre"
     },
     "games": [
       "PUZZLE",
@@ -311,7 +343,9 @@
       "it": "Ortografia",
       "cn": "拼写",
       "nl": "Spelling",
-      "pt": "Ortografia"
+      "pt": "Ortografia",
+      "es": "Ortografía",
+      "de": "Rechtschreibung"
     },
     "games": [
       "INTRUS",
@@ -331,7 +365,9 @@
       "it": "Matematica",
       "cn": "数学",
       "nl": "Wiskunde",
-      "pt": "Matemática"
+      "pt": "Matemática",
+      "es": "Matemáticas",
+      "de": "Mathematik"
     },
     "description": {
       "nl": "                   "
@@ -376,7 +412,9 @@
       "it": "Storia",
       "cn": "历史",
       "nl": "Geschiedenis",
-      "pt": "História"
+      "pt": "História",
+      "es": "Historia",
+      "de": "Geschichte"
     },
     "games": [
       "QUIZZLE",
@@ -394,7 +432,9 @@
       "it": "Conoscere il mondo",
       "cn": "质疑世界",
       "nl": "Wereldvragen",
-      "pt": "Questione o mundo"
+      "pt": "Questione o mundo",
+      "es": "Explorando el mundo",
+      "de": "Die Welt erkunden"
     },
     "games": [
       "ANIMALS",
@@ -413,7 +453,9 @@
       "it": "Attività fisiche",
       "cn": "体力活动",
       "nl": "Fysieke activiteit",
-      "pt": "Atividade física"
+      "pt": "Atividade física",
+      "es": "Actividades físicas",
+      "de": "Körperliche Aktivitäten"
     },
     "games": [
       "DANCING_MUSIC",
@@ -435,7 +477,9 @@
       "it": "Attività tranquille",
       "cn": "安静的活动",
       "nl": "Rustige activiteiten",
-      "pt": "Atividades tranquilas"
+      "pt": "Atividades tranquilas",
+      "es": "actividades tranquilas",
+      "de": "Ruhige Aktivitäten"
     },
     "games": [
       "EMOTION_MIME",
@@ -454,7 +498,9 @@
       "it": "Cultura",
       "cn": "文化",
       "nl": "Cultuur",
-      "pt": "Cultura"
+      "pt": "Cultura",
+      "es": "Cultura",
+      "de": "Kultur"
     },
     "description": {
       "fr": "Testez vos connaissances culturelles",
@@ -462,7 +508,9 @@
       "it": "Metti alla prova la tua cultura generale",
       "cn": "测试你的文化知识",
       "nl": "Test je culturele kennis",
-      "pt": "Teste seu conhecimento cultural"
+      "pt": "Teste seu conhecimento cultural",
+      "es": "Pon a prueba tus conocimientos culturales",
+      "de": "Testen Sie Ihr kulturelles Wissen"
     },
     "games": [
       "PUZZLE",
@@ -489,7 +537,9 @@
       "it": "Destrezza",
       "cn": "灵巧",
       "nl": "Behendigheid",
-      "pt": "Destreza"
+      "pt": "Destreza",
+      "es": "Destreza ",
+      "de": "Geschicklichkeit "
     },
     "description": {
       "fr": "Travaillez votre dextérité pour mieux contrôler le mouvement de vos mains",
@@ -497,7 +547,9 @@
       "it": "Lavora sulla tua destrezza per controllare meglio il movimento delle tue mani",
       "cn": "锻炼你的灵活性，更好地控制你的手的运动",
       "nl": "Werk aan uw behendigheid om de beweging van uw handen beter te controleren",
-      "pt": "Trabalhe sua destreza para controlar melhor o movimento de suas mãos"
+      "pt": "Trabalhe sua destreza para controlar melhor o movimento de suas mãos",
+      "es": "Trabaja tu destreza para controlar mejor el movimiento de tus manos",
+      "de": "Trainieren Sie Ihre Geschicklichkeit, um die Bewegungen Ihrer Hände besser kontrollieren zu können"
     },
     "games": [
       "PUZZLE",
@@ -519,7 +571,9 @@
       "it": "Logica",
       "cn": "逻辑",
       "nl": "Logica",
-      "pt": "Lógica"
+      "pt": "Lógica",
+      "es": "Lógica",
+      "de": "Logik"
     },
     "description": {
       "fr": "Travaillez votre logique pour améliorer votre stratégie",
@@ -527,7 +581,9 @@
       "it": "Lavora sulla logica per migliorare le tue strategie",
       "cn": "锻炼你的逻辑来改进你的策略",
       "nl": "Werk aan uw logica om uw strategie te verbeteren",
-      "pt": "Trabalhe em sua lógica para melhorar sua estratégia"
+      "pt": "Trabalhe em sua lógica para melhorar sua estratégia",
+      "es": "Trabaja en tu lógica para mejorar tu estrategia",
+      "de": "Arbeiten Sie an Ihrer Logik, um Ihre Strategie zu verbessern"
     },
     "games": [
       "SUDOKU",
@@ -550,7 +606,9 @@
       "it": "Sono curioso",
       "cn": "我很好奇",
       "nl": "Ik ben nieuwsgierig",
-      "pt": "estou curioso"
+      "pt": "estou curioso",
+      "es": "Soy curioso",
+      "de": "ich bin neugierig"
     },
     "description": {
       "fr": "Laissez-nous vous surprendre avec l'un de ces jeux",
@@ -558,7 +616,9 @@
       "it": "Lasciati sorprendere con uno di questi giochi",
       "cn": "让我们通过其中一款游戏给您带来惊喜",
       "nl": "Laat je verrassen met één van deze spellen",
-      "pt": "Deixe-nos surpreendê-lo com um desses jogos"
+      "pt": "Deixe-nos surpreendê-lo com um desses jogos",
+      "es": "Déjanos sorprenderte con uno de estos juegos",
+      "de": "Lassen Sie sich von uns mit einem dieser Spiele überraschen"
     },
     "games": [
       "COLORMIND",
@@ -582,7 +642,9 @@
       "it": "Animazione collettiva",
       "cn": "集体娱乐",
       "nl": "Collectief vermaak",
-      "pt": "Entretenimento coletivo"
+      "pt": "Entretenimento coletivo",
+      "es": "Actividades grupales",
+      "de": "Gruppenaktivitäten"
     },
     "description": {
       "fr": "Idéal pour jouer à plusieurs joueurs sur un seul écran",
@@ -590,7 +652,9 @@
       "it": "Ideale per giocare con più giocatori su un unico schermo",
       "cn": "非常适合在一个屏幕上与多个玩家一起玩",
       "nl": "Ideaal om met meerdere spelers op één scherm te spelen",
-      "pt": "Ideal para jogar com vários jogadores em uma única tela"
+      "pt": "Ideal para jogar com vários jogadores em uma única tela",
+      "es": "Ideal para jugar con varios jugadores en una sola pantalla",
+      "de": "Ideal zum Spielen mit mehreren Spielern auf einem einzigen Bildschirm"
     },
     "games": [
       "QUIZZLE",
