@@ -6,7 +6,9 @@
     "it": "Risposte corrette",
     "cn": "正确答案",
     "nl": "Juiste antwoorden",
-    "pt": "Respostas corretas"
+    "pt": "Respostas corretas",
+    "de": "Korrekte Antworten",
+    "es": "Respuestas correctas"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -15,7 +17,9 @@
     "it": "Risposte sbagliate",
     "cn": "错误答案",
     "nl": "Verkeerde antwoorden",
-    "pt": "respostas erradas"
+    "pt": "respostas erradas",
+    "de": "Falsche Antworten",
+    "es": "Respuestas incorrectas"
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
@@ -24,7 +28,9 @@
     "it": "Visualizzazioni della soluzione",
     "cn": "解决方案可视化",
     "nl": "Oplossing visualisaties",
-    "pt": "Visualizações da solução"
+    "pt": "Visualizações da solução",
+    "de": "Lösungsvisualisierungen",
+    "es": "Visualizaciones de soluciones"
   },
   {
     "scoreMnemonic": "nbClues",
@@ -33,7 +39,9 @@
     "it": "Indici utilizzati",
     "cn": "使用的索引",
     "nl": "Indexen gebruikt",
-    "pt": "Índices usados"
+    "pt": "Índices usados",
+    "de": "Verwendete Indizes",
+    "es": "Índices utilizados"
   },
   {
     "scoreMnemonic": "time",
@@ -42,7 +50,9 @@
     "it": "Tempo",
     "cn": "时间",
     "nl": "Tijd",
-    "pt": "Tempo"
+    "pt": "Tempo",
+    "de": "Zeit",
+    "es": "Tiempo"
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
@@ -51,7 +61,9 @@
     "it": "Domande passate",
     "cn": "过去的问题",
     "nl": "Eerdere vragen",
-    "pt": "Perguntas anteriores"
+    "pt": "Perguntas anteriores",
+    "de": "Frühere Fragen",
+    "es": "Preguntas pasadas"
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
@@ -60,7 +72,9 @@
     "it": "Oggetti dimenticati",
     "cn": "遗忘物品",
     "nl": "Vergeten artikelen",
-    "pt": "objetos esquecidos"
+    "pt": "objetos esquecidos",
+    "de": "Vergessene Gegenstände",
+    "es": "Artículos olvidados"
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
@@ -69,7 +83,9 @@
     "it": "Oggetti digitati per errore",
     "cn": "输入错误的对象",
     "nl": "Objecten zijn fout getypt",
-    "pt": "Objetos digitados com erro"
+    "pt": "Objetos digitados com erro",
+    "de": "Fehlerhaft eingegebene Objekte",
+    "es": "Objetos escritos por error"
   },
   {
     "scoreMnemonic": "nbResets",
@@ -78,7 +94,9 @@
     "it": "Torna alla partenza",
     "cn": "返回出发地",
     "nl": "Keert terug naar vertrek",
-    "pt": "Retorna para partida"
+    "pt": "Retorna para partida",
+    "de": "Kehrt zur Abreise zurück",
+    "es": "Vuelve a la salida"
   },
   {
     "scoreMnemonic": "nbDeaths",
@@ -87,7 +105,9 @@
     "it": "Vite perdute",
     "cn": "失去生命",
     "nl": "Levens verloren",
-    "pt": "vidas perdidas"
+    "pt": "vidas perdidas",
+    "de": "Leben verloren",
+    "es": "Vidas perdidas"
   },
   {
     "scoreMnemonic": "nbMoveMin",
@@ -96,7 +116,9 @@
     "it": "Mosse minime",
     "cn": "最少移动次数",
     "nl": "Minimale bewegingen",
-    "pt": "Movimentos mínimos"
+    "pt": "Movimentos mínimos",
+    "de": "Mindestreisezeit",
+    "es": "Viaje mínimo"
   },
   {
     "scoreMnemonic": "reactionTime",
@@ -105,7 +127,9 @@
     "it": "Tempo di reazione",
     "cn": "反应时间",
     "nl": "Reactietijd",
-    "pt": "Tempo de reação"
+    "pt": "Tempo de reação",
+    "de": "Reaktionszeit",
+    "es": "Tiempo de reacción"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -115,7 +139,9 @@
     "it": "Viaggi fatti",
     "cn": "出行次数",
     "nl": "Uitstapjes gemaakt",
-    "pt": "Viagens feitas"
+    "pt": "Viagens feitas",
+    "de": "Gemachte Reisen",
+    "es": "Viajes realizados"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -125,7 +151,9 @@
     "it": "le mie pecore",
     "cn": "我的羊",
     "nl": "mijn schapen",
-    "pt": "minhas ovelhas"
+    "pt": "minhas ovelhas",
+    "de": "Meine Schafe",
+    "es": "mis ovejas"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -136,7 +164,9 @@
     "it": "Campo compilato",
     "cn": "字段填充",
     "nl": "Veld gevuld",
-    "pt": "Campo preenchido"
+    "pt": "Campo preenchido",
+    "de": "Ausgefülltes Feld",
+    "es": "Campo lleno"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -146,7 +176,9 @@
     "it": "Falli",
     "cn": "犯规",
     "nl": "Overtredingen",
-    "pt": "Faltas"
+    "pt": "Faltas",
+    "de": "Fehler",
+    "es": "Fallos"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -156,7 +188,9 @@
     "it": "Viaggi fatti",
     "cn": "出行次数",
     "nl": "Uitstapjes gemaakt",
-    "pt": "Viagens feitas"
+    "pt": "Viagens feitas",
+    "de": "Gemachte Reisen",
+    "es": "Viajes realizados"
   },
   {
     "scoreMnemonic": "nbMoveMin",
@@ -166,7 +200,9 @@
     "it": "sillabe da trovare",
     "cn": "要查找的音节",
     "nl": "lettergrepen te vinden",
-    "pt": "sílabas para encontrar"
+    "pt": "sílabas para encontrar",
+    "de": "Silben zu finden",
+    "es": "Sílabas para encontrar"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -176,7 +212,9 @@
     "it": "Colpi",
     "cn": "打击",
     "nl": "Blaast",
-    "pt": "golpes"
+    "pt": "golpes",
+    "de": "Schläge",
+    "es": "golpes"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -186,7 +224,9 @@
     "it": "Coppie trovate",
     "cn": "找到对",
     "nl": "Paren gevonden",
-    "pt": "Pares encontrados"
+    "pt": "Pares encontrados",
+    "de": "Paare gefunden",
+    "es": "Pares encontrados"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -196,7 +236,9 @@
     "it": "Parole trovate",
     "cn": "找到的单词",
     "nl": "Woorden gevonden",
-    "pt": "palavras encontradas"
+    "pt": "palavras encontradas",
+    "de": "Wörter gefunden",
+    "es": "palabras encontradas"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -206,7 +248,9 @@
     "it": "Proverbi risolti",
     "cn": "谚语已解决",
     "nl": "Spreekwoorden opgelost",
-    "pt": "Provérbios resolvidos"
+    "pt": "Provérbios resolvidos",
+    "de": "Sprichwörter gelöst",
+    "es": "Proverbios resueltos"
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
@@ -216,7 +260,9 @@
     "it": "Proverbi del passato",
     "cn": "过去的谚语",
     "nl": "Spreekwoorden uit het verleden",
-    "pt": "provérbios passados"
+    "pt": "provérbios passados",
+    "de": "Frühere Sprichwörter",
+    "es": "Proverbios pasados"
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
@@ -226,7 +272,9 @@
     "it": "colpite le palle sbagliate",
     "cn": "击中错误的球",
     "nl": "Verkeerde ballen geraakt",
-    "pt": "Bolas erradas acertadas"
+    "pt": "Bolas erradas acertadas",
+    "de": "Schlecht getroffene Bälle",
+    "es": "Golpe de bolas malas"
   },
   {
     "scoreMnemonic": "nbMoveMin",
@@ -236,7 +284,9 @@
     "it": "Buone palle da toccare",
     "cn": "好球触碰",
     "nl": "Goede ballen om aan te raken",
-    "pt": "Boas bolas para tocar"
+    "pt": "Boas bolas para tocar",
+    "de": "Gute Luftballons zum Anfassen",
+    "es": "Buenos globos para tocar."
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -246,7 +296,9 @@
     "it": "Buone palle toccate",
     "cn": "好球触碰",
     "nl": "Goede ballen raakten",
-    "pt": "Boas bolas tocadas"
+    "pt": "Boas bolas tocadas",
+    "de": "Gute Bälle berührt",
+    "es": "Buenas bolas tocadas"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -256,7 +308,9 @@
     "it": "Buone forme toccate",
     "cn": "感动的好形式",
     "nl": "Goede vormen raakten elkaar",
-    "pt": "Boas formas tocadas"
+    "pt": "Boas formas tocadas",
+    "de": "Gute Formen betroffen",
+    "es": "Buenas formas afectadas"
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
@@ -266,7 +320,9 @@
     "it": "Toccate forme sbagliate",
     "cn": "触及错误的表格",
     "nl": "Verkeerde vormen aangeraakt",
-    "pt": "Formas erradas tocadas"
+    "pt": "Formas erradas tocadas",
+    "de": "Schlechte Formen betroffen",
+    "es": "Malas formas afectadas"
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
@@ -276,7 +332,9 @@
     "it": "Moduli falliti",
     "cn": "失败的表格",
     "nl": "Mislukte formulieren",
-    "pt": "Formulários com falha"
+    "pt": "Formulários com falha",
+    "de": "Fehlgeschlagene Formen ",
+    "es": "formas fallidas "
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -286,7 +344,9 @@
     "it": "Talpe normali sfruttate",
     "cn": "正常痣被敲击",
     "nl": "Getapte normale moedervlekken",
-    "pt": "Toupeiras normais tocadas"
+    "pt": "Toupeiras normais tocadas",
+    "de": "Normale gezapfte Muttermale",
+    "es": "Lunares roscados normales"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
@@ -296,7 +356,9 @@
     "it": "Talpe con elmetto picchiettate",
     "cn": "戴头盔的鼹鼠被窃听",
     "nl": "Gehelmde mollen tikten",
-    "pt": "Toupeiras de capacete tocadas"
+    "pt": "Toupeiras de capacete tocadas",
+    "de": "Angezapfte Helm-Maulwürfe",
+    "es": "Topos de casco golpeados"
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
@@ -306,7 +368,9 @@
     "it": "Talpe dagli occhiali picchiettate",
     "cn": "眼镜鼹鼠被窃听",
     "nl": "Gebrilde mollen tikten",
-    "pt": "Toupeiras de óculos tocadas"
+    "pt": "Toupeiras de óculos tocadas",
+    "de": "Angezapfte Brillenmaulwürfe",
+    "es": "Topos de anteojos aprovechados"
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
@@ -316,7 +380,9 @@
     "it": "Talpe fallite",
     "cn": "失败的痣",
     "nl": "Mislukte mollen",
-    "pt": "Toupeiras falhadas"
+    "pt": "Toupeiras falhadas",
+    "de": "Fehlgeschlagene Maulwürfe",
+    "es": "lunares fallidos"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -326,7 +392,9 @@
     "it": "Frecce scattate",
     "cn": "箭被触发",
     "nl": "Pijlen geactiveerd",
-    "pt": "Setas acionadas"
+    "pt": "Setas acionadas",
+    "de": "Pfeile abgefeuert",
+    "es": "Flechas disparadas"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -336,7 +404,9 @@
     "it": "Frecce non attivate",
     "cn": "箭头未触发",
     "nl": "Pijlen niet geactiveerd",
-    "pt": "Setas não acionadas"
+    "pt": "Setas não acionadas",
+    "de": "Pfeile wurden nicht abgefeuert",
+    "es": "Flechas no disparadas"
   },
   {
     "scoreMnemonic": "nbChallenges",
@@ -346,7 +416,9 @@
     "it": "Pupazzi di neve completati",
     "cn": "已完成的雪人",
     "nl": "Voltooide sneeuwpoppen",
-    "pt": "bonecos de neve concluídos"
+    "pt": "bonecos de neve concluídos",
+    "de": "Fertige Schneemänner",
+    "es": "muñecos de nieve completados"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -356,7 +428,9 @@
     "it": "Parole trovate",
     "cn": "找到的单词",
     "nl": "Woorden gevonden",
-    "pt": "palavras encontradas"
+    "pt": "palavras encontradas",
+    "de": "Wörter gefunden",
+    "es": "palabras encontradas"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -366,7 +440,9 @@
     "it": "Parole non trovate",
     "cn": "未找到单词",
     "nl": "Woorden niet gevonden",
-    "pt": "Palavras não encontradas"
+    "pt": "Palavras não encontradas",
+    "de": "Wörter nicht gefunden",
+    "es": "Palabras no encontradas"
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
@@ -376,7 +452,9 @@
     "it": "Lettere fallite",
     "cn": "失败的信件",
     "nl": "Mislukte brieven",
-    "pt": "cartas falhadas"
+    "pt": "cartas falhadas",
+    "de": "Fehlgeschlagene Briefe",
+    "es": "cartas fallidas"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -386,7 +464,9 @@
     "it": "Lettere ritrovate",
     "cn": "找到信件",
     "nl": "Brieven gevonden",
-    "pt": "cartas encontradas"
+    "pt": "cartas encontradas",
+    "de": "Briefe gefunden",
+    "es": "Cartas encontradas"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -396,7 +476,9 @@
     "it": "Preda mangiata",
     "cn": "猎物被吃掉",
     "nl": "prooi gegeten",
-    "pt": "presa comida"
+    "pt": "presa comida",
+    "de": "Beute gefressen",
+    "es": "presa comida"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -406,7 +488,9 @@
     "it": "Preda mancata",
     "cn": "错过猎物",
     "nl": "Gemiste prooi",
-    "pt": "presa perdida"
+    "pt": "presa perdida",
+    "de": "Beute verpasst",
+    "es": "presa perdida"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -416,7 +500,9 @@
     "it": "Palle mancate",
     "cn": "失球",
     "nl": "Gemiste ballen",
-    "pt": "bolas perdidas"
+    "pt": "bolas perdidas",
+    "de": "Verschossene Bälle",
+    "es": "bolas perdidas"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -426,7 +512,9 @@
     "it": "Palle colpite",
     "cn": "球击中",
     "nl": "Ballen geraakt",
-    "pt": "Bolas batidas"
+    "pt": "Bolas batidas",
+    "de": "Bälle getroffen",
+    "es": "bolas golpeadas"
   },
   {
     "scoreMnemonic": "nbChallenges",
@@ -436,7 +524,9 @@
     "it": "Punti",
     "cn": "积分",
     "nl": "Punten",
-    "pt": "Pontos"
+    "pt": "Pontos",
+    "de": "Punkte",
+    "es": "Puntos"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -446,7 +536,9 @@
     "it": "Righe e colonne completate",
     "cn": "完成的行和列",
     "nl": "Voltooide rijen en kolommen",
-    "pt": "Linhas e colunas concluídas"
+    "pt": "Linhas e colunas concluídas",
+    "de": "Abgeschlossene Zeilen und Spalten",
+    "es": "Filas y columnas completadas"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
@@ -456,7 +548,9 @@
     "it": "Combinazioni",
     "cn": "组合",
     "nl": "Combo's",
-    "pt": "Combos"
+    "pt": "Combos",
+    "de": "Kombinationen",
+    "es": "combos"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
@@ -466,7 +560,9 @@
     "it": "Combinazione massima",
     "cn": "最大组合",
     "nl": "Maximale combinatie",
-    "pt": "Combinação máxima"
+    "pt": "Combinação máxima",
+    "de": "Max Combo",
+    "es": "Combinación máxima"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -476,7 +572,9 @@
     "it": "Numero di animali salvati",
     "cn": "获救动物数量",
     "nl": "Aantal geredde dieren",
-    "pt": "Número de animais salvos"
+    "pt": "Número de animais salvos",
+    "de": "Anzahl der geretteten Tiere",
+    "es": "Número de animales salvados"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -486,6 +584,8 @@
     "it": "Numero di cattive coppie",
     "cn": "坏对数量",
     "nl": "Aantal slechte paren",
-    "pt": "Número de pares ruins"
+    "pt": "Número de pares ruins",
+    "de": "Anzahl fehlerhafter Paare",
+    "es": "Número de pares malos"
   }
 ]
