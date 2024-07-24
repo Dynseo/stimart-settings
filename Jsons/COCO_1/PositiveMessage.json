@@ -6,7 +6,9 @@
     "it": "Sono molto felice di vedere che stai bene!",
     "pt": "Fico muito feliz em ver que você está bem!",
     "cn": "我很高兴看到你做得很好！",
-    "nl": "Ik ben heel blij om te zien dat het goed met je gaat!"
+    "nl": "Ik ben heel blij om te zien dat het goed met je gaat!",
+    "es": "¡Me alegra mucho ver que lo estás haciendo bien!",
+    "de": "Es freut mich sehr, dass es dir gut geht!"
   },
   {
     "category": "positive_message",
@@ -15,7 +17,9 @@
     "it": "Sono così felice di sapere che ti senti bene. ",
     "pt": "Estou tão feliz em saber que você está se sentindo bem. ",
     "cn": "我很高兴知道你感觉很好。 ",
-    "nl": "Ik ben zo blij om te weten dat je je goed voelt. "
+    "nl": "Ik ben zo blij om te weten dat je je goed voelt. ",
+    "es": "Me alegra mucho saber que te sientes bien. ",
+    "de": "Ich bin so froh zu wissen, dass es dir gut geht. "
   },
   {
     "category": "positive_message",
@@ -24,7 +28,9 @@
     "it": "Approfitta di questa bellissima energia e continua così.",
     "pt": "Aproveite essa linda energia e continue assim.",
     "cn": "利用这种美丽的能量并保持下去。",
-    "nl": "Profiteer van deze prachtige energie en ga zo door."
+    "nl": "Profiteer van deze prachtige energie en ga zo door.",
+    "es": "Aprovecha esta hermosa energía y sigue así.",
+    "de": "Nutzen Sie diese schöne Energie und machen Sie weiter so."
   },
   {
     "category": "positive_message",
@@ -33,7 +39,9 @@
     "it": "Che ottima notizia! Sapere che ti senti bene mi riempie di gioia. ",
     "pt": "Que excelente notícia! Saber que você se sente bem me enche de alegria. ",
     "cn": "多么好的消息啊！知道你感觉良好让我充满喜悦。 ",
-    "nl": "Wat een uitstekend nieuws! De wetenschap dat je je goed voelt, vervult mij met vreugde. "
+    "nl": "Wat een uitstekend nieuws! De wetenschap dat je je goed voelt, vervult mij met vreugde. ",
+    "es": "¡Qué excelente noticia! Saber que te sientes bien me llena de alegría. ",
+    "de": "Was für tolle Neuigkeiten! Zu wissen, dass es dir gut geht, erfüllt mich mit Freude. "
   },
   {
     "category": "positive_message",
@@ -42,7 +50,9 @@
     "it": "È magnifico ! Non c'è niente come sentirsi bene con se stessi. ",
     "pt": "Isso é maravilhoso ! Não há nada como se sentir bem consigo mesmo. ",
     "cn": "那好极了 ！没有什么比自我感觉良好更好的了。 ",
-    "nl": "Dat is geweldig ! Er gaat niets boven een goed gevoel over jezelf. "
+    "nl": "Dat is geweldig ! Er gaat niets boven een goed gevoel over jezelf. ",
+    "es": "Es maravilloso ! No hay nada como sentirse bien consigo mismo. ",
+    "de": "Das ist wunderbar ! Es gibt nichts Schöneres, als sich gut zu fühlen. "
   },
   {
     "category": "positive_message",
@@ -51,7 +61,9 @@
     "it": "Continua a crescere, sono fiero di te.",
     "pt": "Continue crescendo, estou orgulhoso de você.",
     "cn": "继续成长，我为你感到骄傲。",
-    "nl": "Blijf groeien, ik ben trots op je."
+    "nl": "Blijf groeien, ik ben trots op je.",
+    "es": "Sigue creciendo, estoy orgulloso de ti.",
+    "de": "Wachse weiter, ich bin stolz auf dich."
   },
   {
     "category": "positive_message",
@@ -60,7 +72,9 @@
     "it": "Grazie per aver condiviso la tua gioia con me!",
     "pt": "Obrigada por compartilhar sua alegria comigo!",
     "cn": "感谢您与我分享您的快乐！",
-    "nl": "Bedankt dat je je vreugde met mij deelt!"
+    "nl": "Bedankt dat je je vreugde met mij deelt!",
+    "es": "¡Gracias por compartir tu alegría conmigo!",
+    "de": "Danke, dass du deine Freude mit mir teilst!"
   },
   {
     "category": "positive_citation",
@@ -69,7 +83,9 @@
     "it": "“La felicità è come una bolla di sapone: a volte bisogna soffiare un po’ per farla durare.”",
     "pt": "“A felicidade é como uma bolha de sabão: às vezes é preciso soprar um pouco para durar.”",
     "cn": "“幸福就像肥皂泡：有时你必须吹一点才能让它持久。”",
-    "nl": "“Geluk is als een zeepbel: soms moet je een beetje blazen om hem te laten blijven bestaan.”"
+    "nl": "“Geluk is als een zeepbel: soms moet je een beetje blazen om hem te laten blijven bestaan.”",
+    "es": "“La felicidad es como una pompa de jabón: a veces hay que soplar un poco para que dure”.",
+    "de": "„Glück ist wie eine Seifenblase: Manchmal muss man ein wenig platzen, damit sie hält.“"
   },
   {
     "category": "positive_citation",
@@ -78,7 +94,9 @@
     "it": "“La felicità è quando i tuoi sogni diventano realtà e li condividi con chi ami.”",
     "pt": "“Felicidade é quando seus sonhos se tornam realidade e você os compartilha com quem você ama.”",
     "cn": "“幸福就是当你的梦想成真并与你所爱的人分享它们时。”",
-    "nl": "“Geluk is wanneer je dromen uitkomen en je ze deelt met degenen van wie je houdt.”"
+    "nl": "“Geluk is wanneer je dromen uitkomen en je ze deelt met degenen van wie je houdt.”",
+    "es": "\"La felicidad es cuando tus sueños se hacen realidad y los compartes con quienes amas\".",
+    "de": "„Glück ist, wenn deine Träume wahr werden und du sie mit denen teilst, die du liebst.“"
   },
   {
     "category": "positive_citation",
@@ -87,7 +105,9 @@
     "it": "“Il segreto della felicità è vedere ogni momento come un dono.” - Cocco ",
     "pt": "“O segredo da felicidade é ver cada momento como uma dádiva.” - Coco ",
     "cn": "“幸福的秘诀就是把每一刻都视为一份礼物。” -可可 ",
-    "nl": "“Het geheim van geluk is dat je elk moment als een geschenk ziet.” - Kokos "
+    "nl": "“Het geheim van geluk is dat je elk moment als een geschenk ziet.” - Kokos ",
+    "es": "\"El secreto de la felicidad es ver cada momento como un regalo\". - Coco ",
+    "de": "„Das Geheimnis des Glücks besteht darin, jeden Moment als Geschenk zu sehen.“ - Coco "
   },
   {
     "category": "positive_citation",
@@ -96,7 +116,9 @@
     "it": "“La felicità è come un raggio di sole che ti scalda il cuore.” - Cocco ",
     "pt": "“A felicidade é como um raio de sol que aquece o coração.” - Coco ",
     "cn": "“幸福就像一缕阳光，温暖你的心。” -可可 ",
-    "nl": "“Geluk is als een zonnestraal die je hart verwarmt.” - Kokos "
+    "nl": "“Geluk is als een zonnestraal die je hart verwarmt.” - Kokos ",
+    "es": "“La felicidad es como un rayo de sol que calienta tu corazón”. - Coco ",
+    "de": "„Glück ist wie ein Sonnenstrahl, der einem das Herz erwärmt.“ - Coco "
   },
   {
     "category": "positive_citation",
@@ -105,7 +127,9 @@
     "it": "“La felicità è quando ti senti bene con te stesso e ti piace essere te stesso.” - Cocco ",
     "pt": "“Felicidade é quando você se sente bem consigo mesmo e gosta de ser você mesmo.” - Coco ",
     "cn": "“幸福就是当你自我感觉良好并享受做自己的时候。” -可可 ",
-    "nl": "“Geluk is wanneer je een goed gevoel over jezelf hebt en ervan geniet jezelf te zijn.” - Kokos "
+    "nl": "“Geluk is wanneer je een goed gevoel over jezelf hebt en ervan geniet jezelf te zijn.” - Kokos ",
+    "es": "\"La felicidad es cuando te sientes bien contigo mismo y disfrutas siendo tú mismo\". - Coco ",
+    "de": "„Glück ist, wenn man sich gut fühlt und Freude daran hat, man selbst zu sein.“ - Coco "
   },
   {
     "category": "positive_citation",
@@ -114,6 +138,8 @@
     "it": "\"La felicità è quando sorridi senza motivo, solo perché sei felice di essere lì.\" - Cocco",
     "pt": "“Felicidade é quando você sorri sem motivo, só porque está feliz por estar ali.” - Coco",
     "cn": "“幸福就是当你无缘无故地微笑，只是因为你很高兴在那里。” -可可",
-    "nl": "“Geluk is wanneer je zonder reden lacht, gewoon omdat je blij bent om daar te zijn.” - Kokos"
+    "nl": "“Geluk is wanneer je zonder reden lacht, gewoon omdat je blij bent om daar te zijn.” - Kokos",
+    "es": "\"La felicidad es cuando sonríes sin ningún motivo, sólo porque estás feliz de estar ahí\". - Coco",
+    "de": "„Glück ist, wenn man ohne Grund lächelt, nur weil man glücklich ist, dort zu sein.“ - Coco"
   }
 ]
