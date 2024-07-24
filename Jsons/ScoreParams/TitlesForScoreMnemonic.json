@@ -214,7 +214,7 @@
     "nl": "Blaast",
     "pt": "golpes",
     "de": "Schläge",
-    "es": "golpes"
+    "es": "Golpes"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -334,7 +334,7 @@
     "nl": "Mislukte formulieren",
     "pt": "Formulários com falha",
     "de": "Fehlgeschlagene Formen ",
-    "es": "formas fallidas "
+    "es": "Formas fallidas "
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -382,7 +382,7 @@
     "nl": "Mislukte mollen",
     "pt": "Toupeiras falhadas",
     "de": "Fehlgeschlagene Maulwürfe",
-    "es": "lunares fallidos"
+    "es": "Lunares fallidos"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -418,7 +418,7 @@
     "nl": "Voltooide sneeuwpoppen",
     "pt": "bonecos de neve concluídos",
     "de": "Fertige Schneemänner",
-    "es": "muñecos de nieve completados"
+    "es": "Muñecos de nieve completados"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -430,7 +430,7 @@
     "nl": "Woorden gevonden",
     "pt": "palavras encontradas",
     "de": "Wörter gefunden",
-    "es": "palabras encontradas"
+    "es": "Palabras encontradas"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -454,7 +454,7 @@
     "nl": "Mislukte brieven",
     "pt": "cartas falhadas",
     "de": "Fehlgeschlagene Briefe",
-    "es": "cartas fallidas"
+    "es": "Cartas fallidas"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -478,7 +478,7 @@
     "nl": "prooi gegeten",
     "pt": "presa comida",
     "de": "Beute gefressen",
-    "es": "presa comida"
+    "es": "Presa comida"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -490,7 +490,7 @@
     "nl": "Gemiste prooi",
     "pt": "presa perdida",
     "de": "Beute verpasst",
-    "es": "presa perdida"
+    "es": "Presa perdida"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -502,7 +502,7 @@
     "nl": "Gemiste ballen",
     "pt": "bolas perdidas",
     "de": "Verschossene Bälle",
-    "es": "bolas perdidas"
+    "es": "Bolas perdidas"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -514,7 +514,7 @@
     "nl": "Ballen geraakt",
     "pt": "Bolas batidas",
     "de": "Bälle getroffen",
-    "es": "bolas golpeadas"
+    "es": "Bolas golpeadas"
   },
   {
     "scoreMnemonic": "nbChallenges",
@@ -550,7 +550,7 @@
     "nl": "Combo's",
     "pt": "Combos",
     "de": "Kombinationen",
-    "es": "combos"
+    "es": "Combos"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
