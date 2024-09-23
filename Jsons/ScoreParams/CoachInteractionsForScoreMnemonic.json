@@ -32,23 +32,7 @@
     "game": "CARS",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec un peu plus d’aide, tu as trouvé la solution. La prochaine fois, essaie de relever le défi sans indice !"
-    }
-  },
-  {
-    "scoreMnemonic": "nbClues",
-    "game": "CARS",
-    "interactionType": "worstThanAverage",
-    "title": {
-      "fr": "Plus d'indices que prévu, mais la victoire est là ! Garde confiance, la prochaine fois tu seras plus autonome."
-    }
-  },
-  {
-    "scoreMnemonic": "nbClues",
-    "game": "CARS",
-    "interactionType": "worstThanAverage",
-    "title": {
-      "fr": "Tu as eu besoin de quelques indices en plus cette fois, mais l’essentiel, c’est que tu y es arrivé !"
+      "fr": "Avec un peu plus d’aide, tu as trouvé la solution. La prochaine fois, essaie de relever le défi sans indice !|Plus d'indices que prévu, mais la victoire est là ! Garde confiance, la prochaine fois tu seras plus autonome.|Tu as eu besoin de quelques indices en plus cette fois, mais l’essentiel, c’est que tu y es arrivé !"
     }
   },
   {
@@ -56,23 +40,7 @@
     "game": "CARS",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> indices en moins, tu montres que tu deviens vraiment autonome."
-    }
-  },
-  {
-    "scoreMnemonic": "nbClues",
-    "game": "CARS",
-    "interactionType": "bestThanAverage",
-    "title": {
-      "fr": "Seulement <score> indices utilisés, c’est comme si la voiture se déplaçait toute seule sous tes ordres !"
-    }
-  },
-  {
-    "scoreMnemonic": "nbClues",
-    "game": "CARS",
-    "interactionType": "bestThanAverage",
-    "title": {
-      "fr": "<score> indices de moins et tu manœuvres cette voiture avec la précision d’un pro du volant !"
+      "fr": "Avec <score> indices en moins, tu montres que tu deviens vraiment autonome.|Seulement <score> indices utilisés, c’est comme si la voiture se déplaçait toute seule sous tes ordres !|<score> indices de moins et tu manœuvres cette voiture avec la précision d’un pro du volant !"
     }
   },
   {
@@ -80,23 +48,7 @@
     "game": "CARS",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Tu as pris <score> secondes supplémentaires, mais la prochaine fois, avec un peu plus d'attention, tu sortiras la voiture plus vite !"
-    }
-  },
-  {
-    "scoreMnemonic": "time",
-    "game": "CARS",
-    "interactionType": "worstThanAverage",
-    "title": {
-      "fr": "Un peu plus lent cette fois avec <score> secondes de plus, mais tu sais ce qu'il te reste à faire pour accélérer la prochaine fois !"
-    }
-  },
-  {
-    "scoreMnemonic": "time",
-    "game": "CARS",
-    "interactionType": "worstThanAverage",
-    "title": {
-      "fr": "<score> secondes de plus pour sortir la voiture, mais avec un meilleur contrôle de tes déplacements, tu iras plus vite la prochaine fois !"
+      "fr": "Tu as pris <score> secondes supplémentaires, mais la prochaine fois, avec un peu plus d'attention, tu sortiras la voiture plus vite !|Un peu plus lent cette fois avec <score> secondes de plus, mais tu sais ce qu'il te reste à faire pour accélérer la prochaine fois !|<score> secondes de plus pour sortir la voiture, mais avec un meilleur contrôle de tes déplacements, tu iras plus vite la prochaine fois !"
     }
   },
   {
@@ -104,23 +56,7 @@
     "game": "CARS",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "<score> secondes de gagnées ! Tes déplacements sont de plus en plus rapides, c'est comme si la voiture te suivait sans effort !"
-    }
-  },
-  {
-    "scoreMnemonic": "time",
-    "game": "CARS",
-    "interactionType": "bestThanAverage",
-    "title": {
-      "fr": "<score> secondes de moins, quelle performance ! Tu maîtrises chaque déplacement comme un pro du volant !"
-    }
-  },
-  {
-    "scoreMnemonic": "time",
-    "game": "CARS",
-    "interactionType": "bestThanAverage",
-    "title": {
-      "fr": "La voiture a quitté le parking en <score> secondes de moins que ta moyenne, c'est impressionnant !"
+      "fr": "<score> secondes de gagnées ! Tes déplacements sont de plus en plus rapides, c'est comme si la voiture te suivait sans effort !|<score> secondes de moins, quelle performance ! Tu maîtrises chaque déplacement comme un pro du volant !|La voiture a quitté le parking en <score> secondes de moins que ta moyenne, c'est impressionnant !"
     }
   },
   {
@@ -128,15 +64,7 @@
     "game": "CARS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Tu as sorti la voiture plus vite que jamais, digne d’un vrai pilote de course !"
-    }
-  },
-  {
-    "scoreMnemonic": "time",
-    "game": "CARS",
-    "interactionType": "newRecord",
-    "title": {
-      "fr": "Tes déplacements sont plus rapides que jamais, La voiture a glissé hors du parking en <score> secondes"
+      "fr": "Tu as sorti la voiture plus vite que jamais, digne d’un vrai pilote de course !|Tes déplacements sont plus rapides que jamais, La voiture a glissé hors du parking en <score> secondes"
     }
   },
   {
@@ -145,30 +73,6 @@
     "interactionType": "newRecord",
     "title": {
       "fr": "Tes compétences de pilotage te permettent de sortir la voiture en <score> secondes"
-    }
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswer",
-    "game": "CARS",
-    "interactionType": "perfectScore",
-    "title": {
-      "fr": "Tu as sorti la voiture en exactement <score> déplacements, un sans-faute !"
-    }
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswer",
-    "game": "CARS",
-    "interactionType": "perfectScore",
-    "title": {
-      "fr": "Chaque mouvement compte, et tu l'as fait en juste <score> coups !"
-    }
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswer",
-    "game": "CARS",
-    "interactionType": "perfectScore",
-    "title": {
-      "fr": "Tu as sorti la voiture avec <score> déplacements impeccables."
     }
   }
 ]
