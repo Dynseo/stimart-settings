@@ -9,7 +9,7 @@
   },
   {
     "mnemo": "regularity",
-    "condition": "moreThan3playsThisWeek",
+    "condition": "moreThan3PlaysThisWeek",
     "title": {
       "fr": "Félicitations pour votre engagement ! Vous jouez au moins trois fois par semaine, ce qui est excellent pour maintenir votre cerveau en forme. Continuez ainsi !"
     }
@@ -23,14 +23,14 @@
   },
   {
     "mnemo": "gameDiversity",
-    "condition": "moreThan5gamesThisWeek",
+    "condition": "moreThan5GamesThisWeek",
     "title": {
       "fr": "Bravo pour la diversité de vos choix de jeux ! Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Continuez à explorer différentes options pour renforcer encore plus vos capacités."
     }
   },
   {
     "mnemo": "gameDiversity",
-    "condition": "lessThan5gamesThisWeek",
+    "condition": "lessThan5GamesThisWeek",
     "title": {
       "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités <cognitiveFunction>, et vous avez montré une belle constance dans cette activité."
     }
