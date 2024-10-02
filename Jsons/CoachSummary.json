@@ -1,0 +1,52 @@
+[
+  {
+    "mnemo": "greeting",
+    "condition": "always",
+    "title": {
+      "fr": "Bonjour <playerName>",
+      "us": "Hello <playerName>"
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "moreThan3playsThisWeek",
+    "title": {
+      "fr": "Félicitations pour votre engagement ! Vous jouez au moins trois fois par semaine, ce qui est excellent pour maintenir votre cerveau en forme. Continuez ainsi !"
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "lessThan3PlaysThisWeek",
+    "title": {
+      "fr": "Vous jouez moins de trois fois par semaine. N'oubliez pas que la régularité est clé pour maximiser les bienfaits. Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances."
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "moreThan5gamesThisWeek",
+    "title": {
+      "fr": "Bravo pour la diversité de vos choix de jeux ! Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Continuez à explorer différentes options pour renforcer encore plus vos capacités."
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "lessThan5gamesThisWeek",
+    "title": {
+      "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités <cognitiveFunction>, et vous avez montré une belle constance dans cette activité."
+    }
+  },
+  {
+    "mnemo": "progress",
+    "condition": "didProgressInAGame",
+    "title": {
+      "fr": "Nous avons remarqué des progrès notables dans <gameTitle>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. Continuez à jouer à ce jeu pour renforcer encore plus cette compétence."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "always",
+    "title": {
+      "fr": "Au revoir"
+    }
+  }
+]
