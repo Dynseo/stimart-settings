@@ -11,14 +11,14 @@
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Félicitations pour votre engagement ! Vous jouez au moins trois fois par semaine, ce qui est excellent pour maintenir votre cerveau en forme. Continuez ainsi !"
+      "fr": "Félicitations pour votre engagement ! Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Continuez ainsi !"
     }
   },
   {
     "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "Vous jouez moins de trois fois par semaine. N'oubliez pas que la régularité est clé pour maximiser les bienfaits. Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances."
+      "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est clé pour maximiser les bienfaits. Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances."
     }
   },
   {
