@@ -31,7 +31,7 @@
     "game": "PUZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Quel travail ! Vous avez battu votre record en assemblant ce puzzle morceau par morceau. J’espère que l’explication finale vous a donné un petit aperçu enrichissant. | Bien joué, vous avez battu votre propre record ! J'espère que l'explication du puzzle était intéressante. | Super boulot ! Vous avez battu votre propre record, alors que ce puzzle n'était pas facile. | Félicitations, vous avez superbement assemblé ce puzzle. Ce puzzle est incroyable, non ? J'espère que l'explication vous a appris des choses intéressantes !|Chapeau, vous avez battu votre record. Ce puzzle n'était pas simple, mais vous l'avez maîtrisé ! "
     }
   },
   {
@@ -45,7 +45,8 @@
     "game": "PUZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Phrase Justine",
+      "it": "l"
     }
   },
   {
@@ -53,7 +54,7 @@
     "game": "PUZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous venez de terminer le puzzle en seulement <score> secondes ! C'est votre meilleur score, prêt à le surpasser ?|<score> secondes pour résoudre ce puzzle. Pouvez-vous aller encore plus vite ?|En <score> secondes, vous venez de vous imposer un nouveau record à battre. À vous de jouer pour faire encore mieux !|Vous avez résolu ce puzzle en <score> secondes. Un nouveau temps de référence à dépasser !"
+      "fr": "Vous venez de terminer le puzzle en seulement <score> secondes ! C'est votre meilleur temps, prêt à le surpasser ?|<score> secondes pour résoudre ce puzzle. Pouvez-vous aller encore plus vite ?|En <score> secondes, vous venez de vous imposer un nouveau record à battre. À vous de jouer pour faire encore mieux !|Vous avez résolu ce puzzle en <score> secondes. Un nouveau temps de référence à dépasser !"
     }
   },
   {
@@ -77,7 +78,7 @@
     "game": "PUZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez résolu ce puzzle avec <score> indices, c'est votre meilleur score !|Vous avez brillamment terminé ce puzzle avec <score> indices.|Avec <score> indices, vous avez fait mieux que jamais. Moins d'indices, plus de maîtrise !|Vous avez demandé <score> indices pour terminer ce puzzle."
+      "fr": "Vous avez résolu ce puzzle avec <score> indices. Les indices sont là pour guider, mais votre objectif est de réussir en toute autonomie.|Vous avez brillamment terminé ce puzzle avec <score> indices. Les indices aident, mais la vraie victoire, c’est d’y arriver par soi-même !|Avec <score> indices, vous avez fait mieux que jamais. Moins d'indices, plus de maîtrise !"
     }
   },
   {
@@ -85,7 +86,7 @@
     "game": "PUZZLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Vous avez résolu ce puzzle avec <score> indices, c'est mieux que votre moyenne habituelle. Vous progressez à chaque partie !|Avec <score> indices, vous faites mieux que votre moyenne. Continuez ainsi, vous êtes en progrès !|Vous avez demandé moins d'indices que d'habitude, avec <score> cette fois-ci.|Moins d'indices que d'habitude, avec <score> pour ce puzzle.."
+      "fr": "Vous avez résolu ce puzzle avec <score> indices, c'est mieux que votre moyenne habituelle. Vous progressez à chaque partie !|Avec <score> indices, vous faites mieux que votre moyenne. Continuez ainsi, vous êtes en progrès !|Vous avez demandé moins d'indices que d'habitude, avec <score> cette fois-ci.|Moins d'indices que d'habitude, avec <score> pour ce puzzle."
     }
   },
   {
@@ -100,7 +101,7 @@
     "game": "INTRUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations, nouveau record ! Qu’ils soient évidents ou complètement farfelus, vous avez su repérer les intrus avec brio ! | Bien joué ! Votre œil de lynx a démasqué l’intrus, même dans les situations les plus saugrenues. Bravo pour ce nouveau record ! | Félicitations pour votre nouveau record ! Intrus évidents ou bizarres, vous les repérez de mieux en mieux à chaque partie. | Top ! Nouveau record battu ! Les intrus peuvent être fous ou évidents, mais vous continuez à vous améliorer à chaque manche. | Super boulot ! Vous avez battu votre record, les intrus n’ont qu’à bien se cacher, même les plus inattendus ! | Bien joué ! Vous vous améliorez à chaque partie, même quand les intrus sont plus farfelus que jamais ! Nouveau record, continuez comme ça !"
     }
   },
   {
@@ -122,7 +123,7 @@
     "game": "INTRUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez trouvé l'intrus avec un record de <score> bonnes réponses sur 10.|Vous avez identifié l’intrus <scpre> sur 10|Vous avez trouvé l'intrus avec <score> bonnes réponses, une performance incroyable."
+      "fr": "Vous avez trouvé eu <score> bonnes réponses sur 10. Bravo pour votre rapidité d’esprit !|Vous avez identifié l’intrus <score> fois sur 10. Continuez ainsi !|Vous avez trouvé l'intrus avec <score> bonnes réponses, Ta persévérance porte ses fruits, bravo !"
     }
   },
   {
@@ -138,7 +139,7 @@
     "game": "INTRUS",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Vous avez obtenu <score> bonnes réponses, un peu en dessous de votre moyenne, mais ne vous inquiétez pas, vous ferez mieux la prochaine fois !|Avec <score> intrus trouvé, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre.|Vous avez trouvé l'intrus  <score> fois, un score en-dessous de votre moyenne, mais cela ne fait que rendre le prochain défi encore plus excitant !|Vous avez fait un peu moins bien que d'habitude avec <nombre> bonnes réponses, mais chaque partie vous rapproche de l'amélioration."
+      "fr": "Vous avez obtenu <score> bonnes réponses, un peu en dessous de votre moyenne, mais ne vous inquiétez pas, vous ferez mieux la prochaine fois !|Avec <score> intrus trouvé, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre.|Vous avez trouvé l'intrus  <score> fois, un score en-dessous de votre moyenne, mais cela ne fait que rendre le prochain défi encore plus excitant !|Vous avez fait un peu moins bien que d'habitude avec <score> bonnes réponses, mais chaque partie vous rapproche de l'amélioration."
     }
   },
   {
@@ -146,7 +147,7 @@
     "game": "INTRUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous venez de battre votre record avec un minimum d'erreurs, avec <score> mauvaises réponses !|Vous avez franchi un cap avec <score> mauvaises réponses. Continuez sur cette lancée !|Excellente nouvelle ! Vous avez réduit vos erreurs à un niveau record, avec <score> mauvaises réponses."
+      "fr": "Vous avez fait un minimum d'erreurs, avec <score> mauvaises réponses ! Pouvez vous faire encore mieux ?|Vous avez franchi un cap avec <score> mauvaises réponses. Continuez sur cette lancée !|Vous avez réduit vos erreurs à un niveau record, avec <score> mauvaises réponses. Chaque effort compte !"
     }
   },
   {
@@ -169,7 +170,7 @@
     "game": "QUIZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bravo, vous avez battu votre record ! Vos connaissances en culture générale s’améliorent à chaque partie, continuez comme ça ! | Super ! Nouveau record atteint ! Vous devenez un vrai expert en culture générale, et vous progressez à chaque quiz. | Bien joué ! Vous continuez de vous dépasser avec chaque quiz, même quand certaines questions sont plus corsées. | Génial, record battu ! Votre savoir grandit de partie en partie, même quand les questions vous surprennent."
     }
   },
   {
@@ -191,7 +192,7 @@
     "game": "QUIZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> bonnes réponses, vous venez de battre votre record en culture générale. Votre savoir s'enrichit à chaque partie !|Avec <score> bonnes réponses, vous avez atteint un nouveau sommet. Continuez à impressionner avec vos connaissances !|Vous avez répondu correctement à <score> questions, un nouveau record pour vous. Votre culture générale est en plein essor !"
+      "fr": "Avec <score> bonnes réponses, votre savoir s'enrichit à chaque partie !|Vous avez eu <score> bonnes réponses. Continuez à impressionner avec vos connaissances !|Vous avez répondu correctement à <score> questions. Pouvez vous répondre à encore plus des questions ?"
     }
   },
   {
@@ -215,7 +216,7 @@
     "game": "QUIZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous avez battu votre record. Votre maîtrise des sujets est en nette progression !|Avec <score> mauvaises réponses, vous venez de réaliser votre meilleure performance.|Avec <score> mauvaises réponses, vous battez votre précédent record. Quelle belle avancée !"
+      "fr": "Vous avez eu <score> mauvaises réponses. Votre maîtrise des sujets est en nette progression !|Vous avez répondu <score> fois de façon érronée. Faites encore plus d'attention la prochaine fois|Avec <score> mauvaises réponses, vous êtes en train de progresser. "
     }
   },
   {
@@ -238,7 +239,7 @@
     "game": "COLORMIND",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bravo, vous avez battu votre record ! Colormind est un vrai défi, et votre mémoire à court terme a été incroyable sur ce coup-là !|Incroyable ! Ce jeu est si difficile, et vous continuez à progresser et à battre votre propre record. Vous avez bien entraîné votre mémoire à court terme !|Super boulot ! Reproduire ces couleurs n’est pas simple, mais vous avez surpassé votre record avec une mémoire de travail au top !|Bien joué ! Vous avez réussi là où beaucoup échouent. Battre votre record sur Colormind montre à quel point votre mémoire est affûtée |"
     }
   },
   {
@@ -260,7 +261,7 @@
     "game": "COLORMIND",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous avez battu votre record. Votre mémoire s'améliore à chaque partie !|Vous avez fait <score> mauvaises réponses, un nouveau record pour vous. Votre capacité à retenir les séquences s’affine !|Avec <score> mauvaises réponses, vous avez atteint un nouveau niveau de maîtrise. Vous êtes sur la bonne voie pour devenir un pro des séquences de couleurs !"
+      "fr": "Vous avez fait <score> mauvaises réponses. Votre capacité à retenir les séquences s’affine !|Avec <score> mauvaises réponses, vous avez atteint un nouveau niveau de maîtrise."
     }
   },
   {
@@ -284,7 +285,7 @@
     "game": "COLORMIND",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> visualisations de la solution, vous avez battu votre record. Cela montre que vous êtes de plus en plus confiant dans vos capacités !|Vous avez réduit le nombre de fois où vous avez visualisé la solution à <score>, un nouveau record pour vous. Vous gagnez en autonomie !|Avec <score> visualisations de la solution, vous dépassez votre précédent record. C’est un signe clair de votre progression !"
+      "fr": "<score> visualisations de la solution, cela montre que vous êtes de plus en plus confiant dans vos capacités !|Vous avez réduit le nombre de fois où vous avez visualisé la solution à <score>. Vous gagnez en autonomie !|<score> visualisations de la solution. C’est un signe clair de votre progression !"
     }
   },
   {
@@ -307,7 +308,7 @@
     "game": "CALCULUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous continuez d'améliorer votre score, même les calculs les plus complexes n’ont pas résisté à votre logique ! | Super, vous avez dépassé votre propre score ! Avec vous, les calculs mentaux sont presque une promenade de santé. Continuez comme ça ! | Félicitations ! Vous avez battu votre propre record, vous êtes de plus en plus à l’aise avec les calculs mentaux. | Bien joué ! Vous vous êtes amélioré en calcul mental, bravo pour ce nouveau record. | Super boulot ! Peu de gens osent s’attaquer au calcul mental, mais vous l’avez fait et avez battu votre record comme un vrai champion ! | Félicitations pour ce nouveau record ! Vous avez persévéré alors que beaucoup fuient les mathématiques. Continuez comme ça !|Félicitations ! Vous avez battu votre record. C'est courageux car tout le monde n'aime pas le calcul mental !|"
     }
   },
   {
@@ -329,7 +330,7 @@
     "game": "CALCULUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez réussi à donner <score> bonnes réponses, un nouveau record pour vous. Votre esprit mathématique est en pleine forme !|Avec <score> calculs reussi, vous avez battu votre record. précision s'améliorent à chaque partie ! Votre précision s'améliorent à chaque partie ! |Avec <score> bonnes réponses, vous dépassez votre précédent record. Quelle belle progression dans vos calculs !"
+      "fr": "Avec <score> calculs reussi, votre précision s'améliorent à chaque partie ! |Vous avez eu <score> bonnes réponses. Quelle belle progression!"
     }
   },
   {
@@ -353,7 +354,7 @@
     "game": "CALCULUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous avez atteint un nouveau sommet personnel. Vous réduisez vos erreurs, et c'est un signe d'amélioration !|Vous avez réussi à limiter vos erreurs à <score> mauvaises réponses, un nouveau record pour vous. Votre agilité mentale s'affine !|Avec  <score> mauvaises réponses, vous dépassez votre précédent record. Votre progrès en calcul mental est évident !"
+      "fr": "Avec <score> mauvaises réponses,vous réduisez vos erreurs, et c'est un signe d'amélioration !|Vous avez réussi à limiter vos erreurs à <score> mauvaises réponses. Votre agilité mentale s'affine !"
     }
   },
   {
@@ -652,7 +653,7 @@
     "game": "CHESSBOARD",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bravo, vous avez battu votre record ! Votre mémoire visuelle s'améliore au fur et à mesure des entraînements. | Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !"
     }
   },
   {
@@ -674,7 +675,7 @@
     "game": "CHESSBOARD",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous avez battu votre record. Cela montre que votre mémoire visuelle et votre concentration s'améliorent à chaque partie !|En limitant vos erreurs à <score>, vous atteignez un nouveau sommet personnel. Votre capacité à mémoriser les positions est impressionnante !|Avec <score> mauvaises réponses, vous avez atteint un nouveau niveau de maîtrise. Chaque partie vous rapproche de l'excellence dans ce jeu de mémorisation !"
+      "fr": "<score> mauvaises réponses, cela montre que votreconcentration s'améliore à chaque partie !|En limitant vos erreurs à <score>, vous atteignez un nouveau sommet personnel|Avec <score> mauvaises réponses, chaque partie vous rapproche de l'excellence dans ce jeu de mémorisation !"
     }
   },
   {
@@ -698,7 +699,7 @@
     "game": "CHESSBOARD",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> indices utilisés, vous avez battu votre record. Cela montre que vous améliorez votre capacité à mémoriser sans aide !|En limitant vos indices à <score>, vous atteignez un nouveau sommet personnel. Votre confiance en votre mémoire s'affine à chaque partie !|Avec  <score> indices, vous dépassez votre précédent record. Votre capacité à mémoriser sans assistance est en pleine évolution !"
+      "fr": "<score> indices utilisés, cela montre que vous améliorez votre capacité à mémoriser sans aide !|En limitant vos indices à <score>, votre confiance en votre mémoire s'affine à chaque partie !|Avec  <score> indices, votre capacité à mémoriser sans assistance est en pleine évolution !"
     }
   },
   {
@@ -973,7 +974,7 @@
     "game": "COOK",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bravo, chef ! Tu as su retrouver tous les ingrédients de la recette, ça m’a donné faim ! Il n’y a plus qu’à se mettre aux fourneaux !|\"J'ai suivi tes étapes à la lettre et de mon côté, je suis prêt pour la dégustation !!Tu dois être un sacré cordon bleu. Je sens que cela va bientôt sentir bon en cuisine !|. On passe quand à la dégustation ?|Félicitations, chef ! Ta mémoire des recettes est incroyable, je pars prendre un petit goûter pendant que tu fais ton prochain jeu.|Ces recettes m'ont donné envie de croquer dans un petit chocolat. Je reviens pour voir ta prochaine victoire !|Bien joué ! Ça m’a ouvert l’appétit et je vais me prendre un petit chocolat pendant que tu continues à enchaîner les records !"
     }
   },
   {
@@ -2238,7 +2239,7 @@
     "game": "PANURGE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Vous avez capturé <score> moutons cette fois-ci, un peu en dessous de votre moyenne, mais pas de panique, vous ferez mieux la prochaine fois|Avec <nombre> moutons capturés, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre. Ne lâchez rien !"
+      "fr": "Vous avez capturé <score> moutons cette fois-ci, un peu en dessous de votre moyenne, mais pas de panique, vous ferez mieux la prochaine fois|Avec <score> moutons capturés, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre. Ne lâchez rien !"
     }
   },
   {
@@ -2291,7 +2292,7 @@
     "game": "PONG",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez fait <nombre> fautes, c'est votre meilleur score. Continuez à bien anticiper les mouvements !|Vous avez établi un nouveau record avec <nombre> fautes. Continuez à bien placer la barre pour toucher la balle !|Avec <nombre> fautes, vous avez établi un nouveau record. Restez concentré et continuez à affiner vos mouvements !"
+      "fr": "Vous avez fait <score> fautes, c'est votre meilleur score. Continuez à bien anticiper les mouvements !|Vous avez établi un nouveau record avec <score> fautes. Continuez à bien placer la barre pour toucher la balle !|Avec <score> fautes, vous avez établi un nouveau record. Restez concentré et continuez à affiner vos mouvements !"
     }
   },
   {
@@ -2299,7 +2300,7 @@
     "game": "PONG",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <nombre> fautes, vous avez fait mieux que votre moyenne. Vous êtes sur la bonne voie pour maîtriser parfaitement vos mouvements !|<nombre> fautes, c’est mieux que votre moyenne. Continuez à bien placer la barre pour toucher la balle à chaque fois !|Avec <nombre> fautes, vous avez surpassé votre moyenne habituelle. Continuez à bien anticiper et à affiner vos réflexes !"
+      "fr": "Avec <score> fautes, vous avez fait mieux que votre moyenne. Vous êtes sur la bonne voie pour maîtriser parfaitement vos mouvements !|<score> fautes, c’est mieux que votre moyenne. Continuez à bien placer la barre pour toucher la balle à chaque fois !|Avec <score> fautes, vous avez surpassé votre moyenne habituelle. Continuez à bien anticiper et à affiner vos réflexes !"
     }
   },
   {
@@ -2307,7 +2308,7 @@
     "game": "PONG",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Vous avez fait <nombre> fautes, un peu plus que votre moyenne, mais ne vous découragez pas. La prochaine fois, anticipez mieux vos mouvements !|Avec <nombre> fautes, c’est un peu au-dessus de votre moyenne, mais cela arrive. Restez concentré et continuez à affiner vos réflexes !|Vous avez fait <nombre> fautes, un score au-dessus de votre moyenne. Ne vous découragez pas, la prochaine fois, soyez plus attentif à vos mouvements !"
+      "fr": "Vous avez fait <score> fautes, un peu plus que votre moyenne, mais ne vous découragez pas. La prochaine fois, anticipez mieux vos mouvements !|Avec <score> fautes, c’est un peu au-dessus de votre moyenne, mais cela arrive. Restez concentré et continuez à affiner vos réflexes !|Vous avez fait <score> fautes, un score au-dessus de votre moyenne. Ne vous découragez pas, la prochaine fois, soyez plus attentif à vos mouvements !"
     }
   },
   {
@@ -2334,47 +2335,74 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Avec <score> flèches, vous avez établi un nouveau record. Restez concentré et continuez à déclencher ces enchaînements parfaits !|Vous avez déclenché <score> flèches, c'est votre meilleur score ! Continuez à créer ces enchaînements spectaculaires !|<score> flèches, c’est votre meilleur score à ce jour. Vos enchaînements sont de plus en plus impressionnants !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez déclenché <score> flèches, un score supérieur à votre moyenne. Vous progressez à chaque partie !|<score> flèches activées, c’est au-dessus de votre moyenne. Continuez à enchaîner ces réactions pour maximiser votre score !|Avec <score> flèches déclenchées, vous avez surpassé votre moyenne habituelle. Continuez à viser avec précision et à anticiper les bonnes combinaisons !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous avez déclenché <score> flèches, un peu en dessous de votre moyenne, mais ne vous inquiétez pas. La prochaine fois, anticipez mieux les enchaînements !|Avec <score> flèches activées, c’est un peu en dessous de votre moyenne habituelle, mais cela arrive. Restez concentré et vous ferez mieux la prochaine fois !|Vous avez déclenché <score> flèches, un score en dessous de votre moyenne. Ne vous inquiétez pas, la prochaine fois, visez mieux pour plus d’enchaînements !|Un peu moins de flèches déclenchées cette fois-ci avec <score> flèches, mais restez concentré et vous retrouverez votre niveau. "
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Avec <score> flèches non déclenchées, vous avez battu votre record. Votre concentration fait la différence !|Avec <score> flèches non déclenchées, vous avez atteint un nouveau sommet. La prochaine fois, soyez encore plus attentif !"
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Avec <score> flèches non déclenchées, vous faites mieux que d'habitude. Anticipez bien vos mouvements pour continuer sur cette lancée !|Avec <score> flèches non déclenchées, vous avez fait mieux que d’habitude. Continuez à être attentif à chaque mouvement pour encore plus de précision !|Vous avez laissé <score> flèches non déclenchées, un score supérieur à votre moyenne. Continuez à affiner vos enchaînements !"
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous avez laissé <score> flèches non déclenchées, un peu plus que d'habitude, mais ne vous inquiétez pas. Soyez plus attentif la prochaine fois !|<score> flèches non déclenchées, c’est plus que d'habitude, mais ne vous découragez pas. Soyez plus vigilant lors du prochain essai !|Vous avez manqué <score> flèches, un score au-dessus de votre moyenne. La prochaine fois, soyez plus attentif pour réduire ce nombre !|Un peu plus de flèches non déclenchées cette fois-ci avec <score> flèches, mais restez vigilant et vous retrouverez votre niveau. Continuez à améliorer votre anticipation !"
+    }
   },
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Vous avez complété <score> bonshommes de neige, un nouveau sommet personnel. Continuez sur cette lancée !|<score> bonshommes de neige, c’est votre meilleur score à ce jour. Votre précision s’améliore à chaque partie !"
+    }
   },
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez complété <score> bonshommes de neige, un score supérieur à votre moyenne. Vous progressez à chaque partie !|Avec <score> bonshommes de neige, vous avez surpassé votre moyenne habituelle. Continuez à bien organiser chaque étape pour atteindre de nouveaux sommets !"
+    }
   },
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Avec <score> bonshommes de neige, c’est un peu en dessous de votre moyenne habituelle, mais cela arrive. Restez concentré et vous ferez mieux la prochaine fois !|Vous avez complété <score> bonshommes de neige, un score en dessous de votre moyenne. La prochaine fois, soyez plus attentif à chaque détail pour faire mieux !|Un peu moins de bonshommes de neige complétés cette fois-ci avec <score> bonshommes, mais restez concentré et vous retrouverez votre niveau."
+    }
   },
   {
     "game": "SNAKE",
@@ -2400,47 +2428,50 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNAKE",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<nombre> bonnes réponses, c’est votre meilleur score à ce jour. Gardez cette énergie pour les prochaines parties !|Vous avez atteint <nombre> bonnes réponses, un nouveau défi à relever. La prochaine fois, visez encore plus haut !|Avec <nombre> bonnes réponses, vous établissez un nouveau record. Continuez à bien travailler pour améliorer votre score !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNAKE",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez obtenu <nombre> bonnes réponses, un score supérieur à votre moyenne. Vous progressez à chaque partie !|Vous avez réussi <nombre> bonnes réponses, mieux que votre moyenne habituelle. Vous êtes sur la bonne voie !|Vous avez obtenu <nombre> bonnes réponses, un score au-dessus de votre moyenne. Restez concentré et continuez à améliorer votre performance ! "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNAKE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous avez obtenu <score> bonnes réponses, un peu en dessous de votre moyenne, mais ne vous découragez pas. La prochaine fois, restez concentré !|Avec <score> bonnes réponses, c’est un peu moins que d'habitude, mais cela arrive. Continuez à travailler pour améliorer votre score !|Vous avez réalisé <score> bonnes réponses, un score en dessous de votre moyenne. La prochaine fois, soyez attentif pour obtenir de meilleurs résultats !"
+    }
   },
   {
-    "scoreMnemonic": "time",
+    "scoreMnemonic": "nbBadAnswers",
     "game": "SNAKE",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Vous avez eu <score> mauvaises réponses, un nouveau sommet personnel. Continuez à progresser !|<score> mauvaises réponses, c’est votre meilleur score à ce jour. Restez concentré et continuez à améliorer vos performances !|Avec <score> mauvaises réponses, vous établissez un nouveau record. Continuez à affiner vos compétences !"
+    }
   },
   {
-    "scoreMnemonic": "time",
+    "scoreMnemonic": "nbBadAnswers",
     "game": "SNAKE",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez eu <score> mauvaises réponses, un score inférieur à votre moyenne. Vous progressez à chaque partie !|Avec <score> mauvaises réponses, vous faites mieux que d'habitude. Continuez à vous améliorer !|Avec <score> mauvaises réponses, vous avez surpassé votre moyenne. Continuez à travailler dur pour de meilleurs résultats !|Vous  avez eu <score> mauvaises réponses, un score inférieur à votre moyenne. Continuez à vous entraîner pour encore plus de succès !"
+    }
   },
   {
-    "scoreMnemonic": "time",
+    "scoreMnemonic": "nbBadAnswers",
     "game": "SNAKE",
-    "interactionType": "worstThanAverage"
-  },
-  {
-    "scoreMnemonic": "nbItemsSkipped",
-    "game": "SNAKE",
-    "interactionType": "newRecord"
-  },
-  {
-    "scoreMnemonic": "nbItemsSkipped",
-    "game": "SNAKE",
-    "interactionType": "bestThanAverage"
-  },
-  {
-    "scoreMnemonic": "nbItemsSkipped",
-    "game": "SNAKE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous avez eu <score> mauvaises réponses, un peu plus que votre moyenne, mais ne vous découragez pas. La prochaine fois, restez concentré !|Avec <score> mauvaises réponses, c’est un peu plus que d'habitude, mais cela arrive. Continuez à travailler pour améliorer votre score !|Vous avez eu <score> mauvaises réponses, un score au-dessus de votre moyenne. Restez motivé pour améliorer votre performance la prochaine fois !|Un peu plus de mauvaises réponses cette fois-ci avec <score> mauvaises réponses, mais restez concentré et vous retrouverez votre niveau. "
+    }
   },
   {
     "game": "BLOCK_PUZZLE",
@@ -2466,61 +2497,97 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Avec <score> points obtenus, vous venez de battre votre record. Votre stratégie s'affine à chaque partie !|<score> points, c’est votre meilleur score à ce jour. Restez concentré pour poursuivre votre progression !|Avec <score> points obtenus, vous établissez un nouveau record. Continuez à bien jouer pour améliorer votre score !|Vous avez obtenu <score> points, c’est un nouveau record. Gardez cette énergie pour les prochaines parties !"
+    }
   },
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez obtenu <score> points, un score supérieur à votre moyenne. Vous progressez à chaque partie !|Avec <score> points, vous faites mieux que d'habitude. Continuez à perfectionner votre stratégie !|Vous avez obtenu <score> points, un score au-dessus de votre moyenne. Continuez à vous entraîner pour encore plus de réussite !|Avec <score> points, vous dépassez votre moyenne. Restez motivé et continuez à progresser dans votre jeu !"
+    }
   },
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous avez obtenu <score> points, un peu en dessous de votre moyenne, mais ne vous découragez pas. La prochaine fois, restez concentré sur la stratégie !|Avec <score> points, c’est un peu moins que d'habitude, mais cela arrive. Continuez à travailler pour améliorer votre score !|Vous avez réussi à obtenir <score> points, un score au-dessus de votre moyenne. Restez motivé pour améliorer votre performance la prochaine fois !|Un peu moins de points cette fois-ci avec <score> points, mais restez concentré et vous retrouverez votre niveau. Continuez à vous entraîner pour progresser !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Vous avez complété <score> lignes et colonnes, c'est un nouveau record ! Continuez à bâtir votre victoire !|Avec <score> lignes et colonnes complétées, vous venez de battre votre record. Votre sens de l’organisation est impressionnant !|<score> lignes et colonnes complétées, c’est votre meilleur score à ce jour. Restez concentré pour continuer à gagner !|Vous avez complété <score> lignes et colonnes, c’est un nouveau record. Gardez cette énergie pour les prochaines parties ! "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez complété <score> lignes et colonnes, un score supérieur à votre moyenne. Vous progressez à chaque partie !|Avec <score> lignes et colonnes, vous avez surpassé votre moyenne. Continuez à travailler dur pour encore plus de succès !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Avec <score> lignes et colonnes, c’est un peu moins que d'habitude, mais cela arrive. Continuez à travailler pour améliorer votre score !|<score> lignes et colonnes, c’est un peu moins bon que d'habitude, mais ne vous laissez pas abattre. Chaque partie est une opportunité d'apprendre !|Vous avez réussi à compléter <score> lignes et colonnes, un score au-dessus de votre moyenne. Restez motivé pour améliorer votre performance lors de la prochaine partie !|Un peu moins de lignes et colonnes cette fois-ci avec <score> lignes et colonnes, mais restez concentré et vous retrouverez votre niveau."
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Vous avez enchaîné <score> combos, c'est un nouveau record ! Votre maîtrise est impressionnante, continuez ainsi !|Avec <score> combos, vous venez de battre votre record. Vous enchaînez les actions avec une fluidité remarquable !|Avec <score> combos, vous établissez un nouveau record. Continuez à optimiser vos enchaînements !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Avec <score> combos, vous faites mieux que d'habitude. Continuez à perfectionner votre maîtrise des enchaînements !|Vous avez réalisé <score> combos, mieux que votre moyenne habituelle. Vous affinez votre stratégie de combos à chaque partie !|Avec <score> combos, vous avez surpassé votre moyenne. Continuez à enchaîner les combos pour encore plus de succès !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Avec <score> combos, c’est un peu moins que d'habitude, mais cela arrive. Continuez à améliorer votre précision pour des combos plus réguliers !|Avec <score> combos, vous n'avez pas atteint votre moyenne habituelle, mais chaque partie est une opportunité de progresser.|Avec <score> combos, vous n'avez pas atteint votre moyenne habituelle, mais chaque partie est une opportunité de progresser."
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "newRecord"
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Avec <score> combos consécutifs, vous venez de battre votre record. Quelle fluidité dans vos actions, c’est impressionnant !|Vous avez enchaîné <score> combos consécutifs, un nouveau sommet personnel. Vous êtes dans une belle lancée, ne vous arrêtez pas là !|<score> combos consécutifs, c’est votre meilleur score à ce jour. Continuez à viser des enchaînements encore plus longs !|Vous avez enchaîné <score> combos consécutifs, c’est votre nouveau record. Restez concentré pour faire encore mieux !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "bestThanAverage"
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez réalisé <score> combos consécutifs, un score supérieur à votre moyenne. Vous progressez à chaque enchaînement !|Vous avez atteint <score> combos consécutifs, un score supérieur à votre moyenne habituelle. Vous êtes sur la bonne voie pour encore plus de réussite !|Vous avez réalisé <score> combos consécutifs, un score supérieur à votre moyenne. Continuez à repousser vos limites à chaque partie !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "<score> combos consécutifs, c’est un peu en dessous de votre moyenne, mais chaque partie est une nouvelle opportunité d'améliorer votre technique. Restez motivé !|Vous avez enchaîné <score> combos consécutifs, un score en dessous de votre moyenne. La prochaine fois, anticipez mieux vos mouvements pour viser encore plus de combos !|Un peu moins de combos cette fois-ci avec <score> combos consécutifs, mais cela fait partie du jeu. Restez concentré et la prochaine fois, vous retrouverez votre niveau !"
+    }
   }
 ]
