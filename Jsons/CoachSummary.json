@@ -3,50 +3,232 @@
     "mnemo": "greeting",
     "condition": "always",
     "title": {
-      "fr": "Bonjour <playerName>",
+      "fr": "Bonjour <playerName> ! Voici votre bilan hebdomadaire :",
       "us": "Hello <playerName>"
+    }
+  },
+  {
+    "mnemo": "greeting",
+    "condition": "always",
+    "title": {
+      "fr": "Bonjour <playerName>, un aperçu de vos performances cette semaine :"
+    }
+  },
+  {
+    "mnemo": "greeting",
+    "condition": "always",
+    "title": {
+      "fr": "<playerName>, voici vos statistiques de la semaine : "
     }
   },
   {
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Félicitations pour votre engagement ! Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Continuez ainsi !"
+      "fr": "Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Félicitations pour votre engagement ! "
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "moreThan3PlaysThisWeek",
+    "title": {
+      "fr": "Vous avez joué au moins trois jours cette semaine, c’est un bel engagement. Continuez sur cette lancée !  "
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "moreThan3PlaysThisWeek",
+    "title": {
+      "fr": "Au moins trois jours de jeu cette semaine, un beau rythme pour progresser. Bien joué !"
     }
   },
   {
     "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est clé pour maximiser les bienfaits. Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances."
+      "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est la clé pour maximiser les bienfaits."
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "lessThan3PlaysThisWeek",
+    "title": {
+      "fr": "Moins de trois jours de jeu cette semaine. N’oubliez pas, la pratique régulière est essentielle pour progresser."
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "lessThan3PlaysThisWeek",
+    "title": {
+      "fr": "Vous avez joué moins de trois jours cette semaine. Un peu plus de constance vous aidera à maximiser vos performances."
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "moreThan5GamesThisWeek",
     "title": {
-      "fr": "Bravo pour la diversité de vos choix de jeux ! Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Continuez à explorer différentes options pour renforcer encore plus vos capacités."
+      "fr": "Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Bravo pour la diversité de vos choix de jeux ! "
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "moreThan5GamesThisWeek",
+    "title": {
+      "fr": "Vous avez testé différents jeux cette semaine, un excellent moyen de travailler différentes parties de votre cerveau. Continuez !"
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "moreThan5GamesThisWeek",
+    "title": {
+      "fr": "Plus de cinq jeux différents cette semaine ! Cette variété est idéale pour maximiser votre agilité mentale."
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "lessThan5GamesThisWeek",
     "title": {
-      "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités <cognitiveFunction>, et vous avez montré une belle constance dans cette activité."
+      "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités en <cognitiveFunction>, et vous avez montré une belle constance dans cette activité."
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "lessThan5GamesThisWeek",
+    "title": {
+      "fr": "Vous vous concentrez principalement sur <gameName>, un excellent choix pour renforcer vos capacités en <cognitiveFunction>."
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "lessThan5GamesThisWeek",
+    "title": {
+      "fr": "Vous privilégiez <gameName>, ce qui est excellent pour améliorer votre <cognitiveFunction>."
     }
   },
   {
     "mnemo": "progress",
     "condition": "didProgressInAGame",
     "title": {
-      "fr": "Nous avons remarqué des progrès notables dans <gameTitle>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. Continuez à jouer à ce jeu pour renforcer encore plus cette compétence."
+      "fr": "Nous avons remarqué des progrès notables dans <gameTitle>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. "
+    }
+  },
+  {
+    "mnemo": "progress",
+    "condition": "didProgressInAGame",
+    "title": {
+      "fr": "Vous avez fait des avancées remarquables dans <gameTitle>. Vos efforts sont clairement visibles !"
+    }
+  },
+  {
+    "mnemo": "progress",
+    "condition": "didProgressInAGame",
+    "title": {
+      "fr": "Vous avez amélioré vos performances dans <gameTitle>. Continuez comme ça, ça paye !"
+    }
+  },
+  {
+    "mnemo": "trophy",
+    "condition": "newTrophy",
+    "title": {
+      "fr": "Vous avez gagné le trophée <trophée> ! Continuez à relever les défis pour compléter votre collection."
+    }
+  },
+  {
+    "mnemo": "trophy",
+    "condition": "newTrophy",
+    "title": {
+      "fr": "Vous avez remporté le trophée <trophée>. Continuez à progresser pour en obtenir d’autres."
+    }
+  },
+  {
+    "mnemo": "trophy",
+    "condition": "newTrophy",
+    "title": {
+      "fr": "Vous avez décroché le trophée <trophée>. Continuez à relever des défis pour en gagner davantage."
+    }
+  },
+  {
+    "mnemo": "level",
+    "condition": "goodScoreInEasyLevel",
+    "title": {
+      "fr": "Votre moyenne au niveau facile est de <note>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?"
+    }
+  },
+  {
+    "mnemo": "level",
+    "condition": "goodScoreInEasyLevel",
+    "title": {
+      "fr": "Vous avez obtenu une moyenne de <note> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !"
+    }
+  },
+  {
+    "mnemo": "level",
+    "condition": "goodScoreInEasyLevel",
+    "title": {
+      "fr": "Vous avez une moyenne de <note> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?"
+    }
+  },
+  {
+    "mnemo": "level",
+    "condition": "goodScoreInMediumLevel",
+    "title": {
+      "fr": "Vous avez une moyenne de <note> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?"
+    }
+  },
+  {
+    "mnemo": "level",
+    "condition": "goodScoreInMediumLevel",
+    "title": {
+      "fr": "Avec une excellente moyenne de <note> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !"
+    }
+  },
+  {
+    "mnemo": "level",
+    "condition": "goodScoreInMediumLevel",
+    "title": {
+      "fr": "Vous affichez une moyenne de <note> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !"
     }
   },
   {
     "mnemo": "conclusion",
-    "condition": "always",
+    "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Au revoir"
+      "fr": "Continuez à explorer différentes options pour renforcer encore plus vos capacités."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "moreThan3PlaysThisWeek",
+    "title": {
+      "fr": "Poursuivez cette belle dynamique en explorant de nouveaux défis et en affinant vos compétences."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "moreThan3PlaysThisWeek",
+    "title": {
+      "fr": "Restez engagé et continuez à explorer de nouvelles options pour enrichir votre expérience de jeu."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "lessThan3PlaysThisWeek",
+    "title": {
+      "fr": "Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "lessThan3PlaysThisWeek",
+    "title": {
+      "fr": " Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "lessThan3PlaysThisWeek",
+    "title": {
+      "fr": "En jouant un peu plus régulièrement, vous verrez des améliorations notables dans vos performances."
     }
   }
 ]
