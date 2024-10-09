@@ -1,5 +1,48 @@
 [
   {
+    "id": "stroke",
+    "category": "specific_need",
+    "isForPapy": true,
+    "isForCoco": false,
+    "title": {
+      "fr": "AVC",
+      "us": "Stroke",
+      "it": "Ictus",
+      "cn": "中风",
+      "nl": "Hartinfarct",
+      "pt": "Ataque cardíaco",
+      "es": "Ataque",
+      "de": "Schlaganfall"
+    },
+    "description": {
+      "fr": "Découvrez les jeux adaptés aux séquelles d'AVC, pour travailler sur des fonctions cognitives telles que la communication, l'exploration visuelle ou l'attention.",
+      "us": "Discover games adapted to the after-effects of stroke, to work on cognitive functions such as communication, visual exploration or attention.",
+      "it": "Scopri i giochi adattati per l'ictus, per lavorare su funzioni cognitive come la comunicazione, l'esplorazione visiva o l'attenzione.",
+      "cn": "探索适合中风后遗症的游戏，以改善沟通、视觉探索或注意力等认知功能。",
+      "nl": "Ontdek games die zijn aangepast aan de nawerkingen van een beroerte, om te werken aan cognitieve functies zoals communicatie, visuele verkenning of aandacht.",
+      "pt": "Descubra jogos adaptados às sequelas do AVC, para trabalhar funções cognitivas como comunicação, exploração visual ou atenção.",
+      "es": "Descubre juegos adaptados a las secuelas del ictus, para trabajar funciones cognitivas como la comunicación, la exploración visual o la atención.",
+      "de": "Entdecken Sie Spiele, die an die Folgen eines Schlaganfalls angepasst sind, um kognitive Funktionen wie Kommunikation, visuelle Erkundung oder Aufmerksamkeit zu trainieren."
+    },
+    "games": [
+      "CALCULUS",
+      "CARS",
+      "CASCADE",
+      "COLORMIND",
+      "COOK",
+      "INTRUS",
+      "NOAHS_ARK",
+      "PANURGE",
+      "POPBALLOON",
+      "PROVERB",
+      "PUZZLE",
+      "MUSIC",
+      "SLIDE_MAZE",
+      "SYLLABUS",
+      "WHACKAMOLE"
+    ]
+  },
+  {
     "id": "autism",
     "category": "specific_need",
     "isForPapy": true,
@@ -260,49 +303,6 @@
       "POPBALLOON",
       "SHAPEBOX",
       "NOAHS_ARK"
-    ]
-  },
-  {
-    "id": "stroke",
-    "category": "specific_need",
-    "isForPapy": true,
-    "isForCoco": false,
-    "title": {
-      "fr": "AVC",
-      "us": "Stroke",
-      "it": "Ictus",
-      "cn": "中风",
-      "nl": "Hartinfarct",
-      "pt": "Ataque cardíaco",
-      "es": "Ataque",
-      "de": "Schlaganfall"
-    },
-    "description": {
-      "fr": "Découvrez les jeux adaptés aux séquelles d'AVC, pour travailler sur des fonctions cognitives telles que la communication, l'exploration visuelle ou l'attention.",
-      "us": "Discover games adapted to the after-effects of stroke, to work on cognitive functions such as communication, visual exploration or attention.",
-      "it": "Scopri i giochi adattati per l'ictus, per lavorare su funzioni cognitive come la comunicazione, l'esplorazione visiva o l'attenzione.",
-      "cn": "探索适合中风后遗症的游戏，以改善沟通、视觉探索或注意力等认知功能。",
-      "nl": "Ontdek games die zijn aangepast aan de nawerkingen van een beroerte, om te werken aan cognitieve functies zoals communicatie, visuele verkenning of aandacht.",
-      "pt": "Descubra jogos adaptados às sequelas do AVC, para trabalhar funções cognitivas como comunicação, exploração visual ou atenção.",
-      "es": "Descubre juegos adaptados a las secuelas del ictus, para trabajar funciones cognitivas como la comunicación, la exploración visual o la atención.",
-      "de": "Entdecken Sie Spiele, die an die Folgen eines Schlaganfalls angepasst sind, um kognitive Funktionen wie Kommunikation, visuelle Erkundung oder Aufmerksamkeit zu trainieren."
-    },
-    "games": [
-      "CALCULUS",
-      "CARS",
-      "CASCADE",
-      "COLORMIND",
-      "COOK",
-      "INTRUS",
-      "NOAHS_ARK",
-      "PANURGE",
-      "POPBALLOON",
-      "PROVERB",
-      "PUZZLE",
-      "MUSIC",
-      "SLIDE_MAZE",
-      "SYLLABUS",
-      "WHACKAMOLE"
     ]
   },
   {
