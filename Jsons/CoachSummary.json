@@ -221,7 +221,7 @@
     "mnemo": "conclusion",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": " Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances."
+      "fr": "Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances."
     }
   },
   {
