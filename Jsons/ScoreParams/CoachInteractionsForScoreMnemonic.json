@@ -38,14 +38,14 @@
     "game": "PUZZLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Très beau travail ! Vous avez assemblé ce puzzle avec précision, même si vous n'avez pas battu votre record, c'était une belle performance. J’espère que l’explication finale vous a enrichi !| Vous avez réalisé une très belle performance, même sans battre votre record. Ce puzzle n’était pas facile, et vous l'avez bien maîtrisé !| Bien joué ! Vous avez fait une excellente partie, et même sans record battu, vous avez su faire attention aux détails. | Vous avez bien fait travailler votre mémoire visuelle, et cela se voit dans la qualité de ce puzzle. Continuez ainsi, vos compétences s’affinent ! | Bravo, Vous avez fait un super travail de mémorisation pour assembler ce puzzle.| Bien joué ! Votre mémoire visuelle vous a guidé tout au long de ce puzzle, et même sans record, c'était une performance solide. Continuez à la renforcer à chaque partie !"
     }
   },
   {
     "game": "PUZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine",
+      "fr": "Ne vous inquiétez pas, ce puzzle était un vrai défi ! Travaillez sur votre mémoire visuelle en vous concentrant sur de petits détails à chaque fois, et vous verrez vite des résultats. | Ce n'était pas facile cette fois-ci, mais avec un peu plus de pratique, votre mémoire visuelle va s'améliorer. Concentrez-vous sur les formes et les couleurs pour la prochaine partie ! | Même si cette partie était un peu plus difficile, prenez votre temps pour bien observer chaque pièce et regardez les contours. Cela vous aidera à progresser à la prochaine tentative. | Ce n'est pas grave, chaque essai compte ! Essayez de vous concentrer davantage sur les détails du puzzle pour améliorer votre mémorisation. Vous ferez mieux la prochaine fois ! | Bien essayé et surtout ne vous découragez pas ! Essayez de mémoriser des sections du puzzle en petits blocs pour mieux les visualiser ensuite. | Ce n'était pas votre meilleure partie, mais c’est en continuant à jouer que votre mémoire visuelle va s’affiner. Prenez le temps de bien observer les pièces avant de les placer. | Même si cette fois c’était plus compliqué, concentrez-vous sur les formes et les contours des pièces. Cela renforcera votre capacité à assembler plus rapidement la prochaine fois.",
       "it": "l"
     }
   },
@@ -108,14 +108,14 @@
     "game": "INTRUS",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bien joué ! Votre œil de lynx a encore frappé, même sans record battu. Continuez à affiner votre logique, surtout avec les intrus les plus inattendus. | Vous avez encore fait une belle performance ! Les intrus les plus fous n'ont pas échappé à votre regard. Continuez à travailler votre logique et votre langage pour ne pas tomber dans les pièges. |  Bien joué ! Même sans battre votre record, vous avez montré une belle maîtrise. Si un mot vous échappe, prenez un instant pour réfléchir à ce à quoi il vous fait penser, cela vous aidera à trouver l’intrus plus rapidement. | Belle performance ! Les intrus n'ont pas fait lLa prochaine fois, si un mot vous paraît étrange, essayez de deviner le domaine auquel il pourrait appartenir. Ça vous permettra de repérer l'intrus plus facilement | Félicitations ! Vous avez brillamment démasqué les intrus. Si un mot vous est inconnu, explorez sa thématique dans votre tête : est-ce un mot lié à la nourriture, aux animaux, ou autre ? Cela peut vous donner un indice pour mieux comprendre. Superbe partie ! Vous êtes toujours aussi précis. Si vous tombez sur un mot saugrenu, tentez d’identifier à quoi il pourrait se rapporter, cela affinera votre réflexion. "
     }
   },
   {
     "game": "INTRUS",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Cette fois-ci, les intrus étaient plus coriaces, mais c'est une belle opportunité pour progresser ! Pensez à explorer la thématique de chaque mot pour mieux comprendre à quoi il se rapporte. | Ce n'était pas votre meilleure performance, mais cela fait partie du jeu. Pour la prochaine fois, si un mot vous paraît étrange, essayez de visualiser à quoi il pourrait correspondre dans votre expérience, et cela vous guidera vers la bonne réponse. | Cette partie était un peu plus difficile, et cela arrive ! Si un mot vous semble étrange, essayez de réfléchir à la thématique qui pourrait l’entourer. Cela vous aidera à mieux repérer l’intrus la prochaine fois. | Ne vous découragez pas ! Certaines parties sont plus dures que d'autre. Si un mot ne vous dit rien, tentez de deviner à quoi il pourrait être relié dans votre mémoire. Cela vous aidera à faire des associations plus rapidement."
     }
   },
   {
@@ -177,14 +177,14 @@
     "game": "QUIZZLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bravo ! Vos connaissances en culture générale continuent de s’affiner à chaque partie, même sans record battu. Continuez ainsi, vous êtes sur la bonne voie ! | Bien joué ! Vous vous êtes encore surpassé avec ce quiz. Certaines questions étaient corsées, mais vous avez montré une belle maîtrise. | Félicitations pour cette belle performance ! Même sans battre votre record, vous avez montré à quel point votre savoir continue de s'enrichir. | Quelle belle partie ! Votre connaissance des sujets continue de grandir à chaque quiz, et c’est un plaisir de voir vos progrès."
     }
   },
   {
     "game": "QUIZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Ce n’était pas une partie facile, mais cela fait partie du jeu ! La prochaine fois, ne vous précipitez pas et tentez de faire des liens logiques entre les questions et ce que vous connaissez, même si le sujet n'est pas votre point fort. | Ce quiz était plus compliqué, mais c’est normal ! Certaines questions reposent sur des sujets qu’on maîtrise mieux que d'autres. Prenez un instant pour réfléchir, même quand vous n’êtes pas sûr, en faisant des associations d'idées pour vous aider. | Bien essayé ! N’oubliez pas, tomber sur un sujet que vous connaissez bien peut faire la différence. Pensez à ne pas vous précipiter et à analyser les propositions pour déduire la bonne réponse. "
     }
   },
   {
@@ -246,14 +246,14 @@
     "game": "COLORMIND",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bravo ! Vous avez réalisé une très belle partie. Colormind est un vrai défi, et même si ce n'est pas votre record, votre mémoire à court terme a bien fonctionné ! | Beau boulot ! Ce jeu reste difficile, mais vous continuez à progresser à chaque partie. Votre mémoire visuelle est toujours bien entraînée, même sans record battu. | Bien joué ! Reproduire ces combinaisons de couleurs n’est jamais simple, et vous avez montré une belle maîtrise. Continuez ainsi, vous êtes sur la bonne voie ! | Félicitations pour cette partie réussie ! Même si vous n’avez pas battu votre record, votre mémoire reste très affûtée. Vous progressez de manière régulière, bravo ! | Belle performance ! Ce jeu est exigeant, mais vous avez montré une grande capacité à mémoriser les couleurs. Continuez à jouer, vos résultats restent solides."
     }
   },
   {
     "game": "COLORMIND",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bien joué. Vous n'avez pas battu votre score, mais parfois la progression prend du temps. Prenez quelques secondes de plus pour bien visualiser chaque séquence de couleurs avant de les reproduire, et vous verrez que ça ira mieux la prochaine fois. | Bien joué. C’était une partie un peu difficile, mais avec plus d'entraînement, vous allez progresser. Essayez de trouver des astuces personnelles, comme associer chaque couleur à une image mentale, pour faciliter la mémorisation.|  Bien joué pour cette partie ! Ce n’était pas facile, mais ne vous découragez pas. Essayez de repérer le son des couleurs tout en jouant, cela renforcera votre mémoire. | Bien tenté ! Même si vous n’avez pas atteint votre objectif cette fois, prendre quelques secondes supplémentaires pour bien visualiser les couleurs peut faire la différence. | Belle tentative ! Même si vous n'avez pas atteint votre meilleur score, en prenant plus de temps pour visualiser les couleurs, vous verrez des améliorations lors de la prochaine partie."
     }
   },
   {
@@ -377,7 +377,7 @@
     "game": "COLORFORM",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Ces formes et couleurs n’ont aucune chance contre vous, record personnel battu haut la main ! | Vous avez franchi un cap avec ce score, on sentait que chaque choix était bien maîtrisé ! | Vous avez évolué de manière impressionnante, les formes et les couleurs n’ont pas résisté à votre maîtrise cette fois ! | Vous avez battu votre score sans que les formes et couleurs ne sachent ce qui leur arrive, bien joué ! | Vous avez géré les formes comme un maestro, elles n’avaient qu’à suivre votre rythme ! | Continuez ainsi, les formes ne savent plus où se cacher !"
     }
   },
   {
@@ -446,7 +446,7 @@
     "game": "MEMORY",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Vous avez battu votre propre record avec un score de <score> sur Jumelles ! Votre mémoire est digne d’un champion des cartes ! | Félicitations ! Vous avez dépassé votre ancien score de <score> sur Jumelles ! Vous avez l’œil et la mémoire d’acier, les paires se forment en un éclair ! | Incroyable ! Avec un score de <score> sur Jumelles, vous avez prouvé que votre mémoire et votre précision sont inégalées ! | Record battu ! Avec ce score de <score> sur Jumelles, vous faites des paires aussi vite que vous les mémorisez ! Continuez comme ça ! | Vous avez surpassé votre propre score avec <score> sur Jumelles ! Votre cerveau est en pleine forme, rien ne vous échappe ! | Bravo, vous avez amélioré votre score avec <score> sur Jumelles ! Votre capacité à reconstituer les paires est impressionnante ! | Votre nouveau score de <score> sur Jumelles montre que vous devenez un expert de la mémorisation et du jeu rapide ! | Vous avez pulvérisé votre ancien score de <score> sur Jumelles ! Chaque paire se trouve en un clin d’œil grâce à votre mémoire surentraînée ! | Record personnel battu avec un score de <score> sur Jumelles ! Votre maîtrise des cartes devient redoutable, aucune ne vous échappe ! | Félicitations ! Vous avez battu votre propre score avec <score> sur Jumelles ! Votre mémoire photographique fait des merveilles à chaque partie !"
     }
   },
   {
@@ -515,7 +515,7 @@
     "game": "MUSIC",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations, vous avez surpassé votre propre score de <score> sur L'Oreille Musicale ! Votre sens de l’écoute est affûté comme jamais ! | Bravo ! Avec ce score de <score> sur L'Oreille Musicale, vous prouvez que vos oreilles captent toutes les subtilités des sons ! | Incroyable ! Vous avez battu votre propre record avec <score> sur L'Oreille Musicale ! Vous êtes un maestro des bonnes réponses auditives ! | Record battu ! Avec un score de <score> sur L'Oreille Musicale, vous avez une précision auditive redoutable, rien ne vous échappe ! | Vous avez dépassé votre ancien score de <score> sur L'Oreille Musicale ! Vos oreilles détectent la moindre nuance sonore avec une efficacité redoutable ! | Score amélioré ! Avec <score> sur L'Oreille Musicale, vous jonglez avec les sons comme un véritable expert musical ! | Vous avez battu votre propre score de <score> sur L'Oreille Musicale ! Votre oreille musicale est en pleine forme, continuez à affiner votre sens du détail ! | Quel progrès ! Avec un score de <score> sur L'Oreille Musicale, vous montrez que votre oreille ne se trompe jamais ! | Record personnel battu ! Avec <score> sur L'Oreille Musicale, vos oreilles sont devenues des instruments de précision, aucun son ne vous échappe ! | Bravo pour ce score de <score> sur L'Oreille Musicale ! Vous venez de prouver que votre oreille absolue fait la différence à chaque fois !"
     }
   },
   {
@@ -584,7 +584,7 @@
     "game": "CASCADE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous avez battu votre propre score de <score> sur Cascade Infernale ! Votre regard de lynx ne laisse passer aucune différence ! | Bravo ! Avec ce nouveau score de <score> sur Cascade Infernale, vous maîtrisez les symboles comme un véritable détective visuel ! | Incroyable ! Vous avez surpassé votre ancien score avec <score> sur Cascade Infernale ! Vous avez l'œil pour repérer chaque détail, aucun symbole ne vous échappe ! | Record battu ! Avec un score de <score> sur Cascade Infernale, vous jonglez entre les différences comme un pro, tout en conservant vos pièces d’or ! | Vous avez dépassé votre propre score de <score> sur Cascade Infernale ! Votre attention aux détails est redoutable, rien ne vous arrête ! | Quel progrès ! Avec ce score de <score> sur Cascade Infernale, vous démontrez que vos réflexes et votre concentration sont sans faille ! | Score amélioré ! Vous avez battu votre propre record de <score> sur Cascade Infernale ! Votre capacité à détecter les différences est tout simplement impressionnante ! | Vous avez pulvérisé votre précédent score avec <score> sur Cascade Infernale ! Vos yeux aiguisés repèrent tout, et vous gardez votre trésor intact ! | Bravo pour ce nouveau score de <score> sur Cascade Infernale ! Vous avez prouvé que vous êtes imbattable dans la chasse aux différences ! | Record personnel battu ! Avec <score> sur Cascade Infernale, vous naviguez entre les symboles et les pièces d'or avec brio, sans jamais perdre de vue l'objectif !"
     }
   },
   {
@@ -722,7 +722,7 @@
     "game": "LOST_POEM",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous avez surpassé votre propre score de <score> sur Le Poème perdu ! Vos talents de poète sont indéniables ! | Bravo ! Avec ce nouveau score de <score> sur Le Poème perdu, vous recomposez les vers avec une fluidité impressionnante ! | Incroyable ! Vous avez battu votre propre record avec <score> sur Le Poème perdu ! Chaque mot trouve sa place grâce à votre esprit affûté ! | Record battu ! Avec un score de <score> sur Le Poème perdu, vous assemblez les mots comme un virtuose, la poésie n’a plus de secrets pour vous ! | Vous avez dépassé votre propre score de <score> sur Le Poème perdu ! Votre esprit créatif et votre mémoire sont en parfaite harmonie ! | Quel progrès ! Avec ce score de <score> sur Le Poème perdu, vous reconstruisez les poèmes avec une finesse digne des plus grands auteurs ! | Score amélioré ! Vous avez battu votre propre record de <score> sur Le Poème perdu ! Vous domptez les mots avec brio, comme un véritable maître de la langue ! | Vous avez pulvérisé votre précédent score avec <score> sur Le Poème perdu ! Chaque vers vous mène à la perfection poétique ! | Bravo pour ce nouveau score de <score> sur Le Poème perdu ! Votre maîtrise des mots et de la structure est tout simplement remarquable ! | Record personnel battu ! Avec <score> sur Le Poème perdu, vous trouvez chaque mot avec une précision et une élégance qui enchantent les poèmes !"
     }
   },
   {
@@ -767,7 +767,7 @@
     "game": "WALKER",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous avez tracé un chemin parfait et battu votre propre score de <score> sur Le Promeneur ! Votre sens de l'orientation est imbattable ! | Bravo ! Avec ce nouveau score de <score> sur Le Promeneur, vous prouvez que vous savez exactement comment naviguer entre les cartes avec précision ! | Incroyable ! Vous avez battu votre propre record avec <score> sur Le Promeneur ! Vous tracez des chemins comme un véritable explorateur ! | Record battu ! Avec un score de <score> sur Le Promeneur, vous faites preuve d’un talent exceptionnel pour construire des routes parfaites ! | Vous avez dépassé votre ancien score de <score> sur Le Promeneur ! Vous jonglez avec les cartes et les chemins comme un maître stratège ! | Quel progrès ! Avec ce score de <score> sur Le Promeneur, vous savez parfaitement combiner les cartes pour atteindre vos objectifs avec finesse ! | Score amélioré ! Vous avez battu votre propre record de <score> sur Le Promeneur ! Vous tracez des chemins sans failles, un véritable expert du parcours ! | Vous avez pulvérisé votre précédent score avec <score> sur Le Promeneur ! Chaque chemin que vous construisez est une véritable œuvre de maîtrise ! | Bravo pour ce nouveau score de <score> sur Le Promeneur ! Vous combinez stratégie et réflexion avec brio à chaque étape ! | Record personnel battu ! Avec <score> sur Le Promeneur, vous domptez les cartes et créez des trajets sans erreurs, un promeneur de génie !"
     }
   },
   {
@@ -836,7 +836,7 @@
     "game": "FURIOUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous avez surpassé votre propre score de <score> sur Les Cartes Endiablées ! Votre mémoire est aussi rapide que les cartes qui défilent ! | Bravo ! Avec ce nouveau score de <score> sur Les Cartes Endiablées, vous remettez chaque carte en place avec une précision incroyable ! | Incroyable ! Vous avez battu votre propre record avec <score> sur Les Cartes Endiablées ! Rien ne vous échappe, les cartes suivent vos règles ! | Record battu ! Avec un score de <score> sur Les Cartes Endiablées, vous avez mémorisé l’ordre des cartes comme un pro, même après le mélange ! | Vous avez dépassé votre propre score de <score> sur Les Cartes Endiablées ! Votre mémoire et votre rapidité font de vous un as des cartes ! | Quel progrès ! Avec un score de <score> sur Les Cartes Endiablées, vous défiez chaque mélange avec aisance et intelligence ! | Score amélioré ! Vous avez battu votre propre record de <score> sur Les Cartes Endiablées ! Votre capacité à remettre de l’ordre est tout simplement impressionnante ! | Vous avez pulvérisé votre précédent score avec <score> sur Les Cartes Endiablées ! Vous gardez en tête chaque carte, comme un véritable maître de la mémoire ! | Bravo pour ce nouveau score de <score> sur Les Cartes Endiablées ! Vous manipulez les cartes avec une habileté qui impressionne à chaque tour ! | Record personnel battu ! Avec un score de <score> sur Les Cartes Endiablées, vous maîtrisez l’ordre des cartes avec brio, sans laisser de place au hasard !"
     }
   },
   {
@@ -929,7 +929,7 @@
     "game": "SCROLLANDCATCH",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous avez surpassé votre propre score de <score> sur Les Fous Volants ! Vos yeux sont plus rapides que les ballons eux-mêmes ! | Bravo ! Avec ce nouveau score de <score> sur Les Fous Volants, vous comptez les ballons avec une précision digne d'un maître des airs ! | Incroyable ! Vous avez battu votre propre record avec <score> sur Les Fous Volants ! Rien ne vous échappe, même dans le ciel le plus agité ! | Record battu ! Avec un score de <score> sur Les Fous Volants, vous avez prouvé que vous maîtrisez l'art de compter les ballons en plein vol ! | Vous avez dépassé votre propre score de <score> sur Les Fous Volants ! Votre capacité à suivre chaque ballon dans les airs est tout simplement spectaculaire ! | Quel progrès ! Avec ce score de <score> sur Les Fous Volants, vous montrez que vous êtes imbattable pour compter même les ballons les plus fous ! | Score amélioré ! Vous avez battu votre propre record de <score> sur Les Fous Volants ! Votre rapidité et votre précision à compter n'ont jamais été aussi impressionnantes ! | Vous avez pulvérisé votre précédent score avec <score> sur Les Fous Volants ! Vos talents de compteur de ballons sont maintenant légendaires ! | Bravo pour ce nouveau score de <score> sur Les Fous Volants ! Vous gardez en tête chaque ballon qui s’envole, comme un véritable as des chiffres ! | Record personnel battu ! Avec un score de <score> sur Les Fous Volants, vous avez un talent extraordinaire pour suivre et compter les ballons dans toutes les directions !"
     }
   },
   {
@@ -1412,7 +1412,7 @@
     "game": "GEO",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "prêt à conquérir encore plus de territoires ! | Félicitations ! Avec ce score de <score> sur Tour du monde, vous prouvez que même vos propres limites ne sont qu'une étape vers de nouveaux horizons ! | Vous avez battu votre propre score de <score> sur Tour du monde ! À ce rythme, chaque continent vous semblera plus proche ! | Bravo, vous avez amélioré votre score précédent avec <score> sur Tour du monde ! Vous êtes en pleine progression, continuez à explorer ! | Votre nouveau score de <score> sur Tour du monde montre que vous êtes devenu encore plus précis et persévérant dans votre quête de découverte ! | Vous venez de battre votre propre record avec <score> sur Tour du monde ! Vous explorez mieux, plus vite et plus loin à chaque partie ! | Score battu ! Vous avez surmonté votre propre performance avec un impressionnant <score> sur Tour du monde ! | Vous venez d'améliorer votre score sur Tour du monde avec un résultat de <score> ! Votre sens de l'orientation devient redoutable ! | Record personnel battu ! Vous avez atteint <score> sur Tour du monde, et c’est vous qui tracez maintenant les cartes ! | Quel progrès ! Votre score de <score> sur Tour du monde prouve que vous n’arrêtez jamais de vous dépasser !"
     }
   },
   {
@@ -1574,7 +1574,7 @@
     "game": "SHAPEBOX",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations, vous avez surpassé votre propre score de <score> sur Boîte à forme ! Votre œil de lynx et votre concentration vous mènent loin ! | Bravo ! Avec un score de <score> sur Boîte à forme, vous êtes devenu encore plus rapide à repérer la bonne forme ou couleur ! | Vous avez battu votre propre record avec un score de <score> sur Boîte à forme ! Votre précision s’améliore à chaque tour ! | Score amélioré ! Avec <score> sur Boîte à forme, vous devenez imbattable dans l’art de distinguer les bonnes formes ! | Votre nouveau score de <score> sur Boîte à forme montre que vous êtes de plus en plus affûté dans ce jeu visuel ! | Vous avez dépassé votre propre score de <score> sur Boîte à forme ! Les propositions trompeuses ne vous piégeront plus ! | Avec un score de <score> sur Boîte à forme, vous prouvez que concentration et réactivité sont vos meilleures armes ! | Vous venez de battre votre propre record avec <score> sur Boîte à forme ! Vous avez un vrai talent pour voir les bonnes formes au bon moment ! | Incroyable ! Vous avez amélioré votre score précédent avec <score> sur Boîte à forme ! Vous êtes un vrai maître de la perception ! | Record personnel battu avec <score> sur Boîte à forme ! Vous n’avez laissé aucune forme ou couleur vous échapper !"
     }
   },
   {
@@ -1760,21 +1760,21 @@
     "game": "WHACKAMOLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Nouveau record ! Les taupes n’ont aucune chance contre ta rapidité et ton attention de faucon !|Tes réflexes sont dignes d’un pro de la chasse aux taupes ! Mais attention, on ne tape que sur celles du jeu, pas dans la vraie vie !|Tu as réagi à la vitesse de l’éclair et battu ton record ! Les taupes ne peuvent plus se cacher… mais laisse celles du jardin tranquilles !|Super travail ! Tu as battu ton record, Les taupes n'ont aucune chance avec toi aux commandes.|Quel coup d'œil ! Les taupes sont sorties, et tu les as toutes attrapées comme un pro !|Tu es devenu le champion des taupes ! Nouveau record battu avec une rapidité incroyable. |"
+      "fr": "Nouveau record ! Les taupes n’ont aucune chance contre ta rapidité et ton attention de faucon !|Tes réflexes sont dignes d’un pro de la chasse aux taupes ! Mais attention, on ne tape que sur celles du jeu, pas dans la vraie vie !|Tu as réagi à la vitesse de l’éclair et battu ton record ! Les taupes ne peuvent plus se cacher… mais laisse celles du jardin tranquilles !|Super travail ! Tu as battu ton record, Les taupes n'ont aucune chance avec toi aux commandes.|Quel coup d'œil ! Les taupes sont sorties, et tu les as toutes attrapées comme un pro !|Tu es devenu le champion des taupes ! Nouveau record battu avec une rapidité incroyable. "
     }
   },
   {
     "game": "WHACKAMOLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Quel coup d'œil ! Vous avez attrapé les taupes avec une précision redoutable. Même sans battre votre record, c’était une performance solide ! | Très bon travail ! Vous avez bien géré cette partie, les taupes n'ont pas fait long feu sous vos coups rapides et précis. | Très bonne performance ! Les taupes ont à peine eu le temps d’apparaître avant que vous ne les frappiez. Un excellent jeu, même sans record battu ! | Encore une belle partie. Vous avez attrapé les taupes avec rapidité et précision. Continuez à jouer comme ça, les records viendront ! | Très bonne partie. Vos réflexes sont toujours aussi affûtés, les taupes n'ont pas pu se cacher longtemps sous votre vigilance. "
     }
   },
   {
     "game": "WHACKAMOLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Les taupes étaient rapides, mais ne vous laissez pas déconcentrer. Prenez quelques secondes pour vous focaliser avant chaque partie, cela boostera votre réactivité et vos résultats ! | Cette partie a été un peu plus difficile, mais en prenant le temps de bien observer chaque taupe, vous améliorerez votre précision. Essayez de rester concentré sur l’apparition des taupes, et ça ira mieux la prochaine fois ! | Pas de souci, les taupes ont été coriaces cette fois-ci. La prochaine fois, essayez de respirer profondément avant de commencer la partie pour vous recentrer et améliorer votre concentration. | Les taupes étaient rapides, mais ne vous laissez pas déconcentrer. Prenez quelques secondes pour vous focaliser avant chaque partie, cela boostera votre réactivité et vos résultats ! | "
     }
   },
   {
@@ -1877,7 +1877,7 @@
     "game": "NOAHS_ARK",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous avez fait embarquer encore plus d’animaux avec un score de <score> sur L'Arche de Noé ! Vous êtes un vrai sauveur de la faune ! | Bravo ! Avec ce nouveau score de <score> sur L'Arche de Noé, vous êtes devenu un expert en matchmaking animalier ! | Record battu ! Vous avez dépassé votre propre score de <score> sur L'Arche de Noé ! Votre rapidité à former des paires est impressionnante ! | Score amélioré ! Avec <score> sur L'Arche de Noé, vous avez embarqué plus d’animaux que jamais, la faune vous remercie ! | Vous avez dépassé votre ancien score de <score> sur L'Arche de Noé ! À ce rythme, tous les animaux seront à l’abri en un clin d’œil ! | Quel progrès ! Avec un score de <score> sur L'Arche de Noé, vous gérez les embarquements comme un véritable capitaine ! | Incroyable ! Vous avez battu votre propre record avec <score> sur L'Arche de Noé ! Votre efficacité à sauver les animaux est redoutable ! | Score explosé ! Vous avez formé des paires d’animaux à la vitesse de l’éclair avec <score> sur L'Arche de Noé ! | Avec ce nouveau score de <score> sur L'Arche de Noé, votre rapidité à sauver les animaux est devenue légendaire ! | Record personnel battu avec <score> sur L'Arche de Noé ! Les animaux n’ont jamais embarqué aussi vite grâce à vous !"
     }
   },
   {
@@ -1946,7 +1946,7 @@
     "game": "SLIDE_MAZE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations, vous avez guidé Joe avec brio et battu votre propre score de <score> sur JOE le pirate ! Aucun trésor ne vous échappe ! | Bravo, avec ce nouveau score de <score> sur JOE le pirate, vous menez Joe au trésor comme un véritable capitaine des mers ! | Record battu ! Avec un score de <score> sur JOE le pirate, vous avez esquivé les sirènes et trouvé encore plus de trésors ! | Votre nouveau score de <score> sur JOE le pirate prouve que vous maîtrisez parfaitement la navigation à travers les obstacles ! | Incroyable ! Vous avez dépassé votre propre score avec <score> sur JOE le pirate ! Joe n'a jamais été aussi près de tous ses trésors ! | Vous avez battu votre propre record avec un score de <score> sur JOE le pirate ! Aucun piège, ni sirène, ne vous fait ralentir ! | Score explosé ! Avec <score> sur JOE le pirate, Joe file droit vers les trésors sans jamais s’arrêter, grâce à vos talents ! | Avec ce nouveau score de <score> sur JOE le pirate, vous êtes devenu un véritable stratège de la chasse au trésor ! | Vous venez de battre votre record avec <score> sur JOE le pirate ! Joe vous doit tous ses trésors, et les sirènes n’ont aucune chance ! | Record personnel battu avec un score de <score> sur JOE le pirate ! Rien ne peut arrêter Joe sur sa route vers les trésors, grâce à vous !"
     }
   },
   {
@@ -2046,14 +2046,14 @@
     "game": "POPBALLOON",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Encore une belle victoire ! Les ballons ne vous échappent jamais, même si votre record reste intact cette fois-ci. | Super performance ! Même sans battre votre meilleur score, vous avez montré une grande concentration et habileté. | Bien joué ! Vous n'avez pas battu votre record, mais vous avez été d'une précision incroyable. Continuez à affiner vos tirs ! Bravo, vous avez visé avec précision et touché les ballons de la bonne couleur ! Votre œil de lynx est toujours aussi affûté. | Pas de record battu, mais quelle maîtrise ! Vous êtes toujours un tireur redoutable, les ballons n’ont qu’à bien se tenir.| Quelle précision ! Vous n’avez peut-être pas battu votre record, mais les ballons n'ont aucune chance face à vos tirs. |"
     }
   },
   {
     "game": "POPBALLOON",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Vous avez eu quelques difficultés, mais cela arrive à tout le monde. Avec un peu plus de concentration, vous êtes capable de battre votre record ! | Cela n'a pas été facile cette fois, mais ne vous découragez pas ! Rejouez et vous retrouverez rapidement votre précision habituelle. | Les ballons étaient plus durs à toucher aujourd’hui, mais vous êtes capable de faire mieux. Allez, une nouvelle partie pour reprendre du poil de la bête ! | Même les meilleurs ont parfois des jours moins bons. Ce qui compte, c’est de continuer à jouer et à progresser ! Ce n'était pas votre meilleure performance, mais avec un peu plus de pratique, vous serez de retour au sommet en un rien de temps !"
     }
   },
   {
@@ -2108,21 +2108,21 @@
     "game": "CARS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Grâce à ton sens de la stratégie, tu as trouvé le chemin parfait pour libérer la voiture jaune.|Bravo, tu as su faire bouger chaque voiture au bon moment, libérant ainsi la voiture jaune sans effort apparent.|Mission accomplie ! Ton sens de la planification a permis à la voiture jaune de s’échapper du parking sans encombre.|Avec calme et méthode, tu as dégagé la voie pour la voiture jaune ! Quelle organisation !|Tu as manœuvré chaque voiture avec finesse pour créer le chemin idéal vers la sortie.|Ton esprit stratégique a encore frappé ! La voiture jaune a trouvé la sortie grâce à tes déplacements parfaits.|Tu as surmonté cet embouteillage comme un as de la circulation, la voiture jaune est libre grâce à toi !"
+      "fr": "Grâce à votre sens de la stratégie, vous avez trouvé le chemin parfait pour libérer la voiture jaune. | Bravo, vous avez su faire bouger chaque voiture au bon moment, libérant ainsi la voiture jaune sans effort apparent. | Mission accomplie ! Votre sens de la planification a permis à la voiture jaune de s’échapper du parking sans encombre. | Avec calme et méthode, vous avez dégagé la voie pour la voiture jaune ! Quelle organisation ! | Vous avez manœuvré chaque voiture avec finesse pour créer le chemin idéal vers la sortie. | Votre esprit stratégique a encore frappé ! La voiture jaune a trouvé la sortie grâce à vos déplacements parfaits. | Vous avez surmonté cet embouteillage comme un as de la circulation, la voiture jaune est libre grâce à vous !"
     }
   },
   {
     "game": "CARS",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Bravo pour cette partie, vous avez su faire preuve de méthode et de calme pour débloquer la situation. La voiture jaune est sortie avec précision !| Bien joué, vous avez encore une fois montré votre sens stratégique en libérant la voiture jaune sans difficulté. C’était fluide et efficace !|Excellente manœuvre ! Vous avez déplacé les voitures avec justesse, prouvant une bonne maîtrise de l’espace.| Vous avez trouvé le bon chemin pour libérer la voiture, c’était bien pensé. Une belle performance, continuez ainsi ! | Vous avez fait preuve de patience et de réflexion. La voiture jaune est sortie sans encombre, belle gestion des obstacles ! | Encore une réussite ! Même sans battre votre record, vous avez brillamment géré cet embouteillage. C'est tout en finesse ! | Pas de record cette fois, mais vous avez bien anticipé chaque mouvement. C’est agréable de voir à quel point vous êtes à l’aise avec ces situations !"
     }
   },
   {
     "game": "CARS",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Vous n'avez pas battu votre record, mais chaque partie compte. Avec un peu plus de pratique, vous maîtriserez ces manœuvres comme un pro ! | Vous avez peut-être rencontré quelques difficultés, mais vous avez tout de même fait de bons choix. Continuez à jouer, les progrès viendront ! | Tout ne s'est pas passé comme prévu, mais vous avez fait de votre mieux ! Ne vous inquiétez pas, les prochaines parties seront meilleures. | Il y a eu quelques obstacles cette fois, mais vous avez les compétences pour surmonter ça. Un peu plus de concentration, et vous y arriverez ! | Pas facile cette fois-ci, mais vous avez su garder votre calme. Chaque partie est une occasion de progresser, vous ferez encore mieux la prochaine fois ! | Même si ce n'était pas votre meilleure performance, l'important est de persévérer. Chaque essai vous rapproche du succès !"
     }
   },
   {
@@ -2201,21 +2201,21 @@
     "game": "PANURGE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Tu as fait preuve d'une grande stratégie et d'une excellente planification pour protéger tes moutons du loup ! Continue comme ça !|  Tu as su gérer l'espace des enclos à la perfection, ce qui montre une belle maîtrise de l'attention et de la perception !|Ta capacité à anticiper les mouvements du loup a fait toute la différence. Quelle belle stratégie !|Avec toi, les moutons sont entre de bonnes mains ! Tu es le protecteur ultime face au loup !|Aucun mouton ne risque de se faire dévorer quand tu es aux commandes. Le meilleur gardien qui soit !|Tu as l'instinct d'un vrai berger ! Tes moutons sont en sécurité, bien gardés grâce à toi."
+      "fr": "Vous avez fait preuve d'une grande stratégie et d'une excellente planification pour protéger vos moutons du loup ! Continuez comme ça ! | Vous avez su gérer l'espace des enclos à la perfection, ce qui montre une belle maîtrise de l'attention et de la perception ! | Votre capacité à anticiper les mouvements du loup a fait toute la différence. Quelle belle stratégie ! | Avec vous, les moutons sont entre de bonnes mains ! Vous êtes le protecteur ultime face au loup ! | Aucun mouton ne risque de se faire dévorer quand vous êtes aux commandes. Le meilleur gardien qui soit ! | Vous avez l'instinct d'un vrai berger ! Vos moutons sont en sécurité, bien gardés grâce à vous !"
     }
   },
   {
     "game": "PANURGE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Vous avez su gérer les enclos avec soin, montrant une belle maîtrise de l'attention et de la perception. C’est toujours un plaisir de voir votre progression. | Avec vous, les moutons sont toujours en sécurité ! Même sans record battu, vous avez brillamment protégé vos petits protégés. | Vous avez l'instinct d'un berger expérimenté. Les moutons ont été bien protégés aujourd'hui, bravo pour cette partie très réussie ! | Encore une belle réussite ! Continuez à garder vos moutons aussi bien, et rejouez pour essayer de battre votre record. | Encore une belle partie ! Vous avez prouvé, une fois de plus, que vous savez protéger vos moutons. Beau travail ! | Vous avez protégé les moutons avec soin et intelligence. C’était une partie solide et bien menée, bravo pour ce résultat ! | Même sans record battu, vous avez su mettre en place une stratégie pour tracer vos enclos. Vos compétences ne cessent de s'affiner !"
     }
   },
   {
     "game": "PANURGE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Les moutons étaient un peu plus difficiles à gérer cette fois-ci, mais vous savez exactement comment les protéger. Une nouvelle partie, et ça ira mieux ! | Parfois, les choses ne se passent pas comme prévu, mais ne vous inquiétez pas. Vous savez ce que vous devez faire, alors n’hésitez pas à rejouer ! | Cette partie n'était pas la meilleure, mais chaque essai compte pour s'améliorer. La prochaine partie sera l'occasion de sauver plus de moutons ! | Cette partie était un peu plus compliquée, mais ne vous découragez pas ! Un autre essai, et vous reviendrez plus fort. | Les choses n'ont pas tourné en votre faveur cette fois-ci, mais ne vous inquiétez pas, vous êtes sur la bonne voie. Rejouez et montrez ce dont vous êtes capable ! | Ce n'était pas votre meilleure partie, mais c’est normal ! Chaque partie est une occasion d'apprendre. Rejouez et vous ferez encore mieux ! | Même si le score n’était pas à la hauteur sur cette partie, ce n’est qu’une étape. Rejouez, et vous verrez des progrès à chaque partie !|"
     }
   },
   {
