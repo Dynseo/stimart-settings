@@ -62,7 +62,7 @@
     "game": "PUZZLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> secondes, vous avez fait mieux que votre moyenne habituelle. Vous êtes sur la bonne voie !|Vous avez résolu le puzzle en <score> secondes, c’est en dessous de votre moyenne. Continuez comme ça, vous êtes en progrès !|Vous avez fini le puzzle en <score> secondes, mieux que votre moyenne. Vous vous rapprochez de votre meilleur score !|Avec <score> secondes pour résoudre le puzzle, vous améliorez votre temps moyen.|Vous avez mis <score> secondes pour ce puzzle, c’est en dessous de votre moyenne. Prochaine étape : battre votre record !"
+      "fr": "Avec <score> secondes, vous avez fait mieux que votre moyenne habituelle.|Vous avez résolu le puzzle en <score> secondes, c’est en dessous de votre moyenne.|Vous avez fini le puzzle en <score> secondes, mieux que votre moyenne. Vous vous rapprochez de votre meilleur score !|Avec <score> secondes pour résoudre le puzzle, vous améliorez votre temps moyen.|Vous avez mis <score> secondes pour ce puzzle, c’est en dessous de votre moyenne."
     }
   },
   {
@@ -70,7 +70,7 @@
     "game": "PUZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Pour ce puzzle, vous avez pris <score> secondes cette fois-ci, un peu plus que votre moyenne.|Avec <score> secondes pour terminer le puzzle, vous avez dépassé votre moyenne habituelle, mais l'important, c'est de persévérer.|<score> secondes, c'est un peu plus long que d'habitude, mais ne vous découragez pas. Chaque puzzle est un nouveau défi !|Vous avez pris <score> secondes pour terminer ce puzzle, un peu plus que d’habitude, mais chaque effort vous fait progresser."
+      "fr": "Pour ce puzzle, vous avez pris <score> secondes cette fois-ci, un peu plus que votre moyenne.|Avec <score> secondes pour terminer le puzzle, vous avez dépassé votre moyenne habituelle, mais l'important, c'est de persévérer.|<score> secondes, c'est un peu plus long que d'habitude, mais ne vous découragez pas. Chaque puzzle est un nouveau défi !|Vous avez pris <score> secondes pour terminer ce puzzle, un peu plus que d’habitude."
     }
   },
   {
@@ -86,7 +86,7 @@
     "game": "PUZZLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Vous avez résolu ce puzzle avec <score> indices, c'est mieux que votre moyenne habituelle. Vous progressez à chaque partie !|Avec <score> indices, vous faites mieux que votre moyenne. Continuez ainsi, vous êtes en progrès !|Vous avez demandé moins d'indices que d'habitude, avec <score> cette fois-ci.|Moins d'indices que d'habitude, avec <score> pour ce puzzle."
+      "fr": "Vous avez résolu ce puzzle avec <score> indices, c'est mieux que votre moyenne habituelle.|Avec <score> indices, vous faites mieux que votre moyenne !|Vous avez demandé moins d'indices que d'habitude, avec <score> cette fois-ci.|Moins d'indices que d'habitude, avec <score> indices pour ce puzzle."
     }
   },
   {
@@ -94,7 +94,7 @@
     "game": "PUZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Vous avez demandé <score> indices cette fois-ci, un peu plus que votre moyenne, mais cela arrive. Continuez à persévérer, vous ferez mieux au prochain puzzle !|Avec <score> indices, vous êtes au-dessus de votre moyenne habituelle, mais chaque partie est une opportunité de progresser.|Avec <score> indices, c’est un peu au-dessus de votre moyenne, mais cela fait partie du jeu. Restez concentré(e) et vous ferez mieux au prochain puzzle !|Vous avez utilisé <score> indices, un peu plus que d'habitude, mais chaque puzzle est un nouveau défi."
+      "fr": "Vous avez demandé <score> indices cette fois-ci, un peu plus que votre moyenne.|Avec <score> indices, vous êtes au-dessus de votre moyenne habituelle.|Avec <score> indices, c’est un peu au-dessus de votre moyenne, mais cela fait partie du jeu. Restez concentré(e) et vous ferez mieux au prochain puzzle !|Vous avez utilisé <score> indices, un peu plus que d'habitude."
     }
   },
   {
@@ -108,7 +108,7 @@
     "game": "INTRUS",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bien joué ! Votre œil de lynx a encore frappé, même sans record battu. Continuez à affiner votre logique, surtout avec les intrus les plus inattendus. | Vous avez encore fait une belle performance ! Les intrus les plus fous n'ont pas échappé à votre regard. Continuez à travailler votre logique et votre langage pour ne pas tomber dans les pièges. |  Bien joué ! Même sans battre votre record, vous avez montré une belle maîtrise. Si un mot vous échappe, prenez un instant pour réfléchir à ce à quoi il vous fait penser, cela vous aidera à trouver l’intrus plus rapidement. | Belle performance ! Les intrus n'ont pas fait lLa prochaine fois, si un mot vous paraît étrange, essayez de deviner le domaine auquel il pourrait appartenir. Ça vous permettra de repérer l'intrus plus facilement | Félicitations ! Vous avez brillamment démasqué les intrus. Si un mot vous est inconnu, explorez sa thématique dans votre tête : est-ce un mot lié à la nourriture, aux animaux, ou autre ? Cela peut vous donner un indice pour mieux comprendre. Superbe partie ! Vous êtes toujours aussi précis. Si vous tombez sur un mot saugrenu, tentez d’identifier à quoi il pourrait se rapporter, cela affinera votre réflexion. "
+      "fr": "Bien joué ! Votre œil de lynx a encore frappé, même sans record battu. Continuez à affiner votre logique, surtout avec les intrus les plus inattendus. | Vous avez encore fait une belle performance ! Les intrus les plus fous n'ont pas échappé à votre regard. Continuez à travailler votre logique et votre langage pour ne pas tomber dans les pièges. |  Bien joué ! Même sans battre votre record, vous avez montré une belle maîtrise. Si un mot vous échappe, prenez un instant pour réfléchir à ce à quoi il vous fait penser, cela vous aidera à trouver l’intrus plus rapidement. | Belle performance ! La prochaine fois, si un mot vous paraît étrange, essayez de deviner le domaine auquel il pourrait appartenir. Ça vous permettra de repérer l'intrus plus facilement | Félicitations ! Vous avez brillamment démasqué les intrus. Si un mot vous est inconnu, explorez sa thématique dans votre tête : est-ce un mot lié à la nourriture, aux animaux, ou autre ? Cela peut vous donner un indice pour mieux comprendre.| Superbe partie ! Vous êtes toujours aussi précis. Si vous tombez sur un mot saugrenu, tentez d’identifier à quoi il pourrait se rapporter, cela affinera votre réflexion. "
     }
   },
   {
@@ -123,7 +123,7 @@
     "game": "INTRUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez trouvé eu <score> bonnes réponses sur 10. Bravo pour votre rapidité d’esprit !|Vous avez identifié l’intrus <score> fois sur 10. Continuez ainsi !|Vous avez trouvé l'intrus avec <score> bonnes réponses, Ta persévérance porte ses fruits, bravo !"
+      "fr": "Vous avez eu <score> bonnes réponses sur 10. Bravo pour votre rapidité d’esprit !|Vous avez identifié l’intrus <score> fois sur 10 !|Vous avez trouvé l'intrus avec <score> bonnes réponses."
     }
   },
   {
@@ -131,7 +131,7 @@
     "game": "INTRUS",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne. Vous progressez à vue d'œil !|Vous avez trouvé l'intrus <score> fois, au-dessus de votre moyenne habituelle.|Vous avez identifié l'intrus avec <score> bonnes réponses, un score supérieur à votre moyenne.|Avec <score> intrus trouvés, vous avez dépassé votre moyenne.|Vous avez fait mieux que votre moyenne avec <score> bonnes réponses."
+      "fr": "Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne !|Vous avez trouvé l'intrus <score> fois, au-dessus de votre moyenne habituelle.|Vous avez identifié l'intrus avec <score> bonnes réponses, un score supérieur à votre moyenne.|Avec <score> intrus trouvés, vous avez dépassé votre moyenne.|Vous avez fait mieux que votre moyenne avec <score> bonnes réponses."
     }
   },
   {
@@ -139,7 +139,7 @@
     "game": "INTRUS",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Vous avez obtenu <score> bonnes réponses, un peu en dessous de votre moyenne, mais ne vous inquiétez pas, vous ferez mieux la prochaine fois !|Avec <score> intrus trouvé, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre.|Vous avez trouvé l'intrus  <score> fois, un score en-dessous de votre moyenne, mais cela ne fait que rendre le prochain défi encore plus excitant !|Vous avez fait un peu moins bien que d'habitude avec <score> bonnes réponses, mais chaque partie vous rapproche de l'amélioration."
+      "fr": "Vous avez obtenu <score> bonnes réponses, un peu en dessous de votre moyenne, mais ne vous inquiétez pas, vous ferez mieux la prochaine fois !|Avec <score> intrus trouvé, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre.|Vous avez trouvé l'intrus  <score> fois, un score en-dessous de votre moyenne.|Vous avez fait un peu moins bien que d'habitude avec <score> bonnes réponses."
     }
   },
   {
@@ -147,7 +147,7 @@
     "game": "INTRUS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez fait un minimum d'erreurs, avec <score> mauvaises réponses ! Pouvez vous faire encore mieux ?|Vous avez franchi un cap avec <score> mauvaises réponses. Continuez sur cette lancée !|Vous avez réduit vos erreurs à un niveau record, avec <score> mauvaises réponses. Chaque effort compte !"
+      "fr": "Vous avez fait un minimum d'erreurs, avec <score> mauvaises réponses ! Pouvez vous faire encore mieux ?|Vous avez franchi un cap avec <score> mauvaises réponses.|Vous avez réduit vos erreurs à un niveau record, avec <score> mauvaises réponses !"
     }
   },
   {
@@ -155,7 +155,7 @@
     "game": "INTRUS",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> erreurs, vous avez fait mieux que votre moyenne habituelle. Quel bel effort !|Avec  <score> mauvaises réponses, vous avez surpassé votre moyenne. Continuez sur cette belle lancée !|Avec <score> erreurs, vous avez fait mieux que votre moyenne. La prochaine étape c'est un nouveau record !|Avec <score> mauvaises réponses, vous êtes en dessous de votre moyenne. C’est un signe clair de votre évolution !"
+      "fr": "Avec <score> erreurs, vous avez fait mieux que votre moyenne habituelle. Quel bel effort !|Avec <score> mauvaises réponses, vous avez surpassé votre moyenne. Continuez sur cette belle lancée !|Avec <score> erreurs, vous avez fait mieux que votre moyenne.|Avec <score> mauvaises réponses, vous êtes en dessous de votre moyenne. C’est un signe clair de votre évolution !"
     }
   },
   {
@@ -163,7 +163,7 @@
     "game": "INTRUS",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> mauvaises réponses en essayant de démasquer l’intrus, c’est un peu plus que d’habitude, mais vous avez déjà prouvé que vous pouvez mieux faire. Tenez bon !|Vous avez fait <score> erreurs cette fois-ci en identifiant l’intrus, un peu plus que votre moyenne, mais chaque partie est un entraînement qui vous rapproche du sans-faute.|Cette fois, vous avez repéré l’intrus avec <score> erreurs, un résultat un peu moins bon que votre moyenne, mais chaque essai est une occasion de s'améliorer. La prochaine manche sera meilleure !"
+      "fr": "Avec <score> mauvaises réponses en essayant de démasquer l’intrus, c’est un peu plus que d’habitude, mais vous avez déjà prouvé que vous pouvez mieux faire !|Vous avez fait <score> erreurs cette fois-ci en identifiant l’intrus, un peu plus que votre moyenne.|Cette fois, vous avez repéré l’intrus avec <score> erreurs, un résultat un peu moins bon que votre moyenne !"
     }
   },
   {
@@ -192,7 +192,7 @@
     "game": "QUIZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> bonnes réponses, votre savoir s'enrichit à chaque partie !|Vous avez eu <score> bonnes réponses. Continuez à impressionner avec vos connaissances !|Vous avez répondu correctement à <score> questions. Pouvez vous répondre à encore plus des questions ?"
+      "fr": "Avec <score> bonnes réponses, votre savoir s'enrichit à chaque partie !|Vous avez eu <score> bonnes réponses !|Vous avez répondu correctement à <score> questions. Pouvez vous répondre à encore plus des questions ?"
     }
   },
   {
@@ -200,7 +200,7 @@
     "game": "QUIZZLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne habituelle. Votre culture générale s’affine à chaque partie !|Avec <score> bonnes réponses, vous avez surpassé votre moyenne. Continuez à enrichir vos connaissances, c’est remarquable !|Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne. Vos efforts portent leurs fruits !"
+      "fr": "Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne habituelle !|Avec <score> bonnes réponses, vous avez surpassé votre moyenne. Continuez à enrichir vos connaissances, c’est remarquable !|Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne. Vos efforts portent leurs fruits !"
     }
   },
   {
@@ -208,7 +208,7 @@
     "game": "QUIZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> bonnes réponses, c’est un peu en dessous de votre moyenne, mais chaque question est une occasion d’apprendre.|Avec <score> bonnes réponses, c’est moins que votre moyenne habituelle, mais vous avez déjà prouvé que vous pouvez faire mieux. La prochaine fois sera la bonne !|Avec <score> bonnes réponses, vous n’avez pas atteint votre moyenne, mais persévérez ! Vous connaissez déjà beaucoup de choses et vous êtes capable de plus."
+      "fr": "Avec <score> bonnes réponses, c’est un peu en dessous de votre moyenne, mais chaque question est une occasion d’apprendre.|Avec <score> bonnes réponses, c’est moins que votre moyenne habituelle, mais vous avez déjà prouvé que vous pouvez faire mieux. La prochaine fois sera la bonne !|Avec <score> bonnes réponses, vous n’avez pas atteint votre moyenne, mais persévérez !"
     }
   },
   {
@@ -216,7 +216,7 @@
     "game": "QUIZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez eu <score> mauvaises réponses. Votre maîtrise des sujets est en nette progression !|Vous avez répondu <score> fois de façon érronée. Faites encore plus d'attention la prochaine fois|Avec <score> mauvaises réponses, vous êtes en train de progresser. "
+      "fr": "Vous avez eu <score> mauvaises réponses.|Vous avez répondu <score> fois de façon érronée. Faites encore plus d'attention la prochaine fois|Avec <score> mauvaises réponses, vous êtes en train de progresser. "
     }
   },
   {
@@ -232,7 +232,7 @@
     "game": "QUIZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, c’est un peu plus que votre moyenne, mais chaque essai est une occasion d’apprendre.|Avec <score> mauvaises réponses, vous êtes au-dessus de votre moyenne habituelle, mais rappelez-vous que chaque question est une chance d'améliorer vos connaissances.|Avec <score> mauvaises réponses, c’est en dessous de votre moyenne, mais ne vous en faites pas. Vous avez déjà montré que vous pouvez mieux faire, et la prochaine fois sera meilleure !"
+      "fr": "Avec <score> mauvaises réponses, c’est un peu plus que votre moyenne !|Avec <score> mauvaises réponses, vous êtes au-dessus de votre moyenne habituelle.|Avec <score> mauvaises réponses, c’est en dessous de votre moyenne, mais ne vous en faites pas. Vous avez déjà montré que vous pouvez mieux faire, et la prochaine fois sera meilleure !"
     }
   },
   {
@@ -269,7 +269,7 @@
     "game": "COLORMIND",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous avez surpassé votre moyenne. Chaque erreur évitée montre votre amélioration en mémorisation !|Avec <score> mauvaises réponses, vous faites mieux que d’habitude. Vos efforts commencent à porter leurs fruits !|Avec <score> mauvaises réponses, vous avez fait mieux que votre moyenne. Votre mémoire s’affine de partie en partie !"
+      "fr": "Avec <score> mauvaises réponses, vous avez surpassé votre moyenne. Chaque erreur évitée montre votre amélioration en mémorisation !|Avec <score> mauvaises réponses, vous faites mieux que d’habitude. Vos efforts commencent à porter leurs fruits !|Avec <score> mauvaises réponses, vous avez fait mieux que votre moyenne !"
     }
   },
   {
@@ -277,7 +277,7 @@
     "game": "COLORMIND",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous êtes au-dessus de votre moyenne habituelle, mais rappelez-vous que chaque partie est une opportunité d'apprendre et de progresser.|Avec <score> mauvaises réponses, vous n’avez pas atteint votre moyenne, mais cela arrive à tout le monde. Chaque erreur vous aide à vous améliorer la prochaine fois !|Avec <score> mauvaises réponses, c’est en dessous de votre moyenne, mais gardez confiance. Vous avez déjà montré que vous pouvez réussir, et la prochaine fois sera encore meilleure !"
+      "fr": "Avec <score> mauvaises réponses, vous êtes au-dessus de votre moyenne habituelle.|Avec <score> mauvaises réponses, vous n’avez pas atteint votre moyenne, mais cela arrive à tout le monde !|Avec <score> mauvaises réponses, c’est en dessous de votre moyenne, mais gardez confiance. Vous avez déjà montré que vous pouvez réussir, et la prochaine fois sera encore meilleure !"
     }
   },
   {
@@ -301,7 +301,7 @@
     "game": "COLORMIND",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> visualisations de la solution, c’est un peu plus que votre moyenne, mais chaque coup d'œil vous aide à mieux mémoriser les séquences !|Avec <score> visualisations, vous n’avez pas atteint votre moyenne, mais chaque visualisation est un pas vers une meilleure mémorisation des couleurs. "
+      "fr": "Avec <score> visualisations de la solution, c’est un peu plus que votre moyenne, mais chaque coup d'œil vous aide à mieux mémoriser les séquences !|Avec <score> visualisations, vous n’avez pas atteint votre moyenne."
     }
   },
   {
@@ -1782,7 +1782,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> taupes cliquées, vous avez établi un nouveau record. Votre rapidité et votre agilité mentale sont impressionnantes !|Vous avez réussi à cliquer sur <score> taupes, battant ainsi votre précédent record. Continuez à affiner vos réflexes !|Avec <score> taupes cliquées, vous avez franchi une nouvelle étape. Votre concentration et votre rapidité sont remarquables !"
+      "fr": "Avec <score> taupes cliquées, votre rapidité et votre agilité mentale sont impressionnantes !|Vous avez réussi à cliquer sur <score> taupes. Continuez à affiner vos réflexes !|Avec <score> taupes cliquées, vous avez franchi une nouvelle étape. Votre concentration et votre rapidité sont remarquables !"
     }
   },
   {
@@ -1798,7 +1798,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Vous avez cliqué sur <score> taupes. Bien que ce soit un peu moins que votre moyenne, ne vous découragez pas, votre agilité s'améliorera avec la pratique !|Vous avez cliqué sur <score> taupes. Bien que ce score soit un peu moins que votre moyenne, rappelez-vous que chaque jeu vous rapproche de vos objectifs !"
+      "fr": "Vous avez cliqué sur <score> taupes, un peu moins que votre moyenne.|Vous avez cliqué sur <score> taupes. Bien que ce score soit un peu moins que votre moyenne, rappelez-vous que chaque jeu vous rapproche de vos objectifs !"
     }
   },
   {
@@ -1806,7 +1806,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> taupes portant un casque, vous avez établi un nouveau record ! Votre concentration et votre précision sont impressionnantes !|Vous avez cliqué sur <score> taupes avec un casque, battant ainsi votre précédent record. Votre rapidité est vraiment remarquable !|Vous avez réussi à identifier <score> taupes avec un casque, établissant ainsi un nouveau record ! Continuez ainsi, chaque partie vous rend encore plus rapide !"
+      "fr": "Avec <score> taupes portant un casque, votre concentration et votre précision sont impressionnantes !|Vous avez cliqué sur <score> taupes avec un casque, votre rapidité est vraiment remarquable !|Vous avez réussi à identifier <score> taupes avec un casque ! "
     }
   },
   {
@@ -1814,7 +1814,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> taupes portant un casque, vous avez surpassé votre moyenne ! Votre précision et votre agilité mentale font vraiment la différence !|En atteignant <score> taupes avec un casque, vous avez franchi la barre de votre moyenne. Votre détermination et votre agilité sont exemplaires !|Avec <score> taupes casquées, vous avez dépassé votre moyenne. Cela démontre une belle amélioration dans vos réflexes !"
+      "fr": "Avec <score> taupes portant un casque, vous avez surpassé votre moyenne ! Votre précision et votre agilité mentale font vraiment la différence !|En atteignant <score> taupes avec un casque, vous avez franchi la barre de votre moyenne !|Avec <score> taupes casquées, vous avez dépassé votre moyenne. Cela démontre une belle amélioration dans vos réflexes !"
     }
   },
   {
@@ -1822,7 +1822,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> taupes portant un casque, vous avez fait un score en dessous de votre moyenne. Continuez à vous entraîner et vous verrez des progrès !|En atteignant <score> taupes avec un casque, vous avez réalisé un score inférieur à votre moyenne. C'est l'occasion de travailler sur votre agilité mentale pour les prochaines parties !|Avec <score> taupes casquées, votre performance est en dessous de votre moyenne. Chaque jeu est une nouvelle chance de s'améliorer !"
+      "fr": "Avec <score> taupes portant un casque, vous avez fait un score en dessous de votre moyenne. Continuez à vous entraîner et vous verrez des progrès !|En atteignant <score> taupes avec un casque, vous avez réalisé un score inférieur à votre moyenne. C'est l'occasion de travailler sur votre agilité mentale pour les prochaines parties !|Avec <score> taupes casquées, votre performance est en dessous de votre moyenne."
     }
   },
   {
@@ -1830,7 +1830,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> taupes oubliées, vous avez établi un nouveau record ! Cela montre que vous progressez dans votre attention aux détails.|En oubliant <score> taupes, vous avez battu votre record personnel ! Continuez à vous concentrer, et les résultats suivront !|Avec <score> taupes oubliées, vous avez réalisé un nouveau record. Cela prouve vos progrès en matière d’attention et de concentration !"
+      "fr": "<score> taupes oubliées. Cela montre que vous progressez dans votre attention aux détails.|Vous avez oublié <score> taupes.|Avec <score> taupes oubliées, cela prouve vos progrès en matière d’attention et de concentration !"
     }
   },
   {
@@ -1846,7 +1846,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> taupes oubliées, vous avez rencontré un petit obstacle par rapport à votre moyenne. Cela arrive à tout le monde, continuez à vous entraîner !|Avec <score> taupes oubliées, vous avez moins bien performé que d’habitude. Utilisez cette expérience pour vous améliorer lors de la prochaine partie !|En oubliant <score> taupes, vous avez un peu baissé par rapport à votre moyenne. Concentrez-vous sur les prochaines parties pour retrouver votre rythme !|Avec <score> taupes oubliées, vous avez fait moins bien que votre moyenne. Cela arrive, et chaque essai vous rapproche de votre objectif ! "
+      "fr": "Avec <score> taupes oubliées, vous avez rencontré un petit obstacle par rapport à votre moyenne. Cela arrive à tout le monde, continuez à vous entraîner !|Avec <score> taupes oubliées, vous avez moins bien performé que d’habitude. Utilisez cette expérience pour vous améliorer lors de la prochaine partie !|En oubliant <score> taupes, vous avez un peu baissé par rapport à votre moyenne. Concentrez-vous sur les prochaines parties pour retrouver votre rythme !|Avec <score> taupes oubliées, vous avez fait moins bien que votre moyenne. Cela arrive ! "
     }
   },
   {
@@ -1854,7 +1854,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> taupes à lunettes cliquées, vous avez établi un nouveau record ! Attention cependant à ne pas cliquer sur celles-ci la prochaine fois ; restez concentré sur les taupes normales ou avec le casque !|En cliquant sur <score> taupes à lunettes, vous avez battu votre précédent record ! N’oubliez pas de garder vos réflexes affûtés pour éviter les erreurs lors des prochaines parties !|Avec <score> taupes à lunettes cliquées, vous avez battu votre record ! Gardez en tête qu'il vaut mieux éviter de cliquer sur celles-ci lors de vos prochaines parties !"
+      "fr": "<score> taupes à lunettes cliquées. Attention à ne pas cliquer sur celles-ci la prochaine fois ; restez concentré sur les taupes normales ou avec le casque !|Vous avez cliqué sur <score> taupes à lunettes. N’oubliez pas de garder vos réflexes affûtés pour éviter les erreurs lors des prochaines parties !|<score> taupes à lunettes cliquées. Gardez en tête qu'il vaut mieux éviter de cliquer sur celles-ci lors de vos prochaines parties !"
     }
   },
   {
@@ -1862,7 +1862,7 @@
     "game": "WHACKAMOLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "En cliquant sur <score> taupes à lunettes, vous avez fait mieux que votre moyenne ! Restez vigilant pour éviter ces erreurs et continuez à développer vos compétences !|Avec <score> taupes à lunettes cliquées, vous avez amélioré votre performance par rapport à votre moyenne ! Gardez en tête de ne pas cliquer sur ces taupes lors de votre prochaine partie ; votre concentration est en pleine forme !|Avec <score> taupes à lunettes cliquées, vous avez battu votre moyenne ! Continuez sur cette lancée, mais faites attention aux taupes à lunettes pour encore plus de succès !"
+      "fr": "En cliquant sur <score> taupes à lunettes, vous avez fait mieux que votre moyenne ! Restez vigilant pour éviter ces erreurs et continuez à développer vos compétences !|Avec <score> taupes à lunettes cliquées, vous avez amélioré votre performance par rapport à votre moyenne ! Gardez en tête de ne pas cliquer sur ces taupes lors de votre prochaine partie.|Avec <score> taupes à lunettes cliquées, vous avez battu votre moyenne ! Continuez sur cette lancée, mais faites attention aux taupes à lunettes pour encore plus de succès !"
     }
   },
   {
@@ -1877,14 +1877,14 @@
     "game": "NOAHS_ARK",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Félicitations ! Vous avez fait embarquer encore plus d’animaux avec un score de <score> sur L'Arche de Noé ! Vous êtes un vrai sauveur de la faune ! | Bravo ! Avec ce nouveau score de <score> sur L'Arche de Noé, vous êtes devenu un expert en matchmaking animalier ! | Record battu ! Vous avez dépassé votre propre score de <score> sur L'Arche de Noé ! Votre rapidité à former des paires est impressionnante ! | Score amélioré ! Avec <score> sur L'Arche de Noé, vous avez embarqué plus d’animaux que jamais, la faune vous remercie ! | Vous avez dépassé votre ancien score de <score> sur L'Arche de Noé ! À ce rythme, tous les animaux seront à l’abri en un clin d’œil ! | Quel progrès ! Avec un score de <score> sur L'Arche de Noé, vous gérez les embarquements comme un véritable capitaine ! | Incroyable ! Vous avez battu votre propre record avec <score> sur L'Arche de Noé ! Votre efficacité à sauver les animaux est redoutable ! | Score explosé ! Vous avez formé des paires d’animaux à la vitesse de l’éclair avec <score> sur L'Arche de Noé ! | Avec ce nouveau score de <score> sur L'Arche de Noé, votre rapidité à sauver les animaux est devenue légendaire ! | Record personnel battu avec <score> sur L'Arche de Noé ! Les animaux n’ont jamais embarqué aussi vite grâce à vous !"
+      "fr": "Félicitations ! Vous avez fait embarquer encore plus d’animaux sur L'Arche de Noé ! Vous êtes un vrai sauveur de la faune !| Quelle réussite ! Vous avez surpassé votre propre niveau sur L'Arche de Noé, votre rapidité à former des paires est impressionnante ! |Quelle progression ! Les animaux n’ont jamais embarqué aussi vite sur l'arche de Noé grâce à vous ! | Quel progrès ! Vous gérez les embarquements comme un véritable capitaine sur L'Arche de Noé ! | Super travail ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous. | Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent ! Bravo. Avec cette performance, votre rapidité à sauver les animaux est devenue légendaire !"
     }
   },
   {
     "game": "NOAHS_ARK",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Phrase Justine"
+      "fr": "Félicitations ! Vous avez encore fait embarquer de nombreux animaux sur L'Arche de Noé, quel sauveur de la faune vous êtes ! | Bravo pour cette belle partie ! Même sans battre votre record, votre rapidité à former des paires reste impressionnante. | Très belle performance ! Les animaux embarquent toujours à une vitesse incroyable avec vous à la barre, vous pouvez être fier de vous. |"
     }
   },
   {
@@ -1899,7 +1899,7 @@
     "game": "NOAHS_ARK",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> animaux sauvés, vous avez établi un nouveau record ! Votre rapiditéest impressionnante !|En sauvant <score> animaux, vous avez battu votre précédent record ! Continuez à affiner vos compétences pour encore plus de succès !|Avec <score> animaux sauvés, vous avez atteint un nouveau sommet ! Chaque paire compte, et vous avez brillamment réagi !"
+      "fr": " <score> animaux sauvés ! |Vous avez sauvé <score> animaux ! Continuez à affiner vos compétences pour encore plus de succès !|<score> animaux sauvés ! Chaque paire compte, et vous avez brillamment réagi !"
     }
   },
   {
@@ -1923,7 +1923,7 @@
     "game": "NOAHS_ARK",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous avez établi un nouveau record ! Cela montre que vous avez pris des risques, mais n’oubliez pas de faire plus attention la prochaine fois !|Avec <score> mauvaises réponses, vous avez atteint un nouveau sommet. C'est un excellent rappel pour rester vigilant et réfléchir un peu plus avant de répondre ! "
+      "fr": "<score> mauvaises réponses. Cela montre que vous avez pris des risques, mais n’oubliez pas de faire plus attention la prochaine fois !|Avec <score> mauvaises réponses, vous avez atteint un nouveau sommet. C'est un excellent rappel pour rester vigilant et réfléchir un peu plus avant de répondre ! "
     }
   },
   {
@@ -2046,7 +2046,7 @@
     "game": "POPBALLOON",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Encore une belle victoire ! Les ballons ne vous échappent jamais, même si votre record reste intact cette fois-ci. | Super performance ! Même sans battre votre meilleur score, vous avez montré une grande concentration et habileté. | Bien joué ! Vous n'avez pas battu votre record, mais vous avez été d'une précision incroyable. Continuez à affiner vos tirs ! Bravo, vous avez visé avec précision et touché les ballons de la bonne couleur ! Votre œil de lynx est toujours aussi affûté. | Pas de record battu, mais quelle maîtrise ! Vous êtes toujours un tireur redoutable, les ballons n’ont qu’à bien se tenir.| Quelle précision ! Vous n’avez peut-être pas battu votre record, mais les ballons n'ont aucune chance face à vos tirs. |"
+      "fr": "Encore une belle victoire ! Les ballons ne vous échappent jamais, même si votre record reste intact cette fois-ci. | Super performance ! Même sans battre votre meilleur score, vous avez montré une grande concentration et habilité. | Bien joué ! Vous n'avez pas battu votre record, mais vous avez été d'une précision incroyable. Continuez à affiner vos tirs ! Bravo, vous avez visé avec précision et touché les ballons de la bonne couleur ! Votre œil de lynx est toujours aussi affûté. | Pas de record battu, mais quelle maîtrise ! Vous êtes toujours un tireur redoutable, les ballons n’ont qu’à bien se tenir.| Quelle précision ! Vous n’avez peut-être pas battu votre record, mais les ballons n'ont aucune chance face à vos tirs. |"
     }
   },
   {
@@ -2061,7 +2061,7 @@
     "game": "POPBALLOON",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> ballons de la bonne couleur touchés, vous avez établi un nouveau record ! Votre rapidité et votre précision sont impressionnantes !|En touchant <score> ballons de la bonne couleur, vous avez battu votre précédent record ! Continuez à viser juste et à améliorer vos réflexes !|Avec <score> ballons de la bonne couleur touchés, vous avez battu votre record ! Une belle preuve de votre concentration et de votre rapidité !"
+      "fr": "<score> ballons de la bonne couleur touchés !|Avec <score> ballons de la bonne couleur, continuez à viser juste et à améliorer vos réflexes !|Avec <score> ballons de la bonne couleur touchés, vous avez une belle preuve de votre concentration et de votre rapidité !"
     }
   },
   {
@@ -2069,7 +2069,7 @@
     "game": "POPBALLOON",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "En touchant <score> ballons de la bonne couleur, vous avez fait mieux que votre moyenne ! Continuez à affiner vos compétences !|Avec <score> ballons éclatés de la bonne couleur, vous avez amélioré votre performance par rapport à votre moyenne ! Votre attention aux détails est en plein essor !|Avec <score> ballons touchés de la bonne couleur, vous avez battu votre moyenne ! Continuez sur cette lancée pour encore plus de succès !"
+      "fr": "<score> ballons de la bonne couleur touchés !|Avec <score> ballons éclatés de la bonne couleur, vous avez amélioré votre performance par rapport à votre moyenne ! Votre attention aux détails est en plein essor !|Avec <score> ballons touchés de la bonne couleur, vous avez battu votre moyenne ! Continuez sur cette lancée pour encore plus de succès !"
     }
   },
   {
@@ -2085,7 +2085,7 @@
     "game": "POPBALLOON",
     "interactionType": "newRecord",
     "title": {
-      "fr": "En éclatant <score> ballons de la mauvaise couleur, vous avez battu votre précédent record ! C’est l’occasion d'affiner vos réflexes pour les prochaines parties !|Avec <score> ballons de la mauvaise couleur éclatés, vous avez franchi un nouveau cap ! Prenez cela comme une opportunité d'améliorer votre attention aux détails !"
+      "fr": "<score> ballons de la mauvaise couleur, c’est l’occasion d'affiner vos réflexes pour les prochaines parties !|Avec <score> ballons de la mauvaise couleur éclatés, vous avez franchi un nouveau cap ! Prenez cela comme une opportunité d'améliorer votre attention aux détails !"
     }
   },
   {
@@ -2130,7 +2130,7 @@
     "game": "CARS",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec <score> déplacements effectués, vous avez établi un nouveau record ! C'est un excellent travail d'optimisation du parcours !|En déplaçant les voitures <score> fois, vous avez battu votre précédent record ! Votre stratégie est vraiment impressionnante !|Avec <score> déplacements effectués, vous avez atteint un nouveau sommet ! Votre capacité à planifier vos mouvements est remarquable !"
+      "fr": "Avec <score> déplacements effectués, vous avez établi un nouveau record !|En déplaçant les voitures <score> fois, vous avez battu votre précédent record ! Votre stratégie est vraiment impressionnante !|Avec <score> déplacements effectués, vous avez atteint un nouveau sommet ! Votre capacité à planifier vos mouvements est remarquable !"
     }
   },
   {
@@ -2223,7 +2223,7 @@
     "game": "PANURGE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous avez établi un nouveau record avec <score> moutons dans votre troupeau ! Votre sens stratégique fait des merveilles !|Vous avez rassemblé <score> moutons dans votre troupeau. Serez-vous capable de faire encore mieux ?|Votre troupeau compte maintenant <score> moutons ! Continuez à tracer vos enclos avec autant de précision. "
+      "fr": "Vous avez établi un nouveau record avec <score> moutons dans votre troupeau !|Vous avez rassemblé <score> moutons dans votre troupeau. Serez-vous capable de faire encore mieux ?|Votre troupeau compte maintenant <score> moutons ! Continuez à tracer vos enclos avec autant de précision. "
     }
   },
   {
@@ -2231,7 +2231,7 @@
     "game": "PANURGE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Vous avez capturé <score> moutons, en surpassant votre moyenne. Vous êtes en pleine progression !|Avec <score> moutons capturés, vous avez dépassé votre moyenne. Le prochain objectif : en capturer encore plus !|<score> moutons capturés, c'est au-dessus de votre moyenne. Vous progressez à chaque partie !"
+      "fr": "Vous avez sauvé <score> moutons, en surpassant votre moyenne. Vous êtes en pleine progression !|Avec <score> moutons dans votre troupeau, vous avez dépassé votre moyenne. Le prochain objectif : en capturer encore plus !|<score> moutons dans votre troupeau, c'est au-dessus de votre moyenne. Vous progressez à chaque partie !"
     }
   },
   {
@@ -2239,7 +2239,7 @@
     "game": "PANURGE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Vous avez capturé <score> moutons cette fois-ci, un peu en dessous de votre moyenne, mais pas de panique, vous ferez mieux la prochaine fois|Avec <score> moutons capturés, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre. Ne lâchez rien !"
+      "fr": "Vous avez sauvé <score> moutons cette fois-ci, un peu en dessous de votre moyenne.|Avec <score> moutons dans votre troupeau, vous êtes en dessous de votre moyenne habituelle, mais chaque partie est une occasion d'apprendre. Ne lâchez rien !"
     }
   },
   {
