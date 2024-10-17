@@ -54,5 +54,10 @@
   {
     "scoreMnemonic": "reactionTime",
     "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "CARS",
+    "isAscendent": "NO"
   }
 ]
