@@ -254,5 +254,21 @@
       "nbGoodAnswer",
       "time"
     ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "CHESSBOARD",
+    "scoreVisualisation": [
+      "nbBadAnswers",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "CHESSBOARD",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "time"
+    ]
   }
 ]
