@@ -18,10 +18,17 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "CARS",
     "scoreVisualisation": [
-      "nbMoveMin",
       "nbGoodAnswer",
       "nbClues",
       "nbSolutionViewed"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "CARS",
+    "scoreVisualisation": [
+      "nbMoveMin",
+      "time"
     ]
   },
   {
@@ -230,6 +237,21 @@
     "game": "CATERPILLAR",
     "scoreVisualisation": [
       "reactionTime",
+      "time"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "MEMORY",
+    "scoreVisualisation": [
+      "nbBadAnswers"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "MEMORY",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
       "time"
     ]
   }
