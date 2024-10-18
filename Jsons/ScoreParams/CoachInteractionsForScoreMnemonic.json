@@ -137,7 +137,10 @@
   },
   {
     "game": "INTRUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations, record égalé avec un perfect score ! Qu’ils soient évidents ou complètement farfelus, vous avez su repérer chaque intrus avec brio !|Bravo pour ce score parfait ! Votre œil de lynx a démasqué tous les intrus, même dans les situations les plus saugrenues.|Félicitations pour ce score parfait ! Intrus évidents ou bizarres, vous les repérez de mieux en mieux à chaque partie.|Top ! Score parfait ! Les intrus peuvent être fous ou évidents, mais vous les trouvez à chaque manche.|Super boulot ! Vous avez atteint un score parfait, les intrus n’ont qu’à bien se cacher, même les plus inattendus !|Score parfait ! Vous démasquez les intrus à chaque partie, même quand ils sont plus farfelus que jamais ! "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -206,7 +209,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "INTRUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous avez fait 0 erreur, aucune mauvaise réponse ! Pouvez-vous continuer sur cette lancée ?|Vous avez franchi un cap incroyable avec zéro mauvaise réponse !|Vous avez éliminé toutes les erreurs, 0 mauvaises réponses ! Continuez comme ça !"
+    }
   },
   {
     "game": "QUIZZLE",
@@ -238,7 +244,10 @@
   },
   {
     "game": "QUIZZLE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bravo, vous avez atteint un score parfait, 10/10 !|Super ! Vous avez réalisé un 10/10 parfait !|Bien joué, un score impeccable de 10/10 !|Génial, score parfait avec un 10/10 !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -307,7 +316,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous n'avez fait aucune mauvaise réponse ! Vos connaissances en culture générale sont au top, continuez ainsi !|Vous n'avez commis aucune erreur. Vous devenez un vrai expert en culture générale, votre progression est impressionnante !|Avec 0 mauvaise réponse, vous vous dépassez à chaque quiz, même quand les questions deviennent plus corsées."
+    }
   },
   {
     "game": "COLORMIND",
@@ -339,7 +351,10 @@
   },
   {
     "game": "COLORMIND",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": " Félicitations pour avoir obtenu un score parfait sur Colormind ! Vous avez brillamment fait preuve d'une mémoire et d'une agilité mentale exceptionnelles ! | Incroyable ! Atteindre la perfection sur un jeu aussi difficile montre que votre persévérance et votre concentration sont impressionnantes ! | Excellent travail ! Obtenir un 10/10 dans Colormind est loin d'être facile, mais vous avez su garder une maîtrise totale de chaque détail ! | Bien joué ! Réussir à atteindre un score parfait sur Colormind démontre une précision incroyable et une mémoire de travail au sommet !"
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -376,7 +391,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous n'avez fait aucune erreur ! Votre capacité à retenir les séquences s’affine de manière impressionnante ! | Avec 0 mauvaise réponse, vous avez atteint un nouveau niveau de maîtrise !"
+    }
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
@@ -413,7 +431,10 @@
   {
     "scoreMnemonic": "nbSolutionViewed",
     "game": "COLORMIND",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous n'avez regardé aucune solution ! Cela montre que vous êtes de plus en plus confiant dans vos capacités ! | Vous avez réduit le nombre de fois où vous avez visualisé la solution à zéro. Vous gagnez en autonomie ! | Pas de visualisations de la solution. C’est un signe clair de votre progression !|Vous avez fini le jeu sans jamais regarder la solution ! Cela montre que vous êtes de plus en plus confiant dans vos capacités !"
+    }
   },
   {
     "game": "CALCULUS",
@@ -445,7 +466,10 @@
   },
   {
     "game": "CALCULUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez obtenu un score parfait ! Même les calculs les plus complexes n’ont pas résisté à votre logique ! | Super, vous avez réalisé un 10/10 ! Avec vous, les calculs mentaux sont presque une promenade de santé. | Félicitations ! Vous avez atteint un score parfait, vous êtes de plus en plus à l’aise avec les calculs mentaux ! | Bien joué ! Vous avez fini avec un score parfait en calcul mental, bravo pour cette performance exceptionnelle ! | Super boulot ! Peu de gens osent s’attaquer au calcul mental, mais vous l’avez fait et avez obtenu un score parfait comme un vrai champion ! | Félicitations pour ce score parfait ! Vous avez persévéré alors que beaucoup fuient les mathématiques. | Félicitations ! Vous avez réalisé un 10/10. C'est courageux, car tout le monde n'aime pas le calcul mental !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -514,7 +538,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CALCULUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Avec 0 erreurs, vous démontrez une amélioration impressionnante dans votre performance ! | Vous avez réussi à terminer sans aucune mauvaise réponse. Continuez comme ça !|Vous avez répondu correctement à tous les calculs ! C'est un signe d'amélioration impressionnante ! | Un sans faute dans cette partie ! Continuez comme ça ! | Que des bonnes réponses ! Vous pouvez être fier de vous ! | Vous avez réalisé un parcours sans erreurs ! Cela montre votre progression ! | Vous avez tout réussi ! C'est la preuve de vos efforts et de votre concentration !"
+    }
   },
   {
     "game": "COLORFORM",
@@ -546,7 +573,10 @@
   },
   {
     "game": "COLORFORM",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Ces formes et couleurs n’ont aucune chance contre vous, vous avez obtenu un score parfait ! | Vous avez franchi un cap avec ce score de 10/10, chaque choix était parfaitement maîtrisé ! | Vous avez évolué de manière impressionnante, les formes et les couleurs n’ont pas résisté à votre maîtrise cette fois ! | Vous avez terminé avec un score parfait, les formes et couleurs ne savaient pas à quoi s’attendre, bien joué ! | Vous avez géré les formes comme un maestro, elles n’avaient qu’à suivre votre rythme pour ce score parfait ! | Continuez ainsi, les formes ne savent plus où se cacher face à votre performance exceptionnelle !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -615,7 +645,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORFORM",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous avez répondu correctement à tous les défis ! C'est un signe d'amélioration impressionnante ! | Vous avez réussi sans faire aucune erreur ! Quelle performance remarquable ! | Vous avez tout réussi avec brio ! Vous pouvez être fier de vous ! | Un sans faute pour vous ! Chaque réponse était parfaite ! | Que des bonnes réponses, vous avez brillé dans cette épreuve !"
+    }
   },
   {
     "game": "MEMORY",
@@ -647,7 +680,10 @@
   },
   {
     "game": "MEMORY",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous avez obtenu un score parfait sur Jumelles ! Votre mémoire est celle d'un véritable champion des cartes ! | Félicitations ! Vous avez réalisé un 10/10 sur Jumelles ! Votre œil et votre mémoire pour former les paires sont exceptionnels ! | Bravo ! Vous avez atteint un score parfait. Vos efforts portent leurs fruits, c’est vraiment encourageant ! | Bien joué ! Vous avez terminé Jumelles avec un score parfait de 10 sur 10. Votre mémoire progresse à chaque partie ! | Félicitations ! Vous avez atteint la perfection sur Jumelles ! Continuez à affiner votre mémoire, vous êtes sur la bonne voie ! | Vous avez réalisé un score parfait sur Jumelles en entraînant votre mémoire à court terme, c'est un pas en avant impressionnant ! | Super travail ! Vous avez obtenu un score parfait sur Jumelles, continuez ainsi et vous verrez des progrès quotidiens dans votre mémoire à court terme !"
+    }
   },
   {
     "scoreMnemonic": "time",
@@ -716,7 +752,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MEMORY",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Que de bonnes réponses ! Continuez ainsi ! | | Vous avez réussi à terminer sans aucune erreur ! | Avec un score sans faute, vous avez atteint un nouveau niveau de maîtrise. Chaque partie vous rapproche de l'excellence dans ce jeu ! | Bravo, vous avez tout réussi ! C’est une performance exceptionnelle ! | Vous avez eu 100 % de bonnes réponses ! Cela témoigne de votre concentration et de votre maîtrise du jeu !"
+    }
   },
   {
     "game": "MUSIC",
@@ -748,7 +787,10 @@
   },
   {
     "game": "MUSIC",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations, vous avez obtenu un score parfait sur L'Oreille Musicale ! | Bravo ! Avec cette performance sur L'Oreille Musicale, vous prouvez que vos oreilles captent toutes les nuances des sons ! | Incroyable ! Vous avez réalisé un 10/10 sur L'Oreille Musicale ! | Vous avez atteint un score parfait sur L'Oreille Musicale ! | Bravo pour ce 10 sur 10 sur L'Oreille Musicale !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -817,7 +859,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous avez fait 0 erreurs, votre oreille musicale est impeccable ! Continuez à affiner votre sens du détail. |Pas une seule mauvaise réponse, vous avez une oreille absolue ! |Vous avez tout juste ! Votre oreille musicale est en pleine forme, quelle précision ! | Vous avez tout correct, votre sens du détail est remarquable, continuez ainsi ! |Vous avez répondu toujours bon, votre performance est sans faute ! | Aucun faux pas, vous avez tout bon ! Votre oreille musicale est véritablement impressionnante."
+    }
   },
   {
     "game": "CASCADE",
@@ -849,7 +894,10 @@
   },
   {
     "game": "CASCADE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bravo ! Vous avez obtenu un score parfait sur Cascade Infernale ! | Vous avez fait un excellent travail en mettant à l'épreuve votre attention ! | Bien joué ! Vous avez atteint un 10/10 sur Cascade Infernale ! | Félicitations pour ce score parfait sur Cascade Infernale ! | Super travail ! Vous avez réalisé un score parfait sur Cascade Infernale !"
+    }
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
@@ -886,7 +934,10 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous n'avez oublié aucun élément, votre concentration est au top ! |Aucun oubli, votre attention aux détails est impressionnante ! | Pas un seul élément oublié, continuez ainsi !"
+    }
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
@@ -923,7 +974,10 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Vous n'avez cliqué que sur les éléments nécessaires, votre attention est impressionnante ! | Aucun élément cliqué par erreur ! Votre concentration et votre précision s'améliorent à chaque partie, continuez comme ça ! | Vous n'avez fait aucune erreur de clic, votre capacité à rester concentré fait toute la différence ! | Pas un seul clic erroné, votre attention aux détails est exemplaire !"
+    }
   },
   {
     "game": "CHESSBOARD",
@@ -955,7 +1009,10 @@
   },
   {
     "game": "CHESSBOARD",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bravo, vous avez obtenu un score parfait ! | Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais longtemps ! | Super performance ! Vous progressez à chaque partie, et ce score parfait montre que votre attention aux détails est exceptionnelle ! | Bien joué ! Vous avez réalisé un 10/10 ! | Félicitations pour cette performance incroyable !"
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -992,7 +1049,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune mauvaise réponse, votre mémoire visuelle est au top ! | Vous avez réussi à tout sélectionner correctement, votre attention et votre mémoire de travail brillent à chaque partie ! | Vous n'avez commis aucune erreur, votre mémoire visuelle et votre concentration vous mènent vers la réussite ! | Vous avez eu tout bon ! Votre capacité à choisir les bonnes cases est impressionnante, continuez comme ça !|Vous n'avez commis aucune erreur, chaque choix était parfait ! Votre attention aux détails est exemplaire !|Vous avez réussi à sélectionner uniquement les bonnes cases, prouvant que votre mémoire visuelle est en pleine forme !"
+    }
   },
   {
     "scoreMnemonic": "nbClues",
@@ -1029,7 +1089,10 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune utilisation d'indices ! Votre confiance en votre mémoire visuelle est incroyable !|Vous n'avez pas eu besoin d'indices pour progresser, chaque réponse était juste grâce à votre sens de l'observation !|Aucun indice utilisé, votre mémoire visuelle et votre attention sont vraiment impressionnantes !|Vous avez réussi sans indices, prouvant que votre mémoire est en pleine forme !"
+    }
   },
   {
     "game": "LOST_POEM",
@@ -1061,7 +1124,10 @@
   },
   {
     "game": "LOST_POEM",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Score parfait ! Votre mémoire et votre sens de la poésie sont à leur apogée ! | Félicitations ! Vous avez obtenu un score de 10/10 sur Le Poème perdu. Votre mémoire et votre sens poétique s'améliorent à chaque partie ! | Bravo, vous avez obtenu une note de 10 ! J'adore ce poème, et vous l'avez reconstitué à la perfection ! | Félicitations ! Vous avez choisi un superbe poème et l’avez reconstitué avec brio ! | Score parfait ! Ce poème est vraiment un excellent choix, et vous l’avez parfaitement reconstitué ! | 10 sur 10 ! Votre choix de poème était idéal, et vous l’avez reconstitué avec une belle fluidité !"
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -1098,7 +1164,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "LOST_POEM",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur à signaler ! Vous avez tout trouvé du premier coup, c'est impressionnant !|Vous avez répondu correctement à chaque question, votre maîtrise est remarquable !|Zéro erreurs, votre sens du détail et votre concentration font toute la différence !|Vous avez toujours trouvé le bon mot, votre performance est exceptionnelle !|Vous avez brillé avec 0 erreurs, votre concentration est impressionnante !"
+    }
   },
   {
     "game": "WALKER",
@@ -1130,7 +1199,10 @@
   },
   {
     "game": "WALKER",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bien joué ! Vous avez obtenu un score parfait sur Le Promeneur. Vous tracez des chemins avec stratégie, c’est impressionnant ! | Super travail ! Vous avez atteint un 10/10.. Vous combinez parfaitement les cartes pour tracer des chemins toujours plus directs. | Score parfait ! Vous progressez à chaque partie et construisez des trajets de plus en plus fluides sur Le Promeneur. | Bravo pour cette performance exceptionnelle sur Le Promeneur ! Vous êtes sur la bonne voie, continuez à entraîner votre planification. | Bravo ! Vous avez atteint un score parfait sur Le Promeneur. Votre sens de la planification devient de plus en plus précis ! | 10 sur 10 ! Vous avez fait un excellent travail en perfectionnant votre planification des chemins. | 10/10 ! Vous avez réalisé des progrès significatifs en matière de planification avec un score parfait ! | Bravo pour cette belle performance sur Le Promeneur ! Votre capacité à planifier des trajets efficaces atteint de nouveaux sommets !"
+    }
   },
   {
     "scoreMnemonic": "time",
@@ -1199,7 +1271,10 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WALKER",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice utilisé, c’est impressionnant ! Votre confiance en vos compétences est à son maximum !|Zéro indice utilisé ! Vous montrez une incroyable indépendance dans votre jeu.|Vous avez réussi sans aucun indice, une performance exceptionnelle !|Pas un seul indice en vue ! Votre maîtrise du sujet est vraiment remarquable !|Aucun indice utilisé, votre progrès est impressionnant et votre confiance en vous se renforce !"
+    }
   },
   {
     "game": "FURIOUS",
@@ -1231,7 +1306,10 @@
   },
   {
     "game": "FURIOUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bien joué ! Vous avez obtenu un score parfait sur Les Cartes Endiablées. Chaque carte est revenue à sa place, une performance remarquable ! | 10 sur 10 ! Votre capacité à mémoriser les cartes a atteint de nouveaux sommets. Continuez à travailler votre mémoire ! | Super boulot ! Vous avez réalisé un 10/10 sur Les Cartes Endiablées, chaque carte est parfaitement replacée, preuve que votre mémoire est en pleine forme ! | Félicitations pour ce score parfait ! Vous avez reconstitué l’ordre des cartes avec une précision incroyable, vous pouvez être fier de vous ! "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -1300,7 +1378,10 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "FURIOUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune partie sautée, c'est fantastique ! Vous démontrez une belle persévérance et un engagement total !|Zéro partie sautée ! Votre détermination à aller jusqu'au bout est vraiment impressionnante !|Pas une seule partie oubliée ! Vous progressez à chaque étape, continuez comme ça !|Aucune partie négligée, votre attention et votre concentration sont remarquables !|Vous n'avez sauté aucune partie, un vrai exploit ! Continuez à maintenir cette rigueur, elle porte ses fruits !"
+    }
   },
   {
     "scoreMnemonic": "nbClues",
@@ -1337,7 +1418,10 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "FURIOUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice utilisé ! Vous avez prouvé votre maîtrise du jeu, continuez ainsi !|Pas un seul indice demandé ! Cela montre à quel point vous vous fiez à votre mémoire et à vos compétences.|Zéro indice utilisé, c'est impressionnant ! Votre confiance en vous est évidente et vos efforts portent leurs fruits !|Aucun indice utilisé, quel exploit ! Vous avez démontré une incroyable indépendance et une confiance en vos capacités.|Vous n'avez eu besoin d'aucun indice, vous êtes vraiment en forme ! Continuez à progresser de la sorte !"
+    }
   },
   {
     "game": "SCROLLANDCATCH",
@@ -1369,7 +1453,10 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Super travail ! Vous avez obtenu un score parfait en gardant un œil attentif sur les ballons de couleur. | 10 sur 10 ! Votre concentration sur les ballons de couleur a été exemplaire. | Bravo pour cette performance ! Vous avez suivi chaque ballon coloré avec précision, ce qui vous a permis d'atteindre un score parfait. | Bien joué ! Vous avez réalisé un 10/10 en comptant chaque ballon coloré avec soin. | Score parfait ! Votre attention pour les ballons de couleur atteint de nouveaux sommets, chaque partie montre à quel point vous êtes concentré et rapide ! | Bravo pour cette performance exceptionnelle ! Vous avez suivi chaque ballon de la bonne couleur avec précision, et cela se voit dans votre progression."
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -1406,7 +1493,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SCROLLANDCATCH",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur à signaler, quelle belle concentration !|Vous avez réussi à tout trouver sans faire d'erreur, continuez comme ça !|Zéro mauvaise réponse, vous pouvez être fier de vous !|Aucun faux pas, vous avez prouvé votre maîtrise du jeu, continuez sur cette lancée !|Pas une seule erreur, votre attention et votre concentration sont impressionnantes !"
+    }
   },
   {
     "game": "COOK",
@@ -1438,7 +1528,10 @@
   },
   {
     "game": "COOK",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bravo, chef ! Vous avez obtenu un score parfait en retrouvant tous les ingrédients de la recette, ça m’a donné faim ! Il n’y a plus qu’à se mettre aux fourneaux ! | J'ai suivi vos étapes à la lettre et je suis prêt pour la dégustation ! Vous devez être un véritable cordon bleu. Je sens que cela va bientôt sentir bon en cuisine ! | On passe quand à la dégustation ? | 10 sur 10, chef ! Votre mémoire des recettes est incroyable, je vais me préparer un petit goûter pendant que vous enchaînez les victoires ! | Ces recettes m'ont donné envie de croquer dans un petit chocolat. Je reviens pour célébrer votre prochaine performance ! | Score parfait ! Vous avez ouvert l’appétit et je vais me prendre un petit chocolat pendant que vous continuez à réaliser des scores parfaits !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -1507,7 +1600,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COOK",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune mauvaise réponse, vous avez tout trouvé du premier coup !|Avec zéro erreur, vous égalisez votre record et montrez votre maîtrise !|Vous avez trouvé tous les ingrédients sans erreur, quelle performance !|Pas une seule mauvaise réponse, vous pouvez être fier de vous !|Zéro erreur, vous avez prouvé votre excellent sens de l'observation !"
+    }
   },
   {
     "scoreMnemonic": "nbClues",
@@ -1544,7 +1640,10 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "COOK",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice demandé ! Quelle autonomie impressionnante !|Avec zéro indice utilisé, vous montrez une confiance incroyable en vos compétences !|Pas besoin d'indices, vous avez brillamment trouvé tout seul !|Sans demander d'indices, vous avez prouvé que votre mémoire est en pleine forme !|Aucun indice nécessaire, vous avez fait preuve d'une grande indépendance dans vos choix !"
+    }
   },
   {
     "game": "PROVERB",
@@ -1576,7 +1675,10 @@
   },
   {
     "game": "PROVERB",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez obtenu un score parfait, quelle belle progression ! | Bravo ! Vous avez réalisé un 10/10, c'est exceptionnel ! | Super travail ! Vous avez atteint un score parfait. | Bien joué ! Vous avez fait un excellent score avec un 10/10. | Félicitations pour cette performance incroyable ! Votre progression est impressionnante. | Bravo ! Vous avez atteint la perfection, et c’est déjà une réussite remarquable !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -1645,7 +1747,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur à signaler, quel succès ! Continuez à explorer le sens des proverbes, vous êtes sur la bonne voie !|Sans aucune mauvaise réponse, vous êtes en train de développer une compréhension approfondie des proverbes. Continuez comme ça, c'est remarquable !|Zéro erreur, quel accomplissement ! Vous êtes en pleine progression, continuez à approfondir vos connaissances des proverbes !|Pas de mauvaises réponses, c'est un excellent résultat ! Votre maîtrise des proverbes ne cesse de s'améliorer, félicitations !"
+    }
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
@@ -1682,7 +1787,10 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun proverbe sauté, quelle réussite ! Continuez à réfléchir au sens des proverbes, cela vous aidera à aller encore plus loin !|Zéro partie sautée, vous montrez une belle détermination ! Votre maîtrise des proverbes est en nette progression, continuez sur cette lancée !|Pas de proverbes sautés, quelle fluidité dans votre démarche ! Votre capacité à remettre les proverbes en ordre devient de plus en plus impressionnante. Continuez comme ça !|Aucun élément sauté, quel bel engagement ! Vous êtes en train de perfectionner votre compréhension des proverbes, continuez ainsi !"
+    }
   },
   {
     "game": "SIMILI",
@@ -1702,7 +1810,7 @@
     "game": "SIMILI",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bien joué ! Vous avez fait une belle partie, même sans battre votre record.|Super travail ! Vous progressez bien, même si vous n'avez pas battu votre record.|Bravo ! Vous êtes vraiment proche de votre record. |Félicitations pour ce beau score !|Belle performance, vous avez bien joué ! |Bien joué ! Vous êtes tout proche de battre votre record. "
+      "fr": "Bien joué ! Vous avez fait une belle partie, même sans battre votre record.|Super travail ! Vous progressez bien, même si vous n'avez pas battu votre record.|Bravo ! Vous êtes vraiment proche de votre record. |Félicitations pour ce beau score !|Belle performance, vous avez bien joué ! |Bien joué ! Vous êtes tout proche de battre votre record.  "
     }
   },
   {
@@ -1714,7 +1822,10 @@
   },
   {
     "game": "SIMILI",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez obtenu un score parfait sur Simili, quelle rapidité ! | Bravo ! Vous avez réalisé un 10/10, c'est exceptionnel ! | Super travail ! Vous avez atteint un score parfait sur Simili ! | Bien joué ! Vous avez fait un excellent score avec un 10/10. | Félicitations pour cette performance incroyable ! | Bravo ! Vous avez atteint la perfection sur Simili, et c’est déjà une réussite remarquable !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -1783,7 +1894,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SIMILI",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur ! Votre réactivité et votre précision sont impressionnantes, continuez sur cette lancée !|Zéro mauvaise réponse ! Votre progression est incroyable, chaque partie vous rend encore meilleur. Bravo pour votre performance !|Tout bon, quelle réussite ! Vous avez prouvé votre maîtrise du jeu, continuez à briller ainsi !|Sans aucune erreur, vous montrez une belle maîtrise. Continuez à jouer pour encore plus de succès !"
+    }
   },
   {
     "game": "SUDOKU",
@@ -1875,7 +1989,10 @@
   },
   {
     "game": "SEQUENCE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez obtenu un score parfait, quelle belle progression ! | Bravo ! Vous avez réalisé un 10/10, c'est exceptionnel ! | Super travail ! Vous avez atteint un score parfait ! | Bien joué ! Vous avez fait un excellent score avec un 10/10. | Félicitations pour cette performance incroyable ! | Bravo ! Vous avez atteint la perfection, et c’est une réussite remarquable !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -1944,7 +2061,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune mauvaise réponse ! Vous montrez de superbes capacités à chaque partie, soyez fier de vous !|Zéro erreur ! Continuez à affiner vos réflexes et votre stratégie, vous progressez à pas de géant !|Sans aucune erreur, votre capacité à suivre la suite et à réagir avec précision est impressionnante. Bravo pour votre performance !"
+    }
   },
   {
     "game": "SYLLABUS",
@@ -1976,7 +2096,10 @@
   },
   {
     "game": "SYLLABUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Score parfait ! Vos syllabes s'alignent comme par magie, quel talent pour les mots ! | Nouvelle victoire ! Avec vous, les syllabes s’emboîtent comme des pièces de puzzle. Bravo pour ce 10/10 ! | Score parfait ! Avec vous, les mots se construisent en un éclair, quelle progression ! | Bravo, vous venez d'obtenir un 10/10 ! Votre cerveau est une véritable machine à assembler des syllabes ! | Vous avez retrouvé les mots et réalisé un score parfait ! Continuez à assembler les mots comme un chef ! | Vous venez d'atteindre la perfection, les mots n’ont jamais été aussi faciles à créer avec vous ! | Score parfait sur Syllabus, quelle maîtrise des mots et des syllabes ! "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -2045,7 +2168,10 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SYLLABUS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice demandé ! Vous avez brillamment complété le jeu, votre autonomie et votre sens de l'observation sont impressionnants !|Zéro indice utilisé. Votre aptitude à trouver des solutions sans aide est vraiment remarquable !|Sans avoir demandé d'indices, votre capacité à résoudre des problèmes par vous-même est de plus en plus solide !"
+    }
   },
   {
     "game": "GEO",
@@ -2077,7 +2203,10 @@
   },
   {
     "game": "GEO",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez obtenu un score parfait, on voit que la géographie n’a aucun secret pour vous ! | Bravo ! Vos connaissances géographiques vous ont permis d'atteindre un 10/10, quelle belle progression ! | Super travail ! Vous avez réalisé un score parfait, preuve que votre maîtrise de la géographie s’affine à chaque partie. | Bien joué ! Vous avez atteint un score parfait, vos connaissances en géographie vous ont bien servi. | Félicitations pour ce 10/10 ! Votre maîtrise des territoires est impressionnante. | Bravo ! Vous avez atteint la perfection et montré que la géographie n’a aucun secret pour vous."
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -2146,7 +2275,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune mauvaise réponse ! Vous avez montré une maîtrise parfaite du jeu, continuez comme ça !|Zéro erreur ! Votre précision est impressionnante !|Vous avez réussi avec tout bon ! Votre attention aux détails fait toute la différence, félicitations ! "
+    }
   },
   {
     "game": "TIMELINE",
@@ -2178,7 +2310,10 @@
   },
   {
     "game": "TIMELINE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez obtenu un score parfait, on voit que vous êtes passionné d’histoire ! | Bravo ! Vos connaissances historiques vous ont permis d'atteindre un 10/10. | Super travail ! Vous avez réalisé un score parfait, preuve que l’histoire n’a aucun secret pour vous. | Bien joué ! Vous avez atteint un score parfait, et votre talent pour remettre les événements dans l'ordre chronologique se confirme. | Félicitations pour ce 10/10 ! Votre maîtrise des dates et événements est impressionnante, vous devez vraiment aimer l’histoire. | Bravo ! Vous avez atteint la perfection en montrant que l’histoire vous passionne."
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -2247,7 +2382,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur à signaler ! Votre capacité à remettre les événements dans l’ordre est remarquable !|Zéro mauvaise réponse ! Continuez sur cette lancée, vous êtes en passe de devenir un expert !|Vous avez eu tout bon ! Votre attention et votre précision sont impressionnantes, félicitations !|Pas d'erreurs ! Vous avez maîtrisé le jeu, continuez à briller comme ça !"
+    }
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
@@ -2284,7 +2422,10 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune carte sautée ! Votre capacité à remettre les événements dans l’ordre est impressionnante.|Zéro élément sauté ! Vous avez maîtrisé chaque partie, continuez comme ça !|Vous n'avez sauté aucun événement ! Votre attention aux détails est vraiment remarquable, félicitations !|Pas de cartes sautées ! Votre précision et votre concentration vous mènent vers l'excellence, continuez à briller !"
+    }
   },
   {
     "game": "SHAPEBOX",
@@ -2316,7 +2457,10 @@
   },
   {
     "game": "SHAPEBOX",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations, vous avez obtenu un score parfait sur Boîte à forme ! | Bravo ! Vous êtes devenu encore plus rapide à repérer la bonne forme ou couleur. | Vous avez réalisé un score parfait sur Boîte à forme ! Votre précision s’améliore à chaque tour. | 10 sur 10 ! Vous devenez imbattable dans l’art de distinguer les bonnes formes ! | Votre score parfait montre que vous êtes de plus en plus affûté dans ce jeu visuel. | Vous avez atteint un score parfait sur Boîte à forme ! Les propositions trompeuses ne vous piégeront plus ! | Avec ce 10/10, vous prouvez que concentration et réactivité sont vos meilleures armes ! | Vous venez d'obtenir un 10/10 sur Boîte à forme ! Vous avez un vrai talent pour voir les bonnes formes au bon moment ! | Incroyable ! Vous avez réalisé un score parfait, vous êtes un vrai maître de la perception ! | Score parfait atteint ! Vous n’avez laissé aucune forme ou couleur vous échapper !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -2385,7 +2529,10 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune forme oubliée ! Votre œil de lynx et votre concentration vous mènent loin !|Zéro forme oubliée ! Vous avez brillamment identifié chaque élément, continuez comme ça !|Vous n'avez oublié aucune forme ! Votre attention aux détails est vraiment impressionnante, félicitations !|Pas de formes sautées ! Votre précision et votre concentration vous guident vers l'excellence, continuez à briller !"
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -2422,7 +2569,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SHAPEBOX",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur ! Vous avez tout bon, continuez comme ça !|Zéro mauvaise réponse ! Votre précision et votre attention sont remarquables, félicitations !|Vous avez parfaitement réussi sans aucune erreur ! Votre performance est impressionnante, continuez sur cette lancée !|Pas d'erreurs du tout ! Vous montrez une maîtrise exceptionnelle, continuez à briller !"
+    }
   },
   {
     "game": "HANGMAN",
@@ -2454,7 +2604,10 @@
   },
   {
     "game": "HANGMAN",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Score parfait ! Ta capacité à deviner les mots montre une belle richesse de vocabulaire. | 10/10, tu as su quelles lettres choisir pour avancer. | Tu as bien choisi les lettres, c'était réfléchi et efficace. | Félicitations ! Vous avez atteint un score parfait ! Votre intuition pour deviner les lettres et les mots est impressionnante. | Bravo ! Vous avez réalisé un 10/10. Votre capacité à bien choisir les lettres vous a permis de progresser à chaque partie. | Super travail ! Vous avez obtenu un score parfait, et chaque mot deviné vous rapproche de la maîtrise du jeu. | Bien joué ! Vous avez atteint un score parfait, vos compétences linguistiques s’affinent à chaque partie. | Félicitations pour ce 10/10 ! Votre logique et votre connaissance des mots sont remarquables. | Bravo ! Vous avez réalisé un score parfait et montré une belle maîtrise du jeu.  "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -2521,8 +2674,12 @@
     }
   },
   {
+    "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur à signaler ! Vous avez trouvé tous les mots, continuez à briller !|Zéro mauvaise réponse ! Votre maîtrise est impressionnante, félicitations !|Vous avez tout bon ! Quelle belle performance, continuez ainsi !|Pas d'erreurs du tout ! Vous avez réussi à identifier tous les mots, continuez comme ça !"
+    }
   },
   {
     "scoreMnemonic": "nbClues",
@@ -2557,8 +2714,12 @@
     }
   },
   {
+    "scoreMnemonic": "nbClues",
     "game": "HANGMAN",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice demandé ! Cela montre votre autonomie et votre confiance dans vos capacités, bien joué !|Zéro indice utilisé ! Votre détermination à résoudre les défis par vous-même est remarquable, continuez comme ça !|Pas d'indices utilisés ! Continuez à affiner vos choix de lettres, chaque partie vous rend plus fort !"
+    }
   },
   {
     "game": "WHACKAMOLE",
@@ -2590,7 +2751,10 @@
   },
   {
     "game": "WHACKAMOLE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Score parfait ! Les taupes n’ont aucune chance contre votre rapidité et votre attention de faucon ! | Vos réflexes sont dignes d’un pro de la chasse aux taupes ! Mais attention, on ne tape que sur celles du jeu, pas dans la vraie vie ! | Vous avez réagi à la vitesse de l’éclair et atteint une note de 10/10 ! Les taupes ne peuvent plus se cacher… mais laissez celles du jardin tranquilles ! | Super travail ! Vous avez obtenu un score parfait, les taupes n'ont aucune chance avec vous aux commandes. | 10 sur 10 ! Les taupes sont sorties, et vous les avez toutes attrapées comme un pro ! | Vous êtes devenu le champion des taupes ! Score parfait avec une rapidité incroyable."
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -2691,7 +2855,10 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune taupe oubliée ! Vous avez été rapide et précis, continuez ainsi !|Vous avez cliqué sur toutes les taupes ! Quelle performance, vous êtes vraiment un expert !|Pas une seule taupe manquée ! Votre attention et votre rapidité sont impressionnantes, bravo !"
+    }
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
@@ -2728,7 +2895,10 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune taupe à lunettes cliquée par erreur ! Votre concentration est au top, continuez comme ça !|Vous n'avez cliqué sur aucune taupe à lunettes ! Quelle performance impeccable, vous êtes vraiment un pro !|Pas une seule taupe à lunettes cliquée par erreur ! Votre attention aux détails est impressionnante, bravo !"
+    }
   },
   {
     "game": "NOAHS_ARK",
@@ -2760,7 +2930,10 @@
   },
   {
     "game": "NOAHS_ARK",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "10 sur 10 ! Vous avez embarqué tous les animaux sur L'Arche de Noé ! Vous êtes un vrai sauveur de la faune ! | Quelle réussite ! Vous avez atteint un score parfait sur L'Arche de Noé, votre rapidité à former des paires est impressionnante ! | Score parfait ! Les animaux n’ont jamais embarqué aussi vite sur l'Arche de Noé grâce à vous ! | Une note de 10/10 ! Vous gérez les embarquements comme un véritable capitaine sur L'Arche de Noé ! | Score parfait ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous. | Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent ! | Bravo ! Avec cette performance, votre rapidité à sauver les animaux est devenue légendaire !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -2829,7 +3002,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "NOAHS_ARK",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune erreur ! Vous avez tout bon, quelle performance remarquable !|Pas de mauvaises réponses ! Vous avez prouvé que votre concentration est au top, continuez comme ça !|Avec un score de <score> erreurs, vous avez réalisé une performance parfaite. Bravo pour votre maîtrise !"
+    }
   },
   {
     "game": "SLIDE_MAZE",
@@ -2861,7 +3037,10 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations, vous avez guidé Joe avec brio et atteint un score parfait sur JOE le pirate ! Aucun trésor ne vous échappe ! | Bravo, avec ce 10/10 sur JOE le pirate, vous menez Joe au trésor comme un véritable capitaine des mers ! | Incroyable ! Vous avez atteint un score parfait, Joe n'a jamais été aussi près de tous ses trésors ! | Votre score parfait sur JOE le pirate prouve que vous maîtrisez parfaitement la navigation à travers les obstacles ! | Avec une note de 10/10, Joe file droit vers les trésors sans jamais s’arrêter, grâce à vos talents ! | Vous venez de réaliser un score parfait sur JOE le pirate ! Joe vous doit tous ses trésors, et les sirènes n’ont aucune chance ! | 10/10 ! Rien ne peut arrêter Joe sur sa route vers les trésors, grâce à vous !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -2930,7 +3109,10 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune vie perdue ! Vous avez navigué à travers les obstacles avec brio !|Vous n’avez perdu aucune vie ! Quelle maîtrise dans votre jeu, continuez ainsi !|Aucune vie perdue ! Vous êtes sur la bonne voie, restez vigilant face aux défis !"
+    }
   },
   {
     "scoreMnemonic": "nbClues",
@@ -2967,7 +3149,10 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SLIDE_MAZE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice demandé ! Cela montre votre confiance en vos compétences, continuez comme ça !|Vous n’avez demandé aucun indice ! Quelle indépendance dans votre jeu, vous pouvez être fier de vous !|Zéro indice demandé ! Vous êtes sur la bonne voie, continuez à jouer avec cette confiance !"
+    }
   },
   {
     "game": "POPBALLOON",
@@ -2999,7 +3184,10 @@
   },
   {
     "game": "POPBALLOON",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bravo, vous avez visé avec précision et touché tous les ballons de la bonne couleur, un score parfait ! | Incroyable ! Vous avez atteint un score parfait, les ballons n’ont aucune chance face à vous ! | 10 sur 10 ! Vous êtes devenu un véritable tireur d’élite, les ballons n’ont qu’à bien se tenir ! | Boum ! Vous avez réalisé une performance impeccable, votre précision est digne d’un archer légendaire ! | Paf, un score parfait ! Les ballons ne volent pas bien loin quand vous êtes dans la partie ! | Une note de 10 ! Chaque ballon a été touché avec une précision incroyable, vous êtes imbattable !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -3068,7 +3256,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune mauvaise réponse ! Vous avez touché tous les ballons de la bonne couleur, un excellent travail !|Zéro ballons de la mauvaise couleur ! Votre précision est impressionnante, continuez comme ça !|Aucun ballon de la mauvaise couleur éclaté ! Vous montrez une belle maîtrise, chaque partie vous rend encore meilleur !"
+    }
   },
   {
     "game": "CARS",
@@ -3100,7 +3291,10 @@
   },
   {
     "game": "CARS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Bravo ! Vous avez libéré la voiture jaune avec un sens de la stratégie parfait, 10 sur 10 ! | Félicitations, chaque mouvement était impeccable, vous avez dégagé la voie sans la moindre hésitation ! | Mission accomplie avec brio ! Vous avez trouvé le chemin parfait pour libérer la voiture jaune, un score parfait ! | Votre esprit stratégique a brillé, la voiture jaune a été libérée sans accroc, 10 sur 10 ! | Avec une maîtrise totale, vous avez guidé la voiture jaune vers la sortie, un parcours parfait ! | Incroyable ! Vous avez dégagé la voiture jaune avec une précision parfaite, chaque voiture a bougé au bon moment !"
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -3169,7 +3363,10 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CARS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "0 indices demandés! Quelle belle démonstration d'autonomie !|Aucun indice utilisé ! Vous montrez une confiance incroyable dans vos capacités, continuez ainsi !|Zéro indice demandé ! Cela prouve votre capacité à résoudre des défis par vous-même, excellent travail !"
+    }
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
@@ -3206,7 +3403,10 @@
   {
     "scoreMnemonic": "nbSolutionViewed",
     "game": "CARS",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Zèro solutions visualisées! Quelle excellente démonstration de votre autonomie !|Aucune solution consultée ! Vous montrez une confiance incroyable dans vos capacités, continuez ainsi !|Zéro solution regardée ! Cela prouve votre capacité à résoudre les problèmes par vous-même, excellent travail !"
+    }
   },
   {
     "game": "PANURGE",
@@ -3330,7 +3530,10 @@
   },
   {
     "game": "PONG",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez réalisé un sans-faute, votre réactivité et maîtrise de la raquette sont tout simplement exceptionnelles ! | Bravo ! Vous avez atteint un niveau de précision parfait, chaque coup était millimétré ! | Super travail ! Vous n'avez laissé passer aucune balle, un score parfait grâce à une précision redoutable ! | 10 sur 10 ! Un sans-faute avec une maîtrise totale de la raquette et une réactivité digne des plus grands ! | Bravo pour ce score parfaite, aucune balle ne vous a échappé !"
+    }
   },
   {
     "scoreMnemonic": "nbBadAnswers",
@@ -3367,7 +3570,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PONG",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune faute ! Quelle performance impressionnante, continuez à jouer avec cette concentration !|Zéro erreur ! Vous avez renvoyé toutes les balles avec brio, continuez ainsi !|Aucune faute ! Votre précision est remarquable, continuez à jouer comme ça !|Aucune faute, vous êtes vraiment en forme ! Continuez à briller sur le terrain !"
+    }
   },
   {
     "game": "SNOWBALL_EFFECT",
@@ -3399,7 +3605,10 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez atteint un score parfait, quelle maîtrise incroyable des flèches ! | 10 sur 10 ! Vous avez réalisé une performance impeccable, aucune flèche ne vous a échappé ! | Super travail ! Un sans-faute, chaque flèche a été analysée avec précision, vous dominez totalement le jeu. | Bien joué ! Vous avez obtenu un score parfait, vos compétences pour identifier les flèches sont au sommet. | Félicitations pour cette performance parfaite ! | 10 sur 10 ! Vous avez atteint la perfection avec une maîtrise totale du jeu."
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -3468,7 +3677,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune flèche non déclenchée ! Votre sens de l'analyse et votre réactivité sont impressionnants, continuez comme ça !|Zéro flèche non déclenchée ! Vous avez parfaitement maîtrisé le jeu, quelle belle performance !|Aucune flèche oubliée ! Votre précision est remarquable, continuez à viser juste à chaque partie !|Vous avez déclenché toutes les flèches ! Votre concentration et votre agilité sont vraiment admirables, continuez sur cette lancée !"
+    }
   },
   {
     "scoreMnemonic": "nbChallenges",
@@ -3532,7 +3744,10 @@
   },
   {
     "game": "SNAKE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Félicitations ! Vous avez atteint un score parfait, quelle maîtrise des calculs ! | 10 sur 10 ! Vous avez résolu chaque opération sans aucune erreur, quel exploit impressionnant ! | Score parfait ! Chaque calcul résolu avec précision vous place au sommet du jeu. | Bien joué ! Vous avez obtenu un score parfait, vos compétences en calcul mental sont remarquables. | Félicitations pour cette performance parfaite ! | 10 sur 10 ! Vous avez atteint la perfection dans le calcul mental, une vraie réussite."
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -3601,7 +3816,10 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNAKE",
-    "interactionType": "perfectScore"
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucune mauvaise réponse ! Vous avez fait preuve d'une concentration incroyable, continuez comme ça !|Zéro erreur ! Quelle performance impressionnante, vous êtes sur la bonne voie pour devenir un expert !|Pas de mauvaises réponses cette fois-ci ! Votre maîtrise du sujet est impressionnante, continuez à briller !|Vous avez eu tout bon ! Votre précision et votre attention aux détails sont admirables, continuez sur cette lancée !"
+    }
   },
   {
     "game": "BLOCK_PUZZLE",
