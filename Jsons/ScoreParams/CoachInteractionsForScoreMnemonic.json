@@ -40,7 +40,7 @@
     "game": "PUZZLE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Vous venez de terminer le puzzle en seulement <score> secondes ! C'est votre meilleur temps, prêt à le surpasser ?|<score> secondes pour résoudre ce puzzle. Pouvez-vous aller encore plus vite ?|En <score> secondes, vous venez de vous imposer un nouveau record à battre. À vous de jouer pour faire encore mieux !|Vous avez résolu ce puzzle en <score> secondes. Un nouveau temps de référence à dépasser !"
+      "fr": "Vous venez de terminer le puzzle en seulement <score> ! C'est votre meilleur temps, prêt à le surpasser ?|<score> pour résoudre ce puzzle. Pouvez-vous aller encore plus vite ?|En <score>, vous venez de vous imposer un nouveau record à battre. À vous de jouer pour faire encore mieux !|Vous avez résolu ce puzzle en <score>. Un nouveau temps de référence à dépasser !"
     }
   },
   {
@@ -48,7 +48,7 @@
     "game": "PUZZLE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Vous venez de terminer le puzzle en seulement <score> secondes ! C'est votre meilleur temps, prêt à le surpasser ?|<score> secondes pour résoudre ce puzzle. Pouvez-vous aller encore plus vite ?Vous avez résolu ce puzzle en <score> secondes. Un temps de référence à dépasser !"
+      "fr": "Vous venez de terminer le puzzle en seulement <score> ! C'est votre meilleur temps, prêt à le surpasser ?|<score> pour résoudre ce puzzle. Pouvez-vous aller encore plus vite ?Vous avez résolu ce puzzle en <score>. Un temps de référence à dépasser !"
     }
   },
   {
@@ -56,7 +56,7 @@
     "game": "PUZZLE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> secondes, vous avez fait mieux que votre moyenne habituelle. Continuez ainsi, vos compétences s’affinent !|Vous avez résolu le puzzle en <score> secondes, c’est en dessous de votre moyenne. J’espère que l’explication finale vous a enrichi !|Vous avez fini le puzzle en <score> secondes, mieux que votre moyenne. Vous vous rapprochez de votre meilleur score !|Avec <score> secondes pour résoudre le puzzle, vous améliorez votre temps moyen. Continuez à renforcer votre attention à chaque partie !|Vous avez mis <score> secondes pour ce puzzle, c’est en dessous de votre moyenne. Continuez ainsi, vos compétences s’affinent !"
+      "fr": "Avec <score>, vous avez fait mieux que votre moyenne habituelle. Continuez ainsi, vos compétences s’affinent !|Vous avez résolu le puzzle en <score>, c’est en dessous de votre moyenne. J’espère que l’explication finale vous a enrichi !|Vous avez fini le puzzle en <score>, mieux que votre moyenne. Vous vous rapprochez de votre meilleur score !|Avec <score> pour résoudre le puzzle, vous améliorez votre temps moyen. Continuez à renforcer votre attention à chaque partie !|Vous avez mis <score> pour ce puzzle, c’est en dessous de votre moyenne. Continuez ainsi, vos compétences s’affinent !"
     }
   },
   {
@@ -64,7 +64,7 @@
     "game": "PUZZLE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Pour ce puzzle, vous avez pris <score> secondes cette fois-ci, un peu plus que votre moyenne. Travaillez sur votre mémoire visuelle en vous concentrant sur de petits détails à chaque fois, et vous verrez vite des résultats.|Avec <score> secondes pour terminer le puzzle, vous avez dépassé votre moyenne habituelle. Concentrez-vous sur les formes et les couleurs pour la prochaine partie !|<score> secondes, c'est un peu plus long que d'habitude. Essayez de vous concentrer davantage sur les détails du puzzle pour améliorer votre mémorisation. Vous ferez mieux la prochaine fois !|Vous avez pris <score> secondes pour terminer ce puzzle, un peu plus que d’habitude. Concentrez-vous sur les formes et les contours des pièces. Cela renforcera votre capacité à assembler plus rapidement la prochaine fois."
+      "fr": "Pour ce puzzle, vous avez pris <score> cette fois-ci, un peu plus que votre moyenne. Travaillez sur votre mémoire visuelle en vous concentrant sur de petits détails à chaque fois, et vous verrez vite des résultats.|Avec <score> pour terminer le puzzle, vous avez dépassé votre moyenne habituelle. Concentrez-vous sur les formes et les couleurs pour la prochaine partie !|<score>, c'est un peu plus long que d'habitude. Essayez de vous concentrer davantage sur les détails du puzzle pour améliorer votre mémorisation. Vous ferez mieux la prochaine fois !|Vous avez pris <score> pour terminer ce puzzle, un peu plus que d’habitude. Concentrez-vous sur les formes et les contours des pièces. Cela renforcera votre capacité à assembler plus rapidement la prochaine fois."
     }
   },
   {
@@ -690,7 +690,7 @@
     "game": "MEMORY",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec un temps record de <score> secondes pour trouver toutes les paires, vous montrez une mémoire exceptionnelle !|En seulement <score> secondes, vous avez trouvé toutes les paires !|Vous avez réussi à trouver toutes les paires en <score> secondes !|Avec un temps de <score> secondes pour trouver toutes les paires ! Pouvez vous aller encore plus vite ?"
+      "fr": "Avec un temps record de <score> pour trouver toutes les paires, vous montrez une mémoire exceptionnelle !|En seulement <score>, vous avez trouvé toutes les paires !|Vous avez réussi à trouver toutes les paires en <score> !|Avec un temps de <score> pour trouver toutes les paires ! Pouvez vous aller encore plus vite ?"
     }
   },
   {
@@ -698,7 +698,7 @@
     "game": "MEMORY",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Avec un temps record de <score> secondes pour trouver toutes les paires, vous montrez une mémoire exceptionnelle !|En seulement <score> secondes, vous avez trouvé toutes les paires !|Vous avez réussi à trouver toutes les paires en <score> secondes !|Avec un temps de <score> secondes pour trouver toutes les paires ! Pouvez vous aller encore plus vite ?"
+      "fr": "Avec un temps record de <score> pour trouver toutes les paires, vous montrez une mémoire exceptionnelle !|En seulement <score>, vous avez trouvé toutes les paires !|Vous avez réussi à trouver toutes les paires en <score> !|Avec un temps de <score> pour trouver toutes les paires ! Pouvez vous aller encore plus vite ?"
     }
   },
   {
@@ -706,7 +706,7 @@
     "game": "MEMORY",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> secondes pour retrouver toutes les paires, vous avez fait mieux que votre moyenne ! Pour renforcer encore plus votre mémoire de travail, tentez de repérer les paires en associant les cartes à des images ou des couleurs spécifiques.|En réalisant le jeu en <score> secondes, vous avez surpassé votre moyenne habituelle. Pour progresser, essayez de créer des schémas mentaux en repérant des groupes de cartes plutôt qu'une seule à la fois.|Avec <score> secondes, vous êtes en dessous de votre moyenne. Vous êtes proche de votre record !|Avec seulement <score> secondes pour retrouver toutes les paires, vous faites mieux que d’habitude ! Pour améliorer votre score, concentrez-vous sur les détails visuels des cartes et leur position dès qu’elles sont révélées."
+      "fr": "Avec <score> pour retrouver toutes les paires, vous avez fait mieux que votre moyenne ! Pour renforcer encore plus votre mémoire de travail, tentez de repérer les paires en associant les cartes à des images ou des couleurs spécifiques.|En réalisant le jeu en <score>, vous avez surpassé votre moyenne habituelle. Pour progresser, essayez de créer des schémas mentaux en repérant des groupes de cartes plutôt qu'une seule à la fois.|Avec <score>, vous êtes en dessous de votre moyenne. Vous êtes proche de votre record !|Avec seulement <score> pour retrouver toutes les paires, vous faites mieux que d’habitude ! Pour améliorer votre score, concentrez-vous sur les détails visuels des cartes et leur position dès qu’elles sont révélées."
     }
   },
   {
@@ -714,7 +714,7 @@
     "game": "MEMORY",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> secondes pour retrouver toutes les paires, c’est un peu plus que votre moyenne ! En vous concentrant sur la position des cartes dès leur apparition, vous progresserez rapidement.|Avec <score> secondes, c’est au-dessus de votre moyenne. La prochaine fois, tentez de vous concentrer sur les détails visuels des cartes pour les mémoriser plus rapidement.|Avec <score> secondes pour trouver toutes les paires, vous n’avez pas atteint votre moyenne. La prochaine fois, essayez de mémoriser les cartes par groupes pour éviter les erreurs d’inattention. Vous verrez, ça ira mieux !|Avec <score> secondes pour trouver toutes les paires, cette partie était plus difficile, mais en vous concentrant davantage sur les emplacements dès le début, vous ferez de grands progrès.|Un peu plus de temps cette fois ci avec <score> secondes. Pour la prochaine partie, pensez à diviser le plateau en zones et à mémoriser les paires une zone à la fois. "
+      "fr": "Avec <score> pour retrouver toutes les paires, c’est un peu plus que votre moyenne ! En vous concentrant sur la position des cartes dès leur apparition, vous progresserez rapidement.|Avec <score>, c’est au-dessus de votre moyenne. La prochaine fois, tentez de vous concentrer sur les détails visuels des cartes pour les mémoriser plus rapidement.|Avec <score> pour trouver toutes les paires, vous n’avez pas atteint votre moyenne. La prochaine fois, essayez de mémoriser les cartes par groupes pour éviter les erreurs d’inattention. Vous verrez, ça ira mieux !|Avec <score> pour trouver toutes les paires, cette partie était plus difficile, mais en vous concentrant davantage sur les emplacements dès le début, vous ferez de grands progrès.|Un peu plus de temps cette fois ci avec <score>. Pour la prochaine partie, pensez à diviser le plateau en zones et à mémoriser les paires une zone à la fois. "
     }
   },
   {
@@ -1209,7 +1209,7 @@
     "game": "WALKER",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Avec un temps de <score> secondes, vous progressez bien, soyez fier !|En terminant le parcours en <score> secondes, vous atteignez un nouveau sommet personnel. Continuez ainsi, vous pouvez être fier de vos progrès.|Vous avez réussi à finir le parcours en <score> secondes. Pouvez vous aller encore plus vite ?"
+      "fr": "Avec un temps de <score>, vous progressez bien, soyez fier !|En terminant le parcours en <score>, vous atteignez un nouveau sommet personnel. Continuez ainsi, vous pouvez être fier de vos progrès.|Vous avez réussi à finir le parcours en <score>. Pouvez vous aller encore plus vite ?"
     }
   },
   {
@@ -1217,7 +1217,7 @@
     "game": "WALKER",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Avec un temps de <score> secondes, vous progressez bien, soyez fier !|En terminant le parcours en <score> secondes, vous atteignez un nouveau sommet personnel. Continuez ainsi, vous pouvez être fier de vos progrès.|Vous avez réussi à finir le parcours en <score> secondes. Pouvez vous aller encore plus vite ?"
+      "fr": "Avec un temps de <score>, vous progressez bien, soyez fier !|En terminant le parcours en <score>, vous atteignez un nouveau sommet personnel. Continuez ainsi, vous pouvez être fier de vos progrès.|Vous avez réussi à finir le parcours en <score>. Pouvez vous aller encore plus vite ?"
     }
   },
   {
@@ -1225,7 +1225,7 @@
     "game": "WALKER",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec un temps de <score> secondes, vous avez fait mieux que votre moyenne habituelle. Vous pouvez être fier de vos compétences !|Avec <score> secondes, vous êtes en dessous de votre moyenne. Continuez ainsi, vous progressez !|Avec un temps de <score> secondes, vous faites mieux que d’habitude. Vous pouvez être fier de cette belle performance !|<score> secondes pour finir le jeu. Vous pouvez être fier de ce que vous avez accompli !"
+      "fr": "Avec un temps de <score>, vous avez fait mieux que votre moyenne habituelle. Vous pouvez être fier de vos compétences !|Avec <score>, vous êtes en dessous de votre moyenne. Continuez ainsi, vous progressez !|Avec un temps de <score>, vous faites mieux que d’habitude. Vous pouvez être fier de cette belle performance !|<score> pour finir le jeu. Vous pouvez être fier de ce que vous avez accompli !"
     }
   },
   {
@@ -1233,7 +1233,7 @@
     "game": "WALKER",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec un temps de <score> secondes, c’est un peu plus que votre moyenne. En vous concentrant davantage sur l’ensemble du trajet dès le début, vous pourrez améliorer votre planification et progresser rapidement.|Avec un temps de <score>, vous n’avez pas atteint votre moyenne. Pensez à analyser les cartes et à prévoir vos déplacements à l'avance pour améliorer votre planification.|Avec un temps de <score>, c’est au-dessus de votre moyenne. Pour la prochaine partie, essayez de mieux anticiper les détours et les obstacles pour affiner votre stratégie de planification."
+      "fr": "Avec un temps de <score>, c’est un peu plus que votre moyenne. En vous concentrant davantage sur l’ensemble du trajet dès le début, vous pourrez améliorer votre planification et progresser rapidement.|Avec un temps de <score>, vous n’avez pas atteint votre moyenne. Pensez à analyser les cartes et à prévoir vos déplacements à l'avance pour améliorer votre planification.|Avec un temps de <score>, c’est au-dessus de votre moyenne. Pour la prochaine partie, essayez de mieux anticiper les détours et les obstacles pour affiner votre stratégie de planification."
     }
   },
   {
@@ -1932,7 +1932,7 @@
     "game": "SUDOKU",
     "interactionType": "newRecord",
     "title": {
-      "fr": "<score> secondes pour terminer ce Sudok. Continuez à remplir les cases avec autant de précision, vous êtes en pleine réussite !|Votre capacité à analyser les chiffres est impressionnante avec <score> secondes, continuez ainsi pour encore plus de succès !|<score> secondes cette fois ci ! Continuez à affiner votre logique, vous êtes sur la bonne voie !|Vous avez terminé ce Sudoku en <score> secondes. Rejouez pour encore plus de victoires !"
+      "fr": "<score> pour terminer ce Sudok. Continuez à remplir les cases avec autant de précision, vous êtes en pleine réussite !|Votre capacité à analyser les chiffres est impressionnante avec <score>, continuez ainsi pour encore plus de succès !|<score> cette fois ci ! Continuez à affiner votre logique, vous êtes sur la bonne voie !|Vous avez terminé ce Sudoku en <score>. Rejouez pour encore plus de victoires !"
     }
   },
   {
@@ -1940,7 +1940,7 @@
     "game": "SUDOKU",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "<score> secondes pour terminer ce Sudok. Continuez à remplir les cases avec autant de précision, vous êtes en pleine réussite !|Votre capacité à analyser les chiffres est impressionnante avec <score> secondes, continuez ainsi pour encore plus de succès !|<score> secondes cette fois ci ! Continuez à affiner votre logique, vous êtes sur la bonne voie !|Vous avez terminé ce Sudoku en <score> secondes. Rejouez pour encore plus de victoires !"
+      "fr": "<score> pour terminer ce Sudok. Continuez à remplir les cases avec autant de précision, vous êtes en pleine réussite !|Votre capacité à analyser les chiffres est impressionnante avec <score>, continuez ainsi pour encore plus de succès !|<score> cette fois ci ! Continuez à affiner votre logique, vous êtes sur la bonne voie !|Vous avez terminé ce Sudoku en <score>. Rejouez pour encore plus de victoires !"
     }
   },
   {
@@ -1948,7 +1948,7 @@
     "game": "SUDOKU",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec un temps de <score> secondes, vous avez fait mieux que votre moyenne habituelle. Essayez de vous concentrer sur les cases où il manque le plus de chiffres pour progresser encore plus vite.|Avec un temps de <score> secondes, vous avez battu votre moyenne. Continuez à remplir les blocs et les lignes les plus simples en premier pour améliorer votre rapidité.|Avec <score> secondes, vous faites mieux que votre moyenne habituelle. Pensez à vérifier régulièrement vos colonnes et lignes pour éviter les erreurs de logique.|Vous avez terminé ce sudoku en <score> secondes, vous êtes en dessous de votre moyenne. Continuez à bien analyser les chiffres évidents avant de vous lancer dans les cases plus complexes.|Seulement <score> secondes ! Vous avez bien joué, et pour la prochaine fois, essayez de vous concentrer sur les chiffres manquants dans les blocs de 3x3, cela pourrait vous aider à progresser plus vite.|Avec un temps de <score> secondes, vous avez fait mieux que votre moyenne habituelle. La prochaine fois, essayez de repérer les lignes qui contiennent déjà beaucoup de chiffres pour démarrer en force ! "
+      "fr": "Avec un temps de <score>, vous avez fait mieux que votre moyenne habituelle. Essayez de vous concentrer sur les cases où il manque le plus de chiffres pour progresser encore plus vite.|Avec un temps de <score>, vous avez battu votre moyenne. Continuez à remplir les blocs et les lignes les plus simples en premier pour améliorer votre rapidité.|Avec <score>, vous faites mieux que votre moyenne habituelle. Pensez à vérifier régulièrement vos colonnes et lignes pour éviter les erreurs de logique.|Vous avez terminé ce sudoku en <score>, vous êtes en dessous de votre moyenne. Continuez à bien analyser les chiffres évidents avant de vous lancer dans les cases plus complexes.|Seulement <score> ! Vous avez bien joué, et pour la prochaine fois, essayez de vous concentrer sur les chiffres manquants dans les blocs de 3x3, cela pourrait vous aider à progresser plus vite.|Avec un temps de <score>, vous avez fait mieux que votre moyenne habituelle. La prochaine fois, essayez de repérer les lignes qui contiennent déjà beaucoup de chiffres pour démarrer en force ! "
     }
   },
   {
@@ -1956,7 +1956,7 @@
     "game": "SUDOKU",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec un temps de <score> secondes pour résoudre le sudoku, vous êtes au-dessus de votre moyenne habituelle. Rejouez en vous concentrant d’abord sur les cases les plus simples à remplir.|Avec <score> secondes, c'est un peu plus long que d’habitude. Essayez de repérer les lignes et colonnes où il manque peu de chiffres pour vous aider à avancer plus vite.|Vous avez pris un peu plus de temps avec <score> secondes, mais ne vous en faites pas. Essayez de remplir les blocs un par un pour mieux visualiser les possibilités.|Avec un temps de <score>, vous êtes au-dessus de votre moyenne. Commencez par les chiffres les plus évidents pour débloquer d'autres cases.|<score> secondes à cette partie. Pour progresser, essayez de vérifier régulièrement vos lignes et colonnes pour éviter les erreurs.|Avec un temps de <score> secondes pour résoudre le sudoku, vous êtes au-dessus de votre moyenne habituelle. Pour la prochaine fois, essayez de rester concentré sur les chiffres qui apparaissent le plus souvent pour démarrer plus facilement. Vous ferez mieux la prochaine fois !"
+      "fr": "Avec un temps de <score> pour résoudre le sudoku, vous êtes au-dessus de votre moyenne habituelle. Rejouez en vous concentrant d’abord sur les cases les plus simples à remplir.|Avec <score>, c'est un peu plus long que d’habitude. Essayez de repérer les lignes et colonnes où il manque peu de chiffres pour vous aider à avancer plus vite.|Vous avez pris un peu plus de temps avec <score>, mais ne vous en faites pas. Essayez de remplir les blocs un par un pour mieux visualiser les possibilités.|Avec un temps de <score>, vous êtes au-dessus de votre moyenne. Commencez par les chiffres les plus évidents pour débloquer d'autres cases.|<score> à cette partie. Pour progresser, essayez de vérifier régulièrement vos lignes et colonnes pour éviter les erreurs.|Avec un temps de <score> pour résoudre le sudoku, vous êtes au-dessus de votre moyenne habituelle. Pour la prochaine fois, essayez de rester concentré sur les chiffres qui apparaissent le plus souvent pour démarrer plus facilement. Vous ferez mieux la prochaine fois !"
     }
   },
   {
