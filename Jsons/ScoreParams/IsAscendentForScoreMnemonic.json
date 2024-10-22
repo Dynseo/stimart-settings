@@ -63,5 +63,10 @@
   {
     "scoreMnemonic": "time",
     "isAscendent": "NO"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "PANURGE",
+    "isAscendent": "NO"
   }
 ]
