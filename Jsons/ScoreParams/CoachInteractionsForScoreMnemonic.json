@@ -4408,7 +4408,7 @@
     "isForCOCO": "TRUE",
     "interactionType": "perfectScore",
     "title": {
-      "fr": "Aucune erreur ! Vous avez tout bon, quelle performance remarquable !|Pas de mauvaises réponses ! Vous avez prouvé que votre concentration est au top, continuez comme ça !|Avec un score de <score> erreurs, vous avez réalisé une performance parfaite. Bravo pour votre maîtrise !"
+      "fr": "Aucune erreur ! Vous avez tout bon, quelle performance remarquable !|Pas de mauvaises réponses ! Vous avez prouvé que votre concentration est au top, continuez comme ça !|Avec un score de 0 erreur, vous avez réalisé une performance parfaite. Bravo pour votre maîtrise !"
     }
   },
   {
