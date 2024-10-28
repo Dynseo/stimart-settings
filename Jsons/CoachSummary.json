@@ -4,231 +4,263 @@
     "condition": "always",
     "title": {
       "fr": "Bonjour <playerName> ! Voici votre bilan hebdomadaire :",
-      "us": "Hello <playerName>"
+      "us": "Hello <playerName>! Here is your weekly report:"
     }
   },
   {
     "mnemo": "greeting",
     "condition": "always",
     "title": {
-      "fr": "Bonjour <playerName>, un aperçu de vos performances cette semaine :"
+      "fr": "Bonjour <playerName>, un aperçu de vos performances cette semaine :",
+      "us": "Hello <playerName>, an overview of your performance this week:"
     }
   },
   {
     "mnemo": "greeting",
     "condition": "always",
     "title": {
-      "fr": "<playerName>, voici vos statistiques de la semaine : "
+      "fr": "<playerName>, voici vos statistiques de la semaine : ",
+      "us": "<playerName>, here are your stats for the week: "
     }
   },
   {
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Félicitations pour votre engagement ! "
+      "fr": "Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Félicitations pour votre engagement ! ",
+      "us": "You've played at least three days this week, which is great for keeping your brain in shape. Congratulations on your commitment! "
     }
   },
   {
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Vous avez joué au moins trois jours cette semaine, c’est un bel engagement. Continuez sur cette lancée !  "
+      "fr": "Vous avez joué au moins trois jours cette semaine, c’est un bel engagement. Continuez sur cette lancée !  ",
+      "us": "You played at least three days this week, that’s a great commitment. Keep this momentum going!  "
     }
   },
   {
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Au moins trois jours de jeu cette semaine, un beau rythme pour progresser. Bien joué !"
+      "fr": "Au moins trois jours de jeu cette semaine, un beau rythme pour progresser. Bien joué !",
+      "us": "At least three days of play this week, a good pace to progress. Well done!"
     }
   },
   {
     "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est la clé pour maximiser les bienfaits."
+      "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est la clé pour maximiser les bienfaits.",
+      "us": "You played less than three days this week. Remember, regularity is the key to maximizing benefits."
     }
   },
   {
     "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "Moins de trois jours de jeu cette semaine. N’oubliez pas, la pratique régulière est essentielle pour progresser."
+      "fr": "Moins de trois jours de jeu cette semaine. N’oubliez pas, la pratique régulière est essentielle pour progresser.",
+      "us": "Less than three days of play this week. Remember, regular practice is essential to progress."
     }
   },
   {
     "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "Vous avez joué moins de trois jours cette semaine. Un peu plus de constance vous aidera à maximiser vos performances."
+      "fr": "Vous avez joué moins de trois jours cette semaine. Un peu plus de constance vous aidera à maximiser vos performances.",
+      "us": "You played less than three days this week. A little more consistency will help you maximize your performance."
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "moreThan5GamesThisWeek",
     "title": {
-      "fr": "Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Bravo pour la diversité de vos choix de jeux ! "
+      "fr": "Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Bravo pour la diversité de vos choix de jeux ! ",
+      "us": "You play a wide range of games, which is ideal for stimulating several cognitive functions. Bravo for the diversity of your game choices! "
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "moreThan5GamesThisWeek",
     "title": {
-      "fr": "Vous avez testé différents jeux cette semaine, un excellent moyen de travailler différentes parties de votre cerveau. Continuez !"
+      "fr": "Vous avez testé différents jeux cette semaine, un excellent moyen de travailler différentes parties de votre cerveau. Continuez !",
+      "us": "You've tried different games this week, a great way to work different parts of your brain. Keep going!"
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "moreThan5GamesThisWeek",
     "title": {
-      "fr": "Plus de cinq jeux différents cette semaine ! Cette variété est idéale pour maximiser votre agilité mentale."
+      "fr": "Plus de cinq jeux différents cette semaine ! Cette variété est idéale pour maximiser votre agilité mentale.",
+      "us": "More than five different games this week! This strain is ideal for maximizing your mental agility."
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "lessThan5GamesThisWeek",
     "title": {
-      "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités en <cognitiveFunction>, et vous avez montré une belle constance dans cette activité."
+      "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités en <cognitiveFunction>, et vous avez montré une belle constance dans cette activité.",
+      "us": "You mainly play <gameName>. This is an excellent choice! This game works on your <cognitiveFunction> skills, and you have shown great consistency in this activity."
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "lessThan5GamesThisWeek",
     "title": {
-      "fr": "Vous vous concentrez principalement sur <gameName>, un excellent choix pour renforcer vos capacités en <cognitiveFunction>."
+      "fr": "Vous vous concentrez principalement sur <gameName>, un excellent choix pour renforcer vos capacités en <cognitiveFunction>.",
+      "us": "You mainly focus on <gameName>, an excellent choice for strengthening your abilities in <cognitiveFunction>."
     }
   },
   {
     "mnemo": "gameDiversity",
     "condition": "lessThan5GamesThisWeek",
     "title": {
-      "fr": "Vous privilégiez <gameName>, ce qui est excellent pour améliorer votre <cognitiveFunction>."
+      "fr": "Vous privilégiez <gameName>, ce qui est excellent pour améliorer votre <cognitiveFunction>.",
+      "us": "You favor <gameName>, which is great for improving your <cognitiveFunction>."
     }
   },
   {
     "mnemo": "progress",
     "condition": "didProgressInAGame",
     "title": {
-      "fr": "Nous avons remarqué des progrès notables dans <gameTitle>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. "
+      "fr": "Nous avons remarqué des progrès notables dans <gameTitle>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. ",
+      "us": "We've noticed some notable progress in <gameTitle>. You improve your overall performance, and it shows that your efforts are paying off. "
     }
   },
   {
     "mnemo": "progress",
     "condition": "didProgressInAGame",
     "title": {
-      "fr": "Vous avez fait des avancées remarquables dans <gameTitle>. Vos efforts sont clairement visibles !"
+      "fr": "Vous avez fait des avancées remarquables dans <gameTitle>. Vos efforts sont clairement visibles !",
+      "us": "You have made remarkable progress in <gameTitle>. Your efforts are clearly visible!"
     }
   },
   {
     "mnemo": "progress",
     "condition": "didProgressInAGame",
     "title": {
-      "fr": "Vous avez amélioré vos performances dans <gameTitle>. Continuez comme ça, ça paye !"
+      "fr": "Vous avez amélioré vos performances dans <gameTitle>. Continuez comme ça, ça paye !",
+      "us": "You have improved your performance in <gameTitle>. Keep it up, it’s paying off!"
     }
   },
   {
     "mnemo": "trophy",
     "condition": "newTrophy",
     "title": {
-      "fr": "Vous avez gagné le trophée <trophée> ! Continuez à relever les défis pour compléter votre collection."
+      "fr": "Vous avez gagné le trophée <trophy> ! Continuez à relever les défis pour compléter votre collection.",
+      "us": "You have won the <trophy> trophy! Continue to complete the challenges to complete your collection."
     }
   },
   {
     "mnemo": "trophy",
     "condition": "newTrophy",
     "title": {
-      "fr": "Vous avez remporté le trophée <trophée>. Continuez à progresser pour en obtenir d’autres."
+      "fr": "Vous avez remporté le trophée <trophy>. Continuez à progresser pour en obtenir d’autres.",
+      "us": "You have won the <trophy> trophy. Keep progressing to get more."
     }
   },
   {
     "mnemo": "trophy",
     "condition": "newTrophy",
     "title": {
-      "fr": "Vous avez décroché le trophée <trophée>. Continuez à relever des défis pour en gagner davantage."
+      "fr": "Vous avez décroché le trophée <trophy>. Continuez à relever des défis pour en gagner davantage.",
+      "us": "You have won the <trophy> trophy. Continue to complete challenges to earn more."
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
     "title": {
-      "fr": "Votre moyenne au niveau facile est de <note>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?"
+      "fr": "Votre moyenne au niveau facile est de <note>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
+      "us": "Your average at the easy level is <note>. Why not upgrade to medium level for more challenges?"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
     "title": {
-      "fr": "Vous avez obtenu une moyenne de <note> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !"
+      "fr": "Vous avez obtenu une moyenne de <note> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !",
+      "us": "You achieved an average of <grade> in the easy level. It's time to try the medium level for more stimulation!"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
     "title": {
-      "fr": "Vous avez une moyenne de <note> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?"
+      "fr": "Vous avez une moyenne de <note> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
+      "us": "You have an average of <note> at the easy level. How about upgrading to medium level to progress further?"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
     "title": {
-      "fr": "Vous avez une moyenne de <note> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?"
+      "fr": "Vous avez une moyenne de <note> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
+      "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
     "title": {
-      "fr": "Avec une excellente moyenne de <note> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !"
+      "fr": "Avec une excellente moyenne de <note> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
+      "us": "With an excellent <note> average in the medium level, it would be interesting to explore the hard level!"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
     "title": {
-      "fr": "Vous affichez une moyenne de <note> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !"
+      "fr": "Vous affichez une moyenne de <note> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !",
+      "us": "You have an average of <score> at the average level. It's time to put your skills to the test on the difficult level!"
     }
   },
   {
     "mnemo": "conclusion",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Continuez à explorer différentes options pour renforcer encore plus vos capacités."
+      "fr": "Continuez à explorer différentes options pour renforcer encore plus vos capacités.",
+      "us": "Continue to explore different options to strengthen your abilities even further."
     }
   },
   {
     "mnemo": "conclusion",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Poursuivez cette belle dynamique en explorant de nouveaux défis et en affinant vos compétences."
+      "fr": "Poursuivez cette belle dynamique en explorant de nouveaux défis et en affinant vos compétences.",
+      "us": "Continue this great dynamic by exploring new challenges and refining your skills."
     }
   },
   {
     "mnemo": "conclusion",
     "condition": "moreThan3PlaysThisWeek",
     "title": {
-      "fr": "Restez engagé et continuez à explorer de nouvelles options pour enrichir votre expérience de jeu."
+      "fr": "Restez engagé et continuez à explorer de nouvelles options pour enrichir votre expérience de jeu.",
+      "us": "Stay engaged and continue to explore new options to enrich your gaming experience."
     }
   },
   {
     "mnemo": "conclusion",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances."
+      "fr": "Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances.",
+      "us": "Try playing a little more often, it will make a difference to your performance."
     }
   },
   {
     "mnemo": "conclusion",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances."
+      "fr": "Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances.",
+      "us": "Try increasing your playing time, it could really improve your performance."
     }
   },
   {
     "mnemo": "conclusion",
     "condition": "lessThan3PlaysThisWeek",
     "title": {
-      "fr": "En jouant un peu plus régulièrement, vous verrez des améliorations notables dans vos performances."
+      "fr": "En jouant un peu plus régulièrement, vous verrez des améliorations notables dans vos performances.",
+      "us": "By playing a little more regularly, you will see noticeable improvements in your performance."
     }
   }
 ]
