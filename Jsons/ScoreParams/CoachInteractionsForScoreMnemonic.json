@@ -735,7 +735,7 @@
     "interactionType": "bestThanAverage",
     "title": {
       "fr": "Très belle partie ! |Bravo ! Vous avez montré une belle maîtrise.|Très bonne partie !|Bravo ! Vous progressez vraiment bien.|Bien joué ! Vous êtes tout près de battre votre record. ",
-      "us": "Very nice part! |Well done! You showed great mastery.|Very good game!|Bravo! You are progressing really well.|Well done! You are very close to breaking your record. "
+      "us": "Very nice game! |Well done! You showed great mastery.|Very good game!|Bravo! You are progressing really well.|Well done! You are very close to breaking your record. "
     }
   },
   {
@@ -746,7 +746,7 @@
     "interactionType": "bestThanAverage",
     "title": {
       "fr": "Très belle partie ! Vous êtes de plus en plus à l’aise avec les calculs mentaux.|Bravo ! Vous avez montré une belle maîtrise. C'est courageux car tout le monde n'aime pas le calcul mental !|Très bonne partie ! C'est courageux car tout le monde n'aime pas le calcul mental !|Bravo ! Vous progressez vraiment bien avec les calculs.|Bien joué ! Vous êtes de plus en plus à l’aise avec les calculs mentaux. ",
-      "us": "Very nice part! You are becoming more and more comfortable with mental calculations.|Congratulations! You showed great mastery. It's courageous because not everyone likes mental arithmetic!|Very good part! It's courageous because not everyone likes mental arithmetic!|Bravo! You are progressing really well with the calculations.|Well done! You are becoming more and more comfortable with mental calculations. "
+      "us": "Very nice game! You are becoming more and more comfortable with mental calculations.|Congratulations! You showed great mastery. It's courageous because not everyone likes mental arithmetic!|Very good part! It's courageous because not everyone likes mental arithmetic!|Bravo! You are progressing really well with the calculations.|Well done! You are becoming more and more comfortable with mental calculations. "
     }
   },
   {
@@ -1061,7 +1061,7 @@
     "interactionType": "newRecord",
     "title": {
       "fr": "Vous avez battu votre propre record sur Jumelles ! Votre mémoire est digne d’un vrai champion des cartes !|Félicitations ! Vous avez surpassé votre précédent record sur Jumelles ! Vous avez un bon œil et une bonne mémoire pour former les paires.|Félicitations ! Vous avez dépassé votre précédent record. Vos efforts portent leurs fruits, c’est encourageant !|Bravo ! Vous avez amélioré votre score sur Jumelles. Votre mémoire progresse à chaque partie.|Vous avez battu votre ancien record ! Continuez à affiner votre mémoire, vous êtes sur la bonne voie !|Félicitations ! Vous avez progressé sur Jumelles en entraînant votre mémoire à court terme, c'est un bon pas en avant.|Bien joué ! Vous avez amélioré votre score sur Jumelles, continuez ainsi et vous verrez des progrès au quotidien sur votre mémoire à court terme.",
-      "us": "You beat your own record on Jumelles! Your memory is worthy of a true card champion!|Congratulations! You have surpassed your previous record on Jumelles! You have a good eye and a good memory for forming pairs.|Congratulations! You have surpassed your previous record. Your efforts are bearing fruit, it’s encouraging!|Bravo! You have improved your score on Binoculars. Your memory improves with each game.|You have beaten your old record! Keep sharpening your memory, you're on the right track!|Congratulations! You have progressed on Jumelles by training your short-term memory, that's a good step forward.|Well done! You have improved your score on Jumelles, keep doing this and you will see daily progress on your short-term memory."
+      "us": "You beat your own record on Twins! Your memory is worthy of a true card champion!|Congratulations! You have surpassed your previous record on Twins! You have a good eye and a good memory for forming pairs.|Congratulations! You have surpassed your previous record. Your efforts are bearing fruit, it’s encouraging!|Bravo! You have improved your score on Twins. Your memory improves with each game.|You have beaten your old record! Keep sharpening your memory, you're on the right track!|Congratulations! You have progressed on Twins by training your short-term memory, that's a good step forward.|Well done! You have improved your score on Twins, keep doing this and you will see daily progress on your short-term memory."
     }
   },
   {
@@ -1072,7 +1072,7 @@
     "interactionType": "equalRecord",
     "title": {
       "fr": "Vous avez égalisé votre propre record sur Jumelles ! Votre mémoire est digne d’un vrai champion des cartes !|Félicitations ! Vous avez égalisé votre précédent record sur Jumelles ! Vous avez un bon œil et une bonne mémoire pour former les paires.|Félicitations ! Vous avez égalisé votre précédent record. Vos efforts portent leurs fruits, c’est encourageant !|Bravo ! Vous avez amélioré votre score sur Jumelles. Votre mémoire progresse à chaque partie.|Vous avez égalisé votre ancien record ! Continuez à affiner votre mémoire, vous êtes sur la bonne voie !|Félicitations ! Vous avez progressé sur Jumelles en entraînant votre mémoire à court terme, c'est un bon pas en avant.|Bien joué ! Vous avez amélioré votre score sur Jumelles, continuez ainsi et vous verrez des progrès au quotidien sur votre mémoire à court terme.",
-      "us": "You have equalized your own record on Jumelles! Your memory is worthy of a true card champion!|Congratulations! You have equalized your previous record on Jumelles! You have a good eye and a good memory for forming pairs.|Congratulations! You have equalized your previous record. Your efforts are bearing fruit, it’s encouraging!|Bravo! You have improved your score on Binoculars. Your memory improves with each game.|You have equalized your old record! Keep sharpening your memory, you're on the right track!|Congratulations! You have progressed on Jumelles by training your short-term memory, that's a good step forward.|Well done! You have improved your score on Jumelles, keep doing this and you will see daily progress on your short-term memory."
+      "us": "You have equalized your own record on Twins! Your memory is worthy of a true card champion!|Congratulations! You have equalized your previous record on Twins! You have a good eye and a good memory for forming pairs.|Congratulations! You have equalized your previous record. Your efforts are bearing fruit, it’s encouraging!|Bravo! You have improved your score on Twins. Your memory improves with each game.|You have equalized your old record! Keep sharpening your memory, you're on the right track!|Congratulations! You have progressed on Twins by training your short-term memory, that's a good step forward.|Well done! You have improved your score on Twins, keep doing this and you will see daily progress on your short-term memory."
     }
   },
   {
@@ -1116,7 +1116,7 @@
     "interactionType": "perfectScore",
     "title": {
       "fr": "Vous avez obtenu un score parfait sur Jumelles ! Votre mémoire est celle d'un véritable champion des cartes ! | Félicitations ! Vous avez réalisé un 10/10 sur Jumelles ! Votre œil et votre mémoire pour former les paires sont exceptionnels ! | Bravo ! Vous avez atteint un score parfait. Vos efforts portent leurs fruits, c’est vraiment encourageant ! | Bien joué ! Vous avez terminé Jumelles avec un score parfait de 10 sur 10. Votre mémoire progresse à chaque partie ! | Félicitations ! Vous avez atteint la perfection sur Jumelles ! Continuez à affiner votre mémoire, vous êtes sur la bonne voie ! | Vous avez réalisé un score parfait sur Jumelles en entraînant votre mémoire à court terme, c'est un pas en avant impressionnant ! | Super travail ! Vous avez obtenu un score parfait sur Jumelles, continuez ainsi et vous verrez des progrès quotidiens dans votre mémoire à court terme !",
-      "us": "You got a perfect score on Binoculars! Your memory is that of a true card champion! | Congratulations ! You achieved a 10/10 on Jumelles! Your eye and memory for forming pairs are exceptional! | Well done ! You have achieved a perfect score. Your efforts are bearing fruit, it’s really encouraging! | Well done! You completed Binoculars with a perfect score of 10 out of 10. Your memory improves with each game! | Congratulations ! You have achieved perfection on Jumelles! Continue to refine your memory, you are on the right track! | You've achieved a perfect score on Binoculars by training your short-term memory, that's an impressive step forward! | Great work! You got a perfect score on Binoculars, keep it up and you'll see daily progress in your short-term memory!"
+      "us": "You got a perfect score on Twins! Your memory is that of a true card champion! | Congratulations ! You achieved a 10/10 on Twins! Your eye and memory for forming pairs are exceptional! | Well done ! You have achieved a perfect score. Your efforts are bearing fruit, it’s really encouraging! | Well done! You completed Twins with a perfect score of 10 out of 10. Your memory improves with each game! | Congratulations ! You have achieved perfection on Jumelles! Continue to refine your memory, you are on the right track! | You've achieved a perfect score on Twins by training your short-term memory, that's an impressive step forward! | Great work! You got a perfect score on Twins, keep it up and you'll see daily progress in your short-term memory!"
     }
   },
   {
@@ -1234,8 +1234,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Félicitations, vous avez surpassé votre propre record sur L'Oreille Musicale !|Bravo ! Avec cette performance sur L'Oreille Musicale, vous prouvez que vos oreilles captent toutes les subtilités des sons !|Incroyable ! Vous avez battu votre propre record sur L'Oreille Musicale !|Vous avez battu votre propre score sur L'Oreille Musicale !|Bravo pour cette performance sur L'Oreille Musicale ! ",
-      "us": "Congratulations, you have surpassed your own record on L'Oreille Musicale!|Bravo! With this performance on L'Oreille Musicale, you prove that your ears capture all the subtleties of sounds!|Incredible! You beat your own record on L'Oreille Musicale!|You beat your own score on L'Oreille Musicale!|Congratulations for this performance on L'Oreille Musicale! "
+      "fr": "Félicitations, vous avez surpassé votre propre record sur <gameTitle> !|Bravo ! Avec cette performance sur <gameTitle>, vous prouvez que vos oreilles captent toutes les subtilités des sons !|Incroyable ! Vous avez battu votre propre record sur <gameTitle> !|Vous avez battu votre propre score sur <gameTitle> !|Bravo pour cette performance sur <gameTitle> ! ",
+      "us": "Congratulations, you have surpassed your own record on <gameTitle>!|Bravo! With this performance on <gameTitle>, you prove that your ears capture all the subtleties of sounds!|Incredible! You beat your own record on <gameTitle>!|You beat your own score on <gameTitle>!|Congratulations for this performance on <gameTitle>! "
     }
   },
   {
@@ -1245,8 +1245,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Félicitations, vous avez égalisé votre propre record sur L'Oreille Musicale !|Bravo ! Avec cette performance sur L'Oreille Musicale, vous prouvez que vos oreilles captent toutes les subtilités des sons !|Incroyable ! Vous avez égalisé votre propre record sur L'Oreille Musicale !|Vous avez égalisé votre propre score sur L'Oreille Musicale !|Bravo pour cette performance sur L'Oreille Musicale ! ",
-      "us": "Congratulations, you have equalized your own record on L'Oreille Musicale!|Bravo! With this performance on L'Oreille Musicale, you prove that your ears capture all the subtleties of sounds!|Incredible! You have equalized your own record on L'Oreille Musicale!|You have equalized your own score on L'Oreille Musicale!|Congratulations for this performance on L'Oreille Musicale! "
+      "fr": "Félicitations, vous avez égalisé votre propre record sur <gameTitle> !|Bravo ! Avec cette performance sur <gameTitle>, vous prouvez que vos oreilles captent toutes les subtilités des sons !|Incroyable ! Vous avez égalisé votre propre record sur <gameTitle> !|Vous avez égalisé votre propre score sur <gameTitle> !|Bravo pour cette performance sur <gameTitle> ! ",
+      "us": "Congratulations, you have equalized your own record on <gameTitle>!|Bravo! With this performance on <gameTitle>, you prove that your ears capture all the subtleties of sounds!|Incredible! You have equalized your own record on <gameTitle>!|You have equalized your own score on <gameTitle>!|Congratulations for this performance on <gameTitle>! "
     }
   },
   {
@@ -1256,8 +1256,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bravo pour cette belle performance sur L'Oreille Musicale !|Bonne partie !|Vous avez bien joué sur L'Oreille Musicale.|Bonne performance ! Vous avez bien capté les sons sur L'Oreille Musicale.|Bien joué ! Vous avez fait un très bon score sur L'Oreille Musicale. ",
-      "us": "Congratulations for this great performance on L'Oreille Musicale!|Good performance!|You played well on L'Oreille Musicale.|Good performance! You captured the sounds well on L'Oreille Musicale.|Well done! You got a very good score on L’Oreille Musicale. "
+      "fr": "Bravo pour cette belle performance sur <gameTitle> !|Bonne partie !|Vous avez bien joué sur <gameTitle>.|Bonne performance ! Vous avez bien capté les sons sur <gameTitle>.|Bien joué ! Vous avez fait un très bon score sur <gameTitle>. ",
+      "us": "Congratulations for this great performance on <gameTitle>!|Good performance!|You played well on <gameTitle>.|Good performance! You captured the sounds well on <gameTitle>.|Well done! You got a very good score on L’Oreille Musicale. "
     }
   },
   {
@@ -1267,8 +1267,8 @@
     "isForCOCO": false,
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bravo pour cette belle partie sur L'Oreille Musicale !|Bonne partie ! Vous êtes un maestro des bonnes réponses auditives !|Vous avez bien joué sur L'Oreille Musicale.|Bonne performance ! Vous avez bien capté les sons sur L'Oreille Musicale.| ",
-      "us": "Bravo for this great part on L’Oreille Musicale!|Good part! You are a maestro of good auditory responses!|You performed well on L'Oreille Musicale.|Good performance! You have captured the sounds well on L'Oreille Musicale.| "
+      "fr": "Bravo pour cette belle partie sur <gameTitle> !|Bonne partie ! Vous êtes un maestro des bonnes réponses auditives !|Vous avez bien joué sur <gameTitle>.|Bonne performance ! Vous avez bien capté les sons sur <gameTitle>.| ",
+      "us": "Bravo for this great part on L’Oreille Musicale!|Good part! You are a maestro of good auditory responses!|You performed well on <gameTitle>.|Good performance! You have captured the sounds well on <gameTitle>.| "
     }
   },
   {
@@ -1289,8 +1289,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "perfectScore",
     "title": {
-      "fr": "Félicitations, vous avez obtenu un score parfait sur L'Oreille Musicale ! | Bravo ! Avec cette performance sur L'Oreille Musicale, vous prouvez que vos oreilles captent toutes les nuances des sons ! | Incroyable ! Vous avez réalisé un 10/10 sur L'Oreille Musicale ! | Vous avez atteint un score parfait sur L'Oreille Musicale ! | Bravo pour ce 10 sur 10 sur L'Oreille Musicale !",
-      "us": "Congratulations, you have obtained a perfect score on L'Oreille Musicale! | Well done ! With this performance on L'Oreille Musicale, you prove that your ears capture all the nuances of sounds! | Amazing ! You achieved a 10/10 on L’Oreille Musicale! | You've reached a perfect score on L'Oreille Musicale! | Congratulations for this 10 out of 10 on L’Oreille Musicale!"
+      "fr": "Félicitations, vous avez obtenu un score parfait sur <gameTitle> ! | Bravo ! Avec cette performance sur <gameTitle>, vous prouvez que vos oreilles captent toutes les nuances des sons ! | Incroyable ! Vous avez réalisé un 10/10 sur <gameTitle> ! | Vous avez atteint un score parfait sur <gameTitle> ! | Bravo pour ce 10 sur 10 sur <gameTitle> !",
+      "us": "Congratulations, you have obtained a perfect score on <gameTitle>! | Well done ! With this performance on <gameTitle>, you prove that your ears capture all the nuances of sounds! | Amazing ! You achieved a 10/10 on <gameTitle>! | You've reached a perfect score on <gameTitle>! | Congratulations for this 10 out of 10 on L’Oreille Musicale!"
     }
   },
   {
@@ -1325,8 +1325,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne habituelle. Votre sens de l’écoute s'affine, continuez ainsi !|En réalisant <score> bonnes réponses, vous avez surpassé votre moyenne. Vous avez fait preuve d’une belle écoute sur L'Oreille Musicale, c’est une belle progression.|Avec <score> bonnes réponses, vous êtes au-dessus de votre moyenne. Vos capacités auditives sont en progrès, continuez à affiner votre sens de l’écoute !",
-      "us": "With <score> correct answers, you did better than your usual average. Your listening skills are improving, keep it up!|By achieving <score> correct answers, you have surpassed your average. You have demonstrated good listening skills on L'Oreille Musicale, this is great progress.|With <score> good answers, you are above your average. Your hearing skills are improving, continue to refine your listening skills!"
+      "fr": "Avec <score> bonnes réponses, vous avez fait mieux que votre moyenne habituelle. Votre sens de l’écoute s'affine, continuez ainsi !|En réalisant <score> bonnes réponses, vous avez surpassé votre moyenne. Vous avez fait preuve d’une belle écoute sur <gameTitle>, c’est une belle progression.|Avec <score> bonnes réponses, vous êtes au-dessus de votre moyenne. Vos capacités auditives sont en progrès, continuez à affiner votre sens de l’écoute !",
+      "us": "With <score> correct answers, you did better than your usual average. Your listening skills are improving, keep it up!|By achieving <score> correct answers, you have surpassed your average. You have demonstrated good listening skills on <gameTitle>, this is great progress.|With <score> good answers, you are above your average. Your hearing skills are improving, continue to refine your listening skills!"
     }
   },
   {
@@ -1373,8 +1373,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Avec <score> mauvaises réponses, vous avez fait mieux que votre moyenne habituelle. Il y a encore un peu de marge pour vous améliorer, mais c’est une belle partie.|Avec <score> mauvaises réponses, vous êtes en dessous de votre moyenne. Vous avez fait preuve d’une belle écoute sur L'Oreille Musicale, c’est une belle progression.|Avec seulement <score> erreurs, votre mémoire auditive s'est bien entraînée.",
-      "us": "With <score> wrong answers, you did better than your usual average. There is still a little room for improvement, but it's a good part.|With <score> wrong answers, you are below your average. You demonstrated good listening skills on L'Oreille Musicale, it's a great progression.|With only <score> errors, your auditory memory has been well trained."
+      "fr": "Avec <score> mauvaises réponses, vous avez fait mieux que votre moyenne habituelle. Il y a encore un peu de marge pour vous améliorer, mais c’est une belle partie.|Avec <score> mauvaises réponses, vous êtes en dessous de votre moyenne. Vous avez fait preuve d’une belle écoute sur <gameTitle>, c’est une belle progression.|Avec seulement <score> erreurs, votre mémoire auditive s'est bien entraînée.",
+      "us": "With <score> wrong answers, you did better than your usual average. There is still a little room for improvement, but it's a good part.|With <score> wrong answers, you are below your average. You demonstrated good listening skills on <gameTitle>, it's a great progression.|With only <score> errors, your auditory memory has been well trained."
     }
   },
   {
@@ -1408,8 +1408,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Bravo ! Vous avez amélioré votre record sur Cascade Infernale.|Record battu ! Vous avez fait un très bon travail en mettant à l'épreuve votre attention.|Bien joué ! Vous avez progressé sur Cascade Infernale.|Bravo pour ce nouveau record sur Cascade Infernale !|Bien joué ! Vous avez battu votre record sur Cascade Infernale. ",
-      "us": "Well done ! You have improved your record on Cascade Infernale.|Breaked record! You did a very good job of testing your attentiveness.|Well done! You have progressed on Cascade Infernale.|Congratulations for this new record on Cascade Infernale!|Well done! You beat your record on Cascade Infernale. "
+      "fr": "Bravo ! Vous avez amélioré votre record sur <gameTitle>.|Record battu ! Vous avez fait un très bon travail en mettant à l'épreuve votre attention.|Bien joué ! Vous avez progressé sur <gameTitle>.|Bravo pour ce nouveau record sur <gameTitle> !|Bien joué ! Vous avez battu votre record sur <gameTitle>. ",
+      "us": "Well done ! You have improved your record on <gameTitle>.|Breaked record! You did a very good job of testing your attentiveness.|Well done! You have progressed on <gameTitle>.|Congratulations for this new record on <gameTitle>!|Well done! You beat your record on <gameTitle>. "
     }
   },
   {
@@ -1419,8 +1419,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Bravo ! Vous avez égalisé votre record sur Cascade Infernale.|Record égalé ! Vous avez fait un très bon travail en mettant à l'épreuve votre attention.|Bien joué ! Vous avez progressé sur Cascade Infernale.|Bravo pour ce record égalé sur Cascade Infernale !|Bien joué ! Vous avez égalisé votre record sur Cascade Infernale. ",
-      "us": "Well done ! You have equalized your record on Cascade Infernale.|Record tied! You did a very good job of testing your attentiveness.|Well done! You have progressed on Cascade Infernale.|Congratulations for this record equaled on Cascade Infernale!|Well done! You have equalized your record on Cascade Infernale. "
+      "fr": "Bravo ! Vous avez égalisé votre record sur <gameTitle>.|Record égalé ! Vous avez fait un très bon travail en mettant à l'épreuve votre attention.|Bien joué ! Vous avez progressé sur <gameTitle>.|Bravo pour ce record égalé sur <gameTitle> !|Bien joué ! Vous avez égalisé votre record sur <gameTitle>. ",
+      "us": "Well done ! You have equalized your record on <gameTitle>.|Record tied! You did a very good job of testing your attentiveness.|Well done! You have progressed on <gameTitle>.|Congratulations for this record equaled on <gameTitle>!|Well done! You have equalized your record on <gameTitle>. "
     }
   },
   {
@@ -1430,8 +1430,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bravo pour cette belle partie sur Cascade Infernale !|Bien joué ! Vous avez fait un bon score.|Félicitations pour ce bon score ! Vous avez montré de belles compétences en repérant les différences.|Très belle partie ! Votre attention reste aiguisée.|Bien joué ! Vous êtes resté concentré tout au long de la partie.|Bon travail ! Même sans record, vous avez montré une bonne maîtrise de l’attention. ",
-      "us": "Congratulations for this great game on Cascade Infernale!|Well done! You made a good score.|Congratulations on this good score! You showed great skills in spotting the differences.|Very nice part! Your attention remains sharp.|Well done! You stayed focused throughout the game.|Good job! Even without a record, you showed good attention span. "
+      "fr": "Bravo pour cette belle partie sur <gameTitle> !|Bien joué ! Vous avez fait un bon score.|Félicitations pour ce bon score ! Vous avez montré de belles compétences en repérant les différences.|Très belle partie ! Votre attention reste aiguisée.|Bien joué ! Vous êtes resté concentré tout au long de la partie.|Bon travail ! Même sans record, vous avez montré une bonne maîtrise de l’attention. ",
+      "us": "Congratulations for this great game on <gameTitle>!|Well done! You made a good score.|Congratulations on this good score! You showed great skills in spotting the differences.|Very nice part! Your attention remains sharp.|Well done! You stayed focused throughout the game.|Good job! Even without a record, you showed good attention span. "
     }
   },
   {
@@ -1441,8 +1441,8 @@
     "isForCOCO": false,
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bravo pour cette belle partie sur Cascade Infernale !|Bien joué ! Vous avez fait une belle partie. Chaque partie améliore votre attention, et vous verrez les effets au quotidien avec de l'entraînement.|Félicitations pour cette belle partie ! Vous avez montré de belles compétences en repérant les différences.|Très belle partie ! Votre attention reste aiguisée.|Bien joué ! Vous êtes resté concentré tout au long de la partie.|Bon travail ! Vous avez montré une bonne maîtrise de l’attention. ",
-      "us": "Congratulations for this great game on Cascade Infernale!|Well done! You had a great game. Each part improves your attention, and you will see the effects every day with practice.|Congratulations on this great part! You showed great skills in spotting the differences.|Very nice part! Your attention remains sharp.|Well done! You stayed focused throughout the game.|Good job! You have shown good command of attention. "
+      "fr": "Bravo pour cette belle partie sur <gameTitle> !|Bien joué ! Vous avez fait une belle partie. Chaque partie améliore votre attention, et vous verrez les effets au quotidien avec de l'entraînement.|Félicitations pour cette belle partie ! Vous avez montré de belles compétences en repérant les différences.|Très belle partie ! Votre attention reste aiguisée.|Bien joué ! Vous êtes resté concentré tout au long de la partie.|Bon travail ! Vous avez montré une bonne maîtrise de l’attention. ",
+      "us": "Congratulations for this great game on <gameTitle>!|Well done! You had a great game. Each part improves your attention, and you will see the effects every day with practice.|Congratulations on this great part! You showed great skills in spotting the differences.|Very nice part! Your attention remains sharp.|Well done! You stayed focused throughout the game.|Good job! You have shown good command of attention. "
     }
   },
   {
@@ -1463,8 +1463,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "perfectScore",
     "title": {
-      "fr": "Bravo ! Vous avez obtenu un score parfait sur Cascade Infernale ! | Vous avez fait un excellent travail en mettant à l'épreuve votre attention ! | Bien joué ! Vous avez atteint un 10/10 sur Cascade Infernale ! | Félicitations pour ce score parfait sur Cascade Infernale ! | Super travail ! Vous avez réalisé un score parfait sur Cascade Infernale !",
-      "us": "Well done ! You got a perfect score on Infernal Cascade! | You did a great job testing your attentiveness! | Well done! You have reached a 10/10 on Cascade Infernale! | Congratulations on this perfect score on Cascade Infernale! | Great work! You achieved a perfect score on Cascade Infernale!"
+      "fr": "Bravo ! Vous avez obtenu un score parfait sur <gameTitle> ! | Vous avez fait un excellent travail en mettant à l'épreuve votre attention ! | Bien joué ! Vous avez atteint un 10/10 sur <gameTitle> ! | Félicitations pour ce score parfait sur <gameTitle> ! | Super travail ! Vous avez réalisé un score parfait sur <gameTitle> !",
+      "us": "Well done ! You got a perfect score on Infernal Cascade! | You did a great job testing your attentiveness! | Well done! You have reached a 10/10 on <gameTitle>! | Congratulations on this perfect score on <gameTitle>! | Great work! You achieved a perfect score on <gameTitle>!"
     }
   },
   {
@@ -1594,8 +1594,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Bravo, vous avez battu votre record sur Le Damier Fou !|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce nouveau record montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez battu votre record.  |Félicitations ! ",
-      "us": "Well done, you beat your record on Le Damier Fou!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this new record shows that your attention to detail continues to be refined.|Well done! You have broken your record.  |Congratulations! "
+      "fr": "Bravo, vous avez battu votre record sur <gameTitle> !|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce nouveau record montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez battu votre record.  |Félicitations ! ",
+      "us": "Well done, you beat your record on <gameTitle>!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this new record shows that your attention to detail continues to be refined.|Well done! You have broken your record.  |Congratulations! "
     }
   },
   {
@@ -1605,8 +1605,8 @@
     "isForCOCO": "FALSE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Bravo, vous avez battu votre record sur Le Damier Fou !|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce nouveau record montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez battu votre record. Votre mémoire visuelle s'améliore au fur et à mesure des entraînements !|Félicitations ! Votre attention aux détails ne cesse de s’affiner !",
-      "us": "Well done, you beat your record on Le Damier Fou!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this new record shows that your attention to detail continues to be refined.|Well done! You have broken your record. Your visual memory improves as you practice!|Congratulations! Your attention to detail continues to improve!"
+      "fr": "Bravo, vous avez battu votre record sur <gameTitle> !|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce nouveau record montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez battu votre record. Votre mémoire visuelle s'améliore au fur et à mesure des entraînements !|Félicitations ! Votre attention aux détails ne cesse de s’affiner !",
+      "us": "Well done, you beat your record on <gameTitle>!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this new record shows that your attention to detail continues to be refined.|Well done! You have broken your record. Your visual memory improves as you practice!|Congratulations! Your attention to detail continues to improve!"
     }
   },
   {
@@ -1616,8 +1616,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Bravo, vous avez égalisé votre record sur Le Damier Fou!|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce record égalé montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez égalisé votre record. |Félicitations ! ",
-      "us": "Well done, you have equalized your record on Le Damier Fou!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this tied record shows that your attention to detail continues to be refined.|Well done! You have equalized your record. |Congratulations! "
+      "fr": "Bravo, vous avez égalisé votre record sur <gameTitle>!|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce record égalé montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez égalisé votre record. |Félicitations ! ",
+      "us": "Well done, you have equalized your record on <gameTitle>!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this tied record shows that your attention to detail continues to be refined.|Well done! You have equalized your record. |Congratulations! "
     }
   },
   {
@@ -1627,8 +1627,8 @@
     "isForCOCO": "FALSE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Bravo, vous avez égalisé votre record sur Le Damier Fou!|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce record égalé montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez égalisé votre record. Votre mémoire visuelle s'améliore au fur et à mesure des entraînements !|Félicitations ! Votre attention aux détails ne cesse de s’affiner !",
-      "us": "Well done, you have equalized your record on Le Damier Fou!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this tied record shows that your attention to detail continues to be refined.|Well done! You have equalized your record. Your visual memory improves as you practice!|Congratulations! Your attention to detail continues to improve!"
+      "fr": "Bravo, vous avez égalisé votre record sur <gameTitle>!|Super boulot ! Vous continuez à améliorer vos performances. Les cases peuvent disparaître, mais elles ne vous échappent jamais bien longtemps !|Super performance ! Vous progressez à chaque partie, et ce record égalé montre que votre attention aux détails ne cesse de s’affiner.|Bien joué ! Vous avez égalisé votre record. Votre mémoire visuelle s'améliore au fur et à mesure des entraînements !|Félicitations ! Votre attention aux détails ne cesse de s’affiner !",
+      "us": "Well done, you have equalized your record on <gameTitle>!|Great job! You continue to improve your performance. The boxes may disappear, but they never escape you for long!|Great performance! You improve with each game, and this tied record shows that your attention to detail continues to be refined.|Well done! You have equalized your record. Your visual memory improves as you practice!|Congratulations! Your attention to detail continues to improve!"
     }
   },
   {
@@ -1790,8 +1790,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Bien joué ! Votre mémoire et votre sens de la poésie progressent.|Félicitations ! Vous avez battu votre record sur Le Poème perdu. Votre mémoire et votre sens poétique s’améliorent à chaque partie.|Bravo ! J'adore ce poème, et vous l'avez magnifiquement bien reconstitué.|Félicitations ! Vous avez choisi un superbe poème, et l’avez reconstitué avec soin.|Super partie ! Ce poème est vraiment un excellent choix, et vous l’avez bien reconstitué !|Bien joué ! Votre choix de poème était parfait, et vous l’avez reconstitué avec fluidité. ",
-      "us": "Well done! Your memory and sense of poetry are improving.|Congratulations! You broke your record on The Lost Poem. Your memory and poetic sense improve with each game.|Bravo! I love this poem, and you pieced it together beautifully.|Congratulations! You chose a superb poem, and pieced it together carefully.|Great part! This poem is really an excellent choice, and you put it together well!|Well done! Your choice of poem was perfect, and you pieced it together fluidly. "
+      "fr": "Bien joué ! Votre mémoire et votre sens de la poésie progressent.|Félicitations ! Vous avez battu votre record sur <gameTitle>. Votre mémoire et votre sens poétique s’améliorent à chaque partie.|Bravo ! J'adore ce poème, et vous l'avez magnifiquement bien reconstitué.|Félicitations ! Vous avez choisi un superbe poème, et l’avez reconstitué avec soin.|Super partie ! Ce poème est vraiment un excellent choix, et vous l’avez bien reconstitué !|Bien joué ! Votre choix de poème était parfait, et vous l’avez reconstitué avec fluidité. ",
+      "us": "Well done! Your memory and sense of poetry are improving.|Congratulations! You broke your record on <gameTitle>. Your memory and poetic sense improve with each game.|Bravo! I love this poem, and you pieced it together beautifully.|Congratulations! You chose a superb poem, and pieced it together carefully.|Great part! This poem is really an excellent choice, and you put it together well!|Well done! Your choice of poem was perfect, and you pieced it together fluidly. "
     }
   },
   {
@@ -1801,8 +1801,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Bien joué ! Votre mémoire et votre sens de la poésie progressent.|Félicitations ! Vous avez égalisé votre record sur Le Poème perdu. Votre mémoire et votre sens poétique s’améliorent à chaque partie.|Bravo ! J'adore ce poème, et vous l'avez magnifiquement bien reconstitué.|Félicitations ! Vous avez choisi un superbe poème, et l’avez reconstitué avec soin.|Super partie ! Ce poème est vraiment un excellent choix, et vous l’avez bien reconstitué !|Bien joué ! Votre choix de poème était parfait, et vous l’avez reconstitué avec fluidité. ",
-      "us": "Well done! Your memory and sense of poetry are improving.|Congratulations! You equalized your record on The Lost Poem. Your memory and poetic sense improve with each game.|Bravo! I love this poem, and you pieced it together beautifully.|Congratulations! You chose a superb poem, and pieced it together carefully.|Great part! This poem is really an excellent choice, and you put it together well!|Well done! Your choice of poem was perfect, and you pieced it together fluidly. "
+      "fr": "Bien joué ! Votre mémoire et votre sens de la poésie progressent.|Félicitations ! Vous avez égalisé votre record sur <gameTitle>. Votre mémoire et votre sens poétique s’améliorent à chaque partie.|Bravo ! J'adore ce poème, et vous l'avez magnifiquement bien reconstitué.|Félicitations ! Vous avez choisi un superbe poème, et l’avez reconstitué avec soin.|Super partie ! Ce poème est vraiment un excellent choix, et vous l’avez bien reconstitué !|Bien joué ! Votre choix de poème était parfait, et vous l’avez reconstitué avec fluidité. ",
+      "us": "Well done! Your memory and sense of poetry are improving.|Congratulations! You equalized your record on <gameTitle>. Your memory and poetic sense improve with each game.|Bravo! I love this poem, and you pieced it together beautifully.|Congratulations! You chose a superb poem, and pieced it together carefully.|Great part! This poem is really an excellent choice, and you put it together well!|Well done! Your choice of poem was perfect, and you pieced it together fluidly. "
     }
   },
   {
@@ -1845,8 +1845,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "perfectScore",
     "title": {
-      "fr": "Score parfait ! Votre mémoire et votre sens de la poésie sont à leur apogée ! | Félicitations ! Vous avez obtenu un score de 10/10 sur Le Poème perdu. Votre mémoire et votre sens poétique s'améliorent à chaque partie ! | Bravo, vous avez obtenu une note de 10 ! J'adore ce poème, et vous l'avez reconstitué à la perfection ! | Félicitations ! Vous avez choisi un superbe poème et l’avez reconstitué avec brio ! | Score parfait ! Ce poème est vraiment un excellent choix, et vous l’avez parfaitement reconstitué ! | 10 sur 10 ! Votre choix de poème était idéal, et vous l’avez reconstitué avec une belle fluidité !",
-      "us": "Perfect score! Your memory and sense of poetry are at their peak! | Congratulations ! You obtained a score of 10/10 on The Lost Poem. Your memory and poetic sense improve with each game! | Well done, you got a score of 10! I love this poem, and you pieced it together perfectly! | Congratulations ! You chose a superb poem and pieced it together brilliantly! | Perfect score! This poem is truly an excellent choice, and you pieced it together perfectly! | 10 out of 10! Your choice of poem was ideal, and you pieced it together with beautiful fluidity!"
+      "fr": "Score parfait ! Votre mémoire et votre sens de la poésie sont à leur apogée ! | Félicitations ! Vous avez obtenu un score de 10/10 sur <gameTitle>. Votre mémoire et votre sens poétique s'améliorent à chaque partie ! | Bravo, vous avez obtenu une note de 10 ! J'adore ce poème, et vous l'avez reconstitué à la perfection ! | Félicitations ! Vous avez choisi un superbe poème et l’avez reconstitué avec brio ! | Score parfait ! Ce poème est vraiment un excellent choix, et vous l’avez parfaitement reconstitué ! | 10 sur 10 ! Votre choix de poème était idéal, et vous l’avez reconstitué avec une belle fluidité !",
+      "us": "Perfect score! Your memory and sense of poetry are at their peak! | Congratulations ! You obtained a score of 10/10 on <gameTitle>. Your memory and poetic sense improve with each game! | Well done, you got a score of 10! I love this poem, and you pieced it together perfectly! | Congratulations ! You chose a superb poem and pieced it together brilliantly! | Perfect score! This poem is truly an excellent choice, and you pieced it together perfectly! | 10 out of 10! Your choice of poem was ideal, and you pieced it together with beautiful fluidity!"
     }
   },
   {
@@ -1917,7 +1917,7 @@
     "interactionType": "newRecord",
     "title": {
       "fr": "Bien joué ! Vous avez dépassé votre précédent record sur Le Promeneur. Vous tracez des chemins avec stratégie, c’est encourageant !|Super travail ! Vous avez fait des progrès, et cela se voit. Vous combinez bien les cartes pour tracer des chemins toujours plus directs.|Record battu ! Vous progressez à chaque partie et construisez des trajets de plus en plus fluides sur Le Promeneur.|Bravo pour cette belle progression sur Le Promeneur ! Vous êtes sur la bonne voie, continuez à entraîner votre planification.|Bravo ! Vous avez battu votre propre record sur Le Promeneur. Votre sens de la planification devient de plus en plus précis.|Record battu ! Vous avez fait un excellent travail en améliorant votre planification des chemins.|Super travail ! Vous avez fait des progrès significatifs en matière de planification.|Bravo pour cette belle progression sur Le Promeneur ! Votre capacité à planifier des trajets efficaces s'améliore.",
-      "us": "Well done! You have surpassed your previous record on Le Promeneur. You trace paths with strategy, that’s encouraging!|Great work! You've made progress, and it shows. You combine cards well to trace ever more direct paths.|Breaked record! You progress with each game and build more and more fluid journeys on Le Promeneur.|Congratulations for this great progress on Le Promeneur! You are on the right track, keep practicing your planning.|Congratulations! You beat your own record on Le Promeneur. Your sense of planning becomes more and more precise.|Breaked record! You've done a great job improving your path planning.|Great job! You have made significant progress in terms of planning.|Congratulations for this great progress on Le Promeneur! Your ability to plan efficient routes improves."
+      "us": "Well done! You have surpassed your previous record on The Walker. You trace paths with strategy, that’s encouraging!|Great work! You've made progress, and it shows. You combine cards well to trace ever more direct paths.|Breaked record! You progress with each game and build more and more fluid journeys on The Walker.|Congratulations for this great progress on The Walker! You are on the right track, keep practicing your planning.|Congratulations! You beat your own record on The Walker. Your sense of planning becomes more and more precise.|Breaked record! You've done a great job improving your path planning.|Great job! You have made significant progress in terms of planning.|Congratulations for this great progress on The Walker! Your ability to plan efficient routes improves."
     }
   },
   {
@@ -1928,7 +1928,7 @@
     "interactionType": "equalRecord",
     "title": {
       "fr": "Bien joué ! Vous avez égalisé votre précédent record sur Le Promeneur. Vous tracez des chemins avec stratégie, c’est encourageant !|Super travail ! Vous avez fait des progrès, et cela se voit. Vous combinez bien les cartes pour tracer des chemins toujours plus directs.|Record égalé ! Vous progressez à chaque partie et construisez des trajets de plus en plus fluides sur Le Promeneur.|Bravo pour cette belle progression sur Le Promeneur ! Vous êtes sur la bonne voie, continuez à entraîner votre planification.|Bravo ! Vous avez égalisé votre propre record sur Le Promeneur. Votre sens de la planification devient de plus en plus précis.|Record égalé ! Vous avez fait un excellent travail en améliorant votre planification des chemins.|Super travail ! Vous avez fait des progrès significatifs en matière de planification.|Bravo pour cette belle progression sur Le Promeneur ! Votre capacité à planifier des trajets efficaces s'améliore.",
-      "us": "Well done! You have equalized your previous record on Le Promeneur. You trace paths with strategy, that’s encouraging!|Great work! You've made progress, and it shows. You combine cards well to trace ever more direct paths.|Record equaled! You progress with each game and build more and more fluid journeys on Le Promeneur.|Congratulations for this great progress on Le Promeneur! You are on the right track, keep practicing your planning.|Congratulations! You equaled your own record on Le Promeneur. Your sense of planning becomes more and more precise.|Record tied! You've done a great job improving your path planning.|Great job! You have made significant progress in terms of planning.|Congratulations for this great progress on Le Promeneur! Your ability to plan efficient routes improves."
+      "us": "Well done! You have equalized your previous record on The Walker. You trace paths with strategy, that’s encouraging!|Great work! You've made progress, and it shows. You combine cards well to trace ever more direct paths.|Record equaled! You progress with each game and build more and more fluid journeys on The Walker.|Congratulations for this great progress on The Walker! You are on the right track, keep practicing your planning.|Congratulations! You equaled your own record on The Walker. Your sense of planning becomes more and more precise.|Record tied! You've done a great job improving your path planning.|Great job! You have made significant progress in terms of planning.|Congratulations for this great progress on The Walker! Your ability to plan efficient routes improves."
     }
   },
   {
@@ -1972,7 +1972,7 @@
     "interactionType": "perfectScore",
     "title": {
       "fr": "Bien joué ! Vous avez obtenu un score parfait sur Le Promeneur. Vous tracez des chemins avec stratégie, c’est impressionnant ! | Super travail ! Vous avez atteint un 10/10.. Vous combinez parfaitement les cartes pour tracer des chemins toujours plus directs. | Score parfait ! Vous progressez à chaque partie et construisez des trajets de plus en plus fluides sur Le Promeneur. | Bravo pour cette performance exceptionnelle sur Le Promeneur ! Vous êtes sur la bonne voie, continuez à entraîner votre planification. | Bravo ! Vous avez atteint un score parfait sur Le Promeneur. Votre sens de la planification devient de plus en plus précis ! | 10 sur 10 ! Vous avez fait un excellent travail en perfectionnant votre planification des chemins. | 10/10 ! Vous avez réalisé des progrès significatifs en matière de planification avec un score parfait ! | Bravo pour cette belle performance sur Le Promeneur ! Votre capacité à planifier des trajets efficaces atteint de nouveaux sommets !",
-      "us": "Well done! You got a perfect score on Le Promeneur. You trace paths with strategy, it’s impressive! | Great work! You have reached a 10/10. You combine cards perfectly to trace ever more direct paths. | Perfect score! You progress with each game and build more and more fluid journeys on Le Promeneur. | Bravo for this exceptional performance on Le Promeneur! You are on the right track, keep practicing your planning. | Well done ! You have reached a perfect score on The Promeneur. Your sense of planning becomes more and more precise! | 10 out of 10! You've done a great job perfecting your path planning. | 10/10! You've made significant progress in planning with a perfect score! | Bravo for this great performance on Le Promeneur! Your ability to plan efficient routes reaches new heights!"
+      "us": "Well done! You got a perfect score on The Walker. You trace paths with strategy, it’s impressive! | Great work! You have reached a 10/10. You combine cards perfectly to trace ever more direct paths. | Perfect score! You progress with each game and build more and more fluid journeys on The Walker. | Bravo for this exceptional performance on The Walker! You are on the right track, keep practicing your planning. | Well done ! You have reached a perfect score on The Promeneur. Your sense of planning becomes more and more precise! | 10 out of 10! You've done a great job perfecting your path planning. | 10/10! You've made significant progress in planning with a perfect score! | Bravo for this great performance on The Walker! Your ability to plan efficient routes reaches new heights!"
     }
   },
   {
@@ -2078,8 +2078,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Bien joué ! Vous avez amélioré votre score sur Les Cartes Endiablées. Chaque carte est revenue à sa place, une belle performance !|Félicitations ! Votre capacité à mémoriser les cartes progresse bien. Continuez à travailler votre mémoire !|Super boulot ! Vous avez fait des progrès sur Les Cartes Endiablées, chaque carte est bien replacée, preuve que votre mémoire est en forme.|Félicitations pour cette partie ! Vous avez reconstitué l’ordre des cartes avec justesse, vous pouvez être fier de vous.|",
-      "us": "Well done! You have improved your score on Les Cartes Endiablées. Each card returned to its place, a great performance!|Congratulations! Your ability to memorize cards is progressing well. Keep working on your memory!|Great job! You have made progress on Les Cartes Endiablées, each card is correctly replaced, proof that your memory is in good shape.|Congratulations on this part! You have reconstructed the order of the cards accurately, you can be proud of yourself.|"
+      "fr": "Bien joué ! Vous avez amélioré votre score sur <gameTitle>. Chaque carte est revenue à sa place, une belle performance !|Félicitations ! Votre capacité à mémoriser les cartes progresse bien. Continuez à travailler votre mémoire !|Super boulot ! Vous avez fait des progrès sur <gameTitle>, chaque carte est bien replacée, preuve que votre mémoire est en forme.|Félicitations pour cette partie ! Vous avez reconstitué l’ordre des cartes avec justesse, vous pouvez être fier de vous.|",
+      "us": "Well done! You have improved your score on <gameTitle>. Each card returned to its place, a great performance!|Congratulations! Your ability to memorize cards is progressing well. Keep working on your memory!|Great job! You have made progress on <gameTitle>, each card is correctly replaced, proof that your memory is in good shape.|Congratulations on this part! You have reconstructed the order of the cards accurately, you can be proud of yourself.|"
     }
   },
   {
@@ -2089,8 +2089,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Bien joué ! Vous avez égalisé votre score sur Les Cartes Endiablées. Chaque carte est revenue à sa place, une belle performance !|Félicitations ! Votre capacité à mémoriser les cartes progresse bien. Continuez à travailler votre mémoire !|Super boulot ! Vous avez fait des progrès sur Les Cartes Endiablées, chaque carte est bien replacée, preuve que votre mémoire est en forme.|Félicitations pour cette partie ! Vous avez reconstitué l’ordre des cartes avec justesse, vous pouvez être fier de vous.|",
-      "us": "Well done! You have equalized your score on Les Cartes Endiablées. Each card returned to its place, a great performance!|Congratulations! Your ability to memorize cards is progressing well. Keep working on your memory!|Great job! You have made progress on Les Cartes Endiablées, each card is correctly replaced, proof that your memory is in good shape.|Congratulations on this part! You have reconstructed the order of the cards accurately, you can be proud of yourself.|"
+      "fr": "Bien joué ! Vous avez égalisé votre score sur <gameTitle>. Chaque carte est revenue à sa place, une belle performance !|Félicitations ! Votre capacité à mémoriser les cartes progresse bien. Continuez à travailler votre mémoire !|Super boulot ! Vous avez fait des progrès sur <gameTitle>, chaque carte est bien replacée, preuve que votre mémoire est en forme.|Félicitations pour cette partie ! Vous avez reconstitué l’ordre des cartes avec justesse, vous pouvez être fier de vous.|",
+      "us": "Well done! You have equalized your score on <gameTitle>. Each card returned to its place, a great performance!|Congratulations! Your ability to memorize cards is progressing well. Keep working on your memory!|Great job! You have made progress on <gameTitle>, each card is correctly replaced, proof that your memory is in good shape.|Congratulations on this part! You have reconstructed the order of the cards accurately, you can be proud of yourself.|"
     }
   },
   {
@@ -2111,8 +2111,8 @@
     "isForCOCO": false,
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bravo pour cette belle partie sur Les Carted Endiblées ! Vous avez bien joué.|Bien joué ! Vous avez replacé les cartes avec soin.|Bravo pour cette belle partie ! Vous avez fait un excellent travail de mémoire. |Bien joué ! Vous êtes sur la bonne voie. Continuez à travailler votre mémoire !|Bien joué ! Vous avez fait une belle partie sur Les Cartes Endiablées. |Super boulot ! Vous avez très bien joué. Continuez à travailler votre mémoire !",
-      "us": "Bravo for this great part on Les Carted Endiblées! You played well.|Well done! You have carefully replaced the cards.|Congratulations for this great game! You did an excellent job of remembering. |Well done! You are on the right track. Keep working on your memory!|Well done! You had a great game on Les Cartes Endiablées. |Great job! You played very well. Keep working on your memory!"
+      "fr": "Bravo pour cette belle partie sur <gameTitle> ! Vous avez bien joué.|Bien joué ! Vous avez replacé les cartes avec soin.|Bravo pour cette belle partie ! Vous avez fait un excellent travail de mémoire. |Bien joué ! Vous êtes sur la bonne voie. Continuez à travailler votre mémoire !|Bien joué ! Vous avez fait une belle partie sur <gameTitle>. |Super boulot ! Vous avez très bien joué. Continuez à travailler votre mémoire !",
+      "us": "Bravo for this great part on <gameTitle>! You played well.|Well done! You have carefully replaced the cards.|Congratulations for this great game! You did an excellent job of remembering. |Well done! You are on the right track. Keep working on your memory!|Well done! You had a great game on <gameTitle>. |Great job! You played very well. Keep working on your memory!"
     }
   },
   {
@@ -2133,8 +2133,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "perfectScore",
     "title": {
-      "fr": "Bien joué ! Vous avez obtenu un score parfait sur Les Cartes Endiablées. Chaque carte est revenue à sa place, une performance remarquable ! | 10 sur 10 ! Votre capacité à mémoriser les cartes a atteint de nouveaux sommets. Continuez à travailler votre mémoire ! | Super boulot ! Vous avez réalisé un 10/10 sur Les Cartes Endiablées, chaque carte est parfaitement replacée, preuve que votre mémoire est en pleine forme ! | Félicitations pour ce score parfait ! Vous avez reconstitué l’ordre des cartes avec une précision incroyable, vous pouvez être fier de vous ! ",
-      "us": "Well done! You obtained a perfect score on Les Cartes Endiablées. Each card returned to its place, a remarkable performance! | 10 out of 10! Your ability to memorize cards has reached new heights. Keep working on your memory! | Great job! You achieved a 10/10 on Les Cartes Endiablées, each card is perfectly replaced, proof that your memory is in great shape! | Congratulations on this perfect score! You have reconstructed the order of the cards with incredible precision, you can be proud of yourself! "
+      "fr": "Bien joué ! Vous avez obtenu un score parfait sur <gameTitle>. Chaque carte est revenue à sa place, une performance remarquable ! | 10 sur 10 ! Votre capacité à mémoriser les cartes a atteint de nouveaux sommets. Continuez à travailler votre mémoire ! | Super boulot ! Vous avez réalisé un 10/10 sur <gameTitle>, chaque carte est parfaitement replacée, preuve que votre mémoire est en pleine forme ! | Félicitations pour ce score parfait ! Vous avez reconstitué l’ordre des cartes avec une précision incroyable, vous pouvez être fier de vous ! ",
+      "us": "Well done! You obtained a perfect score on <gameTitle>. Each card returned to its place, a remarkable performance! | 10 out of 10! Your ability to memorize cards has reached new heights. Keep working on your memory! | Great job! You achieved a 10/10 on <gameTitle>, each card is perfectly replaced, proof that your memory is in great shape! | Congratulations on this perfect score! You have reconstructed the order of the cards with incredible precision, you can be proud of yourself! "
     }
   },
   {
@@ -2217,8 +2217,8 @@
     "isForCOCO": "TRUE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> parties sautées, vous êtes au-dessus de votre moyenne habituelle. Essayez de visualiser chaque objet dans une situation du quotidien, cela vous aidera à mieux vous en souvenir.|Avec <score> parties sautées, vous n’avez pas atteint votre moyenneEn associant chaque objet à une action dans votre journée, vous vous souviendrez plus facilement de leur ordre.|Avec <score> parties sautées, c’est au-dessus de votre moyenne. Même si vous n'avez pas obtenu le score attendu, en associant chaque objet à un moment de votre quotidien, vous pourrez les mémoriser plus facilement la prochaine fois.",
-      "us": "With <score> skipped games, you are above your usual average. Try to visualize each object in an everyday situation, this will help you remember it better.|With <score> skipped games, you have not reached your averageBy associating each object with an action in your day, you will remember more easily out of their order.|With <score> skipped games, it's above your average. Even if you didn't get the expected score, by associating each object with a moment in your daily life, you will be able to memorize them more easily next time."
+      "fr": "Avec <score> parties sautées, vous êtes au-dessus de votre moyenne habituelle. Essayez de visualiser chaque objet dans une situation du quotidien, cela vous aidera à mieux vous en souvenir.|Avec <score> parties sautées, vous n’avez pas atteint votre moyenne. En associant chaque objet à une action dans votre journée, vous vous souviendrez plus facilement de leur ordre.|Avec <score> parties sautées, c’est au-dessus de votre moyenne. Même si vous n'avez pas obtenu le score attendu, en associant chaque objet à un moment de votre quotidien, vous pourrez les mémoriser plus facilement la prochaine fois.",
+      "us": "With <score> skipped games, you are above your usual average. Try to visualize each object in an everyday situation, this will help you remember it better.|With <score> skipped games, you have not reached your average. By associating each object with an action in your day, you will remember more easily out of their order.|With <score> skipped games, it's above your average. Even if you didn't get the expected score, by associating each object with a moment in your daily life, you will be able to memorize them more easily next time."
     }
   },
   {
@@ -2321,8 +2321,8 @@
     "isForCOCO": false,
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bien joué ! Vous avez fait une belle partie sur Les Fous Volants. |Super performance ! Vous avez très bien suivi les ballons !|Super boulot ! Vous avez montré une grande concentration. |Bien joué ! Vous avez fait une belle partie sur Les Fous Volants ! Vous avez suivi chaque ballon de la bonne couleur avec précision, et cela se voit dans votre progression. |Bien joué ! Vous avez bien suivi les ballons colorés. ",
-      "us": "Well done! You had a great part on Les Fous Volants. |Great performance! You followed the balloons very well!|Great job! You showed great concentration. |Well done! You had a great game on Les Fous Volants! You've tracked each ball of the correct color precisely, and it shows in your progress. |Well done! You followed the colorful balloons well. "
+      "fr": "Bien joué ! Vous avez fait une belle partie sur <gameTitle>. |Super performance ! Vous avez très bien suivi les ballons !|Super boulot ! Vous avez montré une grande concentration. |Bien joué ! Vous avez fait une belle partie sur Les Fous Volants ! Vous avez suivi chaque ballon de la bonne couleur avec précision, et cela se voit dans votre progression. |Bien joué ! Vous avez bien suivi les ballons colorés. ",
+      "us": "Well done! You had a great game on <gameTitle>. |Great performance! You followed the balloons very well!|Great job! You showed great concentration. |Well done! You had a great game on Les Fous Volants! You've tracked each ball of the correct color precisely, and it shows in your progress. |Well done! You followed the colorful balloons well. "
     }
   },
   {
@@ -2691,8 +2691,8 @@
     "isForCOCO": false,
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Bravo ! Vous avez très bien joué ! Vous êtes en train de développer votre sens des mots !|Félicitations pour cette belle partie sur Remue Méninges ! Vous progressez bien.|Vous avez fait un excellent travail ! Votre maîtrise des proverbes s'améliore à chaque partie.|Bien joué ! Vous avez bien travaillez avec les proverbs !|Super partie ! Vous êtes en train de développer votre sens des mots !",
-      "us": "Well done ! You played very well! You are developing your sense of words!|Congratulations on this great part on Remue Méninges! You are progressing well.|You have done an excellent job! Your mastery of proverbs improves with each game.|Well done! You did a good job with the proverbs!|Great game! You are developing your sense of words!"
+      "fr": "Bravo ! Vous avez très bien joué ! Vous êtes en train de développer votre sens des mots !|Félicitations pour cette belle partie sur <gameTitle> ! Vous progressez bien.|Vous avez fait un excellent travail ! Votre maîtrise des proverbes s'améliore à chaque partie.|Bien joué ! Vous avez bien travaillez avec les proverbs !|Super partie ! Vous êtes en train de développer votre sens des mots !",
+      "us": "Well done ! You played very well! You are developing your sense of words!|Congratulations on this great part on <gameTitle>! You are progressing well.|You have done an excellent job! Your mastery of proverbs improves with each game.|Well done! You did a good job with the proverbs!|Great game! You are developing your sense of words!"
     }
   },
   {
@@ -4659,7 +4659,7 @@
     "isForCOCO": "TRUE",
     "interactionType": "newRecord",
     "title": {
-      "fr": "Félicitations ! Vous avez fait embarquer encore plus d’animaux sur L'Arche de Noé ! Vous êtes un vrai sauveur de la faune !|Quelle réussite ! Vous avez surpassé votre propre niveau sur L'Arche de Noé, votre rapidité à former des paires est impressionnante !|Quelle progression ! Les animaux n’ont jamais embarqué aussi vite sur l'arche de Noé grâce à vous !|Quel progrès ! Vous gérez les embarquements comme un véritable capitaine sur L'Arche de Noé !|Super travail ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous.|Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent !|Bravo. Avec cette partie, votre rapidité à sauver les animaux est devenue légendaire !",
+      "fr": "Félicitations ! Vous avez fait embarquer encore plus d’animaux sur <gameTitle> ! Vous êtes un vrai sauveur de la faune !|Quelle réussite ! Vous avez surpassé votre propre niveau sur <gameTitle>, votre rapidité à former des paires est impressionnante !|Quelle progression ! Les animaux n’ont jamais embarqué aussi vite sur <gameTitle> grâce à vous !|Quel progrès ! Vous gérez les embarquements comme un véritable capitaine sur <gameTitle> !|Super travail ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous.|Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent !|Bravo. Avec cette partie, votre rapidité à sauver les animaux est devenue légendaire !",
       "us": "Congratulations ! You've brought even more animals onto Noah's Ark! You are a true savior of wildlife!|What an achievement! You have surpassed your own level on Noah's Ark, your speed in forming pairs is impressive!|What progress! The animals have never boarded Noah's ark so quickly thanks to you!|What progress! You manage boardings like a real captain on Noah's Ark!|Great job! You have taken on board more animals than ever, you can be proud of yourself.|Impressive! You formed pairs of animals at lightning speed, what talent!|Bravo. With this part, your speed in saving animals has become legendary!"
     }
   },
@@ -4670,7 +4670,7 @@
     "isForCOCO": "TRUE",
     "interactionType": "equalRecord",
     "title": {
-      "fr": "Félicitations ! Vous avez fait embarquer encore plus d’animaux sur L'Arche de Noé ! Vous êtes un vrai sauveur de la faune !|Quelle réussite ! Vous avez égalisé votre propre niveau sur L'Arche de Noé, votre rapidité à former des paires est impressionnante !|Quelle progression ! Les animaux n’ont jamais embarqué aussi vite sur l'arche de Noé grâce à vous !|Quel progrès ! Vous gérez les embarquements comme un véritable capitaine sur L'Arche de Noé !|Super travail ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous.|Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent !|Bravo. Avec cette partie, votre rapidité à sauver les animaux est devenue légendaire !",
+      "fr": "Félicitations ! Vous avez fait embarquer encore plus d’animaux sur <gameTitle> ! Vous êtes un vrai sauveur de la faune !|Quelle réussite ! Vous avez égalisé votre propre niveau sur <gameTitle>, votre rapidité à former des paires est impressionnante !|Quelle progression ! Les animaux n’ont jamais embarqué aussi vite sur <gameTitle> grâce à vous !|Quel progrès ! Vous gérez les embarquements comme un véritable capitaine sur <gameTitle> !|Super travail ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous.|Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent !|Bravo. Avec cette partie, votre rapidité à sauver les animaux est devenue légendaire !",
       "us": "Congratulations ! You've brought even more animals onto Noah's Ark! You are a true savior of wildlife!|What an achievement! You have equalized your own level on Noah's Ark, your speed in forming pairs is impressive!|What progress! The animals have never boarded Noah's ark so quickly thanks to you!|What progress! You manage boardings like a real captain on Noah's Ark!|Great job! You have taken on board more animals than ever, you can be proud of yourself.|Impressive! You formed pairs of animals at lightning speed, what talent!|Bravo. With this part, your speed in saving animals has become legendary!"
     }
   },
@@ -4681,7 +4681,7 @@
     "isForCOCO": "TRUE",
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Félicitations ! Vous avez encore fait embarquer de nombreux animaux sur L'Arche de Noé, quel sauveur de la faune vous êtes !|Bravo pour cette belle partie ! Même sans battre votre record, votre rapidité à former des paires reste impressionnante.|Très belle performance ! Les animaux embarquent toujours à une vitesse incroyable avec vous à la barre.|Bravo ! Vous avez fait embarquer les animaux avec une belle rapidité, même sans battre votre record. |Super travail ! Vous avez formé les paires avec précision. |Bien joué ! Vous avez montré de belles compétences. |Félicitations pour ce beau score ! Vous avez bien dirigé l’embarquement des animaux.|Belle performance ! Vous avez fait un excellent travail.|Bien joué ! Vous êtes tout près de battre votre record. ",
+      "fr": "Félicitations ! Vous avez encore fait embarquer de nombreux animaux sur <gameTitle>, quel sauveur de la faune vous êtes !|Bravo pour cette belle partie ! Même sans battre votre record, votre rapidité à former des paires reste impressionnante.|Très belle performance ! Les animaux embarquent toujours à une vitesse incroyable avec vous à la barre.|Bravo ! Vous avez fait embarquer les animaux avec une belle rapidité, même sans battre votre record. |Super travail ! Vous avez formé les paires avec précision. |Bien joué ! Vous avez montré de belles compétences. |Félicitations pour ce beau score ! Vous avez bien dirigé l’embarquement des animaux.|Belle performance ! Vous avez fait un excellent travail.|Bien joué ! Vous êtes tout près de battre votre record. ",
       "us": "Congratulations ! You have once again brought many animals on board Noah's Ark, what a savior of wildlife you are!|Congratulations for this great part! Even without beating your record, your speed in forming pairs remains impressive.|Very good performance! The animals always board at incredible speed with you at the helm.|Bravo! You got the animals on board very quickly, even without beating your record. |Great job! You have formed the pairs precisely. |Well done! You showed some great skills. |Congratulations on this great score! You managed the loading of the animals well.|Great performance! You did a great job.|Well done! You are very close to breaking your record. "
     }
   },
@@ -4692,7 +4692,7 @@
     "isForCOCO": false,
     "interactionType": "bestThanAverage",
     "title": {
-      "fr": "Félicitations ! Vous avez encore fait embarquer de nombreux animaux sur L'Arche de Noé, quel sauveur de la faune vous êtes !|Bravo pour cette belle partie ! Votre rapidité à former des paires reste impressionnante.|Très belle partie ! Les animaux embarquent toujours à une vitesse incroyable avec vous à la barre.|Bravo ! Vous avez fait embarquer les animaux avec une belle rapidité. |Super travail ! Vous avez formé les paires avec précision. |Bien joué ! Vous avez montré de belles compétences. |Félicitations pour cette belle partie ! Vous avez bien dirigé l’embarquement des animaux.|Belle partie ! Vous avez fait un excellent travail.|Bien joué ! ",
+      "fr": "Félicitations ! Vous avez encore fait embarquer de nombreux animaux sur <gameTitle>, quel sauveur de la faune vous êtes !|Bravo pour cette belle partie ! Votre rapidité à former des paires reste impressionnante.|Très belle partie ! Les animaux embarquent toujours à une vitesse incroyable avec vous à la barre.|Bravo ! Vous avez fait embarquer les animaux avec une belle rapidité. |Super travail ! Vous avez formé les paires avec précision. |Bien joué ! Vous avez montré de belles compétences. |Félicitations pour cette belle partie ! Vous avez bien dirigé l’embarquement des animaux.|Belle partie ! Vous avez fait un excellent travail.|Bien joué ! ",
       "us": "Congratulations ! You have once again brought many animals on board Noah's Ark, what a savior of wildlife you are!|Congratulations for this great part! Your speed in forming pairs remains impressive.|Very good game! The animals always board at incredible speed with you at the helm.|Bravo! You got the animals on board very quickly. |Great job! You have formed the pairs precisely. |Well done! You showed some great skills. |Congratulations on this great game! You managed the loading of the animals well.|Great game! You did a great job.|Well done! "
     }
   },
@@ -4714,7 +4714,7 @@
     "isForCOCO": "TRUE",
     "interactionType": "perfectScore",
     "title": {
-      "fr": "10 sur 10 ! Vous avez embarqué tous les animaux sur L'Arche de Noé ! Vous êtes un vrai sauveur de la faune ! | Quelle réussite ! Vous avez atteint un score parfait sur L'Arche de Noé, votre rapidité à former des paires est impressionnante ! | Score parfait ! Les animaux n’ont jamais embarqué aussi vite sur l'Arche de Noé grâce à vous ! | Une note de 10/10 ! Vous gérez les embarquements comme un véritable capitaine sur L'Arche de Noé ! | Score parfait ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous. | Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent ! | Bravo ! Avec cette performance, votre rapidité à sauver les animaux est devenue légendaire !",
+      "fr": "10 sur 10 ! Vous avez embarqué tous les animaux sur <gameTitle> ! Vous êtes un vrai sauveur de la faune ! | Quelle réussite ! Vous avez atteint un score parfait sur <gameTitle>, votre rapidité à former des paires est impressionnante ! | Score parfait ! Les animaux n’ont jamais embarqué aussi vite sur <gameTitle> grâce à vous ! | Une note de 10/10 ! Vous gérez les embarquements comme un véritable capitaine sur <gameTitle> ! | Score parfait ! Vous avez embarqué plus d’animaux que jamais, vous pouvez être fier de vous. | Impressionnant ! Vous avez formé des paires d’animaux à la vitesse de l’éclair, quel talent ! | Bravo ! Avec cette performance, votre rapidité à sauver les animaux est devenue légendaire !",
       "us": "10 out of 10! You have taken all the animals on Noah's Ark! You are a true wildlife savior! | What a success! You have reached a perfect score on Noah's Ark, your speed in forming pairs is impressive! | Perfect score! The animals have never boarded Noah's Ark so quickly thanks to you! | A rating of 10/10! You manage boardings like a real captain on Noah's Ark! | Perfect score! You have taken on board more animals than ever, you can be proud of yourself. | Impressive ! You formed pairs of animals at lightning speed, what talent! | Well done ! With this performance, your speed in saving animals has become legendary!"
     }
   },
