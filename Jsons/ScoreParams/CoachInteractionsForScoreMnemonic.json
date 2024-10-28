@@ -1257,7 +1257,7 @@
     "interactionType": "bestThanAverage",
     "title": {
       "fr": "Bravo pour cette belle performance sur <gameTitle> !|Bonne partie !|Vous avez bien joué sur <gameTitle>.|Bonne performance ! Vous avez bien capté les sons sur <gameTitle>.|Bien joué ! Vous avez fait un très bon score sur <gameTitle>. ",
-      "us": "Congratulations for this great performance on <gameTitle>!|Good performance!|You played well on <gameTitle>.|Good performance! You captured the sounds well on <gameTitle>.|Well done! You got a very good score on L’Oreille Musicale. "
+      "us": "Congratulations for this great performance on <gameTitle>!|Good performance!|You played well on <gameTitle>.|Good performance! You captured the sounds well on <gameTitle>.|Well done! You got a very good score on <gameTitle>. "
     }
   },
   {
@@ -1290,7 +1290,7 @@
     "interactionType": "perfectScore",
     "title": {
       "fr": "Félicitations, vous avez obtenu un score parfait sur <gameTitle> ! | Bravo ! Avec cette performance sur <gameTitle>, vous prouvez que vos oreilles captent toutes les nuances des sons ! | Incroyable ! Vous avez réalisé un 10/10 sur <gameTitle> ! | Vous avez atteint un score parfait sur <gameTitle> ! | Bravo pour ce 10 sur 10 sur <gameTitle> !",
-      "us": "Congratulations, you have obtained a perfect score on <gameTitle>! | Well done ! With this performance on <gameTitle>, you prove that your ears capture all the nuances of sounds! | Amazing ! You achieved a 10/10 on <gameTitle>! | You've reached a perfect score on <gameTitle>! | Congratulations for this 10 out of 10 on L’Oreille Musicale!"
+      "us": "Congratulations, you have obtained a perfect score on <gameTitle>! | Well done ! With this performance on <gameTitle>, you prove that your ears capture all the nuances of sounds! | Amazing ! You achieved a 10/10 on <gameTitle>! | You've reached a perfect score on <gameTitle>! | Congratulations for this 10 out of 10 on <gameTitle>!"
     }
   },
   {
