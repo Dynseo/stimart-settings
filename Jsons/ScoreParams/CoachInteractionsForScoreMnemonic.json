@@ -107,6 +107,16 @@
   },
   {
     "game": "PUZZLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Ce puzzle était un vrai défi ! Travaillez sur votre mémoire visuelle en vous concentrant sur de petits détails à chaque fois, et vous verrez vite des résultats. | Bravo, continuez ! Concentrez-vous sur les formes et les couleurs pour la prochaine partie ! | Vous êtes sur la bonne voie ! Essayez de vous concentrer davantage sur les détails du puzzle pour améliorer votre mémorisation. | Super effort ! Concentrez-vous sur les formes et les contours des pièces. Cela renforcera votre capacité à assembler plus rapidement la prochaine fois."
+    }
+  },
+  {
+    "game": "PUZZLE",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "FALSE",
@@ -371,6 +381,17 @@
     "title": {
       "fr": "Cette fois-ci, les intrus étaient plus coriaces, mais c'est une belle opportunité pour progresser !|Ce n'était pas votre meilleure performance, mais cela fait partie du jeu.|Cette partie était un peu plus difficile, et cela arrive !|Ne vous découragez pas ! Certaines parties sont plus dures que d'autre. ",
       "us": "This time, the intruders were tougher, but it's a great opportunity to improve!|It wasn't your best performance, but that's part of the game.|This part was a little more difficult, and it happens !|Don’t be discouraged! Some parts are harder than others. "
+    }
+  },
+  {
+    "game": "INTRUS",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": false,
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Pensez à explorer la thématique de chaque mot pour mieux comprendre à quoi il se rapporte.| Courage, vous progressez ! Pour la prochaine fois, si un mot vous paraît étrange, essayez de visualiser à quoi il pourrait correspondre dans votre expérience, et cela vous guidera vers la bonne réponse.| Super effort ! Si un mot vous semble étrange, essayez de réfléchir à la thématique qui pourrait l’entourer. Cela vous aidera à mieux repérer l’intrus la prochaine fois.| Chaque pas compte ! Si un mot ne vous dit rien, tentez de deviner à quoi il pourrait être relié dans votre mémoire. Cela vous aidera à faire des associations plus rapidement.",
+      "us": " "
     }
   },
   {
@@ -734,6 +755,16 @@
   },
   {
     "game": "QUIZZLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! La prochaine fois, ne vous précipitez pas et tentez de faire des liens logiques entre les questions et ce que vous connaissez, même si le sujet n'est pas votre point fort.| Courage, vous progressez ! Certaines questions reposent sur des sujets qu’on maîtrise mieux que d'autres. Prenez un instant pour réfléchir, même quand vous n’êtes pas sûr, en faisant des associations d'idées pour vous aider.| Super effort ! Pensez à ne pas vous précipiter et à analyser les propositions pour déduire la bonne réponse. | Chaque pas compte ! Pensez à ne pas vous précipiter et à analyser les propositions pour déduire la bonne réponse. "
+    }
+  },
+  {
+    "game": "QUIZZLE",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -926,6 +957,16 @@
     "title": {
       "fr": "Bien joué. Vous n'avez pas battu votre score, mais parfois la progression prend du temps. |Bien joué. C’était une partie un peu difficile, mais avec plus d'entraînement, vous allez progresser.|Bien joué pour cette partie ! Ce n’était pas facile, mais ne vous découragez pas.|Bien tenté ! Même si vous n’avez pas atteint votre objectif cette fois.|Belle tentative, même si vous n'avez pas atteint votre meilleur score. ",
       "us": "Well done. You haven't beaten your score, but sometimes progress takes time. |Well done. This was a bit of a difficult part, but with more practice you will improve.|Well done on this part! It wasn't easy, but don't be discouraged.|Nice try! Even if you didn't reach your goal this time.|Nice attempt, even if you didn't reach your best score. "
+    }
+  },
+  {
+    "game": "COLORMIND",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Prenez quelques secondes de plus pour bien visualiser chaque séquence de couleurs avant de les reproduire.| Courage, vous progressez !  Essayez de trouver des astuces personnelles, comme associer chaque couleur à une image mentale, pour faciliter la mémorisation.| Super effort !  Essayez de repérer le son des couleurs tout en jouant, cela renforcera votre mémoire.| Chaque pas compte ! Prendre quelques secondes supplémentaires pour bien visualiser les couleurs peut faire la différence."
     }
   },
   {
@@ -1126,6 +1167,16 @@
   },
   {
     "game": "CALCULUS",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie.| Courage, vous progressez ! Prenez le temps de bien observer avant de répondre, chaque détail peut être important.| Super effort ! Réfléchissez calmement avant d’agir, il n’y a pas d’urgence, prenez votre temps.| Chaque pas compte ! Respirez profondément, installez-vous confortablement, et prenez plaisir à jouer."
+    }
+  },
+  {
+    "game": "CALCULUS",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -1296,6 +1347,16 @@
     "title": {
       "fr": "Vous avez fait un bel effort, même si ce n’était pas votre meilleure partie.|Bonne tentative !|C'était une belle tentative !|Vous avez bien essayé, mais il reste un peu de marge.|Bien essayé !|Vous avez fait une bonne partie. ",
       "us": "You made a good effort, even if it wasn't your best game.|Good attempt!|It was a good attempt!|You tried well, but there's still a little margin.|Nice try!|You played a good part. "
+    }
+  },
+  {
+    "game": "COLORFORM",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! En restant bien concentré sur les consignes et en vous accordant quelques secondes de plus avant chaque décision, vous verrez de nets progrès.| Courage, vous progressez ! Rejouez en vous concentrant sur chaque étape pour ne pas vous laisser distraire.| Super effort ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie.| Chaque pas compte ! Respirez profondément, installez-vous confortablement, et prenez plaisir à jouer."
     }
   },
   {
@@ -1496,6 +1557,16 @@
   },
   {
     "game": "MEMORY",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! En vous concentrant sur la position des cartes dès leur apparition, vous progresserez rapidement.| Courage, vous progressez ! La prochaine fois, tentez de vous concentrer sur les détails visuels des cartes pour les mémoriser plus rapidement.| Super effort ! La prochaine fois, essayez de mémoriser les cartes par groupes pour éviter les erreurs d’inattention.| Chaque pas compte ! Pour la prochaine partie, pensez à diviser le plateau en zones et à mémoriser les paires une zone à la fois. "
+    }
+  },
+  {
+    "game": "MEMORY",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -1692,6 +1763,16 @@
   },
   {
     "game": "MUSIC",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Pour mieux réussir la prochaine fois, essayez de jouer dans un endroit calme afin de bien vous concentrer sur les subtilités des sons.| Courage, vous progressez ! Peut-être qu’un ajustement du volume ou jouer dans un lieu plus silencieux vous aiderait à mieux entendre les détails sonores.| Super effort ! Pour mieux vous concentrer, assurez-vous de jouer dans un espace calme et ajustez le volume pour capter les détails plus clairement.| Chaque pas compte ! Essayez de vous isoler dans un endroit calme pour bien percevoir chaque nuance des sons et améliorer vos résultats."
+    }
+  },
+  {
+    "game": "MUSIC",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -1884,6 +1965,16 @@
     "title": {
       "fr": "Bien essayé ! Même si ce n’était pas votre meilleure partie, continuez à vous concentrer sur les petits détails.|Dommage pour cette partie, mais ne vous découragez pas !|Bien tenté ! Ce n’était pas une partie facile.|Bonne tentative !|Vous avez fait un bel effort !|Bien tenté, cette partie était difficile ! ",
       "us": "Nice try! Even if it wasn't your best game, continue to focus on the little details.|Too bad about this part, but don't be discouraged!|Nice try! It was not an easy part.|Good attempt!|You made a good effort!|Nice try, this part was difficult! "
+    }
+  },
+  {
+    "game": "CASCADE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! La prochaine fois, essayez de vous concentrer sur les différences les plus subtiles, et vous verrez des améliorations.| Courage, vous progressez ! Pour la prochaine fois, essayez de regrouper mentalement les symboles par sections pour mieux vous souvenir des différences.| Super effort ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie.| Chaque pas compte ! Prenez le temps de bien observer avant de répondre, chaque détail peut être important."
     }
   },
   {
@@ -2096,6 +2187,16 @@
   },
   {
     "game": "CHESSBOARD",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Pour la prochaine fois, essayez de vous concentrer sur les cases proches les unes des autres, cela vous aidera à mieux retenir leur emplacement.| Courage, vous progressez ! Essayez de vous concentrer sur la répétition des emplacements colorés pour mieux les mémoriser.| Super effort ! Pour la prochaine fois, essayez de vous concentrer sur les premières cases colorées, cela facilitera leur mémorisation.| Chaque pas compte ! Respirez profondément, installez-vous confortablement, et prenez plaisir à jouer."
+    }
+  },
+  {
+    "game": "CHESSBOARD",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -2292,6 +2393,16 @@
   },
   {
     "game": "LOST_POEM",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie !  Essayez de penser au sens des mots et à leur cohérence dans le poème pour progresser.| Courage, vous progressez ! En pensant au sens des vers et à leur lien avec l’ensemble du poème, vous pourrez mieux les reconstituer.| Super effort ! Essayez de vous concentrer sur le sens global du poème pour faciliter la reconstitution des vers.| Chaque pas compte ! Pour progresser, essayez de penser au sens des mots et à leur place dans le contexte global du poème."
+    }
+  },
+  {
+    "game": "LOST_POEM",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -2436,6 +2547,16 @@
     "title": {
       "fr": "Bien tenté ! Même si ce n'était pas votre meilleure partie, vous avez déjà de bonnes bases en planification.|Bien essayé ! |Bonne tentative ! Ce n’était pas votre meilleure performance.|Bien essayé !|Bonne tentative, même si ce n’était pas votre meilleure partie.|Vous avez fait de votre mieux ! ",
       "us": "Nice try! Even if it wasn't your best game, you already have a good foundation in planning.|Nice try! |Good attempt! It wasn't your best performance.|Nice try!|Good attempt, even if it wasn't your best game.|You did your best! "
+    }
+  },
+  {
+    "game": "WALKER",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie !  En vous concentrant davantage sur l’ensemble du trajet dès le début, vous pourrez améliorer votre planification et progresser rapidement.| Courage, vous progressez ! Pensez à analyser les cartes et à prévoir vos déplacements à l'avance pour améliorer votre planification.| Super effort ! Pour la prochaine partie, essayez de mieux anticiper les détours et les obstacles pour affiner votre stratégie de planification.| Chaque pas compte ! Réfléchissez calmement avant d’agir, il n’y a pas d’urgence, prenez votre temps."
     }
   },
   {
@@ -2624,6 +2745,16 @@
   },
   {
     "game": "FURIOUS",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Essayez de penser à une situation où vous utilisez chaque objet pour mieux les retenir.| Courage, vous progressez ! Pour la prochaine fois, essayez de vous imaginer en train d’utiliser chaque objet dans une situation concrète. Cela pourrait vous aider à mieux les replacer.| Super effort !  Pour progresser, essayez de lier les objets à des moments spécifiques de votre journée. Cela vous permettra de mieux vous rappeler leur ordre.| Chaque pas compte ! En associant chaque objet à un moment de votre quotidien, vous pourrez les mémoriser plus facilement la prochaine fois. "
+    }
+  },
+  {
+    "game": "FURIOUS",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -2677,7 +2808,7 @@
     "isForCOCO": "TRUE",
     "interactionType": "worstThanAverage",
     "title": {
-      "fr": "Avec <score> bonnes réponses, c’est un peu moins que votre moyenneMême si ce n'était pas votre meilleure performance, essayez de penser à une situation où vous utilisez chaque objet pour mieux les retenir.|Avec <score> bonnes réponses, vous êtes en dessous de votre moyenne habituelle. Pour la prochaine fois, essayez de vous imaginer en train d’utiliser chaque objet dans une situation concrète. Cela pourrait vous aider à mieux les replacer.|Avec <score> bonnes réponses, c’est en dessous de votre moyennePour progresser, essayez de lier les objets à des moments spécifiques de votre journée. Cela vous permettra de mieux vous rappeler leur ordre.|<score> bonnes réponses. Même si vous n'avez pas obtenu le score attendu, en associant chaque objet à un moment de votre quotidien, vous pourrez les mémoriser plus facilement la prochaine fois. ",
+      "fr": "Avec <score> bonnes réponses, c’est un peu moins que votre moyenne. Essayez de penser à une situation où vous utilisez chaque objet pour mieux les retenir.|Avec <score> bonnes réponses, vous êtes en dessous de votre moyenne habituelle. Pour la prochaine fois, essayez de vous imaginer en train d’utiliser chaque objet dans une situation concrète. Cela pourrait vous aider à mieux les replacer.|Avec <score> bonnes réponses, c’est en dessous de votre moyenne. Pour progresser, essayez de lier les objets à des moments spécifiques de votre journée. Cela vous permettra de mieux vous rappeler leur ordre.|<score> bonnes réponses. Même si vous n'avez pas obtenu le score attendu, en associant chaque objet à un moment de votre quotidien, vous pourrez les mémoriser plus facilement la prochaine fois. ",
       "us": "With <score> correct answers, it's a little lower than your average. Even if it wasn't your best performance, try to think of a situation where you use each object to remember them better.|With <score> correct answers, you are below your usual average. For next time, try to imagine yourself using each object in a concrete situation. This could help you reposition them better.|With <score> good answers, it is below your average. To progress, try to link the objects to specific moments of your day. This will help you remember their order better.|<score> correct answers. Even if you didn't get the expected score, by associating each object with a moment in your daily life, you will be able to memorize them more easily next time. "
     }
   },
@@ -2856,6 +2987,16 @@
   },
   {
     "game": "SCROLLANDCATCH",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! En vous concentrant sur les ballons qui passent rapidement et ceux du bord, vous pourrez progresser.| Courage, vous progressez ! Essayez de repérer les ballons dans les coins de l’écran pour éviter de les rater.| Super effort ! Pour progresser, essayez de suivre les ballons par groupe en les comptant dès qu’ils apparaissent. Vous verrez, ça vous aidera à rester concentré.| Chaque pas compte !  Pour la prochaine fois, essayez de vous concentrer sur les ballons de couleur dans les zones moins visibles. Avec de la pratique, ça ira mieux."
+    }
+  },
+  {
+    "game": "SCROLLANDCATCH",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -3000,6 +3141,16 @@
     "title": {
       "fr": "Bien essayé, chef ! Cette fois-ci, ce n’était pas votre meilleure performance, mais je suis sûr que vous pouvez faire mieux.|Dommage pour cette partie, mais cela arrive. |Ne vous découragez pas, votre prochaine fois sera la bonne ! |Cette partie n'était pas la meilleure, mais c’est en rejouant que vous vous améliorerez.|Ce n’est qu’une petite erreur, ne vous inquiétez pas ! |Vous êtes sur la bonne voie, même si cette partie n’était pas la plus réussie. ",
       "us": "Nice try, boss! This time it wasn't your best performance, but I'm sure you can do better.|Too bad about that part, but it happens. |Don't be discouraged, your next time will be the right one! |This part wasn't the best, but you'll improve by playing again.|It's just a small mistake, don't worry! |You are on the right track, even if this part was not the most successful. "
+    }
+  },
+  {
+    "game": "COOK",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez et concentrez-vous bien sur les ingrédients !| Courage, vous progressez ! Pensez à bien visualiser chaque étape de la recette, cela vous aidera à progresser !| Super effort ! Essayez de revoir les recettes dans votre tête avant de vous lancer à nouveau.| Chaque pas compte ! Allez, on tente une nouvelle recette ensemble ?"
     }
   },
   {
@@ -3248,6 +3399,16 @@
   },
   {
     "game": "PROVERB",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez et concentrez-vous bien sur chaque partie du proverbe !| Courage, vous progressez ! Pensez à bien lire chaque mot et à essayer de les visualiser dans leur ordre habituel.| Super effort ! Essayez de repenser au sens global pour remettre les morceaux dans l’ordre.| Chaque pas compte ! Rejouez en vous concentrant sur le début du proverbe, souvent cela débloque le reste."
+    }
+  },
+  {
+    "game": "PROVERB",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -3492,6 +3653,16 @@
   },
   {
     "game": "SIMILI",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en vous concentrant sur les images au centre de l’écran.| Courage, vous progressez ! Essayez de bien balayer l'écran dès le début pour mieux repérer les images en double. | Super effort ! Essayez de diviser mentalement l’écran en zones pour mieux repérer les doublons.| Chaque pas compte ! Pensez à rester concentré et à bien observer chaque image dès qu’elle apparaît."
+    }
+  },
+  {
+    "game": "SIMILI",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -3687,6 +3858,16 @@
     }
   },
   {
+    "game": "SUDOKU",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en vous concentrant d’abord sur les cases les plus simples à remplir.| Courage, vous progressez ! Essayez de repérer les lignes et colonnes où il manque peu de chiffres pour vous aider à avancer plus vite.| Super effort ! Essayez de remplir les blocs un par un pour mieux visualiser les possibilités.| Chaque pas compte ! Commencez par les chiffres les plus évidents pour débloquer d'autres cases."
+    }
+  },
+  {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
     "isForPAPY": "TRUE",
@@ -3809,6 +3990,16 @@
     "title": {
       "fr": "Bien essayé ! Ce n’était pas votre meilleure partie, mais vous êtes sur la bonne voie.|Pas grave pour cette fois-ci !|Bonne tentative ! Même si ce n’était pas votre meilleure performance.|Ce n’était pas votre jour, mais ne vous découragez pas ! |Pas de panique, vous avez fait de votre mieux. |Bien essayé ! ",
       "us": "Nice try! It wasn't your best game, but you're on the right track.|No problem this time!|Good attempt! Even if it wasn't your best performance.|It wasn't your day, but don't be discouraged! |Don't panic, you did your best. |Nice try! "
+    }
+  },
+  {
+    "game": "SEQUENCE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en restant concentré sur chaque suite, vous verrez des progrès !| Courage, vous progressez ! Essayez de vous concentrer davantage sur la régularité de la suite, cela vous aidera à mieux anticiper les prochains chiffres ou lettres.| Super effort ! Rejouez en vous focalisant sur le rythme des suites, cela pourrait faire la différence.| Chaque pas compte ! Essayez de bien vous concentrer sur la direction de la suite pour améliorer vos réflexes."
     }
   },
   {
@@ -3998,6 +4189,16 @@
   },
   {
     "game": "SYLLABUS",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en prenant un peu plus de temps pour réfléchir aux syllabes, vous verrez des progrès !| Courage, vous progressez ! Essayez de mieux visualiser les mots avant d’assembler les syllabes, cela vous aidera.| Super effort ! Continuez à jouer et concentrez-vous bien sur chaque syllabe.| Chaque pas compte ! Prenez un peu plus de temps pour analyser les mots, cela peut vraiment faire la différence."
+    }
+  },
+  {
+    "game": "SYLLABUS",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -4178,6 +4379,16 @@
     "title": {
       "fr": "Bien essayé ! On sent que vous aimez la géographie, même si cette partie n’était pas parfaite. |Pas grave pour cette fois ! Vous avez déjà de bonnes bases en géographie. |Bonne tentative ! Vos connaissances géographiques sont solides, mais parfois il suffit de mieux visualiser les frontières.|C'était pas mal ! Ne vous découragez pas. Vous avez déjà un bon sens de la géographie.|Pas de panique, vous avez fait de votre mieux !|Bien essayé ! Vous avez un bon sens de la géographie, il suffit de le peaufiner un peu. ",
       "us": "Nice try! We feel that you like geography, even if this part was not perfect. |No problem this time! You already have a good foundation in geography. |Good attempt! Your geographical knowledge is solid, but sometimes you just need to better visualize the borders.|It was not bad! Don't be discouraged. You already have a good sense of geography.|Don't panic, you did your best!|Nice try! You have a good sense of geography, you just need to refine it a little. "
+    }
+  },
+  {
+    "game": "GEO",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en prenant un peu plus de temps pour observer chaque territoire, et vous ferez des merveilles !| Courage, vous progressez ! Essayez de vous concentrer davantage sur les zones les plus difficiles, cela vous aidera à progresser.| Super effort ! En vous concentrant sur les régions moins familières, vous verrez rapidement des progrès.| Chaque pas compte ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie."
     }
   },
   {
@@ -4374,6 +4585,16 @@
     "title": {
       "fr": "Bien essayé ! Vous avez de bonnes bases en histoire, même si cette partie n’était pas parfaite.|Pas grave pour cette fois-ci ! Vous avez montré de solides connaissances.|Bonne tentative ! Même si ce n’était pas votre meilleure performance, vos connaissances en histoire sont indéniables.|Pas mal, ne vous découragez pas ! |Pas de panique, vous avez fait de votre mieux !|Bien essayé ! Vous avez de bonnes connaissances en histoire, il suffit de les affiner un peu plus. ",
       "us": "Nice try! You have a good foundation in history, even if this part was not perfect.|No problem this time! You have shown solid knowledge.|Good attempt! Even if it wasn't your best performance, your knowledge of history is undeniable.|Not bad, don't be discouraged! |Don't panic, you did your best!|Nice try! You have a good knowledge of history, you just need to refine it a little more. "
+    }
+  },
+  {
+    "game": "TIMELINE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en vous concentrant sur les périodes qui vous semblent plus floues, cela vous aidera à progresser !| Courage, vous progressez ! Continuez à travailler sur les événements plus difficiles, et vous verrez des progrès !| Super effort ! Rejouez en essayant de vous concentrer sur les événements marquants pour mieux les remettre dans l’ordre.| Chaque pas compte ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie."
     }
   },
   {
@@ -4607,6 +4828,16 @@
     "title": {
       "fr": "Bien essayé ! Ce n’était pas votre meilleure partie, mais vous avez déjà de bonnes bases.|Pas grave pour cette fois ! Vous avez montré de bonnes compétences.|Bonne tentative ! Même si ce n’était pas votre meilleure performance, votre sens de l’observation est solide.|Ce n’était pas votre jour, mais ne vous découragez pas ! |Pas de souci, vous avez fait de votre mieux !|Bien essayé ! Vous avez une bonne base, il suffit de l’affiner un peu plus. ",
       "us": "Nice try! It wasn't your best game, but you already have a good foundation.|No problem this time! You showed good skills.|Good attempt! Even if it wasn't your best performance, your observation skills are solid.|It wasn't your day, but don't be discouraged! |No worries, you did your best!|Nice try! You have a good base, just refine it a little more. "
+    }
+  },
+  {
+    "game": "SHAPEBOX",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": false,
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en prenant un peu plus de temps pour observer les formes.| Courage, vous progressez ! Pour améliorer votre score, essayez de rester concentré et d’analyser chaque forme avant de faire votre choix.| Super effort ! Continuez à jouer et prenez un peu plus de temps pour repérer les détails des formes.| Chaque pas compte ! Prenez quelques secondes de plus pour bien observer les formes."
     }
   },
   {
@@ -4855,6 +5086,16 @@
   },
   {
     "game": "HANGMAN",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! La prochaine fois, essayez de commencer par les lettres les plus courantes comme \"E\" ou \"A\".| Courage, vous progressez ! Continuez à jouer et concentrez-vous sur les lettres qui reviennent souvent dans les mots.| Super effort ! Prenez un peu plus de temps pour réfléchir aux lettres avant de les deviner.| Chaque pas compte ! Respirez profondément, installez-vous confortablement, et prenez plaisir à jouer."
+    }
+  },
+  {
+    "game": "HANGMAN",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -5073,6 +5314,16 @@
     "title": {
       "fr": "Les taupes étaient rapides, mais ne vous laissez pas déconcentrer. |Cette partie a été un peu plus difficile, mais en prenant le temps de bien observer chaque taupe, vous améliorerez votre précision. |Pas de souci, les taupes ont été coriaces cette fois-ci.|Les taupes étaient rapides, mais ne vous laissez pas déconcentrer.  ",
       "us": "The moles were fast, but don't let that distract you. |This part was a little more difficult, but by taking the time to carefully observe each mole, you will improve your accuracy. |No worries, the moles were tough this time.|The moles were fast, but don't let that distract you.  "
+    }
+  },
+  {
+    "game": "WHACKAMOLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Prenez quelques secondes pour vous focaliser avant chaque partie, cela boostera votre réactivité !| Courage, vous progressez ! Essayez de rester concentré sur l’apparition des taupes.| Super effort ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie.| Chaque pas compte ! Prenez le temps de bien observer avant de répondre, chaque détail peut être important."
     }
   },
   {
@@ -5359,6 +5610,16 @@
   },
   {
     "game": "NOAHS_ARK",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! La prochaine fois, prenez le temps de bien repérer les paires avant d'embarquer les animaux.| Courage, vous progressez ! Essayez de rester concentré sur chaque paire d’animaux, sans vous précipiter.| Super effort ! Continuez à jouer en prenant un peu plus de temps pour former chaque paire.| Chaque pas compte ! Prenez quelques secondes supplémentaires pour bien observer les animaux avant de les embarquer."
+    }
+  },
+  {
+    "game": "NOAHS_ARK",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -5584,6 +5845,16 @@
     "title": {
       "fr": "Bien essayé ! Même si ce n'était pas votre meilleure partie, vous avez déjà de bonnes bases.|Pas grave pour cette fois ! Vous avez montré de belles compétences.|Bonne tentative ! Ce n’était pas votre jour, mais ne vous découragez pas. |Ce n’était pas votre meilleure partie, mais rien de grave !|Pas de panique, vous avez fait de votre mieux ! |Bien essayé ! Vous avez une bonne stratégie de base, il suffit de l’affiner un peu plus. ",
       "us": "Nice try! Even if it wasn't your best game, you already have a good foundation.|No problem this time! You showed some great skills.|Good attempt! It wasn't your day, but don't be discouraged. |It wasn't your best game, but nothing serious!|Don't panic, you did your best! |Nice try! You have a good basic strategy, just refine it a little more. "
+    }
+  },
+  {
+    "game": "SLIDE_MAZE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! La prochaine fois, prenez le temps d’analyser tous les chemins possibles avant de faire un choix.| Courage, vous progressez ! Tâchez d'optimiser vos mouvements pour les prochaines parties !| Super effort ! Pour progresser, essayez de visualiser le trajet d'Edith avant de vous lancer pour éviter les erreurs. | Chaque pas compte ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie."
     }
   },
   {
@@ -5831,6 +6102,16 @@
   },
   {
     "game": "POPBALLOON",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie.| Courage, vous progressez ! Prenez le temps de bien observer avant de répondre, chaque détail peut être important.| Super effort ! Réfléchissez calmement avant d’agir, il n’y a pas d’urgence, prenez votre temps.| Chaque pas compte ! Respirez profondément, installez-vous confortablement, et prenez plaisir à jouer."
+    }
+  },
+  {
+    "game": "POPBALLOON",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -6005,6 +6286,16 @@
   },
   {
     "game": "CARS",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Essayez d'optimiser vos mouvements la prochaine fois !| Courage, vous progressez ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie.| Super effort ! Prenez le temps de bien observer avant de répondre, chaque détail peut être important.| Chaque pas compte ! Réfléchissez calmement avant d’agir, il n’y a pas d’urgence, prenez votre temps."
+    }
+  },
+  {
+    "game": "CARS",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -6161,7 +6452,7 @@
   {
     "game": "PANURGE",
     "isForPAPY": "TRUE",
-    "isForEHPAD": false,
+    "isForEHPAD": "TRUE",
     "isForCOCO": "TRUE",
     "interactionType": "newRecord",
     "title": {
@@ -6172,7 +6463,7 @@
   {
     "game": "PANURGE",
     "isForPAPY": "TRUE",
-    "isForEHPAD": false,
+    "isForEHPAD": "TRUE",
     "isForCOCO": "TRUE",
     "interactionType": "equalRecord",
     "title": {
@@ -6193,6 +6484,17 @@
   },
   {
     "game": "PANURGE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Vous avez su gérer les enclos avec soin, montrant une belle maîtrise de l'attention et de la perception.|Avec vous, les moutons sont toujours en sécurité ! Vous avez brillamment protégé vos petits protégés.|Vous avez l'instinct d'un berger expérimenté. Les moutons ont été bien protégés aujourd'hui. |Encore une belle réussite, continuez à garder vos moutons aussi bien !|Encore une belle partie ! Vous avez prouvé, une fois de plus, que vous savez protéger vos moutons. |Vous avez protégé les moutons avec soin et intelligence. |Vous avez su mettre en place une stratégie pour tracer vos enclos. ",
+      "us": " "
+    }
+  },
+  {
+    "game": "PANURGE",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -6200,6 +6502,16 @@
     "title": {
       "fr": "Les moutons étaient un peu plus difficiles à gérer cette fois-ci, mais vous savez exactement comment les protéger.|Parfois, les choses ne se passent pas comme prévu, mais ne vous inquiétez pas. |Cette partie n'était pas la meilleure, mais chaque essai compte pour s'améliorer.|Cette partie était un peu plus compliquée, mais ne vous découragez pas !|Les choses n'ont pas tourné en votre faveur cette fois-ci, mais ne vous inquiétez pas, vous êtes sur la bonne voie. |Ce n'était pas votre meilleure partie, mais c’est normal ! Chaque partie est une occasion d'apprendre.|Même si le score n’était pas à la hauteur sur cette partie, ce n’est qu’une étape. ",
       "us": "The sheep were a little harder to deal with this time, but you know exactly how to protect them.|Sometimes things don't go as planned, but don't worry. |This part wasn't the best, but every try counts to improve.|This part was a little more complicated, but don't be discouraged!|Things didn't work out in your favor this time, but don't worry, you are on the right track. |It wasn't your best game, but that's okay! Every game is an opportunity to learn.|Even if the score wasn't up to par in this game, it's just a step. "
+    }
+  },
+  {
+    "game": "PANURGE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Respirez profondément, installez-vous confortablement, et prenez plaisir à jouer.| Courage, vous progressez ! Réfléchissez calmement avant d’agir, il n’y a pas d’urgence, prenez votre temps. | Super effort ! Prenez le temps de bien observer avant de répondre, chaque détail peut être important.| Chaque pas compte ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie."
     }
   },
   {
@@ -6492,6 +6804,16 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en prenant un peu plus de temps pour analyser le sens des flèches.| Courage, vous progressez ! Parfois il suffit de vérifier la direction de chaque flèche pour mieux comprendre la solution.| Super effort ! Continuez à jouer et concentrez-vous sur la flèche qui pourrait influencer le plus les autres.| Chaque pas compte ! Essayez de repérer les flèches qui semblent déclencher le plus de mouvements pour mieux progresser."
+    }
+  },
+  {
+    "game": "SNOWBALL_EFFECT",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -6736,6 +7058,16 @@
   },
   {
     "game": "CATERPILLAR",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en prenant un peu plus de temps pour les opérations complexes.| Courage, vous progressez ! Continuez à jouer et concentrez-vous sur les opérations simples pour prendre de l’avance.| Super effort !  Essayez de rester concentré sur les opérations dès le début pour mieux avancer.| Chaque pas compte ! Prenez une grande inspiration avant de commencer, cela vous aidera à rester concentré tout au long de la partie."
+    }
+  },
+  {
+    "game": "CATERPILLAR",
     "isForPAPY": "TRUE",
     "isForEHPAD": false,
     "isForCOCO": "TRUE",
@@ -6928,6 +7260,16 @@
     "title": {
       "fr": "Bien essayé ! Ce n’était pas votre meilleure partie, mais vous avez déjà une bonne stratégie en place.|Pas grave pour cette fois-ci !|Bonne tentative ! Même si ce n’était pas votre meilleure performance, votre logique est solide. |C'était pas mal ! Ne vous découragez pas !|Pas de panique, vous avez fait de votre mieux ! |Bien essayé ! Votre logique est bonne, il suffit de l'affiner un peu plus.  ",
       "us": "Nice try! It wasn't your best game, but you already have a good strategy in place.|No problem this time!|Good attempt! Even though it wasn't your best performance, your logic is sound. |It wasn't bad! Don't be discouraged!|Don't panic, you did your best! |Nice try! Your logic is good, just refine it a little more.  "
+    }
+  },
+  {
+    "game": "BLOCK_PUZZLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Rejouez en vous concentrant sur la manière d’empiler les blocs de façon plus efficace.| Courage, vous progressez ! Parfois il suffit de planifier un peu mieux la disposition des blocs pour aller plus loin.| Super effort ! Continuez à réfléchir à l’emplacement des pièces et vous irez encore plus loin.| Chaque pas compte ! Essayez de mieux anticiper les pièces à venir pour optimiser votre score."
     }
   },
   {
@@ -7155,9 +7497,12 @@
   {
     "game": "BALL",
     "isForPAPY": "FALSE",
-    "isForEHPAD": "FALSE",
+    "isForEHPAD": "TRUE",
     "isForCOCO": "TRUE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! La prochaine fois, prenez le temps d’observer où se trouve la balle avant de cliquer.| Courage, vous progressez ! N’oubliez pas de parcourir tout l’écran du regard pour repérer la balle plus vite.| Super effort ! Pensez à vérifier les coins de l’écran, la balle pourrait s’y cacher.| Chaque pas compte ! Restez concentré sur la position de la balle pour ne pas la perdre de vue."
+    }
   },
   {
     "game": "BALL",
@@ -7201,7 +7546,10 @@
     "isForPAPY": "FALSE",
     "isForEHPAD": "FALSE",
     "isForCOCO": "TRUE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Observez attentivement chaque bulle pour trouver celle avec le bon chiffre.| Courage, vous progressez ! Soyez attentif à l’ordre des chiffres pour cliquer sur la bonne bulle.| Super effort ! Regardez bien tout l’écran pour repérer le bon chiffre.| Chaque pas compte ! Prenez le temps de parcourir l’écran pour trouver le chiffre qu’il vous faut."
+    }
   },
   {
     "game": "RELIBULLE",
@@ -7245,7 +7593,10 @@
     "isForPAPY": "FALSE",
     "isForEHPAD": "FALSE",
     "isForCOCO": "TRUE",
-    "interactionType": "worstThanAverage"
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous êtes sur la bonne voie ! Prenez le temps de tourner la forme correctement avant de la positionner dans le modèle.| Courage, vous progressez ! Étudiez le modèle pour comprendre où chaque forme doit aller.| Super effort ! Imaginez chaque forme à sa place pour mieux organiser vos mouvements.| Chaque pas compte ! Assurez-vous que la forme est orientée de la bonne façon avant de la placer."
+    }
   },
   {
     "game": "TANGRAM",
