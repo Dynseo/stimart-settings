@@ -587,5 +587,10 @@
     "pt": "Número de pares ruins",
     "de": "Anzahl fehlerhafter Paare",
     "es": "Número de pares malos"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "fr": "Nombres de points"
   }
 ]
