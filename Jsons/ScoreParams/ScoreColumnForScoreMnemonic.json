@@ -248,5 +248,15 @@
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
     "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "scoreColumn": "score1"
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "scoreColumn": "score2"
   }
 ]
