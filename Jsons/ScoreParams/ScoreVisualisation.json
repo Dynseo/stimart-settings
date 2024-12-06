@@ -270,5 +270,13 @@
       "nbGoodAnswer",
       "time"
     ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "WORDLE",
+    "scoreVisualisation": [
+      "nbGoodAnswerDetails1",
+      "nbClues"
+    ]
   }
 ]
