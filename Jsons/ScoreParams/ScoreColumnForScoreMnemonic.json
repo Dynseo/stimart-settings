@@ -258,5 +258,10 @@
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
     "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "scoreColumn": "score3"
   }
 ]
