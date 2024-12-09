@@ -276,7 +276,8 @@
     "game": "WORDLE",
     "scoreVisualisation": [
       "nbGoodAnswerDetails1",
-      "nbClues"
+      "nbClues",
+      "nbBadAnswers"
     ]
   }
 ]
