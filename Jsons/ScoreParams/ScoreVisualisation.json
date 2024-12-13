@@ -276,8 +276,15 @@
     "game": "WORDLE",
     "scoreVisualisation": [
       "nbGoodAnswerDetails1",
-      "nbClues",
-      "nbBadAnswers"
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "WORDLE",
+    "scoreVisualisation": [
+      "nbBadAnswers",
+      "time"
     ]
   }
 ]
