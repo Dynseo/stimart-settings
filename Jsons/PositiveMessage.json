@@ -6,7 +6,9 @@
     "it": "É bello vedere che stai bene!",
     "cn": "很高兴看到你过得很好！",
     "nl": "Het is geweldig om te zien dat het goed met je gaat!",
-    "pt": "É ótimo ver que você está bem!"
+    "pt": "É ótimo ver que você está bem!",
+    "es": "¡Es genial ver que lo estás haciendo bien!",
+    "de": "Es ist schön zu sehen, dass es dir gut geht!"
   },
   {
     "category": "positive_message",
@@ -15,7 +17,9 @@
     "it": "Sono molto contento di vedere che stai bene!",
     "cn": "很高兴看到你过得很好！",
     "nl": "Ik ben heel blij om te zien dat het goed met je gaat!",
-    "pt": "Fico muito feliz em ver que você está bem!"
+    "pt": "Fico muito feliz em ver que você está bem!",
+    "es": "¡Me alegra mucho ver que lo estás haciendo bien!",
+    "de": "Es freut mich sehr, dass es dir gut geht!"
   },
   {
     "category": "positive_message",
@@ -24,7 +28,9 @@
     "it": "La tua felicità é una priorità per me e sono contento di vedere che stai bene!",
     "cn": "您的幸福是我的头等大事，看到您过得很好，我感到非常高兴！",
     "nl": "Jouw geluk is voor mij een prioriteit en ik ben blij om te zien dat het goed met je gaat!",
-    "pt": "Sua felicidade é uma prioridade para mim e fico muito feliz em ver que você está bem!"
+    "pt": "Sua felicidade é uma prioridade para mim e fico muito feliz em ver que você está bem!",
+    "es": "¡Tu felicidad es una prioridad para mí y estoy encantado de ver que lo estás haciendo bien!",
+    "de": "Ihr Glück liegt mir am Herzen und ich freue mich, dass es Ihnen gut geht!"
   },
   {
     "category": "positive_message",
@@ -33,7 +39,9 @@
     "it": "Il tuo umore é importante quindi sono contento di vedere che stai bene!",
     "cn": "您的心情很重要，所以看到您过得很好，我非常高兴！\"",
     "nl": "Je humeur is belangrijk, dus ik ben blij om te zien dat het goed met je gaat!",
-    "pt": "Seu humor é importante, então fico feliz em ver que você está bem!"
+    "pt": "Seu humor é importante, então fico feliz em ver que você está bem!",
+    "es": "Tu estado de ánimo es importante, ¡así que me alegra ver que te encuentras bien!",
+    "de": "Ihre Stimmung ist wichtig, deshalb freue ich mich, dass es Ihnen gut geht!"
   },
   {
     "category": "positive_message",
@@ -42,7 +50,9 @@
     "it": "Sono contento di vedere che stai bene! Il tuo benessere é importante quindi continua a prenderti cura di te.",
     "cn": "看到您过得很好，我非常高兴！您的幸福是最重要的，所以请继续保重。",
     "nl": "Ik ben blij om te zien dat het goed met je gaat! Uw welzijn staat voorop, dus blijf er zorg voor dragen.",
-    "pt": "Fico feliz em ver que você está bem! Seu bem-estar é fundamental, então continue cuidando dele."
+    "pt": "Fico feliz em ver que você está bem! Seu bem-estar é fundamental, então continue cuidando dele.",
+    "es": "¡Me alegra ver que lo estás haciendo bien! Tu bienestar es primordial, así que continúa cuidándolo.",
+    "de": "Ich freue mich, dass es dir gut geht! Ihr Wohlbefinden steht an erster Stelle, also kümmern Sie sich weiterhin darum."
   },
   {
     "category": "positive_message",
@@ -51,7 +61,9 @@
     "it": "Sono soddisfatto di vedere che stai bene! É un grande passo nella giusta direzione",
     "cn": "看到您过得很好，我非常高兴！这是朝正确方向迈出的一大步",
     "nl": "Ik ben blij om te zien dat het goed met je gaat! Dit is een grote stap in de goede richting.",
-    "pt": "Fico feliz em ver que você está bem! Este é um grande passo na direção certa."
+    "pt": "Fico feliz em ver que você está bem! Este é um grande passo na direção certa.",
+    "es": "¡Me alegra ver que lo estás haciendo bien! Este es un gran paso en la dirección correcta.",
+    "de": "Ich freue mich, dass es dir gut geht! Das ist ein großer Schritt in die richtige Richtung."
   },
   {
     "category": "positive_message",
@@ -60,7 +72,9 @@
     "it": "É fantastico vedere che stai bene!",
     "cn": "看到你过得很好真是太好了",
     "nl": "Het is fantastisch om te zien dat het goed met je gaat!",
-    "pt": "É fantástico ver que você está bem!"
+    "pt": "É fantástico ver que você está bem!",
+    "es": "¡Es fantástico ver que lo estás haciendo bien!",
+    "de": "Es ist fantastisch zu sehen, dass es dir gut geht!"
   },
   {
     "category": "positive_citation",
@@ -69,7 +83,9 @@
     "it": "\"La vita è veramente molto semplice; ma noi insistiamo nel renderla complicata\" - Confucio\r\n",
     "cn": "“幸福并不总是在永远蔚蓝的天空中，而是在生活中最简单的事物中 。” - 孔子",
     "nl": "“Geluk zit niet altijd in een eeuwig blauwe lucht, maar in de eenvoudigste dingen in het leven” Confucius",
-    "pt": "“A felicidade nem sempre está num céu eternamente azul, mas nas coisas mais simples da vida” Confúcio"
+    "pt": "“A felicidade nem sempre está num céu eternamente azul, mas nas coisas mais simples da vida” Confúcio",
+    "es": "“La felicidad no está siempre en un cielo eternamente azul, sino en las cosas más simples de la vida” Confucio",
+    "de": "„Das Glück liegt nicht immer in einem ewig blauen Himmel, sondern in den einfachsten Dingen des Lebens“ Konfuzius"
   },
   {
     "category": "positive_citation",
@@ -78,7 +94,9 @@
     "it": "\"Sogna la tua vita a colori. É il segreto della felicità\" - Walt Disney",
     "cn": "“让你的生活充满色彩，这就是幸福的秘诀 。” - 华特·迪斯尼",
     "nl": "“Droom je leven in kleur, dat is het geheim van geluk” Walt Disney",
-    "pt": "“Sonhe sua vida colorida, esse é o segredo da felicidade” Walt Disney"
+    "pt": "“Sonhe sua vida colorida, esse é o segredo da felicidade” Walt Disney",
+    "es": "“Sueña tu vida en color, ese es el secreto de la felicidad” Walt Disney",
+    "de": "„Träume dein Leben in Farbe, das ist das Geheimnis des Glücks“ Walt Disney"
   },
   {
     "category": "positive_citation",
@@ -87,7 +105,9 @@
     "it": "\"Una gioia disperde un centinaio di dolori\" - Proverbio cinese",
     "cn": "“一刻的快乐能驱走百分的悲伤 。” - 中国谚语",
     "nl": "‘Eén moment van vreugde verjaagt honderd momenten van verdriet’, is een Chinees gezegde",
-    "pt": "“Um único momento de alegria afasta cem momentos de tristeza” Provérbio Chinês"
+    "pt": "“Um único momento de alegria afasta cem momentos de tristeza” Provérbio Chinês",
+    "es": "“Un solo momento de alegría ahuyenta cien momentos de tristeza” proverbio chino",
+    "de": "„Ein einziger Moment der Freude vertreibt hundert Momente der Traurigkeit“, sagt ein chinesisches Sprichwort"
   },
   {
     "category": "positive_citation",
@@ -96,7 +116,9 @@
     "it": "\"La felicità non é uno stato a cui arrivare, ma un modo di viaggiare\" - Margaret Lee Runbeck",
     "cn": "“幸福不是你到达的一个站点，而是一种旅行方式。” - 玛格丽特·李·伦贝克",
     "nl": "“Geluk is geen bestemming om te bereiken, maar een manier van reizen.” -Margaret Lee Runbeck",
-    "pt": "“A felicidade não é um destino a alcançar, mas uma forma de viajar.” -Margaret Lee Runbeck"
+    "pt": "“A felicidade não é um destino a alcançar, mas uma forma de viajar.” -Margaret Lee Runbeck",
+    "es": "“La felicidad no es un destino al que llegar, sino una forma de viajar”. -Margaret Lee Runbeck",
+    "de": "„Glück ist kein Ziel, das man erreichen kann, sondern eine Art zu reisen.“ -Margaret Lee Runbeck"
   },
   {
     "category": "positive_citation",
@@ -105,7 +127,9 @@
     "it": "\" La felicità é una direzione, non un luogo\" - Sydney J. Harris",
     "cn": "“幸福是一个方向，而不是一个地方。” - 悉尼·J·哈里斯",
     "nl": "\"Geluk is een richting Geen bestemming.\" -Sydney J. Harris",
-    "pt": "\"Felicidade é uma direção não um destino.\" -Sydney J. Harris"
+    "pt": "\"Felicidade é uma direção não um destino.\" -Sydney J. Harris",
+    "es": "\"La felicidad es una dirección, no un destino\". -Sydney J. Harris",
+    "de": "„Glück ist eine Richtung, kein Ziel.“ -Sydney J. Harris"
   },
   {
     "category": "positive_citation",
@@ -114,7 +138,9 @@
     "it": "\"La felicità é quando ciò che pensi, ciò che dici e ciò che fai sono in armonia\" - Mahatma Gandhi",
     "cn": "“幸福是当你所想的，你所说的，你所做的都是和谐的。” - 圣雄甘地",
     "nl": "“Geluk is wanneer wat je denkt, wat je zegt en wat je doet in harmonie zijn.” -Mahatma Gandhi",
-    "pt": "“Felicidade é quando o que você pensa, o que você diz e o que você faz estão em harmonia.” -Mahatma Gandhi"
+    "pt": "“Felicidade é quando o que você pensa, o que você diz e o que você faz estão em harmonia.” -Mahatma Gandhi",
+    "es": "“La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía”. -Mahatma Gandhi",
+    "de": "„Glück ist, wenn das, was man denkt, was man sagt und was man tut, im Einklang ist.“ -Mahatma Gandhi"
   },
   {
     "category": "positive_citation",
@@ -123,7 +149,9 @@
     "it": "\"La felicità non é qualcosa di pronto per l'uso. Proviene dalle nostre azioni\" - Dalai Lama",
     "cn": "“幸福不是现成的东西。它源于你自己的行动 。” - 达赖喇嘛",
     "nl": "\"Geluk is niet iets dat kant-en-klaar is. Het komt voort uit je eigen daden.\" - Dalai Lama",
-    "pt": "\"A felicidade não é algo pronto. Ela vem de suas próprias ações.\" - Dalai Lama"
+    "pt": "\"A felicidade não é algo pronto. Ela vem de suas próprias ações.\" - Dalai Lama",
+    "es": "\"La felicidad no es algo ya hecho. Proviene de tus propias acciones\". -Dalai Lama",
+    "de": "„Glück ist nicht etwas Fertiges. Es entsteht durch das eigene Handeln.“ -Dalai Lama"
   },
   {
     "category": "positive_citation",
@@ -132,7 +160,9 @@
     "it": "\"Il successo é avere ciò che desideri. La felicità é apprezzare ciò che ottieni\" - Dale Carnegie ",
     "cn": "“幸福不在于得到你想要的，而在于欣赏你已经拥有的。” - 戴尔·卡耐基",
     "nl": "“Geluk is niet hebben wat je wilt, maar waarderen wat je hebt.” -Dale Carnegie",
-    "pt": "“Felicidade não é ter o que você quer, mas valorizar o que você tem.” -Dale Carnegie"
+    "pt": "“Felicidade não é ter o que você quer, mas valorizar o que você tem.” -Dale Carnegie",
+    "es": "“La felicidad no es tener lo que quieres, sino apreciar lo que tienes”. -Dale Carnegie",
+    "de": "„Glück bedeutet nicht, zu haben, was man will, sondern zu schätzen, was man hat.“ -Dale Carnegie"
   },
   {
     "category": "positive_citation",
@@ -141,7 +171,9 @@
     "it": "\"La felicità é qualcosa che si moltiplica quando viene condivisa\" - Paulo Coelho",
     "cn": "幸福是一种在分享时会倍增的东西。\" - 亚历山大·杜马",
     "nl": "“Geluk is iets dat zich vermenigvuldigt als het wordt gedeeld.” -Alexandre Dumas",
-    "pt": "“A felicidade é algo que se multiplica quando é compartilhada.” - Alexandre Dumas"
+    "pt": "“A felicidade é algo que se multiplica quando é compartilhada.” - Alexandre Dumas",
+    "es": "“La felicidad es algo que se multiplica cuando se comparte”. -Alejandro Dumas",
+    "de": "„Glück ist etwas, das sich vervielfacht, wenn man es teilt.“ -Alexandre Dumas"
   },
   {
     "category": "positive_citation",
@@ -150,7 +182,9 @@
     "it": "\"La felicità é la sola cosa che si raddoppia quando la si condivide\" - Albert Schweitzer",
     "cn": "幸福是唯一一种在分享时会加倍的东西。\" - 阿尔贝特·施韦策",
     "nl": "“Geluk is het enige dat verdubbelt als je het deelt.” -Albert Schweitzer",
-    "pt": "“A felicidade é a única coisa que duplica se você a compartilha.” -Albert Schweitzer"
+    "pt": "“A felicidade é a única coisa que duplica se você a compartilha.” -Albert Schweitzer",
+    "es": "“La felicidad es lo único que se duplica si la compartes”. -Albert Schweitzer",
+    "de": "„Glück ist das Einzige, was sich verdoppelt, wenn man es teilt.“ -Albert Schweitzer"
   },
   {
     "category": "positive_citation",
@@ -159,7 +193,9 @@
     "it": "\"La felicità é come una farfalla: più la insegui, più lei ti sfugge, ma se poni attenzione su altre cose, lei verrà e si poserà dolcemente sulla tua spalla\" - Henry David Thoreau",
     "cn": "“幸福就像一只蝴蝶，你越是追逐它，它就越是逃避你，但是如果你把注意力转移到其他事情上，它就会飞到你肩上轻轻地停留。” - 亨利·大卫·梭罗\"",
     "nl": "\"Geluk is als een vlinder: hoe meer je hem achtervolgt, hoe meer hij je ontgaat. Maar als je je aandacht op andere dingen richt, zal hij komen en stilletjes op je schouder landen.\" -Henry David Thoreau",
-    "pt": "\"A felicidade é como uma borboleta: quanto mais você a persegue, mais ela lhe escapa. Mas se você voltar sua atenção para outras coisas, ela virá e pousará silenciosamente em seu ombro.\" -Henry David Thoreau"
+    "pt": "\"A felicidade é como uma borboleta: quanto mais você a persegue, mais ela lhe escapa. Mas se você voltar sua atenção para outras coisas, ela virá e pousará silenciosamente em seu ombro.\" -Henry David Thoreau",
+    "es": "“La felicidad es como una mariposa: cuanto más la persigues, más se te escapa, pero si diriges tu atención a otras cosas, vendrá y se posará silenciosamente en tu hombro”. -Henry David Thoreau",
+    "de": "„Glück ist wie ein Schmetterling: Je mehr du ihm nachjagst, desto mehr entwischt es dir. Aber wenn du deine Aufmerksamkeit anderen Dingen zuwendest, wird es kommen und leise auf deiner Schulter landen.“ -Henry David Thoreau"
   },
   {
     "category": "positive_citation",
@@ -168,7 +204,9 @@
     "it": "\"La felicità non dipende da ciò che abbiamo, ma da ciò che siamo\" - Henry Van Dyke",
     "cn": "“幸福不取决于你拥有什么，而是取决于你是什么样的人。” - 罗伯特·路易斯·史蒂文森\"",
     "nl": "“Geluk hangt niet af van wat je hebt, maar van wat je bent.” -Robert Louis Stevenson",
-    "pt": "“A felicidade não depende do que você tem, mas do que você é.” -Robert Louis Stevenson"
+    "pt": "“A felicidade não depende do que você tem, mas do que você é.” -Robert Louis Stevenson",
+    "es": "“La felicidad no depende de lo que tienes, sino de lo que eres”. -Robert Luis Stevenson",
+    "de": "„Glück hängt nicht davon ab, was man hat, sondern davon, was man ist.“ -Robert Louis Stevenson"
   },
   {
     "category": "positive_citation",
@@ -177,7 +215,9 @@
     "it": "\"La vera contentezza é una cosa attiva come l'agricoltura. É la capacità di tirar fuori da una situazione tutto quello che contiene. É difficile e rara\" - Gilbert Keith Chesterton",
     "cn": "\"幸福的秘诀是看到世界上的一切奇迹，并永远不对最小的事物感到厌倦。\\\" - 吉尔伯特·基思·切斯特顿\"",
     "nl": "“Het geheim van geluk is om alle wonderen van de wereld te zien en nooit genoeg te krijgen van het kleinste ding.” -Gilbert Keith Chesterton",
-    "pt": "“O segredo da felicidade é ver todas as maravilhas do mundo e nunca se cansar das menores coisas.” -Gilbert Keith Chesterton"
+    "pt": "“O segredo da felicidade é ver todas as maravilhas do mundo e nunca se cansar das menores coisas.” -Gilbert Keith Chesterton",
+    "es": "“El secreto de la felicidad es ver todas las maravillas del mundo y no cansarse nunca de la más mínima cosa”. -Gilbert Keith Chesterton",
+    "de": "„Das Geheimnis des Glücks besteht darin, alle Wunder der Welt zu sehen und nie müde zu werden, auch nur das Kleinste zu sehen.“ -Gilbert Keith Chesterton"
   },
   {
     "category": "positive_citation",
@@ -186,7 +226,9 @@
     "it": "\"La felicità é un profumo che non puoi versare sugli altri senza che te ne casca addosso qualche goccia\" - Ralph Waldo Emerson",
     "cn": "\"幸福是一种香水，如果不洒在别人身上，自己也沾不到几滴。\\\" - 爱默生\"",
     "nl": "“Geluk is een parfum dat je niet op anderen kunt verspreiden zonder er zelf ook iets van op te doen.” -Ralph Waldo Emerson",
-    "pt": "“A felicidade é um perfume que você não pode espalhar nos outros sem passar em você mesmo.” -Ralph Waldo Emerson"
+    "pt": "“A felicidade é um perfume que você não pode espalhar nos outros sem passar em você mesmo.” -Ralph Waldo Emerson",
+    "es": "“La felicidad es un perfume que no puedes contagiar a los demás sin ponértelo a ti mismo”. -Ralph Waldo Emerson",
+    "de": "„Glück ist ein Duft, den man nicht auf andere verteilen kann, ohne sich selbst davon zu verwöhnen.“ -Ralph Waldo Emerson"
   },
   {
     "category": "positive_citation",
@@ -195,7 +237,9 @@
     "it": "\"I sogni sono necessari alla vita\" - Anais Nin",
     "cn": "“行动不一定带来幸福，但没有行动就没有幸福。” - 本杰明·迪斯雷利\"",
     "nl": "“Geluk is een beslissing, geen voorwaarde.” -Anaïs Nin",
-    "pt": "“A felicidade é uma decisão, não uma condição.” -Anais Nin"
+    "pt": "“A felicidade é uma decisão, não uma condição.” -Anais Nin",
+    "es": "\"La felicidad es una decisión, no una condición\". -Anais Nin",
+    "de": "„Glück ist eine Entscheidung, keine Bedingung.“ -Anais Nin"
   },
   {
     "category": "positive_citation",
@@ -204,7 +248,9 @@
     "it": "\"Nessuno comanda la tua felicità se non te stesso; quindi hai il potere di cambiare qualsiasi cosa desideri cambiare riguardo a te stesso o alla tua vita\" - Barbara De Angelis",
     "cn": "“幸福是一种选择，选择用积极的心态来生活。” - 巴巴拉·德安吉利斯\"",
     "nl": "“Geluk is het resultaat van een keuze, die van een leven leiden met een positieve gemoedstoestand.” -Barbara DeAngelis",
-    "pt": "“A felicidade é o resultado de uma escolha, de viver a vida com um estado de espírito positivo.” -Bárbara DeAngelis"
+    "pt": "“A felicidade é o resultado de uma escolha, de viver a vida com um estado de espírito positivo.” -Bárbara DeAngelis",
+    "es": "“La felicidad es el resultado de una elección, la de vivir la vida con un estado de ánimo positivo”. -Barbara De Angelis",
+    "de": "„Glück ist das Ergebnis einer Entscheidung, das Leben mit einer positiven Geisteshaltung zu führen.“ -Barbara DeAngelis"
   },
   {
     "category": "positive_citation",
@@ -213,7 +259,9 @@
     "it": "\"Trova te stesso e sii te stesso: nessun altro al mondo é come te\" - Dale Carnegie",
     "cn": "“记住，幸福不取决于你是谁或你拥有什么，它完全取决于你的想法。” - 戴尔·卡耐基\"",
     "nl": "\"Geluk is een gemoedstoestand. Het is niet wat je hebt of wie je bent of wat je doet dat je gelukkig of ongelukkig maakt. Het is hoe je denkt over wat er om je heen gebeurt. JIJ.\" -Dale Carnegie",
-    "pt": "\"A felicidade é um estado de espírito. Não é o que você tem, quem você é ou o que você faz que o deixa feliz ou infeliz. É como você pensa sobre o que está acontecendo ao seu redor. VOCÊ.\" -Dale Carnegie"
+    "pt": "\"A felicidade é um estado de espírito. Não é o que você tem, quem você é ou o que você faz que o deixa feliz ou infeliz. É como você pensa sobre o que está acontecendo ao seu redor. VOCÊ.\" -Dale Carnegie",
+    "es": "\"La felicidad es un estado mental. No es lo que tienes, quién eres o lo que haces lo que te hace feliz o infeliz. Es cómo piensas sobre lo que sucede a tu alrededor. TÚ\". -Dale Carnegie",
+    "de": "„Glück ist ein Geisteszustand. Es kommt nicht darauf an, was man hat oder wer man ist oder was man tut, was einen glücklich oder unglücklich macht. Es kommt darauf an, wie man darüber denkt, was um einen herum geschieht. DU.“ -Dale Carnegie"
   },
   {
     "category": "positive_citation",
@@ -222,7 +270,9 @@
     "it": "\"Non lasciarti controllare dalle paure nella tua mente. Lasciati guidare dai sogni nel tuo cuore\" - Roy Bennett",
     "cn": "“幸福取决于你的心态和态度。幸福在你的心里，而不是在环境中。” - 罗伊·贝内特\"",
     "nl": "“Geluk is een mentale instelling, een verlangen om in elke situatie het goede te vinden.” -Roy Bennett",
-    "pt": "“A felicidade é uma atitude mental, um desejo de encontrar o que há de bom em cada situação.” -Roy Bennett"
+    "pt": "“A felicidade é uma atitude mental, um desejo de encontrar o que há de bom em cada situação.” -Roy Bennett",
+    "es": "\"La felicidad es una actitud mental, un deseo de encontrar el bien en cada situación\". -Roy Bennet",
+    "de": "„Glück ist eine mentale Einstellung, der Wunsch, in jeder Situation das Gute zu finden.“ -Roy Bennett"
   },
   {
     "category": "positive_citation",
@@ -231,7 +281,9 @@
     "it": "\"Il successo non é la chiave della felicità. La felicità é la chiave del successo, se ami ciò che stai facendo, avrai successo\" - Albert Schweitzer",
     "cn": "“幸福是成功的关键。如果你热爱你所做的事情，你就会成功。” - 阿尔伯特·施韦泽\"",
     "nl": "\"Geluk is de sleutel tot succes. Als je houdt van wat je doet, zul je slagen.\" -Albert Schweitzer",
-    "pt": "\"A felicidade é a chave do sucesso. Se você ama o que faz, terá sucesso.\" -Albert Schweitzer"
+    "pt": "\"A felicidade é a chave do sucesso. Se você ama o que faz, terá sucesso.\" -Albert Schweitzer",
+    "es": "“La felicidad es la clave del éxito. Si amas lo que haces, triunfarás”. -Albert Schweitzer",
+    "de": "„Glück ist der Schlüssel zum Erfolg.“ -Albert Schweitzer"
   },
   {
     "category": "positive_citation",
@@ -240,7 +292,9 @@
     "it": "\"La felicità non é un'acquisizione, é una capacità\" - Peter Bregman",
     "cn": "“幸福不是一种获得，而是一种技能。” - 彼得·布雷格曼\"",
     "nl": "“Geluk is geen verworvenheid, het is een vaardigheid.” -Peter Bregman",
-    "pt": "“A felicidade não é uma aquisição, é uma habilidade.” -Peter Bregman"
+    "pt": "“A felicidade não é uma aquisição, é uma habilidade.” -Peter Bregman",
+    "es": "\"La felicidad no es una adquisición, es una habilidad\". -Peter Bregman",
+    "de": "„Glück ist keine Anschaffung, sondern eine Fähigkeit.“ -Peter Bregman"
   },
   {
     "category": "positive_citation",
@@ -249,6 +303,8 @@
     "it": "\"La felicità é una ricerca. Occorre impegnarvi l'esperienza e la propria immaginazione\" - Jean Giono",
     "cn": "“记住，人类所有的幸福都在小山谷里。非常小的山谷。足够小，可以从一边喊到另一边。” - 让·热奥诺\"",
     "nl": "\"Geluk is het zeldzaamste ter wereld. Hij die het weet te vinden, moet het delen.\" -Jean Giono",
-    "pt": "\"A felicidade é a coisa mais rara do mundo. Quem sabe encontrá-la deve compartilhá-la.\" -Jean Giono"
+    "pt": "\"A felicidade é a coisa mais rara do mundo. Quem sabe encontrá-la deve compartilhá-la.\" -Jean Giono",
+    "es": "“La felicidad es la cosa más rara del mundo. Quien sabe encontrarla debe compartirla”. -Jean Giono",
+    "de": "„Glück ist das Seltenste auf der Welt. Wer es zu finden weiß, muss es teilen.“ -Jean Giono"
   }
 ]
