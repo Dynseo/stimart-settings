@@ -1,158 +1,278 @@
 [
   {
     "category": "brain",
-    "title_fr": "Faire une To-do list",
-    "message_fr": "Faire des listes vous permet d’être plus organisé, de ne pas oublier et d'être plus efficace.",
-    "title_us": "Make To-do lists",
-    "message_us": "Making to-do lists allows you to be more organized, not to forget and to be more efficient.",
-    "title_it": "Fare delle To-do list",
-    "message_it": "Fare delle liste permette di essere più organizzati, di non dimenticare e di essere più efficaci.",
-    "title_cn": "制定待办事项清单",
-    "message_cn": "列清单可以让你更有条理，不会忘记，而且效率更高。",
-    "title_pt": "Fazer uma lista de tarefas",
-    "message_pt": "Fazer listas ajuda-o a ser mais organizado, a lembrar-se de coisas e a ser mais eficiente."
+    "title": {
+      "fr": "Faire une To-do list",
+      "us": "Make To-do lists",
+      "it": "Fare delle To-do list",
+      "cn": "制定待办事项清单",
+      "pt": "Fazer uma lista de tarefas",
+      "es": "Haz una lista de tareas pendientes",
+      "de": "Erstellen Sie eine To-do-Liste",
+      "nl": "Maak een To-do-lijst"
+    },
+    "message": {
+      "fr": "Faire des listes vous permet d’être plus organisé, de ne pas oublier et d'être plus efficace.",
+      "us": "Making to-do lists allows you to be more organized, not to forget and to be more efficient.",
+      "it": "Fare delle liste permette di essere più organizzati, di non dimenticare e di essere più efficaci.",
+      "cn": "列清单可以让你更有条理，不会忘记，而且效率更高。",
+      "pt": "Fazer listas ajuda-o a ser mais organizado, a lembrar-se de coisas e a ser mais eficiente.",
+      "es": "Hacer listas te permite estar más organizado, recordar y ser más eficiente.",
+      "de": "Durch das Erstellen von Listen können Sie besser organisiert sein, sich erinnern und effizienter arbeiten.",
+      "nl": "Door lijsten te maken, kunt u beter georganiseerd zijn, onthouden en efficiënter werken."
+    }
   },
   {
     "category": "brain",
-    "title_fr": "Ranger sa maison",
-    "message_fr": "Faire le ménage dans sa maison donne un sentiment de propreté, et vous aide à être organisé.",
-    "title_us": "Tidy up your home",
-    "message_us": "Tidying up the house gives you a sense of cleanliness, as well as helping you to be organized.",
-    "title_it": "Sistemare casa",
-    "message_it": "Fare i mestieri dà un sentimento di pulizia e serenità, oltre ad aiutarci ad essere organizzati.",
-    "title_cn": "收拾你的房子",
-    "message_cn": "打扫你的房子会让你感觉干净并帮助你保持井井有条。",
-    "title_pt": "Arrumação da casa",
-    "message_pt": "Limpar a sua casa dá-lhe uma sensação de limpeza e ajuda-o a ser organizado."
+    "title": {
+      "fr": "Ranger sa maison",
+      "us": "Tidy up your home",
+      "it": "Sistemare casa",
+      "cn": "收拾你的房子",
+      "pt": "Arrumação da casa",
+      "es": "Ordena tu casa",
+      "de": "Räumen Sie Ihr Haus auf",
+      "nl": "Ruim je huis op"
+    },
+    "message": {
+      "fr": "Faire le ménage dans sa maison donne un sentiment de propreté, et vous aide à être organisé.",
+      "us": "Tidying up the house gives you a sense of cleanliness, as well as helping you to be organized.",
+      "it": "Fare i mestieri dà un sentimento di pulizia e serenità, oltre ad aiutarci ad essere organizzati.",
+      "cn": "打扫你的房子会让你感觉干净并帮助你保持井井有条。",
+      "pt": "Limpar a sua casa dá-lhe uma sensação de limpeza e ajuda-o a ser organizado.",
+      "es": "Limpiar tu casa te da una sensación de limpieza y te ayuda a estar organizado.",
+      "de": "Die Reinigung Ihres Hauses gibt Ihnen ein Gefühl von Sauberkeit und hilft Ihnen, organisiert zu sein.",
+      "nl": "Het schoonmaken van uw huis geeft u een gevoel van netheid en helpt u georganiseerd te blijven."
+    }
   },
   {
     "category": "brain",
-    "title_fr": "Jouer aux cartes",
-    "message_fr": "Les jeux de cartes sont un moyen très répandu pour garder votre cerveau éveillé en s’amusant.",
-    "title_us": "Play cards",
-    "message_us": "Card games are a well-known tool to keep your brain active while having fun.",
-    "title_it": "Giocare a carte",
-    "message_it": "I giochi di carte sono un modo conosciuto per mantenere il cervello attivo divertendosi.",
-    "title_cn": "打牌",
-    "message_cn": "纸牌游戏是一种在享受乐趣的同时保持大脑敏锐的流行方式。",
-    "title_pt": "Jogar cartas",
-    "message_pt": "Os jogos de cartas são uma forma popular de manter o cérebro desperto, divertindo-se."
+    "title": {
+      "fr": "Jouer aux cartes",
+      "us": "Play cards",
+      "it": "Giocare a carte",
+      "cn": "打牌",
+      "pt": "Jogar cartas",
+      "es": "jugar a las cartas",
+      "de": "Karten spielen",
+      "nl": "Speel kaarten"
+    },
+    "message": {
+      "fr": "Les jeux de cartes sont un moyen très répandu pour garder votre cerveau éveillé en s’amusant.",
+      "us": "Card games are a well-known tool to keep your brain active while having fun.",
+      "it": "I giochi di carte sono un modo conosciuto per mantenere il cervello attivo divertendosi.",
+      "cn": "纸牌游戏是一种在享受乐趣的同时保持大脑敏锐的流行方式。",
+      "pt": "Os jogos de cartas são uma forma popular de manter o cérebro desperto, divertindo-se.",
+      "es": "Los juegos de cartas son una forma popular de mantener el cerebro alerta mientras te diviertes.",
+      "de": "Kartenspiele sind eine beliebte Möglichkeit, Ihr Gehirn fit zu halten und gleichzeitig Spaß zu haben.",
+      "nl": "Kaartspellen zijn een populaire manier om je hersenen scherp te houden terwijl je plezier hebt."
+    }
   },
   {
     "category": "brain",
-    "title_fr": "Lire un journal",
-    "message_fr": "Lire un journal permet de savoir ce qu’il se passe autour de nous en stimulant le langage.",
-    "title_us": "Read a newspaper",
-    "message_us": "Reading a newspaper allows you to know what is going in the world while stimulating your language.",
-    "title_it": "Leggere il giornale",
-    "message_it": "Leggere il giornale permette di sapere ciò che succede intorno a noi, stimolando il linguaggio.",
-    "title_cn": "读一份报纸",
-    "message_cn": "阅读报纸可以让我们通过刺激的语言了解周围发生的事情。",
-    "title_pt": "Ler um jornal",
-    "message_pt": "Ler um jornal ajuda-nos a saber o que se passa à nossa volta, estimulando a linguagem."
+    "title": {
+      "fr": "Lire un journal",
+      "us": "Read a newspaper",
+      "it": "Leggere il giornale",
+      "cn": "读一份报纸",
+      "pt": "Ler um jornal",
+      "es": "leer un periódico",
+      "de": "Lesen Sie eine Zeitung",
+      "nl": "Lees een krant"
+    },
+    "message": {
+      "fr": "Lire un journal permet de savoir ce qu’il se passe autour de nous en stimulant le langage.",
+      "us": "Reading a newspaper allows you to know what is going in the world while stimulating your language.",
+      "it": "Leggere il giornale permette di sapere ciò che succede intorno a noi, stimolando il linguaggio.",
+      "cn": "阅读报纸可以让我们通过刺激的语言了解周围发生的事情。",
+      "pt": "Ler um jornal ajuda-nos a saber o que se passa à nossa volta, estimulando a linguagem.",
+      "es": "Leer un periódico nos permite conocer lo que sucede a nuestro alrededor estimulando el lenguaje.",
+      "de": "Das Lesen einer Zeitung ermöglicht es uns, durch die anregende Sprache zu erfahren, was um uns herum passiert.",
+      "nl": "Door een krant te lezen, weten we wat er om ons heen gebeurt door taal te stimuleren."
+    }
   },
   {
     "category": "habits",
-    "title_fr": "Avoir une pensée positive",
-    "message_fr": "Penser à un événement qui vous a fait sourire permet de voir les bons côtés de la vie !",
-    "title_us": "Think of something positive",
-    "message_us": "Think of something that made you smile today. It's better to focus on the good things in life!",
-    "title_it": "Pensare a una cosa positiva ",
-    "message_it": "Pensare a una cosa positiva permette di focalizzarsi sugli aspetti positivi della vita! ",
-    "title_cn": "有积极的想法",
-    "message_cn": "回想一件让你微笑的事件可以让你看到生活美好的一面！",
-    "title_pt": "Pensar positivamente",
-    "message_pt": "Pensar num acontecimento que nos fez sorrir ajuda-nos a ver as coisas boas da vida!"
+    "title": {
+      "fr": "Avoir une pensée positive",
+      "us": "Think of something positive",
+      "it": "Pensare a una cosa positiva ",
+      "cn": "有积极的想法",
+      "pt": "Pensar positivamente",
+      "es": "tener un pensamiento positivo",
+      "de": "Habe einen positiven Gedanken",
+      "nl": "Heb een positieve gedachte"
+    },
+    "message": {
+      "fr": "Penser à un événement qui vous a fait sourire permet de voir les bons côtés de la vie !",
+      "us": "Think of something that made you smile today. It's better to focus on the good things in life!",
+      "it": "Pensare a una cosa positiva permette di focalizzarsi sugli aspetti positivi della vita! ",
+      "cn": "回想一件让你微笑的事件可以让你看到生活美好的一面！",
+      "pt": "Pensar num acontecimento que nos fez sorrir ajuda-nos a ver as coisas boas da vida!",
+      "es": "¡Pensar en un evento que te hizo sonreír te permite ver los lados buenos de la vida!",
+      "de": "Wenn Sie an ein Ereignis denken, das Sie zum Lächeln gebracht hat, können Sie die guten Seiten des Lebens erkennen!",
+      "nl": "Als je aan een gebeurtenis denkt die je aan het lachen maakte, kun je de goede kanten van het leven zien!"
+    }
   },
   {
     "category": "habits",
-    "title_fr": "Appeler ou écrire à vos proches",
-    "message_fr": "La famille et les amis sont des membres importants de la vie, ne les oubliez pas. ",
-    "title_us": "Call or write to someone",
-    "message_us": "Family and friends are important members of your life, it is important not to neglect them.",
-    "title_it": "Chiamare i propri cari",
-    "message_it": "La famiglia e gli amici sono membri importanti della nostra vita, é importante non trascurarli.",
-    "title_cn": "给您所爱的人打电话或写信",
-    "message_cn": "家人和朋友是生活中重要的成员，不要忘记他们。",
-    "title_pt": "Telefonar ou escrever aos seus familiares",
-    "message_pt": "A família e os amigos são uma parte importante da vida, por isso não os esqueça."
+    "title": {
+      "fr": "Appeler ou écrire à vos proches",
+      "us": "Call or write to someone",
+      "it": "Chiamare i propri cari",
+      "cn": "给您所爱的人打电话或写信",
+      "pt": "Telefonar ou escrever aos seus familiares",
+      "es": "Llama o escribe a tus seres queridos",
+      "de": "Rufen Sie an oder schreiben Sie Ihren Lieben",
+      "nl": "Bel of schrijf naar uw dierbaren"
+    },
+    "message": {
+      "fr": "La famille et les amis sont des membres importants de la vie, ne les oubliez pas. ",
+      "us": "Family and friends are important members of your life, it is important not to neglect them.",
+      "it": "La famiglia e gli amici sono membri importanti della nostra vita, é importante non trascurarli.",
+      "cn": "家人和朋友是生活中重要的成员，不要忘记他们。",
+      "pt": "A família e os amigos são uma parte importante da vida, por isso não os esqueça.",
+      "es": "La familia y los amigos son miembros importantes de la vida, no los olvides. ",
+      "de": "Familie und Freunde sind wichtige Mitglieder des Lebens, vergessen Sie sie nicht. ",
+      "nl": "Familie en vrienden zijn belangrijke leden van het leven, vergeet ze niet. "
+    }
   },
   {
     "category": "habits",
-    "title_fr": "Manger équilibré",
-    "message_fr": "Une bonne alimentation influence vos fonctions cognitives, un petit gâteau améliore l'humeur.",
-    "title_us": "Eat healthy",
-    "message_us": "A good diet influences your cognitive function, an occasional treat improves your mood.",
-    "title_it": "Mangiare sano",
-    "message_it": "Una buona alimentazione influenza le funzioni cognitive, un dolcetto migliora l'umore!",
-    "title_cn": "吃得健康",
-    "message_cn": "良好的饮食会影响您的认知功能，纸杯蛋糕可以改善情绪。",
-    "title_pt": "Ter uma alimentação equilibrada",
-    "message_pt": "Uma boa alimentação influencia as suas funções cognitivas e um bolinho melhora o seu humor."
+    "title": {
+      "fr": "Manger équilibré",
+      "us": "Eat healthy",
+      "it": "Mangiare sano",
+      "cn": "吃得健康",
+      "pt": "Ter uma alimentação equilibrada",
+      "es": "Comer equilibrado",
+      "de": "Ernähren Sie sich ausgewogen",
+      "nl": "Eet evenwichtig"
+    },
+    "message": {
+      "fr": "Une bonne alimentation influence vos fonctions cognitives, un petit gâteau améliore l'humeur.",
+      "us": "A good diet influences your cognitive function, an occasional treat improves your mood.",
+      "it": "Una buona alimentazione influenza le funzioni cognitive, un dolcetto migliora l'umore!",
+      "cn": "良好的饮食会影响您的认知功能，纸杯蛋糕可以改善情绪。",
+      "pt": "Uma boa alimentação influencia as suas funções cognitivas e um bolinho melhora o seu humor.",
+      "es": "Una buena alimentación influye en tus funciones cognitivas, un pastelito mejora tu estado de ánimo.",
+      "de": "Eine gute Ernährung beeinflusst Ihre kognitiven Funktionen, ein Cupcake verbessert Ihre Stimmung.",
+      "nl": "Een goed dieet beïnvloedt je cognitieve functies, een cupcake verbetert je humeur."
+    }
   },
   {
     "category": "habits",
-    "title_fr": "Dormir au moins 6h par nuit",
-    "message_fr": "Dormir permet au corps et au cerveau de se reposer, écoutez-les quand ils sont fatigués.",
-    "title_us": "Get at least 6 hours of sleep",
-    "message_us": "Sleeping allows your brain and body to rest, listen to them when they’re getting tired.",
-    "title_it": "Dormire almeno 6 ore a notte",
-    "message_it": "Dormire permette al cervello e al corpo di riposarsi, ascoltateli quando sono stanchi.",
-    "title_cn": "每晚至少睡眠 6 小时",
-    "message_cn": "睡眠可以让身体和大脑得到休息，累了的时候可以听听它们的声音。",
-    "title_pt": "Dormir pelo menos 6 horas por noite",
-    "message_pt": "O sono permite que o corpo e o cérebro descansem, por isso, ouça-os quando estão cansados."
+    "title": {
+      "fr": "Dormir au moins 6h par nuit",
+      "us": "Get at least 6 hours of sleep",
+      "it": "Dormire almeno 6 ore a notte",
+      "cn": "每晚至少睡眠 6 小时",
+      "pt": "Dormir pelo menos 6 horas por noite",
+      "es": "Dormir al menos 6 horas por noche.",
+      "de": "Schlafen Sie mindestens 6 Stunden pro Nacht",
+      "nl": "Slaap minimaal 6 uur per nacht"
+    },
+    "message": {
+      "fr": "Dormir permet au corps et au cerveau de se reposer, écoutez-les quand ils sont fatigués.",
+      "us": "Sleeping allows your brain and body to rest, listen to them when they’re getting tired.",
+      "it": "Dormire permette al cervello e al corpo di riposarsi, ascoltateli quando sono stanchi.",
+      "cn": "睡眠可以让身体和大脑得到休息，累了的时候可以听听它们的声音。",
+      "pt": "O sono permite que o corpo e o cérebro descansem, por isso, ouça-os quando estão cansados.",
+      "es": "Dormir permite que el cuerpo y el cerebro descansen, escúchalos cuando estén cansados.",
+      "de": "Durch das Schlafen können sich Körper und Gehirn ausruhen und auf sie hören, wenn sie müde sind.",
+      "nl": "Door te slapen kunnen het lichaam en de hersenen rusten, luister ernaar als ze moe zijn."
+    }
   },
   {
     "category": "outside",
-    "title_fr": "Faire 30 minutes de sport",
-    "message_fr": "Faire une activité physique a beaucoup d’effets positifs sur le corps, le cerveau et l’humeur.",
-    "title_us": "Do 30 minutes of sport",
-    "message_us": "Being physically active has many positive effects on your body, brain and mood.",
-    "title_it": "Fare 30 minuti di sport",
-    "message_it": "Fare un'attività fisica ha molti aspetti positivi sul corpo, sul cervello e sull'umore. ",
-    "title_cn": "进行 30 分钟的运动",
-    "message_cn": "锻炼对身体、大脑和情绪有许多积极的影响。",
-    "title_pt": "Fazer 30 minutos de desporto",
-    "message_pt": "A atividade física tem muitos efeitos positivos no corpo, no cérebro e no humor."
+    "title": {
+      "fr": "Faire 30 minutes de sport",
+      "us": "Do 30 minutes of sport",
+      "it": "Fare 30 minuti di sport",
+      "cn": "进行 30 分钟的运动",
+      "pt": "Fazer 30 minutos de desporto",
+      "es": "Haz 30 minutos de deporte.",
+      "de": "Machen Sie 30 Minuten Sport",
+      "nl": "Doe 30 minuten aan sport"
+    },
+    "message": {
+      "fr": "Faire une activité physique a beaucoup d’effets positifs sur le corps, le cerveau et l’humeur.",
+      "us": "Being physically active has many positive effects on your body, brain and mood.",
+      "it": "Fare un'attività fisica ha molti aspetti positivi sul corpo, sul cervello e sull'umore. ",
+      "cn": "锻炼对身体、大脑和情绪有许多积极的影响。",
+      "pt": "A atividade física tem muitos efeitos positivos no corpo, no cérebro e no humor.",
+      "es": "Realizar actividad física tiene muchos efectos positivos en el cuerpo, el cerebro y el estado de ánimo.",
+      "de": "Körperliche Aktivität hat viele positive Auswirkungen auf Körper, Gehirn und Stimmung.",
+      "nl": "Het doen van fysieke activiteit heeft veel positieve effecten op het lichaam, de hersenen en de stemming."
+    }
   },
   {
     "category": "outside",
-    "title_fr": "Sortir se promener",
-    "message_fr": "Faire des activités en dehors de chez vous permet de garder un lien social et de ne pas vous isoler.",
-    "title_us": "Go for a walk",
-    "message_us": "Doing activities outside of your house allows you to stay socially connected and not isolate yourself.",
-    "title_it": "Fare una passeggiata",
-    "message_it": "Fare delle attività fuori casa permette di mantenere dei legami sociali e di non isolarsi.",
-    "title_cn": "出去散步",
-    "message_cn": "外出活动可以让您保持社交联系，而不是孤立自己。",
-    "title_pt": "Sair para um passeio",
-    "message_pt": "A participação em actividades fora de casa ajuda-o a manter-se socialmente ligado e evita que se isole."
+    "title": {
+      "fr": "Sortir se promener",
+      "us": "Go for a walk",
+      "it": "Fare una passeggiata",
+      "cn": "出去散步",
+      "pt": "Sair para um passeio",
+      "es": "salir a caminar",
+      "de": "Gehen Sie spazieren",
+      "nl": "Ga een wandeling maken"
+    },
+    "message": {
+      "fr": "Faire des activités en dehors de chez vous permet de garder un lien social et de ne pas vous isoler.",
+      "us": "Doing activities outside of your house allows you to stay socially connected and not isolate yourself.",
+      "it": "Fare delle attività fuori casa permette di mantenere dei legami sociali e di non isolarsi.",
+      "cn": "外出活动可以让您保持社交联系，而不是孤立自己。",
+      "pt": "A participação em actividades fora de casa ajuda-o a manter-se socialmente ligado e evita que se isole.",
+      "es": "Realizar actividades fuera de casa le permite mantener conexiones sociales y no aislarse.",
+      "de": "Durch Aktivitäten außerhalb Ihres Zuhauses können Sie soziale Kontakte aufrechterhalten und sich nicht isolieren.",
+      "nl": "Door activiteiten buitenshuis te ondernemen, kunt u sociale verbindingen onderhouden en uzelf niet isoleren."
+    }
   },
   {
     "category": "outside",
-    "title_fr": "Prendre du temps pour soi",
-    "message_fr": "Il est important de s’accorder du temps pour se relaxer et faire quelque chose qui nous plaît.",
-    "title_us": "Take time for yourself",
-    "message_us": "It is important to take time for yourself, to relax or do something you like.",
-    "title_it": "Prendere del tempo per sé",
-    "message_it": "É importante prendere del tempo per sé, per rilassarsi o per fare qualcosa che ci piace",
-    "title_cn": "花点时间给自己",
-    "message_cn": "花时间放松并做一些您喜欢的事情很重要。",
-    "title_pt": "Tirar tempo para si mesmo",
-    "message_pt": "É importante reservar algum tempo para relaxar e fazer algo de que se gosta."
+    "title": {
+      "fr": "Prendre du temps pour soi",
+      "us": "Take time for yourself",
+      "it": "Prendere del tempo per sé",
+      "cn": "花点时间给自己",
+      "pt": "Tirar tempo para si mesmo",
+      "es": "Tómate un tiempo para ti",
+      "de": "Nehmen Sie sich Zeit für sich",
+      "nl": "Neem de tijd voor jezelf"
+    },
+    "message": {
+      "fr": "Il est important de s’accorder du temps pour se relaxer et faire quelque chose qui nous plaît.",
+      "us": "It is important to take time for yourself, to relax or do something you like.",
+      "it": "É importante prendere del tempo per sé, per rilassarsi o per fare qualcosa che ci piace",
+      "cn": "花时间放松并做一些您喜欢的事情很重要。",
+      "pt": "É importante reservar algum tempo para relaxar e fazer algo de que se gosta.",
+      "es": "Es importante darse tiempo para relajarse y hacer algo que disfrute.",
+      "de": "Es ist wichtig, sich Zeit zum Entspannen zu nehmen und etwas zu tun, das Ihnen Spaß macht.",
+      "nl": "Het is belangrijk om jezelf de tijd te geven om te ontspannen en iets te doen wat je leuk vindt."
+    }
   },
   {
     "category": "outside",
-    "title_fr": "Changer sa routine",
-    "message_fr": "Changer un trajet habituel aide à découvrir de nouvelles choses et stimule l’orientation.",
-    "title_us": "Change up your routine",
-    "message_us": "Changing a usual route helps to discover new things and stimulates orientation.",
-    "title_it": "Cambiare le routine",
-    "message_it": "Cambiare un tragitto abituale aiuta a scoprire delle nuove cose e stimola l'orientamento.",
-    "title_cn": "改变你的日常生活",
-    "message_cn": "改变通常的路线有助于发现新事物并激发方向感。",
-    "title_pt": "Mudar a sua rotina",
-    "message_pt": "Mudar o seu percurso habitual ajuda-o a descobrir coisas novas e estimula o seu sentido de orientação."
+    "title": {
+      "fr": "Changer sa routine",
+      "us": "Change up your routine",
+      "it": "Cambiare le routine",
+      "cn": "改变你的日常生活",
+      "pt": "Mudar a sua rotina",
+      "es": "Cambia tu rutina",
+      "de": "Ändern Sie Ihre Routine",
+      "nl": "Verander je routine"
+    },
+    "message": {
+      "fr": "Changer un trajet habituel aide à découvrir de nouvelles choses et stimule l’orientation.",
+      "us": "Changing a usual route helps to discover new things and stimulates orientation.",
+      "it": "Cambiare un tragitto abituale aiuta a scoprire delle nuove cose e stimola l'orientamento.",
+      "cn": "改变通常的路线有助于发现新事物并激发方向感。",
+      "pt": "Mudar o seu percurso habitual ajuda-o a descobrir coisas novas e estimula o seu sentido de orientação.",
+      "es": "Cambiar una ruta habitual te ayuda a descubrir cosas nuevas y estimula la orientación.",
+      "de": "Das Abändern einer gewohnten Route hilft, Neues zu entdecken und regt die Orientierung an.",
+      "nl": "Het veranderen van een gebruikelijke route helpt je nieuwe dingen te ontdekken en stimuleert de oriëntatie."
+    }
   }
 ]
