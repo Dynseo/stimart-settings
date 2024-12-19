@@ -4,7 +4,13 @@
     "condition": "always",
     "title": {
       "fr": "Bonjour <playerName> ! Voici votre bilan hebdomadaire :",
-      "us": "Hello <playerName>! Here is your weekly report:"
+      "us": "Hello <playerName>! Here is your weekly report:",
+      "it": "Ciao <nomegiocatore>! Ecco il tuo resoconto settimanale:",
+      "pt": "Olá <playerName>! Aqui está o seu relatório semanal:",
+      "nl": "Hallo <spelernaam>! Hier is uw wekelijkse rapport:",
+      "cn": "你好<玩家名>！这是您的每周报告：",
+      "de": "Hallo <Spielername>! Hier ist Ihr wöchentlicher Bericht:",
+      "es": "¡Hola <nombre del jugador>! Aquí está su informe semanal:"
     }
   },
   {
@@ -12,7 +18,13 @@
     "condition": "always",
     "title": {
       "fr": "Bonjour <playerName>, un aperçu de vos performances cette semaine :",
-      "us": "Hello <playerName>, an overview of your performance this week:"
+      "us": "Hello <playerName>, an overview of your performance this week:",
+      "it": "Ciao <playerName>, una panoramica della tua prestazione di questa settimana:",
+      "pt": "Olá <playerName>, uma visão geral do seu desempenho esta semana:",
+      "nl": "Hallo <playerName>, een overzicht van je prestaties deze week:",
+      "cn": "您好<玩家姓名>，请概述一下您本周的表现：",
+      "de": "Hallo <Spielername>, ein Überblick über deine Leistung diese Woche:",
+      "es": "Hola, <playerName>, un resumen de tu desempeño esta semana:"
     }
   },
   {
@@ -20,7 +32,13 @@
     "condition": "always",
     "title": {
       "fr": "<playerName>, voici vos statistiques de la semaine : ",
-      "us": "<playerName>, here are your stats for the week: "
+      "us": "<playerName>, here are your stats for the week: ",
+      "it": "<playerName>, ecco le tue statistiche della settimana: ",
+      "pt": "<playerName>, aqui estão suas estatísticas da semana: ",
+      "nl": "<playerName>, hier zijn je statistieken voor de week: ",
+      "cn": "<playerName>，这是您本周的统计数据： ",
+      "de": "<Spielername>, hier sind deine Statistiken für die Woche: ",
+      "es": "<playerName>, aquí están tus estadísticas de la semana: "
     }
   },
   {
@@ -28,7 +46,13 @@
     "condition": "moreThan3PlaysThisWeek",
     "title": {
       "fr": "Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Félicitations pour votre engagement ! ",
-      "us": "You've played at least three days this week, which is great for keeping your brain in shape. Congratulations on your commitment! "
+      "us": "You've played at least three days this week, which is great for keeping your brain in shape. Congratulations on your commitment! ",
+      "it": "Hai giocato almeno tre giorni questa settimana, il che è ottimo per mantenere in forma il tuo cervello. Congratulazioni per il tuo impegno! ",
+      "pt": "Você jogou pelo menos três dias esta semana, o que é ótimo para manter seu cérebro em forma. Parabéns pelo seu comprometimento! ",
+      "nl": "Je hebt deze week minimaal drie dagen gespeeld, wat goed is om je hersenen in vorm te houden. Gefeliciteerd met je inzet! ",
+      "cn": "您本周至少玩了三天，这对于保持大脑健康非常有用。祝贺您的承诺！ ",
+      "de": "Sie haben diese Woche mindestens drei Tage gespielt, was gut ist, um Ihr Gehirn in Form zu halten. Herzlichen Glückwunsch zu Ihrem Engagement! ",
+      "es": "Has jugado al menos tres días esta semana, lo cual es fantástico para mantener tu cerebro en forma. ¡Felicitaciones por su compromiso! "
     }
   },
   {
@@ -36,7 +60,13 @@
     "condition": "moreThan3PlaysThisWeek",
     "title": {
       "fr": "Vous avez joué au moins trois jours cette semaine, c’est un bel engagement. Continuez sur cette lancée !  ",
-      "us": "You played at least three days this week, that’s a great commitment. Keep this momentum going!  "
+      "us": "You played at least three days this week, that’s a great commitment. Keep this momentum going!  ",
+      "it": "Hai giocato almeno tre giorni questa settimana, è un grande impegno. Mantieni lo slancio!  ",
+      "pt": "Você jogou pelo menos três dias esta semana, é um grande compromisso. Mantenha o ritmo!  ",
+      "nl": "Je hebt deze week minimaal drie dagen gespeeld, dat is een mooie inzet. Houd de vaart erin!  ",
+      "cn": "你这周至少打了三天比赛，这是一个伟大的承诺。保持势头！  ",
+      "de": "Du hast diese Woche mindestens drei Tage gespielt, das ist eine tolle Verpflichtung. Bleiben Sie dran!  ",
+      "es": "Jugaste al menos tres días esta semana, eso es un gran compromiso. ¡Sigue el impulso!  "
     }
   },
   {
@@ -44,7 +74,13 @@
     "condition": "moreThan3PlaysThisWeek",
     "title": {
       "fr": "Au moins trois jours de jeu cette semaine, un beau rythme pour progresser. Bien joué !",
-      "us": "At least three days of play this week, a good pace to progress. Well done!"
+      "us": "At least three days of play this week, a good pace to progress. Well done!",
+      "it": "Almeno tre giorni di gioco questa settimana, un buon ritmo per progredire. Ben fatto!",
+      "pt": "Pelo menos três dias de jogo esta semana, um bom ritmo para progredir. Bom trabalho!",
+      "nl": "Deze week minimaal drie dagen spelen, een goed tempo om vooruitgang te boeken. Goed gedaan!",
+      "cn": "这周至少打了三天，进展顺利。干得好！",
+      "de": "Mindestens drei Spieltage diese Woche, ein gutes Tempo, um voranzukommen. Gut gemacht!",
+      "es": "Al menos tres días de juego esta semana, un buen ritmo para progresar. ¡Bien hecho!"
     }
   },
   {
@@ -52,7 +88,13 @@
     "condition": "lessThan3PlaysThisWeek",
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est la clé pour maximiser les bienfaits.",
-      "us": "You played less than three days this week. Remember, regularity is the key to maximizing benefits."
+      "us": "You played less than three days this week. Remember, regularity is the key to maximizing benefits.",
+      "it": "Hai giocato meno di tre giorni questa settimana. Ricorda, la regolarità è la chiave per massimizzare i benefici.",
+      "pt": "Você jogou menos de três dias esta semana. Lembre-se de que a regularidade é a chave para maximizar os benefícios.",
+      "nl": "Je hebt deze week minder dan drie dagen gespeeld. Vergeet niet dat regelmaat de sleutel is tot het maximaliseren van de voordelen.",
+      "cn": "您这周玩的时间还不到三天。请记住，规律性是实现效益最大化的关键。",
+      "de": "Du hast diese Woche weniger als drei Tage gespielt. Denken Sie daran, dass Regelmäßigkeit der Schlüssel zur Maximierung des Nutzens ist.",
+      "es": "Jugaste menos de tres días esta semana. Recuerde, la regularidad es la clave para maximizar los beneficios."
     }
   },
   {
@@ -60,7 +102,13 @@
     "condition": "lessThan3PlaysThisWeek",
     "title": {
       "fr": "Moins de trois jours de jeu cette semaine. N’oubliez pas, la pratique régulière est essentielle pour progresser.",
-      "us": "Less than three days of play this week. Remember, regular practice is essential to progress."
+      "us": "Less than three days of play this week. Remember, regular practice is essential to progress.",
+      "it": "Meno di tre giorni di gioco questa settimana. Ricorda, la pratica regolare è essenziale per progredire.",
+      "pt": "Menos de três dias de jogo esta semana. Lembre-se de que a prática regular é essencial para o progresso.",
+      "nl": "Deze week minder dan drie speeldagen. Vergeet niet dat regelmatige beoefening essentieel is om vooruitgang te boeken.",
+      "cn": "这周玩的时间还不到三天。请记住，定期练习对于进步至关重要。",
+      "de": "Weniger als drei Spieltage diese Woche. Denken Sie daran, dass regelmäßiges Üben für den Fortschritt unerlässlich ist.",
+      "es": "Menos de tres días de juego esta semana. Recuerde, la práctica regular es esencial para progresar."
     }
   },
   {
@@ -68,7 +116,13 @@
     "condition": "lessThan3PlaysThisWeek",
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. Un peu plus de constance vous aidera à maximiser vos performances.",
-      "us": "You played less than three days this week. A little more consistency will help you maximize your performance."
+      "us": "You played less than three days this week. A little more consistency will help you maximize your performance.",
+      "it": "Hai giocato meno di tre giorni questa settimana. Un po’ più di coerenza ti aiuterà a massimizzare le tue prestazioni.",
+      "pt": "Você jogou menos de três dias esta semana. Um pouco mais de consistência o ajudará a maximizar seu desempenho.",
+      "nl": "Je hebt deze week minder dan drie dagen gespeeld. Een beetje meer consistentie zal u helpen uw prestaties te maximaliseren.",
+      "cn": "您这周玩的时间还不到三天。多一点一致性将帮助你最大限度地提高你的表现。",
+      "de": "Du hast diese Woche weniger als drei Tage gespielt. Etwas mehr Konstanz wird Ihnen helfen, Ihre Leistung zu maximieren.",
+      "es": "Jugaste menos de tres días esta semana. Un poco más de consistencia te ayudará a maximizar tu rendimiento."
     }
   },
   {
@@ -76,7 +130,13 @@
     "condition": "moreThan5GamesThisWeek",
     "title": {
       "fr": "Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Bravo pour la diversité de vos choix de jeux ! ",
-      "us": "You play a wide range of games, which is ideal for stimulating several cognitive functions. Bravo for the diversity of your game choices! "
+      "us": "You play a wide range of games, which is ideal for stimulating several cognitive functions. Bravo for the diversity of your game choices! ",
+      "it": "Giochi a un'ampia gamma di giochi, ideali per stimolare diverse funzioni cognitive. Bravo per la diversità delle tue scelte di gioco! ",
+      "pt": "Você joga uma ampla variedade de jogos, o que é ideal para estimular diversas funções cognitivas. Bravo pela diversidade de suas escolhas de jogo! ",
+      "nl": "Je speelt een breed scala aan games, wat ideaal is voor het stimuleren van meerdere cognitieve functies. Bravo voor de diversiteit van je spelkeuzes! ",
+      "cn": "您可以玩各种各样的游戏，这非常适合刺激多种认知功能。为您游戏选择的多样性而欢呼！ ",
+      "de": "Sie spielen eine breite Palette von Spielen, die sich ideal zur Stimulierung mehrerer kognitiver Funktionen eignet. Bravo für die Vielfalt Ihrer Spielauswahl! ",
+      "es": "Juegas a una amplia gama de juegos, lo que es ideal para estimular varias funciones cognitivas. ¡Bravo por la diversidad de tus opciones de juego! "
     }
   },
   {
@@ -84,7 +144,13 @@
     "condition": "moreThan5GamesThisWeek",
     "title": {
       "fr": "Vous avez testé différents jeux cette semaine, un excellent moyen de travailler différentes parties de votre cerveau. Continuez !",
-      "us": "You've tried different games this week, a great way to work different parts of your brain. Keep going!"
+      "us": "You've tried different games this week, a great way to work different parts of your brain. Keep going!",
+      "it": "Hai provato diversi giochi questa settimana, un ottimo modo per far lavorare diverse parti del tuo cervello. Continuare!",
+      "pt": "Você experimentou jogos diferentes esta semana, uma ótima maneira de trabalhar diferentes partes do seu cérebro. Continue!",
+      "nl": "Je hebt deze week verschillende spellen geprobeerd, een geweldige manier om verschillende delen van je hersenen te bewerken. Blijf doorgaan!",
+      "cn": "本周你尝试了不同的游戏，这是锻炼大脑不同部分的好方法。继续前进！",
+      "de": "Sie haben diese Woche verschiedene Spiele ausprobiert, eine großartige Möglichkeit, verschiedene Teile Ihres Gehirns zu trainieren. Weitermachen!",
+      "es": "Has probado diferentes juegos esta semana, una excelente manera de trabajar diferentes partes de tu cerebro. ¡Sigue adelante!"
     }
   },
   {
@@ -92,7 +158,13 @@
     "condition": "moreThan5GamesThisWeek",
     "title": {
       "fr": "Plus de cinq jeux différents cette semaine ! Cette variété est idéale pour maximiser votre agilité mentale.",
-      "us": "More than five different games this week! This strain is ideal for maximizing your mental agility."
+      "us": "More than five different games this week! This strain is ideal for maximizing your mental agility.",
+      "it": "Più di cinque giochi diversi questa settimana! Questa varietà è ideale per massimizzare la tua agilità mentale.",
+      "pt": "Mais de cinco jogos diferentes esta semana! Esta variedade é ideal para maximizar sua agilidade mental.",
+      "nl": "Ruim vijf verschillende spellen deze week! Deze soort is ideaal voor het maximaliseren van je mentale behendigheid.",
+      "cn": "本周超过五种不同的游戏！这种压力非常适合最大限度地提高您的思维敏捷性。",
+      "de": "Mehr als fünf verschiedene Spiele diese Woche! Diese Sorte ist ideal zur Maximierung Ihrer geistigen Beweglichkeit.",
+      "es": "¡Más de cinco juegos diferentes esta semana! Esta variedad es ideal para maximizar tu agilidad mental."
     }
   },
   {
@@ -100,7 +172,13 @@
     "condition": "lessThan5GamesThisWeek",
     "title": {
       "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités en <cognitiveFunction>, et vous avez montré une belle constance dans cette activité.",
-      "us": "You mainly play <gameName>. This is an excellent choice! This game works on your <cognitiveFunction> skills, and you have shown great consistency in this activity."
+      "us": "You mainly play <gameName>. This is an excellent choice! This game works on your <cognitiveFunction> skills, and you have shown great consistency in this activity.",
+      "it": "Giochi principalmente a <gameName>. Questa è una scelta eccellente! Questo gioco funziona sulle tue abilità <cognitiveFunction> e hai mostrato grande coerenza in questa attività.",
+      "pt": "Você joga principalmente <gameName>. Esta é uma excelente escolha! Este jogo trabalha suas habilidades de <funçãocognitiva> e você demonstrou grande consistência nesta atividade.",
+      "nl": "Je speelt voornamelijk <gameName>. Dit is een uitstekende keuze! Dit spel werkt aan je <cognitiveFunction>-vaardigheden, en je hebt grote consistentie getoond in deze activiteit.",
+      "cn": "您主要玩<游戏名称>。这是一个绝佳的选择！这个游戏可以锻炼你的<cognitiveFunction>技能，并且你在这个活动中表现出了很强的一致性。",
+      "de": "Du spielst hauptsächlich <gameName>. Das ist eine ausgezeichnete Wahl! Dieses Spiel trainiert Ihre <cognitiveFunction>-Fähigkeiten und Sie haben bei dieser Aktivität große Konsequenz gezeigt.",
+      "es": "Juegas principalmente a <gameName>. ¡Esta es una excelente elección! Este juego trabaja tus habilidades de <funcióncognitiva> y has demostrado una gran coherencia en esta actividad."
     }
   },
   {
@@ -108,7 +186,13 @@
     "condition": "lessThan5GamesThisWeek",
     "title": {
       "fr": "Vous vous concentrez principalement sur <gameName>, un excellent choix pour renforcer vos capacités en <cognitiveFunction>.",
-      "us": "You mainly focus on <gameName>, an excellent choice for strengthening your abilities in <cognitiveFunction>."
+      "us": "You mainly focus on <gameName>, an excellent choice for strengthening your abilities in <cognitiveFunction>.",
+      "it": "Ti concentri principalmente su <gameName>, una scelta eccellente per rafforzare le tue abilità in <cognitiveFunction>.",
+      "pt": "Você se concentra principalmente em <gameName>, uma excelente opção para fortalecer suas habilidades em <cognitiveFunction>.",
+      "nl": "Je richt je vooral op <gameName>, een uitstekende keuze om je vaardigheden in <cognitiveFunction> te versterken.",
+      "cn": "您主要关注<gameName>，这是增强您在<cognitiveFunction>中的能力的绝佳选择。",
+      "de": "Sie konzentrieren sich hauptsächlich auf <gameName>, eine ausgezeichnete Wahl zur Stärkung Ihrer Fähigkeiten in <cognitiveFunction>.",
+      "es": "Te concentras principalmente en <gameName>, una excelente opción para fortalecer tus habilidades en <cognitiveFunction>."
     }
   },
   {
@@ -116,7 +200,13 @@
     "condition": "lessThan5GamesThisWeek",
     "title": {
       "fr": "Vous privilégiez <gameName>, ce qui est excellent pour améliorer votre <cognitiveFunction>.",
-      "us": "You favor <gameName>, which is great for improving your <cognitiveFunction>."
+      "us": "You favor <gameName>, which is great for improving your <cognitiveFunction>.",
+      "it": "Preferisci <gameName>, che è ottimo per migliorare la tua <cognitiveFunction>.",
+      "pt": "Você prefere <gameName>, o que é ótimo para melhorar sua <cognitiveFunction>.",
+      "nl": "Je geeft de voorkeur aan <gameName>, wat geweldig is voor het verbeteren van je <cognitiveFunction>.",
+      "cn": "您喜欢<游戏名称>，这对于提高您的<认知功能>很有帮助。",
+      "de": "Sie bevorzugen <gameName>, was sich hervorragend zur Verbesserung Ihrer <cognitiveFunction> eignet.",
+      "es": "Prefieres <gameName>, que es excelente para mejorar tu <cognitiveFunction>."
     }
   },
   {
@@ -124,7 +214,13 @@
     "condition": "didProgressInAGame",
     "title": {
       "fr": "Nous avons remarqué des progrès notables dans <gameTitle>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. ",
-      "us": "We've noticed some notable progress in <gameTitle>. You improve your overall performance, and it shows that your efforts are paying off. "
+      "us": "We've noticed some notable progress in <gameTitle>. You improve your overall performance, and it shows that your efforts are paying off. ",
+      "it": "Abbiamo notato alcuni progressi notevoli in <gameTitle>. Migliori le tue prestazioni complessive e ciò dimostra che i tuoi sforzi stanno dando i loro frutti. ",
+      "pt": "Notamos alguns progressos notáveis ​​em <gameTitle>. Você melhora seu desempenho geral e isso mostra que seus esforços estão valendo a pena. ",
+      "nl": "We hebben opmerkelijke vooruitgang opgemerkt in <gameTitle>. U verbetert uw algehele prestaties en het laat zien dat uw inspanningen vruchten afwerpen. ",
+      "cn": "我们注意到 <gameTitle> 取得了一些显着的进展。你提高了你的整体表现，这表明你的努力得到了回报。 ",
+      "de": "Wir haben einige bemerkenswerte Fortschritte bei <gameTitle> festgestellt. Sie verbessern Ihre Gesamtleistung und es zeigt, dass sich Ihre Bemühungen auszahlen. ",
+      "es": "Hemos notado un progreso notable en <gameTitle>. Mejora su rendimiento general y demuestra que sus esfuerzos están dando sus frutos. "
     }
   },
   {
@@ -132,7 +228,13 @@
     "condition": "didProgressInAGame",
     "title": {
       "fr": "Vous avez fait des avancées remarquables dans <gameTitle>. Vos efforts sont clairement visibles !",
-      "us": "You have made remarkable progress in <gameTitle>. Your efforts are clearly visible!"
+      "us": "You have made remarkable progress in <gameTitle>. Your efforts are clearly visible!",
+      "it": "Hai fatto notevoli progressi in <gameTitle>. I tuoi sforzi sono chiaramente visibili!",
+      "pt": "Você fez um progresso notável em <gameTitle>. Seus esforços são claramente visíveis!",
+      "nl": "Je hebt opmerkelijke vooruitgang geboekt in <gameTitle>. Jouw inspanningen zijn duidelijk zichtbaar!",
+      "cn": "您在<gameTitle>中取得了显着的进步。你的努力是有目共睹的！",
+      "de": "Sie haben in <gameTitle> bemerkenswerte Fortschritte gemacht. Ihr Einsatz ist deutlich sichtbar!",
+      "es": "Has logrado un progreso notable en <gameTitle>. ¡Tus esfuerzos son claramente visibles!"
     }
   },
   {
@@ -140,7 +242,13 @@
     "condition": "didProgressInAGame",
     "title": {
       "fr": "Vous avez amélioré vos performances dans <gameTitle>. Continuez comme ça, ça paye !",
-      "us": "You have improved your performance in <gameTitle>. Keep it up, it’s paying off!"
+      "us": "You have improved your performance in <gameTitle>. Keep it up, it’s paying off!",
+      "it": "Hai migliorato le tue prestazioni in <gameTitle>. Continua così, sta dando i suoi frutti!",
+      "pt": "Você melhorou seu desempenho em <gameTitle>. Continue assim, está valendo a pena!",
+      "nl": "Je hebt je prestaties in <gameTitle> verbeterd. Ga zo door, het werpt zijn vruchten af!",
+      "cn": "您在 <gameTitle> 中的表现有所提高。坚持下去，就会有回报！",
+      "de": "Sie haben Ihre Leistung in <gameTitle> verbessert. Weiter so, es zahlt sich aus!",
+      "es": "Has mejorado tu rendimiento en <gameTitle>. ¡Sigue así, está dando sus frutos!"
     }
   },
   {
@@ -148,7 +256,13 @@
     "condition": "newTrophy",
     "title": {
       "fr": "Vous avez gagné le trophée <trophy> ! Continuez à relever les défis pour compléter votre collection.",
-      "us": "You have won the <trophy> trophy! Continue to complete the challenges to complete your collection."
+      "us": "You have won the <trophy> trophy! Continue to complete the challenges to complete your collection.",
+      "it": "Hai vinto il <trofeo>! Continua a completare le sfide per completare la tua collezione.",
+      "pt": "Você ganhou o <troféu>! Continue completando os desafios para completar sua coleção.",
+      "nl": "Je hebt de <trofee> gewonnen! Ga door met het voltooien van de uitdagingen om je verzameling te voltooien.",
+      "cn": "你赢得了<奖杯>！继续完成挑战以完成您的收藏。",
+      "de": "Du hast die <Trophäe> gewonnen! Schließe weiterhin die Herausforderungen ab, um deine Sammlung zu vervollständigen.",
+      "es": "¡Has ganado el <trofeo>! Continúe completando los desafíos para completar su colección."
     }
   },
   {
@@ -156,7 +270,13 @@
     "condition": "newTrophy",
     "title": {
       "fr": "Vous avez remporté le trophée <trophy>. Continuez à progresser pour en obtenir d’autres.",
-      "us": "You have won the <trophy> trophy. Keep progressing to get more."
+      "us": "You have won the <trophy> trophy. Keep progressing to get more.",
+      "it": "Hai vinto il <trofeo>. Continua a progredire per ottenere di più.",
+      "pt": "Você ganhou o <troféu>. Continue progredindo para obter mais.",
+      "nl": "Je hebt de <trofee> gewonnen. Blijf vooruitgang boeken om meer te krijgen.",
+      "cn": "你赢得了<奖杯>。不断进步以获得更多。",
+      "de": "Du hast die <Trophäe> gewonnen. Machen Sie weiter, um mehr zu erreichen.",
+      "es": "Has ganado el <trofeo>. Sigue progresando para conseguir más."
     }
   },
   {
@@ -164,7 +284,13 @@
     "condition": "newTrophy",
     "title": {
       "fr": "Vous avez décroché le trophée <trophy>. Continuez à relever des défis pour en gagner davantage.",
-      "us": "You have won the <trophy> trophy. Continue to complete challenges to earn more."
+      "us": "You have won the <trophy> trophy. Continue to complete challenges to earn more.",
+      "it": "Hai vinto il <trofeo>. Continua a completare le sfide per guadagnare di più.",
+      "pt": "Você ganhou o <troféu>. Continue a completar desafios para ganhar mais.",
+      "nl": "Je hebt de <trofee> gewonnen. Ga door met het voltooien van uitdagingen om meer te verdienen.",
+      "cn": "你赢得了<奖杯>。继续完成挑战以获得更多收入。",
+      "de": "Du hast die <Trophäe> gewonnen. Schließe weiterhin Herausforderungen ab, um mehr zu verdienen.",
+      "es": "Has ganado el <trofeo>. Continúe completando desafíos para ganar más."
     }
   },
   {
@@ -172,7 +298,13 @@
     "condition": "goodScoreInEasyLevel",
     "title": {
       "fr": "Votre moyenne au niveau facile est de <note>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
-      "us": "Your average at the easy level is <note>. Why not upgrade to medium level for more challenges?"
+      "us": "Your average at the easy level is <note>. Why not upgrade to medium level for more challenges?",
+      "it": "La tua media al livello facile è <nota>. Perché non passare al livello medio per ulteriori sfide?",
+      "pt": "Sua média no nível fácil é <nota>. Por que não atualizar para o nível médio para mais desafios?",
+      "nl": "Je gemiddelde op het makkelijke niveau is <note>. Waarom niet upgraden naar een gemiddeld niveau voor meer uitdagingen?",
+      "cn": "您的简单级别平均水平是<note>。为什么不升级到中级来迎接更多挑战呢？",
+      "de": "Ihr Durchschnitt auf dem einfachen Niveau liegt bei <note>. Warum nicht auf mittleres Niveau upgraden, um mehr Herausforderungen zu erleben?",
+      "es": "Tu promedio en el nivel fácil es <nota>. ¿Por qué no actualizar al nivel medio para enfrentar más desafíos?"
     }
   },
   {
@@ -180,7 +312,13 @@
     "condition": "goodScoreInEasyLevel",
     "title": {
       "fr": "Vous avez obtenu une moyenne de <note> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !",
-      "us": "You achieved an average of <grade> in the easy level. It's time to try the medium level for more stimulation!"
+      "us": "You achieved an average of <grade> in the easy level. It's time to try the medium level for more stimulation!",
+      "it": "Hai raggiunto una media di <voto> nel livello facile. È ora di provare il livello medio per una maggiore stimolazione!",
+      "pt": "Você alcançou uma média de <grade> no nível fácil. É hora de experimentar o nível médio para mais estimulação!",
+      "nl": "Je behaalde een gemiddelde van <cijfer> op het makkelijke niveau. Het is tijd om het gemiddelde niveau te proberen voor meer stimulatie!",
+      "cn": "您在简单级别中的平均成绩为<等级>。是时候尝试中等水平以获得更多刺激了！",
+      "de": "Sie haben in der leichten Stufe einen Durchschnitt von <Note> erreicht. Es ist Zeit, die mittlere Stufe für mehr Stimulation auszuprobieren!",
+      "es": "Obtuviste un promedio de <grado> en el nivel fácil. ¡Es hora de probar el nivel medio para obtener más estimulación!"
     }
   },
   {
@@ -188,7 +326,13 @@
     "condition": "goodScoreInEasyLevel",
     "title": {
       "fr": "Vous avez une moyenne de <note> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
-      "us": "You have an average of <note> at the easy level. How about upgrading to medium level to progress further?"
+      "us": "You have an average of <note> at the easy level. How about upgrading to medium level to progress further?",
+      "it": "Hai una media di <nota> al livello facile. Che ne dici di passare al livello medio per progredire ulteriormente?",
+      "pt": "Você tem uma média de <nota> no nível fácil. Que tal atualizar para o nível médio para progredir ainda mais?",
+      "nl": "Je hebt een gemiddelde van <note> op het makkelijke niveau. Hoe zit het met upgraden naar een gemiddeld niveau om verder te komen?",
+      "cn": "您的平均成绩为<note>，处于简单级别。升级到中级以进一步进步怎么样？",
+      "de": "Sie haben einen Durchschnitt von <Note> auf der leichten Stufe. Wie wäre es mit einem Upgrade auf die mittlere Stufe, um weiter voranzukommen?",
+      "es": "Tienes un promedio de <nota> en el nivel fácil. ¿Qué tal actualizar al nivel medio para seguir progresando?"
     }
   },
   {
@@ -196,7 +340,13 @@
     "condition": "goodScoreInMediumLevel",
     "title": {
       "fr": "Vous avez une moyenne de <note> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
-      "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?"
+      "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?",
+      "it": "Hai una media di <voto> al livello medio. Perché non provare il livello difficile per andare ancora oltre?",
+      "pt": "Você tem uma média de <nota> no nível médio. Por que não tentar o nível difícil para ir ainda mais longe?",
+      "nl": "Je hebt een gemiddelde van <cijfer> op gemiddeld niveau. Waarom probeer je niet het moeilijke niveau om nog verder te gaan?",
+      "cn": "您的平均<等级>处于平均水平。为什么不尝试一下难度级别，走得更远呢？",
+      "de": "Sie haben einen Durchschnitt von <note> auf durchschnittlichem Niveau. Warum versuchen Sie es nicht mit dem schwierigen Level, um noch weiter zu kommen?",
+      "es": "Tienes una media de <nota> en nivel medio. ¿Por qué no probar el nivel difícil para llegar aún más lejos?"
     }
   },
   {
@@ -204,7 +354,13 @@
     "condition": "goodScoreInMediumLevel",
     "title": {
       "fr": "Avec une excellente moyenne de <note> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
-      "us": "With an excellent <note> average in the medium level, it would be interesting to explore the hard level!"
+      "us": "With an excellent <note> average in the medium level, it would be interesting to explore the hard level!",
+      "it": "Con un'eccellente media <note> nel livello medio, sarebbe interessante esplorare il livello difficile!",
+      "pt": "Com uma excelente média <nota> no nível médio, seria interessante explorar o nível difícil!",
+      "nl": "Met een uitstekend <note> gemiddelde op het middenniveau zou het interessant zijn om het harde niveau te verkennen!",
+      "cn": "中等水平的<note>平均水平非常出色，探索困难水平会​​很有趣！",
+      "de": "Mit einem hervorragenden <note>-Durchschnitt im mittleren Niveau wäre es interessant, das schwere Niveau zu erkunden!",
+      "es": "Con un promedio <nota> excelente en el nivel medio, ¡sería interesante explorar el nivel difícil!"
     }
   },
   {
@@ -212,7 +368,13 @@
     "condition": "goodScoreInMediumLevel",
     "title": {
       "fr": "Vous affichez une moyenne de <note> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !",
-      "us": "You have an average of <score> at the average level. It's time to put your skills to the test on the difficult level!"
+      "us": "You have an average of <score> at the average level. It's time to put your skills to the test on the difficult level!",
+      "it": "Hai una media di <score> al livello medio. È tempo di mettere alla prova le tue abilità al livello difficile!",
+      "pt": "Você tem uma média de <pontuação> no nível médio. É hora de testar suas habilidades no nível difícil!",
+      "nl": "Je hebt een gemiddelde van <score> op het gemiddelde niveau. Het is tijd om je vaardigheden op de proef te stellen op het moeilijke niveau!",
+      "cn": "您的平均 <score> 处于平均水平。是时候在困难的关卡中考验你的技能了！",
+      "de": "Sie haben einen Durchschnitt von <score> auf dem durchschnittlichen Niveau. Es ist Zeit, Ihre Fähigkeiten auf dem schwierigen Level unter Beweis zu stellen!",
+      "es": "Tienes una media de <score> en el nivel medio. ¡Es hora de poner a prueba tus habilidades en el nivel difícil!"
     }
   },
   {
@@ -220,7 +382,13 @@
     "condition": "moreThan3PlaysThisWeek",
     "title": {
       "fr": "Continuez à explorer différentes options pour renforcer encore plus vos capacités.",
-      "us": "Continue to explore different options to strengthen your abilities even further."
+      "us": "Continue to explore different options to strengthen your abilities even further.",
+      "it": "Continua a esplorare diverse opzioni per rafforzare ulteriormente le tue capacità.",
+      "pt": "Continue a explorar diferentes opções para fortalecer ainda mais suas habilidades.",
+      "nl": "Ga door met het verkennen van verschillende opties om uw vaardigheden nog verder te versterken.",
+      "cn": "继续探索不同的选择来进一步增强你的能力。",
+      "de": "Erkunden Sie weiterhin verschiedene Optionen, um Ihre Fähigkeiten noch weiter zu stärken.",
+      "es": "Continúe explorando diferentes opciones para fortalecer aún más sus habilidades."
     }
   },
   {
@@ -228,7 +396,13 @@
     "condition": "moreThan3PlaysThisWeek",
     "title": {
       "fr": "Poursuivez cette belle dynamique en explorant de nouveaux défis et en affinant vos compétences.",
-      "us": "Continue this great dynamic by exploring new challenges and refining your skills."
+      "us": "Continue this great dynamic by exploring new challenges and refining your skills.",
+      "it": "Continua questa grande dinamica esplorando nuove sfide e affinando le tue abilità.",
+      "pt": "Continue esta grande dinâmica explorando novos desafios e refinando suas habilidades.",
+      "nl": "Zet deze geweldige dynamiek voort door nieuwe uitdagingen te verkennen en je vaardigheden te verfijnen.",
+      "cn": "通过探索新的挑战和提高你的技能来继续这一伟大的动力。",
+      "de": "Setzen Sie diese großartige Dynamik fort, indem Sie neue Herausforderungen erkunden und Ihre Fähigkeiten verfeinern.",
+      "es": "Continúa esta gran dinámica explorando nuevos desafíos y perfeccionando tus habilidades."
     }
   },
   {
@@ -236,7 +410,13 @@
     "condition": "moreThan3PlaysThisWeek",
     "title": {
       "fr": "Restez engagé et continuez à explorer de nouvelles options pour enrichir votre expérience de jeu.",
-      "us": "Stay engaged and continue to explore new options to enrich your gaming experience."
+      "us": "Stay engaged and continue to explore new options to enrich your gaming experience.",
+      "it": "Rimani impegnato e continua a esplorare nuove opzioni per arricchire la tua esperienza di gioco.",
+      "pt": "Mantenha-se envolvido e continue explorando novas opções para enriquecer sua experiência de jogo.",
+      "nl": "Blijf betrokken en blijf nieuwe opties verkennen om uw game-ervaring te verrijken.",
+      "cn": "保持参与并继续探索新的选项来丰富您的游戏体验。",
+      "de": "Bleiben Sie engagiert und erkunden Sie weiterhin neue Optionen, um Ihr Spielerlebnis zu bereichern.",
+      "es": "Manténgase involucrado y continúe explorando nuevas opciones para enriquecer su experiencia de juego."
     }
   },
   {
@@ -244,7 +424,13 @@
     "condition": "lessThan3PlaysThisWeek",
     "title": {
       "fr": "Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances.",
-      "us": "Try playing a little more often, it will make a difference to your performance."
+      "us": "Try playing a little more often, it will make a difference to your performance.",
+      "it": "Prova a giocare un po' più spesso, farà la differenza per la tua prestazione.",
+      "pt": "Experimente jogar com um pouco mais de frequência, isso fará diferença no seu desempenho.",
+      "nl": "Probeer wat vaker te spelen, het zal een verschil maken in je prestaties.",
+      "cn": "尝试多玩一点，这会对你的表现产生影响。",
+      "de": "Versuchen Sie, etwas öfter zu spielen, das wird sich positiv auf Ihre Leistung auswirken.",
+      "es": "Intenta jugar un poco más a menudo, esto marcará la diferencia en tu rendimiento."
     }
   },
   {
@@ -252,7 +438,13 @@
     "condition": "lessThan3PlaysThisWeek",
     "title": {
       "fr": "Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances.",
-      "us": "Try increasing your playing time, it could really improve your performance."
+      "us": "Try increasing your playing time, it could really improve your performance.",
+      "it": "Prova ad aumentare il tempo di gioco, potrebbe davvero migliorare le tue prestazioni.",
+      "pt": "Tente aumentar o seu tempo de jogo, isso pode realmente melhorar o seu desempenho.",
+      "nl": "Probeer uw speeltijd te verlengen, dit kan uw prestaties aanzienlijk verbeteren.",
+      "cn": "尝试增加你的比赛时间，这确实可以提高你的表现。",
+      "de": "Versuchen Sie, Ihre Spielzeit zu verlängern, das könnte Ihre Leistung wirklich verbessern.",
+      "es": "Intente aumentar su tiempo de juego, realmente podría mejorar su rendimiento."
     }
   },
   {
@@ -260,7 +452,13 @@
     "condition": "lessThan3PlaysThisWeek",
     "title": {
       "fr": "En jouant un peu plus régulièrement, vous verrez des améliorations notables dans vos performances.",
-      "us": "By playing a little more regularly, you will see noticeable improvements in your performance."
+      "us": "By playing a little more regularly, you will see noticeable improvements in your performance.",
+      "it": "Giocando un po' più regolarmente, vedrai notevoli miglioramenti nelle tue prestazioni.",
+      "pt": "Ao jogar com um pouco mais de regularidade, você verá melhorias visíveis em seu desempenho.",
+      "nl": "Door wat regelmatiger te spelen, zul je merkbare verbeteringen in je prestaties zien.",
+      "cn": "通过更有规律地玩，您会发现自己的表现有明显的提高。",
+      "de": "Wenn Sie etwas regelmäßiger spielen, werden Sie spürbare Verbesserungen Ihrer Leistung feststellen.",
+      "es": "Si juegas con un poco más de regularidad, verás mejoras notables en tu rendimiento."
     }
   }
 ]
