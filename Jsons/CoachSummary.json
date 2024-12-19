@@ -5,12 +5,12 @@
     "title": {
       "fr": "Bonjour <playerName> ! Voici votre bilan hebdomadaire :",
       "us": "Hello <playerName>! Here is your weekly report:",
-      "it": "Ciao <nomegiocatore>! Ecco il tuo resoconto settimanale:",
+      "it": "Ciao <playerName>! Ecco il tuo resoconto settimanale:",
       "pt": "Olá <playerName>! Aqui está o seu relatório semanal:",
-      "nl": "Hallo <spelernaam>! Hier is uw wekelijkse rapport:",
-      "cn": "你好<玩家名>！这是您的每周报告：",
-      "de": "Hallo <Spielername>! Hier ist Ihr wöchentlicher Bericht:",
-      "es": "¡Hola <nombre del jugador>! Aquí está su informe semanal:"
+      "nl": "Hallo <playerName>! Hier is uw wekelijkse rapport:",
+      "cn": "你好<playerName>！这是您的每周报告：",
+      "de": "Hallo <playerName>! Hier ist Ihr wöchentlicher Bericht:",
+      "es": "¡Hola <playerName>! Aquí está su informe semanal:"
     }
   },
   {
@@ -22,8 +22,8 @@
       "it": "Ciao <playerName>, una panoramica della tua prestazione di questa settimana:",
       "pt": "Olá <playerName>, uma visão geral do seu desempenho esta semana:",
       "nl": "Hallo <playerName>, een overzicht van je prestaties deze week:",
-      "cn": "您好<玩家姓名>，请概述一下您本周的表现：",
-      "de": "Hallo <Spielername>, ein Überblick über deine Leistung diese Woche:",
+      "cn": "您好<playerName>，请概述一下您本周的表现：",
+      "de": "Hallo <playerName>, ein Überblick über deine Leistung diese Woche:",
       "es": "Hola, <playerName>, un resumen de tu desempeño esta semana:"
     }
   },
@@ -37,7 +37,7 @@
       "pt": "<playerName>, aqui estão suas estatísticas da semana: ",
       "nl": "<playerName>, hier zijn je statistieken voor de week: ",
       "cn": "<playerName>，这是您本周的统计数据： ",
-      "de": "<Spielername>, hier sind deine Statistiken für die Woche: ",
+      "de": "<playerName>, hier sind deine Statistiken für die Woche: ",
       "es": "<playerName>, aquí están tus estadísticas de la semana: "
     }
   },
@@ -257,12 +257,12 @@
     "title": {
       "fr": "Vous avez gagné le trophée <trophy> ! Continuez à relever les défis pour compléter votre collection.",
       "us": "You have won the <trophy> trophy! Continue to complete the challenges to complete your collection.",
-      "it": "Hai vinto il <trofeo>! Continua a completare le sfide per completare la tua collezione.",
-      "pt": "Você ganhou o <troféu>! Continue completando os desafios para completar sua coleção.",
-      "nl": "Je hebt de <trofee> gewonnen! Ga door met het voltooien van de uitdagingen om je verzameling te voltooien.",
-      "cn": "你赢得了<奖杯>！继续完成挑战以完成您的收藏。",
-      "de": "Du hast die <Trophäe> gewonnen! Schließe weiterhin die Herausforderungen ab, um deine Sammlung zu vervollständigen.",
-      "es": "¡Has ganado el <trofeo>! Continúe completando los desafíos para completar su colección."
+      "it": "Hai vinto il <trophy>! Continua a completare le sfide per completare la tua collezione.",
+      "pt": "Você ganhou o <trophy>! Continue completando os desafios para completar sua coleção.",
+      "nl": "Je hebt de <trophy> gewonnen! Ga door met het voltooien van de uitdagingen om je verzameling te voltooien.",
+      "cn": "你赢得了<trophy>！继续完成挑战以完成您的收藏。",
+      "de": "Du hast die <trophy> gewonnen! Schließe weiterhin die Herausforderungen ab, um deine Sammlung zu vervollständigen.",
+      "es": "¡Has ganado el <trophy>! Continúe completando los desafíos para completar su colección."
     }
   },
   {
@@ -271,12 +271,12 @@
     "title": {
       "fr": "Vous avez remporté le trophée <trophy>. Continuez à progresser pour en obtenir d’autres.",
       "us": "You have won the <trophy> trophy. Keep progressing to get more.",
-      "it": "Hai vinto il <trofeo>. Continua a progredire per ottenere di più.",
-      "pt": "Você ganhou o <troféu>. Continue progredindo para obter mais.",
-      "nl": "Je hebt de <trofee> gewonnen. Blijf vooruitgang boeken om meer te krijgen.",
-      "cn": "你赢得了<奖杯>。不断进步以获得更多。",
-      "de": "Du hast die <Trophäe> gewonnen. Machen Sie weiter, um mehr zu erreichen.",
-      "es": "Has ganado el <trofeo>. Sigue progresando para conseguir más."
+      "it": "Hai vinto il <trophy>. Continua a progredire per ottenere di più.",
+      "pt": "Você ganhou o <trophy>. Continue progredindo para obter mais.",
+      "nl": "Je hebt de <trophy> gewonnen. Blijf vooruitgang boeken om meer te krijgen.",
+      "cn": "你赢得了<trophy>。不断进步以获得更多。",
+      "de": "Du hast die <trophy> gewonnen. Machen Sie weiter, um mehr zu erreichen.",
+      "es": "Has ganado el <trophy>. Sigue progresando para conseguir más."
     }
   },
   {
@@ -285,12 +285,12 @@
     "title": {
       "fr": "Vous avez décroché le trophée <trophy>. Continuez à relever des défis pour en gagner davantage.",
       "us": "You have won the <trophy> trophy. Continue to complete challenges to earn more.",
-      "it": "Hai vinto il <trofeo>. Continua a completare le sfide per guadagnare di più.",
-      "pt": "Você ganhou o <troféu>. Continue a completar desafios para ganhar mais.",
-      "nl": "Je hebt de <trofee> gewonnen. Ga door met het voltooien van uitdagingen om meer te verdienen.",
-      "cn": "你赢得了<奖杯>。继续完成挑战以获得更多收入。",
-      "de": "Du hast die <Trophäe> gewonnen. Schließe weiterhin Herausforderungen ab, um mehr zu verdienen.",
-      "es": "Has ganado el <trofeo>. Continúe completando desafíos para ganar más."
+      "it": "Hai vinto il <trophy>. Continua a completare le sfide per guadagnare di più.",
+      "pt": "Você ganhou o <trophy>. Continue a completar desafios para ganhar mais.",
+      "nl": "Je hebt de <trophy> gewonnen. Ga door met het voltooien van uitdagingen om meer te verdienen.",
+      "cn": "你赢得了<trophy>。继续完成挑战以获得更多收入。",
+      "de": "Du hast die <trophy> gewonnen. Schließe weiterhin Herausforderungen ab, um mehr zu verdienen.",
+      "es": "Has ganado el <trophy>. Continúe completando desafíos para ganar más."
     }
   },
   {
@@ -299,12 +299,12 @@
     "title": {
       "fr": "Votre moyenne au niveau facile est de <note>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
       "us": "Your average at the easy level is <note>. Why not upgrade to medium level for more challenges?",
-      "it": "La tua media al livello facile è <nota>. Perché non passare al livello medio per ulteriori sfide?",
-      "pt": "Sua média no nível fácil é <nota>. Por que não atualizar para o nível médio para mais desafios?",
+      "it": "La tua media al livello facile è <note>. Perché non passare al livello medio per ulteriori sfide?",
+      "pt": "Sua média no nível fácil é <note>. Por que não atualizar para o nível médio para mais desafios?",
       "nl": "Je gemiddelde op het makkelijke niveau is <note>. Waarom niet upgraden naar een gemiddeld niveau voor meer uitdagingen?",
       "cn": "您的简单级别平均水平是<note>。为什么不升级到中级来迎接更多挑战呢？",
       "de": "Ihr Durchschnitt auf dem einfachen Niveau liegt bei <note>. Warum nicht auf mittleres Niveau upgraden, um mehr Herausforderungen zu erleben?",
-      "es": "Tu promedio en el nivel fácil es <nota>. ¿Por qué no actualizar al nivel medio para enfrentar más desafíos?"
+      "es": "Tu promedio en el nivel fácil es <note>. ¿Por qué no actualizar al nivel medio para enfrentar más desafíos?"
     }
   },
   {
@@ -317,8 +317,8 @@
       "pt": "Você alcançou uma média de <grade> no nível fácil. É hora de experimentar o nível médio para mais estimulação!",
       "nl": "Je behaalde een gemiddelde van <cijfer> op het makkelijke niveau. Het is tijd om het gemiddelde niveau te proberen voor meer stimulatie!",
       "cn": "您在简单级别中的平均成绩为<等级>。是时候尝试中等水平以获得更多刺激了！",
-      "de": "Sie haben in der leichten Stufe einen Durchschnitt von <Note> erreicht. Es ist Zeit, die mittlere Stufe für mehr Stimulation auszuprobieren!",
-      "es": "Obtuviste un promedio de <grado> en el nivel fácil. ¡Es hora de probar el nivel medio para obtener más estimulación!"
+      "de": "Sie haben in der leichten Stufe einen Durchschnitt von <note> erreicht. Es ist Zeit, die mittlere Stufe für mehr Stimulation auszuprobieren!",
+      "es": "Obtuviste un promedio de <note> en el nivel fácil. ¡Es hora de probar el nivel medio para obtener más estimulación!"
     }
   },
   {
@@ -327,12 +327,12 @@
     "title": {
       "fr": "Vous avez une moyenne de <note> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
       "us": "You have an average of <note> at the easy level. How about upgrading to medium level to progress further?",
-      "it": "Hai una media di <nota> al livello facile. Che ne dici di passare al livello medio per progredire ulteriormente?",
-      "pt": "Você tem uma média de <nota> no nível fácil. Que tal atualizar para o nível médio para progredir ainda mais?",
+      "it": "Hai una media di <note> al livello facile. Che ne dici di passare al livello medio per progredire ulteriormente?",
+      "pt": "Você tem uma média de <note> no nível fácil. Que tal atualizar para o nível médio para progredir ainda mais?",
       "nl": "Je hebt een gemiddelde van <note> op het makkelijke niveau. Hoe zit het met upgraden naar een gemiddeld niveau om verder te komen?",
       "cn": "您的平均成绩为<note>，处于简单级别。升级到中级以进一步进步怎么样？",
-      "de": "Sie haben einen Durchschnitt von <Note> auf der leichten Stufe. Wie wäre es mit einem Upgrade auf die mittlere Stufe, um weiter voranzukommen?",
-      "es": "Tienes un promedio de <nota> en el nivel fácil. ¿Qué tal actualizar al nivel medio para seguir progresando?"
+      "de": "Sie haben einen Durchschnitt von <note> auf der leichten Stufe. Wie wäre es mit einem Upgrade auf die mittlere Stufe, um weiter voranzukommen?",
+      "es": "Tienes un promedio de <note> en el nivel fácil. ¿Qué tal actualizar al nivel medio para seguir progresando?"
     }
   },
   {
@@ -342,11 +342,11 @@
       "fr": "Vous avez une moyenne de <note> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
       "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?",
       "it": "Hai una media di <voto> al livello medio. Perché non provare il livello difficile per andare ancora oltre?",
-      "pt": "Você tem uma média de <nota> no nível médio. Por que não tentar o nível difícil para ir ainda mais longe?",
+      "pt": "Você tem uma média de <note> no nível médio. Por que não tentar o nível difícil para ir ainda mais longe?",
       "nl": "Je hebt een gemiddelde van <cijfer> op gemiddeld niveau. Waarom probeer je niet het moeilijke niveau om nog verder te gaan?",
       "cn": "您的平均<等级>处于平均水平。为什么不尝试一下难度级别，走得更远呢？",
       "de": "Sie haben einen Durchschnitt von <note> auf durchschnittlichem Niveau. Warum versuchen Sie es nicht mit dem schwierigen Level, um noch weiter zu kommen?",
-      "es": "Tienes una media de <nota> en nivel medio. ¿Por qué no probar el nivel difícil para llegar aún más lejos?"
+      "es": "Tienes una media de <note> en nivel medio. ¿Por qué no probar el nivel difícil para llegar aún más lejos?"
     }
   },
   {
@@ -356,11 +356,11 @@
       "fr": "Avec une excellente moyenne de <note> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
       "us": "With an excellent <note> average in the medium level, it would be interesting to explore the hard level!",
       "it": "Con un'eccellente media <note> nel livello medio, sarebbe interessante esplorare il livello difficile!",
-      "pt": "Com uma excelente média <nota> no nível médio, seria interessante explorar o nível difícil!",
+      "pt": "Com uma excelente média <note> no nível médio, seria interessante explorar o nível difícil!",
       "nl": "Met een uitstekend <note> gemiddelde op het middenniveau zou het interessant zijn om het harde niveau te verkennen!",
       "cn": "中等水平的<note>平均水平非常出色，探索困难水平会​​很有趣！",
       "de": "Mit einem hervorragenden <note>-Durchschnitt im mittleren Niveau wäre es interessant, das schwere Niveau zu erkunden!",
-      "es": "Con un promedio <nota> excelente en el nivel medio, ¡sería interesante explorar el nivel difícil!"
+      "es": "Con un promedio <note> excelente en el nivel medio, ¡sería interesante explorar el nivel difícil!"
     }
   },
   {
