@@ -297,80 +297,80 @@
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
     "title": {
-      "fr": "Votre moyenne au niveau facile est de <note>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
-      "us": "Your average at the easy level is <note>. Why not upgrade to medium level for more challenges?",
-      "it": "La tua media al livello facile è <note>. Perché non passare al livello medio per ulteriori sfide?",
-      "pt": "Sua média no nível fácil é <note>. Por que não atualizar para o nível médio para mais desafios?",
-      "nl": "Je gemiddelde op het makkelijke niveau is <note>. Waarom niet upgraden naar een gemiddeld niveau voor meer uitdagingen?",
-      "cn": "您的简单级别平均水平是<note>。为什么不升级到中级来迎接更多挑战呢？",
-      "de": "Ihr Durchschnitt auf dem einfachen Niveau liegt bei <note>. Warum nicht auf mittleres Niveau upgraden, um mehr Herausforderungen zu erleben?",
-      "es": "Tu promedio en el nivel fácil es <note>. ¿Por qué no actualizar al nivel medio para enfrentar más desafíos?"
+      "fr": "Votre moyenne au niveau facile est de <grade>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
+      "us": "Your average at the easy level is <grade>. Why not upgrade to medium level for more challenges?",
+      "it": "La tua media al livello facile è <grade>. Perché non passare al livello medio per ulteriori sfide?",
+      "pt": "Sua média no nível fácil é <grade>. Por que não atualizar para o nível médio para mais desafios?",
+      "nl": "Je gemiddelde op het makkelijke niveau is <grade>. Waarom niet upgraden naar een gemiddeld niveau voor meer uitdagingen?",
+      "cn": "您的简单级别平均水平是<grade>。为什么不升级到中级来迎接更多挑战呢？",
+      "de": "Ihr Durchschnitt auf dem einfachen Niveau liegt bei <grade>. Warum nicht auf mittleres Niveau upgraden, um mehr Herausforderungen zu erleben?",
+      "es": "Tu promedio en el nivel fácil es <grade>. ¿Por qué no actualizar al nivel medio para enfrentar más desafíos?"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
     "title": {
-      "fr": "Vous avez obtenu une moyenne de <note> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !",
+      "fr": "Vous avez obtenu une moyenne de <grade> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !",
       "us": "You achieved an average of <grade> in the easy level. It's time to try the medium level for more stimulation!",
-      "it": "Hai raggiunto una media di <voto> nel livello facile. È ora di provare il livello medio per una maggiore stimolazione!",
+      "it": "Hai raggiunto una media di <grade> nel livello facile. È ora di provare il livello medio per una maggiore stimolazione!",
       "pt": "Você alcançou uma média de <grade> no nível fácil. É hora de experimentar o nível médio para mais estimulação!",
-      "nl": "Je behaalde een gemiddelde van <cijfer> op het makkelijke niveau. Het is tijd om het gemiddelde niveau te proberen voor meer stimulatie!",
-      "cn": "您在简单级别中的平均成绩为<等级>。是时候尝试中等水平以获得更多刺激了！",
-      "de": "Sie haben in der leichten Stufe einen Durchschnitt von <note> erreicht. Es ist Zeit, die mittlere Stufe für mehr Stimulation auszuprobieren!",
-      "es": "Obtuviste un promedio de <note> en el nivel fácil. ¡Es hora de probar el nivel medio para obtener más estimulación!"
+      "nl": "Je behaalde een gemiddelde van <grade> op het makkelijke niveau. Het is tijd om het gemiddelde niveau te proberen voor meer stimulatie!",
+      "cn": "您在简单级别中的平均成绩为<grade>。是时候尝试中等水平以获得更多刺激了！",
+      "de": "Sie haben in der leichten Stufe einen Durchschnitt von <grade> erreicht. Es ist Zeit, die mittlere Stufe für mehr Stimulation auszuprobieren!",
+      "es": "Obtuviste un promedio de <grade> en el nivel fácil. ¡Es hora de probar el nivel medio para obtener más estimulación!"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
     "title": {
-      "fr": "Vous avez une moyenne de <note> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
-      "us": "You have an average of <note> at the easy level. How about upgrading to medium level to progress further?",
-      "it": "Hai una media di <note> al livello facile. Che ne dici di passare al livello medio per progredire ulteriormente?",
-      "pt": "Você tem uma média de <note> no nível fácil. Que tal atualizar para o nível médio para progredir ainda mais?",
-      "nl": "Je hebt een gemiddelde van <note> op het makkelijke niveau. Hoe zit het met upgraden naar een gemiddeld niveau om verder te komen?",
-      "cn": "您的平均成绩为<note>，处于简单级别。升级到中级以进一步进步怎么样？",
-      "de": "Sie haben einen Durchschnitt von <note> auf der leichten Stufe. Wie wäre es mit einem Upgrade auf die mittlere Stufe, um weiter voranzukommen?",
-      "es": "Tienes un promedio de <note> en el nivel fácil. ¿Qué tal actualizar al nivel medio para seguir progresando?"
+      "fr": "Vous avez une moyenne de <grade> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
+      "us": "You have an average of <grade> at the easy level. How about upgrading to medium level to progress further?",
+      "it": "Hai una media di <grade> al livello facile. Che ne dici di passare al livello medio per progredire ulteriormente?",
+      "pt": "Você tem uma média de <grade> no nível fácil. Que tal atualizar para o nível médio para progredir ainda mais?",
+      "nl": "Je hebt een gemiddelde van <grade> op het makkelijke niveau. Hoe zit het met upgraden naar een gemiddeld niveau om verder te komen?",
+      "cn": "您的平均成绩为<grade>，处于简单级别。升级到中级以进一步进步怎么样？",
+      "de": "Sie haben einen Durchschnitt von <grade> auf der leichten Stufe. Wie wäre es mit einem Upgrade auf die mittlere Stufe, um weiter voranzukommen?",
+      "es": "Tienes un promedio de <grade> en el nivel fácil. ¿Qué tal actualizar al nivel medio para seguir progresando?"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
     "title": {
-      "fr": "Vous avez une moyenne de <note> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
+      "fr": "Vous avez une moyenne de <grade> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
       "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?",
-      "it": "Hai una media di <voto> al livello medio. Perché non provare il livello difficile per andare ancora oltre?",
-      "pt": "Você tem uma média de <note> no nível médio. Por que não tentar o nível difícil para ir ainda mais longe?",
-      "nl": "Je hebt een gemiddelde van <cijfer> op gemiddeld niveau. Waarom probeer je niet het moeilijke niveau om nog verder te gaan?",
-      "cn": "您的平均<等级>处于平均水平。为什么不尝试一下难度级别，走得更远呢？",
-      "de": "Sie haben einen Durchschnitt von <note> auf durchschnittlichem Niveau. Warum versuchen Sie es nicht mit dem schwierigen Level, um noch weiter zu kommen?",
-      "es": "Tienes una media de <note> en nivel medio. ¿Por qué no probar el nivel difícil para llegar aún más lejos?"
+      "it": "Hai una media di <grade> al livello medio. Perché non provare il livello difficile per andare ancora oltre?",
+      "pt": "Você tem uma média de <grade> no nível médio. Por que não tentar o nível difícil para ir ainda mais longe?",
+      "nl": "Je hebt een gemiddelde van <grade> op gemiddeld niveau. Waarom probeer je niet het moeilijke niveau om nog verder te gaan?",
+      "cn": "您的平均<grade>处于平均水平。为什么不尝试一下难度级别，走得更远呢？",
+      "de": "Sie haben einen Durchschnitt von <grade> auf durchschnittlichem Niveau. Warum versuchen Sie es nicht mit dem schwierigen Level, um noch weiter zu kommen?",
+      "es": "Tienes una media de <grade> en nivel medio. ¿Por qué no probar el nivel difícil para llegar aún más lejos?"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
     "title": {
-      "fr": "Avec une excellente moyenne de <note> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
-      "us": "With an excellent <note> average in the medium level, it would be interesting to explore the hard level!",
-      "it": "Con un'eccellente media <note> nel livello medio, sarebbe interessante esplorare il livello difficile!",
-      "pt": "Com uma excelente média <note> no nível médio, seria interessante explorar o nível difícil!",
-      "nl": "Met een uitstekend <note> gemiddelde op het middenniveau zou het interessant zijn om het harde niveau te verkennen!",
-      "cn": "中等水平的<note>平均水平非常出色，探索困难水平会​​很有趣！",
-      "de": "Mit einem hervorragenden <note>-Durchschnitt im mittleren Niveau wäre es interessant, das schwere Niveau zu erkunden!",
-      "es": "Con un promedio <note> excelente en el nivel medio, ¡sería interesante explorar el nivel difícil!"
+      "fr": "Avec une excellente moyenne de <grade> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
+      "us": "With an excellent <grade> average in the medium level, it would be interesting to explore the hard level!",
+      "it": "Con un'eccellente media <grade> nel livello medio, sarebbe interessante esplorare il livello difficile!",
+      "pt": "Com uma excelente média <grade> no nível médio, seria interessante explorar o nível difícil!",
+      "nl": "Met een uitstekend <grade> gemiddelde op het middenniveau zou het interessant zijn om het harde niveau te verkennen!",
+      "cn": "中等水平的<grade>平均水平非常出色，探索困难水平会​​很有趣！",
+      "de": "Mit einem hervorragenden <grade>-Durchschnitt im mittleren Niveau wäre es interessant, das schwere Niveau zu erkunden!",
+      "es": "Con un promedio <grade> excelente en el nivel medio, ¡sería interesante explorar el nivel difícil!"
     }
   },
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
     "title": {
-      "fr": "Vous affichez une moyenne de <note> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !",
+      "fr": "Vous affichez une moyenne de <grade> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !",
       "us": "You have an average of <score> at the average level. It's time to put your skills to the test on the difficult level!",
       "it": "Hai una media di <score> al livello medio. È tempo di mettere alla prova le tue abilità al livello difficile!",
-      "pt": "Você tem uma média de <pontuação> no nível médio. É hora de testar suas habilidades no nível difícil!",
+      "pt": "Você tem uma média de <grade> no nível médio. É hora de testar suas habilidades no nível difícil!",
       "nl": "Je hebt een gemiddelde van <score> op het gemiddelde niveau. Het is tijd om je vaardigheden op de proef te stellen op het moeilijke niveau!",
       "cn": "您的平均 <score> 处于平均水平。是时候在困难的关卡中考验你的技能了！",
       "de": "Sie haben einen Durchschnitt von <score> auf dem durchschnittlichen Niveau. Es ist Zeit, Ihre Fähigkeiten auf dem schwierigen Level unter Beweis zu stellen!",
