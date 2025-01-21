@@ -274,6 +274,7 @@
   {
     "scoreVisualisationType": "gradeDetail",
     "game": "WORDLE",
+    "subMode": "free",
     "scoreVisualisation": [
       "nbGoodAnswerDetails1",
       "nbClues"
@@ -282,8 +283,27 @@
   {
     "scoreVisualisationType": "moreInfo",
     "game": "WORDLE",
+    "subMode": "free",
     "scoreVisualisation": [
       "nbBadAnswers",
+      "time"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "WORDLE",
+    "subMode": "line",
+    "scoreVisualisation": [
+      "nbGoodAnswer",
+      "nbBadAnswers",
+      "nbClues"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "WORDLE",
+    "subMode": "line",
+    "scoreVisualisation": [
       "time"
     ]
   }
