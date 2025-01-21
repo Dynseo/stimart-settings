@@ -43,7 +43,7 @@
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "game": "COLORMIND",
+    "game": "<gameTitle>",
     "scoreColumn": "score3"
   },
   {
@@ -162,21 +162,25 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "POPBALLOON",
+    "subMode": "free",
     "scoreColumn": "score3"
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
+    "subMode": "free",
     "scoreColumn": "score3"
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "SHAPEBOX",
+    "subMode": "line",
     "scoreColumn": "score4"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
+    "subMode": "line",
     "scoreColumn": "score3"
   },
   {
@@ -252,16 +256,25 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
+    "subMode": "free",
     "scoreColumn": "score1"
   },
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
+    "subMode": "free",
     "scoreColumn": "score2"
   },
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
+    "subMode": "free",
+    "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "subMode": "line",
     "scoreColumn": "score3"
   }
 ]
