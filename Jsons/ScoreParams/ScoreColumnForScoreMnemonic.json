@@ -162,25 +162,21 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "POPBALLOON",
-    "subMode": "free",
     "scoreColumn": "score3"
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "subMode": "free",
     "scoreColumn": "score3"
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "SHAPEBOX",
-    "subMode": "line",
     "scoreColumn": "score4"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "subMode": "line",
     "scoreColumn": "score3"
   },
   {
@@ -270,6 +266,18 @@
     "game": "WORDLE",
     "subMode": "free",
     "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "subMode": "line",
+    "scoreColumn": "score1"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "subMode": "line",
+    "scoreColumn": "score2"
   },
   {
     "scoreMnemonic": "nbClues",
