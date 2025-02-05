@@ -308,6 +308,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
+    "subMode": "free",
     "isForPAPY": "FALSE",
     "isForEHPAD": "FALSE",
     "isForCOCO": "TRUE",
@@ -318,6 +319,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
+    "subMode": "free",
     "isForPAPY": "FALSE",
     "isForEHPAD": "FALSE",
     "isForCOCO": "TRUE",
@@ -328,6 +330,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
+    "subMode": "line",
     "isForPAPY": "FALSE",
     "isForEHPAD": "FALSE",
     "isForCOCO": "TRUE",
@@ -338,6 +341,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
+    "subMode": "line",
     "isForPAPY": "FALSE",
     "isForEHPAD": "FALSE",
     "isForCOCO": "TRUE",
@@ -9823,6 +9827,274 @@
     }
   },
   {
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Bravo ! Vous avez battu votre record sur <gameTitre>. Votre rapidité et votre mémoire vous ont mené droit au sommet !|Félicitations, votre vocabulaire s’étend et votre logique fait des merveilles dans cette partie.|Superbe performance ! Votre regard aiguisé trouve des mots là où personne ne les verrait.|Vous avez battu votre record avec brio. Votre esprit d’analyse est impressionnant !|Félicitations pour ce nouveau record ! Votre précision et votre concentration vous ont porté au succès.|Bravo ! Votre capacité à dénicher des mots cachés est redoutable, continuez sur cette lancée !"
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "Vous avez égalé votre record sur <gameTitre>, votre œil acéré continue de repérer des mots cachés avec brio !|Encore une belle partie, vous avez égalé votre record en trouvant des mots avec précision et rapidité.|Félicitations, record égalé ! Votre talent pour dénicher des mots cachés est toujours aussi impressionnant.|Record égalé sur <gameTitre> ! Votre capacité à repérer des connexions dans la grille est remarquable.|Bravo, vous avez égalé votre record en repérant chaque mot stratégique dans la grille.|Record égalé, votre sens de l’observation et votre vocabulaire continuent de faire des merveilles !"
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Bravo ! Vous avez dépassé votre moyenne, votre vocabulaire est vraiment impressionnant.|Super travail ! Vous trouvez les mots avec rapidité et précision.|Félicitations ! Vous avez montré de belles compétences pour analyser la grille et trouver les mots.|Bien joué ! Votre observation est solide, et vous êtes en pleine progression.|Belle performance ! Votre regard aiguisé fait toute la différence.|Bien joué ! Vous êtes sur la bonne voie pour atteindre de nouveaux records."
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Bravo ! Votre vocabulaire est vraiment impressionnant.|Super travail ! Vous trouvez les mots avec rapidité et précision.|Félicitations ! Vous avez montré de belles compétences pour analyser la grille et trouver les mots.|Bien joué ! Votre observation est solide, et vous êtes en pleine progression.|Belle performance ! Votre regard aiguisé fait toute la différence.|Bien joué ! Vous êtes sur la bonne voie pour atteindre de nouveaux records."
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous y êtes presque ! Il vous manquait juste quelques mots pour faire mieux que la moyenne.|Pas de souci, certains mots sont restés bien cachés cette fois, mais vous ferez mieux à la prochaine partie !|Cette fois, c’était un peu en dessous de la moyenne, mais avec un peu plus de temps, vous auriez trouvé tous les mots.|Ne vous découragez pas, vous êtes sur le point de repérer les mots les plus difficiles de la grille !|Un résultat en dessous de la moyenne, mais continuez à scruter chaque recoin, les mots n’attendent que vous.|Courage ! Quelques mots oubliés vous ont coûté cette fois, mais votre esprit peut clairement les dénicher !"
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "TRUE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous y êtes presque ! Il vous manquait juste quelques mots pour faire mieux !|Pas de souci, certains mots sont restés bien cachés cette fois, mais vous ferez mieux à la prochaine partie !|Vous y êtes presque, mais avec un peu plus de temps, vous auriez trouvé tous les mots.|Ne vous découragez pas, vous êtes sur le point de repérer les mots les plus difficiles de la grille !|Pas de souci, continuez à scruter chaque recoin, les mots n’attendent que vous.|Courage ! Quelques mots oubliés vous ont coûté cette fois, mais votre esprit peut clairement les dénicher !"
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Incroyable ! Vous avez trouvé tous les mots, c’est un sans-faute impressionnant !|Félicitations, 10/10 ! Vous avez parfaitement déchiffré la grille.|Bravo, c’est un score parfait ! Tous les mots ont été repérés avec une maîtrise incroyable.|Superbe ! Chaque mot a été trouvé, c’est une performance irréprochable !|Magnifique travail ! 10/10, votre concentration et votre vocabulaire sont au top.|Félicitations, un perfect score ! Vous avez exploré la grille comme un véritable expert."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> mots trouvés. Quelle progression, votre talent pour repérer les mots cachés est épatant, continuez ainsi !|Vous avez déniché <score> mots cette fois ! Votre œil de lynx et votre logique vous emmènent toujours plus loin, bravo !|Avec <score> mots découverts, vous avez prouvé que votre esprit vif ne rate rien. Continuez à vous surpasser !|<score> mots ! Quelle incroyable réussite, votre esprit d’analyse et votre vocabulaire font des étincelles !|Avec <score> mots trouvés, vous montrez que rien ne peut vous échapper. Votre concentration et votre talent sont exceptionnels !|<score> mots ! Votre agilité mentale et votre mémoire vous mènent vers des sommets, c’est impressionnant !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> mots trouvés, vous êtes toujours au sommet de votre jeu. Gardez cette régularité impressionnante !|Avec <score> mots, vous montrez une nouvelle fois que votre talent pour repérer les mots cachés ne faiblit pas.|Vous avez déniché <score> mots, égalant votre record précédent. Votre maîtrise du jeu est exemplaire !|<score> mots repérés, un résultat qui prouve une fois de plus votre regard aiguisé et votre logique redoutable !|Encore <score> mots trouvés, c’est une performance constante et admirable. Bravo pour cette régularité !|Avec <score> mots, vous avez égalé votre meilleur score. Votre talent reste à son meilleur niveau, continuez ainsi !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "<score> mots trouvés, c’est une superbe performance qui montre vos progrès constants. Continuez ainsi !|Avec <score> mots, vous êtes clairement au-dessus de la moyenne. Votre talent pour repérer les mots ne cesse de s’affiner !|<score> mots détectés, quelle progression ! Votre logique et votre observation font des merveilles.|Vous avez découvert <score> mots, bien au-delà de la moyenne. Votre agilité mentale est impressionnante, bravo !|<score> mots trouvés, c’est mieux que la moyenne, un signe de votre concentration et de vos efforts constants.|Avec <score> mots, vous confirmez votre potentiel. Continuez à explorer la grille, de nouveaux records sont à portée de main !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "<score> mots trouvés, c’est un peu en dessous de la moyenne, mais votre progression viendra avec de l’entraînement.|Avec <score> mots, vous pouvez encore affiner votre stratégie pour repérer les mots plus rapidement. Ne lâchez rien !|<score> mots détectés, c’est une performance qui peut s’améliorer. Continuez à analyser chaque recoin de la grille !|Vous avez trouvé <score> mots cette fois. La prochaine partie sera l’occasion de faire mieux et d’affiner votre méthode.|Avec <score> mots, c’est un résultat encourageant malgré tout. Continuez à travailler votre observation pour progresser !|<score> mots repérés, c’est un score qui montre votre potentiel. Gardez confiance, la prochaine partie sera la bonne !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> points ! Votre stratégie et votre persévérance sont remarquables, bravo !|<score> points à votre actif ! Vous avez une vraie maîtrise, continuez sur cette lancée !|Avec <score> points, vous montrez une détermination à toute épreuve. Votre talent est indéniable, félicitations !|<score> points ! Quelle performance éclatante, votre précision et votre esprit logique sont éblouissants !|Vous atteignez <score> points, preuve que votre concentration et votre ténacité font la différence. Bravo !|Avec <score> points, vous avez brillamment démontré que rien ne vous échappe. Votre talent est incroyable, poursuivez ainsi !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> points marqués, vous restez toujours au sommet de votre art. Quelle régularité impressionnante !|Avec <score> points, vous prouvez encore une fois que votre talent pour accumuler des points est inébranlable.|Vous avez atteint <score> points, égalant votre record précédent. Votre maîtrise du jeu est remarquable !|<score> points récoltés, un résultat qui démontre une nouvelle fois votre précision et votre logique imparable !|Encore <score> points ajoutés, c’est une constance exemplaire et admirable. Bravo pour cette performance stable !|Avec <score> points, vous avez égalé votre meilleur score. Votre niveau de jeu reste exceptionnel, poursuivez ainsi !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "<score> points marqués, une superbe performance qui met en avant vos progrès constants. Continuez ainsi !|Avec <score> points, vous dépassez nettement la moyenne. Votre talent pour optimiser votre score s’affine à chaque partie !|<score> points atteints, quelle progression ! Votre logique et votre précision font des merveilles.|Vous avez accumulé <score> points, bien au-delà de la moyenne. Votre agilité mentale est impressionnante, bravo !|<score> points obtenus, un score supérieur à la moyenne, preuve de votre concentration et de vos efforts constants.|Avec <score> points, vous confirmez votre talent. Continuez sur cette voie, de nouveaux records sont à portée de main !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "<score> points marqués, c’est un peu en dessous de la moyenne, mais avec de l’entraînement, vous progresserez vite.|Avec <score> points, il y a encore de la marge pour affiner votre stratégie et maximiser votre score. Ne lâchez rien !|<score> points, c’est une performance perfectible. Continuez à analyser chaque détail, vous gagnerez en efficacité.|Vous avez atteint <score> points cette fois. La prochaine partie sera l’occasion de faire encore mieux et d’affiner votre méthode.|Avec <score> points, c’est un résultat encourageant malgré tout. Travaillez votre approche, votre potentiel est là !|<score> points, c’est un score prometteur qui reflète votre potentiel. Gardez confiance, le progrès viendra avec persévérance !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> erreurs, quelle précision ! Votre analyse devient de plus en plus pointue, bravo !|Avec <score> erreurs, vous montrez un grand soin et une concentration remarquable. Continuez comme ça !|<score> mauvaises réponses, c’est une belle progression. Votre sens de l’observation s’affine à chaque partie !|<score> mots incorrects, votre performance est un véritable modèle de précision. Félicitations !|<score> erreurs, votre taux d’erreurs baisse et vos décisions sont de plus en plus stratégiques. Bien joué !|Avec <score> mauvaises réponses, vous franchissez une nouvelle étape. Votre esprit analytique fait des merveilles !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> erreurs, quelle précision ! Votre analyse devient de plus en plus pointue, bravo !|Avec <score> erreurs, vous montrez un grand soin et une concentration remarquable. Continuez comme ça !|<score> mauvaises réponses, c’est une belle progression. Votre sens de l’observation s’affine à chaque partie !|<score> mots incorrects, votre performance est un véritable modèle de précision. Félicitations !|<score> erreurs, votre taux d’erreurs baisse et vos décisions sont de plus en plus stratégiques. Bien joué !|Avec <score> mauvaises réponses, vous franchissez une nouvelle étape. Votre esprit analytique fait des merveilles !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Avec <score> erreurs, vous êtes en dessous de la moyenne habituelle, quelle belle précision !|<score> mauvaises réponses, c’est mieux que votre moyenne. Votre concentration vous mène vers de super résultats !|<score> erreurs cette fois-ci, votre progrès est évident. Continuez ainsi pour aller encore plus loin !|<score> fautes, c’est une belle amélioration par rapport à la moyenne. Bravo pour cette performance !|Avec <score> mauvaises réponses, vous montrez une belle maîtrise. Gardez le cap, vos efforts payent !|<score> erreurs, vous confirmez que votre précision et votre esprit affûté font toute la différence !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "<score> erreurs cette fois-ci, c’est un peu plus que d’habitude, mais ne lâchez rien, vous pouvez faire mieux !|Avec <score> mauvaises réponses, c’est une performance en dessous de la moyenne, mais vous êtes sur la bonne voie pour progresser.|<score> erreurs, cela arrive à tout le monde ! Concentrez-vous davantage à la prochaine partie pour améliorer votre score.|Vous avez fait <score> fautes, un peu au-dessus de la moyenne, mais gardez confiance, vous pouvez réduire ce nombre !|Avec <score> mauvaises réponses, c’est un défi à relever pour la prochaine partie. Votre potentiel est là, continuez !|<score> erreurs cette fois, c’est l’occasion de mieux anticiper la grille au prochain essai. Vous avez tout pour réussir !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Un score parfait avec 0 erreurs ! Votre précision est impressionnante, quelle belle performance !|Aucune faute cette fois-ci, vous êtes au sommet de votre art. Quelle démonstration de maîtrise !|0 mauvaises réponses, c’est une perfection absolue. Votre observation est tout simplement exceptionnelle !|Aucune erreur dans cette partie, vous prouvez que rien ne vous échappe. Félicitations pour ce perfect score !|0 erreurs, une performance sans le moindre faux pas. Votre talent brille à chaque partie !|Un sans-faute incroyable, avec 0 mauvaises réponses. Votre esprit affûté est en pleine forme, bravo !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> indices utilisés ! Vous commencez à devenir vraiment autonome, vos compétences se précisent !|<score> indices nécessaires, vous maîtrisez la grille comme un expert. Votre confiance en vos capacités grandit à chaque partie !|<score> indices, vous gérez la grille de plus en plus seul ! Félicitations pour cette autonomie qui ne cesse de croître !|En utilisant <score> indices, vous prouvez que vous n’avez plus besoin de soutien pour avancer. Quelle belle maîtrise !|Vous avez battu votre record avec <score> indices ! Vos compétences sont impressionnantes et vous gérez de plus en plus en toute autonomie !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> indices utilisés ! Vous commencez à devenir vraiment autonome, vos compétences se précisent !|<score> indices nécessaires, vous maîtrisez la grille comme un expert. Votre confiance en vos capacités grandit à chaque partie !|<score> indices, vous gérez la grille de plus en plus seul ! Félicitations pour cette autonomie qui ne cesse de croître !|En utilisant <score> indices, vous prouvez que vous n’avez plus besoin de soutien pour avancer. Quelle belle maîtrise !|Vous avez égalé votre record avec <score> indices ! Vos compétences sont impressionnantes et vous gérez de plus en plus en toute autonomie !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "<score> indices utilisés, c’est mieux que votre moyenne ! Votre progression est claire, continuez à affiner votre regard !|Avec seulement <score> indices, vous êtes au-dessus de votre moyenne habituelle. Votre sens de l’observation est de plus en plus aiguisé !|<score> indices seulement, un beau score au-dessus de la moyenne ! Vous affinez votre indépendance à chaque partie.|Vous avez utilisé <score> indices, une belle performance au-dessus de la moyenne. Continuez à faire confiance à votre mémoire !|<score> indices utilisés, c’est mieux que votre moyenne habituelle. Une nette amélioration dans la façon de gérer la grille !|Bravo, avec <score> indices, vous êtes au-dessus de votre moyenne ! C’est un résultat impressionnant, continuez sur cette lancée !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Vous avez utilisé <score> indices, c’est un peu plus que la moyenne. Essayez de prendre plus de temps pour repérer les mots avant de demander un indice !|<score> indices cette fois-ci, c’est au-dessus de la moyenne. Essayez de regarder l’ensemble de la grille avant de chercher un indice, cela pourra vous aider à réduire votre score !|Vous avez fait appel à <score> indices, un peu plus que la moyenne. En vous entraînant à observer plus attentivement, vous pourrez peut-être trouver plus de mots sans aide !|Vous avez utilisé <score> indices, c’est un peu plus que d’habitude. N'hésitez pas à parcourir lentement la grille et à réfléchir un peu plus avant d'utiliser un indice !|Avec <score> indices, c’est une performance au-dessus de la moyenne. Essayez de repérer les zones contenant plusieurs mots en même temps pour éviter d’utiliser trop d’indices !|Vous avez fait appel à <score> indices. La prochaine fois, essayez de focaliser votre attention sur les plus grands mots ou les mots que vous reconnaissez immédiatement pour réduire votre besoin d’indices !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "FALSE",
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice utilisé, c’est un perfect score ! Votre maîtrise de la grille est impressionnante, continuez à garder cette concentration !|Un sans-faute, aucun indice nécessaire ! Vous avez trouvé tous les mots avec une aisance impressionnante, gardez cette confiance en vous !|Zéro indice utilisé, quel exploit ! Votre observation et votre réflexion sont au top, continuez ainsi pour maintenir cette performance !|Aucun indice nécessaire pour cette partie, un perfect score impressionnant ! Vous avez montré une incroyable maîtrise et une grande autonomie dans le jeu !|Vous avez réussi à tout trouver sans recourir aux indices, c’est un score parfait ! Restez attentif comme ça, chaque mot est à votre portée !|Un perfect score avec 0 indice, magnifique ! Vous avez totalement confiance en vos compétences, et ça se voit !"
+    }
+  },
+  {
     "game": "BALL",
     "isForPAPY": "FALSE",
     "isForEHPAD": "TRUE",
@@ -16886,6 +17158,254 @@
       "es": "¡Estás en el camino correcto! Tómese el tiempo para rotar la forma correctamente antes de colocarla en el modelo.| ¡Ánimo, estás progresando! Estudia el patrón para entender dónde debe ir cada forma.| ¡Gran esfuerzo! Imagina cada forma en su lugar para organizar mejor tus movimientos.| ¡Cada paso cuenta! Asegúrese de que la forma esté orientada de la manera correcta antes de colocarla.",
       "pt": "Você está no caminho certo! Reserve um tempo para girar a forma corretamente antes de posicioná-la no modelo.| Coragem, você está progredindo! Estude o padrão para entender onde cada forma deve ficar. Grande esforço! Imagine cada forma em seu lugar para organizar melhor seus movimentos.| Cada passo conta! Certifique-se de que a forma esteja orientada da maneira correta antes de colocá-la.",
       "de": "Sie sind auf dem richtigen Weg! Nehmen Sie sich die Zeit, die Form richtig zu drehen, bevor Sie sie im Modell positionieren.| Mut, du kommst voran! Studieren Sie das Muster, um zu verstehen, wo jede Form hingehört.| Toller Aufwand! Stellen Sie sich jede Form an ihrem Platz vor, um Ihre Bewegungen besser zu organisieren.| Jeder Schritt zählt! Stellen Sie sicher, dass die Form richtig ausgerichtet ist, bevor Sie sie platzieren."
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "Bravo ! Tu as battu ton record sur <gameTitre>. Ta rapidité et ta mémoire t’ont mené droit au sommet !|Félicitations, ton vocabulaire s’étend et ta logique fait des merveilles dans cette partie.|Superbe performance ! Ton regard aiguisé trouve des mots là où personne ne les verrait.|Tu as battu ton record avec brio. Ton esprit d’analyse est impressionnant !|Félicitations pour ce nouveau record ! Ta précision et ta concentration t'ont porté au succès.|Bravo ! Ta capacité à dénicher des mots cachés est redoutable, continue sur cette lancée !"
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "Tu as égalé ton record sur <gameTitre>, ton œil acéré continue de repérer des mots cachés avec brio !|Encore une belle partie, tu as égalé ton record en trouvant des mots avec précision et rapidité.|Félicitations, record égalé ! Ton talent pour dénicher des mots cachés est toujours aussi impressionnant.|Record égalé sur <gameTitre> ! Ta capacité à repérer des connexions dans la grille est remarquable.|Bravo, tu as égalé ton record en repérant chaque mot stratégique dans la grille.|Record égalé, ton sens de l’observation et ton vocabulaire continuent de faire des merveilles !"
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Bravo ! Tu as dépassé la moyenne, ton vocabulaire est vraiment impressionnant.|Super travail ! Tu trouves les mots avec rapidité et précision.|Félicitations ! Tu as montré de belles compétences pour analyser la grille et trouver les mots.|Bien joué ! Ton observation est solide, et tu es en pleine progression.|Belle performance ! Ton regard aiguisé fait toute la différence.|Bien joué ! Tu es sur la bonne voie pour atteindre de nouveaux records. "
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Tu y es presque ! Il te manquait juste quelques mots pour faire mieux que la moyenne.|Pas de souci, certains mots sont restés bien cachés cette fois, mais tu feras mieux à la prochaine partie !|Cette fois, c’était un peu en dessous de la moyenne, mais avec un peu plus de temps, tu aurais trouvé tous les mots.|Ne te décourage pas, tu es sur le point de repérer les mots les plus difficiles de la grille !|Un résultat en dessous de la moyenne, mais continue à scruter chaque recoin, les mots n’attendent que toi.|Courage ! Quelques mots oubliés t’ont coûté cette fois, mais ton esprit peut clairement les dénicher !"
+    }
+  },
+  {
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Incroyable ! Tu as trouvé tous les mots, c’est un sans-faute impressionnant !|Félicitations, 10/10 ! Tu as parfaitement déchiffré la grille.|Bravo, c’est un score parfait ! Tous les mots ont été repérés avec une maîtrise incroyable.|Superbe ! Chaque mot a été trouvé, c’est une performance irréprochable !|Magnifique travail ! 10/10, ta concentration et ton vocabulaire sont au top.|Félicitations, un perfect score ! Tu as exploré la grille comme un véritable expert."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> mots trouvés. Quelle progression, ton talent pour repérer les mots cachés est épatant, continue comme ça !|Tu as déniché <score> mots cette fois ! Ton œil de lynx et ta logique t'emmènent toujours plus loin, bravo !|Avec <score> mots découverts, tu as prouvé que ton esprit vif ne rate rien. Continue à te surpasser !|<score> mots ! Quelle incroyable réussite, ton esprit d’analyse et ton vocabulaire font des étincelles !|Avec <score> mots trouvés, tu montres que rien ne peut t’échapper. Ta concentration et ton talent sont exceptionnels !|<score> mots ! Ton agilité mentale et ta mémoire te mènent vers des sommets, c’est impressionnant !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> mots trouvés, tu es toujours au sommet de ton jeu. Garde cette régularité impressionnante !|Avec <score> mots, tu montres une nouvelle fois que ton talent pour repérer les mots cachés ne faiblit pas.|Tu as déniché <score> mots, égalant ton record précédent. Ta maîtrise du jeu est exemplaire !|<score> mots repérés, un résultat qui prouve une fois de plus ton regard aiguisé et ta logique redoutable !|Encore <score> mots trouvés, c’est une performance constante et admirable. Bravo pour cette régularité !|Avec <score> mots, tu as égalé ton meilleur score. Ton talent reste à son meilleur niveau, continue ainsi !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "<score> mots trouvés, c’est une superbe performance qui montre tes progrès constants. Continue ainsi !|Avec <score> mots, tu es clairement au-dessus de la moyenne. Ton talent pour repérer les mots ne cesse de s’affiner !|<score> mots détectés, quelle progression ! Ta logique et ton observation font des merveilles.|Tu as découvert <score> mots, bien au-delà de la moyenne. Ton agilité mentale est impressionnante, bravo !|<score> mots trouvés, c’est mieux que la moyenne, un signe de ta concentration et de tes efforts constants.|Avec <score> mots, tu confirmes ton potentiel. Continue à explorer la grille, de nouveaux records sont à portée de main !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswer",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "<score> mots trouvés, c’est un peu en dessous de la moyenne, mais ta progression viendra avec de l’entraînement.|Avec <score> mots, tu peux encore affiner ta stratégie pour repérer les mots plus rapidement. Ne lâche rien !|<score> mots détectés, c’est une performance qui peut s’améliorer. Continue à analyser chaque recoin de la grille !|Tu as trouvé <score> mots cette fois. La prochaine partie sera l’occasion de faire mieux et d’affiner ta méthode.|Avec <score> mots, c’est un résultat encourageant malgré tout. Continue à travailler ton observation pour progresser !|<score> mots repérés, c’est un score qui montre ton potentiel. Garde confiance, la prochaine partie sera la bonne ! "
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> points ! Ta stratégie et ta persévérance sont remarquables, bravo !|<score> points à ton actif ! Tu as une vraie maîtrise, continue sur cette lancée !|Avec <score> points, tu montres une détermination à toute épreuve. Ton talent est indéniable, félicitations !|<score> points ! Quelle performance éclatante, ta précision et ton esprit logique sont éblouissants !|Tu atteins <score> points, preuve que ta concentration et ta ténacité font la différence. Bravo !|Avec <score> points, tu as brillamment démontré que rien ne t’échappe. Ton talent est incroyable, poursuis ainsi !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> points marqués, tu restes toujours au sommet de ton art. Quelle régularité impressionnante !|Avec <score> points, tu prouves encore une fois que ton talent pour accumuler des points est inébranlable.|Tu as atteint <score> points, égalant ton record précédent. Ta maîtrise du jeu est remarquable !|<score> points récoltés, un résultat qui démontre une nouvelle fois ta précision et ta logique imparable !|Encore <score> points ajoutés, c’est une constance exemplaire et admirable. Bravo pour cette performance stable !|Avec <score> points, tu as égalé ton meilleur score. Ton niveau de jeu reste exceptionnel, poursuis ainsi !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "<score> points marqués, une superbe performance qui met en avant tes progrès constants. Continue ainsi !|Avec <score> points, tu dépasses nettement la moyenne. Ton talent pour optimiser ton score s’affine à chaque partie !|<score> points atteints, quelle progression ! Ta logique et ta précision font des merveilles.|Tu as accumulé <score> points, bien au-delà de la moyenne. Ton agilité mentale est impressionnante, bravo !|<score> points obtenus, un score supérieur à la moyenne, preuve de ta concentration et de tes efforts constants.|Avec <score> points, tu confirmes ton talent. Continue sur cette voie, de nouveaux records sont à portée de main !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "<score> points marqués, c’est un peu en dessous de la moyenne, mais avec de l’entraînement, tu progresseras vite.|Avec <score> points, il y a encore de la marge pour affiner ta stratégie et maximiser ton score. Ne lâche rien !|<score> points, c’est une performance perfectible. Continue à analyser chaque détail, tu gagneras en efficacité.|Tu as atteint <score> points cette fois. La prochaine partie sera l’occasion de faire encore mieux et d’affiner ta méthode.|Avec <score> points, c’est un résultat encourageant malgré tout. Travaille ton approche, ton potentiel est là !|<score> points, c’est un score prometteur qui reflète ton potentiel. Garde confiance, le progrès viendra avec persévérance !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> erreurs, quelle précision ! Ton analyse devient de plus en plus pointue, bravo !|Avec <score> erreurs, tu montres un grand soin et une concentration remarquable. Continue comme ça !|<score> mauvaises réponses, c’est une belle progression. Ton sens de l’observation s’affine à chaque partie !| <score> mots incorrects, ta performance est un véritable modèle de précision. Félicitations !|<score> erreurs, ton taux d’erreurs baisse et tes décisions sont de plus en plus stratégiques. Bien joué !|Avec <score> mauvaises réponses, tu franchis une nouvelle étape. Ton esprit analytique fait des merveilles !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> erreurs, quelle précision ! Ton analyse devient de plus en plus pointue, bravo !|Avec <score> erreurs, tu montres un grand soin et une concentration remarquable. Continue comme ça !|<score> mauvaises réponses, c’est une belle progression. Ton sens de l’observation s’affine à chaque partie !| <score> mots incorrects, ta performance est un véritable modèle de précision. Félicitations !|<score> erreurs, ton taux d’erreurs baisse et tes décisions sont de plus en plus stratégiques. Bien joué !|Avec <score> mauvaises réponses, tu franchis une nouvelle étape. Ton esprit analytique fait des merveilles !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "Avec <score> erreurs, tu es en dessous de la moyenne habituelle, quelle belle précision !|<score> mauvaises réponses, c’est mieux que ta moyenne. Ta concentration te mène vers de super résultats !|<score> erreurs cette fois-ci, ton progrès est évident. Continue ainsi pour aller encore plus loin !| <score> fautes, c’est une belle amélioration par rapport à la moyenne. Bravo pour cette performance !|Avec <score> mauvaises réponses, tu montres une belle maîtrise. Garde le cap, tes efforts payent !|<score> erreurs, tu confirmes que ta précision et ton esprit affûté font toute la différence !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "<score> erreurs cette fois-ci, c’est un peu plus que d’habitude, mais ne lâche rien, tu peux faire mieux !|Avec <score> mauvaises réponses, c’est une performance en dessous de la moyenne, mais tu es sur la bonne voie pour progresser.|<score> erreurs, cela arrive à tout le monde ! Concentre-toi davantage à la prochaine partie pour améliorer ton score.|Tu as fait <score> fautes, un peu au-dessus de la moyenne, mais garde confiance, tu peux réduire ce nombre !|Avec <score> mauvaises réponses, c’est un défi à relever pour la prochaine partie. Ton potentiel est là, continue !|<score> erreurs cette fois, c’est l’occasion de mieux anticiper la grille au prochain essai. Tu as tout pour réussir !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Un score parfait avec 0 erreurs ! Ta précision est impressionnante, quelle belle performance !|Aucune faute cette fois-ci, tu es au sommet de ton art. Quelle démonstration de maîtrise !|0 mauvaises réponses, c’est une perfection absolue. Ton observation est tout simplement exceptionnelle !|Aucune erreur dans cette partie, tu prouves que rien ne t’échappe. Félicitations pour ce perfect score !|0 erreurs, une performance sans le moindre faux pas. Ton talent brille à chaque partie !|Un sans-faute incroyable, avec 0 mauvaises réponses. Ton esprit affûté est en pleine forme, bravo !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "newRecord",
+    "title": {
+      "fr": "<score> indices utilisés ! Tu commences à devenir vraiment autonome, tes compétences se précisent !|<score> indices nécessaires, tu maîtrises la grille comme un expert. Ta confiance en tes capacités grandit à chaque partie !|<score> indices, tu gères la grille de plus en plus seul ! Félicitations pour cette autonomie qui ne cesse de croître !|En utilisant <score> indices, tu prouves que tu n’as plus besoin de soutien pour avancer. Quelle belle maîtrise !|Tu as battu ton record avec <score> indices ! Tes compétences sont impressionnantes et tu gères de plus en plus en toute autonomie ! "
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "equalRecord",
+    "title": {
+      "fr": "<score> indices utilisés ! Tu commences à devenir vraiment autonome, tes compétences se précisent !|<score> indices nécessaires, tu maîtrises la grille comme un expert. Ta confiance en tes capacités grandit à chaque partie !|<score> indices, tu gères la grille de plus en plus seul ! Félicitations pour cette autonomie qui ne cesse de croître !|En utilisant <score> indices, tu prouves que tu n’as plus besoin de soutien pour avancer. Quelle belle maîtrise !|Tu as égalé ton record avec <score> indices ! Tes compétences sont impressionnantes et tu gères de plus en plus en toute autonomie ! "
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "bestThanAverage",
+    "title": {
+      "fr": "<score> indices utilisés, c’est mieux que ta moyenne ! Ta progression est claire, continue à affiner ton regard !|Avec seulement <score> indices, tu es au-dessus de ta moyenne habituelle. Ton sens de l’observation est de plus en plus aiguisé !|<score> indices seulement, un beau score au-dessus de la moyenne ! Tu affines ton indépendance à chaque partie.|Tu as utilisé <score> indices, une belle performance au-dessus de la moyenne. Continue à faire confiance à ta mémoire !|<score> indices utilisés, c’est mieux que ta moyenne habituelle. Une nette amélioration dans la façon de gérer la grille !|Bravo, avec <score> indices, tu es au-dessus de ta moyenne ! C’est un résultat impressionnant, continue sur cette lancée !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "worstThanAverage",
+    "title": {
+      "fr": "Tu as utilisé <score> indices, c’est un peu plus que la moyenne. Essaie de prendre plus de temps pour repérer les mots avant de demander un indice !|<score> indices cette fois-ci, c’est au-dessus de la moyenne. Essaie de regarder l’ensemble de la grille avant de chercher un indice, ça pourra t’aider à réduire ton score !|Tu as fait appel à <score> indices, un peu plus que la moyenne. En t'entraînant à observer plus attentivement, tu pourras peut-être trouver plus de mots sans aide !|Tu as utilisé <score> indices, c’est un peu plus que d’habitude. N'hésite pas à parcourir lentement la grille et à réfléchir un peu plus avant d'utiliser un indice !|Avec <score> indices, c’est une performance au-dessus de la moyenne. Essaie de repérer les zones contenant plusieurs mots en même temps pour éviter d’utiliser trop d’indices !|Tu as fait appel à <score> indices. La prochaine fois, essaye de focaliser ton attention sur les plus grands mots ou les mots que tu reconnais immédiatement pour réduire ton besoin d’indices !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
+    "isForPAPY": "FALSE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "interactionType": "perfectScore",
+    "title": {
+      "fr": "Aucun indice utilisé, c’est un perfect score ! Ta maîtrise de la grille est impressionnante, continue à garder cette concentration !|Un sans-faute, aucun indice nécessaire ! Tu as trouvé tous les mots avec une aisance impressionnante, garde cette confiance en toi !|Zéro indice utilisé, quel exploit ! Ton observation et ta réflexion sont au top, continue ainsi pour maintenir cette performance !|Aucun indice nécessaire pour cette partie, un perfect score impressionnant ! Tu as montré une incroyable maîtrise et une grande autonomie dans le jeu !|Tu as réussi à tout trouver sans recourir aux indices, c’est un score parfait ! Reste attentif comme ça, chaque mot est à ta portée !|Un perfect score avec 0 indice, magnifique ! Tu as totalement confiance en tes compétences, et ça se voit !"
     }
   }
 ]
