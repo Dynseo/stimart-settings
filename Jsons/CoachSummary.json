@@ -373,14 +373,14 @@
     "isForEHPAD": true,
     "isForPAPY": false,
     "title": {
-      "fr": "Jouer régulièrement à <gameName> est une belle habitude. Si cela vous plaît, pourquoi ne pas essayer un autre jeu pour varier un peu ? Je peux vous conseiller <gamename2>, il devrait vous plaire ! ",
-      "us": "Playing <gameName> regularly is a great habit. If you like it, why not try another game for a little variety? I can advise you <gamename2>, you should like it! ",
-      "it": "Giocare regolarmente a <gameName> è un'ottima abitudine. Se ti piace, perché non provare un altro gioco per un po' di varietà? Posso consigliarti <gamename2>, ti dovrebbe piacere! ",
-      "pt": "Jogar <gameName> regularmente é um ótimo hábito. Se você gosta, por que não experimentar outro jogo para variar um pouco? Posso te aconselhar <gamename2>, você vai gostar! ",
-      "nl": "Regelmatig <gameName> spelen is een goede gewoonte. Als je het leuk vindt, waarom probeer je dan niet een ander spel voor een beetje variatie? Ik kan je <gamename2> adviseren, je zou het leuk moeten vinden! ",
-      "cn": "经常玩<gameName>是一个很好的习惯。如果您喜欢它，为什么不尝试其他游戏来尝试一下呢？我可以建议你<gamename2>，你应该喜欢它！ ",
-      "de": "Regelmäßiges Spielen von <gameName> ist eine tolle Angewohnheit. Wenn es Ihnen gefällt, probieren Sie für etwas Abwechslung doch mal ein anderes Spiel aus. Ich kann dir raten <gamename2>, es sollte dir gefallen! ",
-      "es": "Jugar <gameName> con regularidad es un gran hábito. Si te gusta, ¿por qué no pruebas con otro juego para tener un poco de variedad? Puedo aconsejarte <gamename2>, ¡te gustará! "
+      "fr": "Jouer régulièrement à <gameName> est une belle habitude. Si cela vous plaît, pourquoi ne pas essayer un autre jeu pour varier un peu ? Je peux vous conseiller <gameName2>, il devrait vous plaire ! ",
+      "us": "Playing <gameName> regularly is a great habit. If you like it, why not try another game for a little variety? I can advise you <gameName2>, you should like it! ",
+      "it": "Giocare regolarmente a <gameName> è un'ottima abitudine. Se ti piace, perché non provare un altro gioco per un po' di varietà? Posso consigliarti <gameName2>, ti dovrebbe piacere! ",
+      "pt": "Jogar <gameName> regularmente é um ótimo hábito. Se você gosta, por que não experimentar outro jogo para variar um pouco? Posso te aconselhar <gameName2>, você vai gostar! ",
+      "nl": "Regelmatig <gameName> spelen is een goede gewoonte. Als je het leuk vindt, waarom probeer je dan niet een ander spel voor een beetje variatie? Ik kan je <gameName2> adviseren, je zou het leuk moeten vinden! ",
+      "cn": "经常玩<gameName>是一个很好的习惯。如果您喜欢它，为什么不尝试其他游戏来尝试一下呢？我可以建议你<gameName2>，你应该喜欢它！ ",
+      "de": "Regelmäßiges Spielen von <gameName> ist eine tolle Angewohnheit. Wenn es Ihnen gefällt, probieren Sie für etwas Abwechslung doch mal ein anderes Spiel aus. Ich kann dir raten <gameName2>, es sollte dir gefallen! ",
+      "es": "Jugar <gameName> con regularidad es un gran hábito. Si te gusta, ¿por qué no pruebas con otro juego para tener un poco de variedad? Puedo aconsejarte <gameName2>, ¡te gustará! "
     }
   },
   {
