@@ -672,7 +672,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -688,7 +688,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -704,7 +704,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -720,7 +720,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -736,7 +736,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -752,7 +752,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -768,7 +768,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -784,7 +784,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -800,7 +800,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -816,7 +816,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -832,7 +832,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -848,7 +848,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -864,7 +864,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -880,7 +880,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
@@ -896,7 +896,7 @@
     }
   },
   {
-    "mnemo": "conclusion",
+    "mnemo": "cognitiveFunctionWorked",
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
