@@ -2,6 +2,8 @@
   {
     "mnemo": "greeting",
     "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
     "title": {
       "fr": "Bonjour <playerName> ! Voici votre bilan hebdomadaire :",
       "us": "Hello <playerName>! Here is your weekly report:",
@@ -16,6 +18,8 @@
   {
     "mnemo": "greeting",
     "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
     "title": {
       "fr": "Bonjour <playerName>, un aperçu de vos performances cette semaine :",
       "us": "Hello <playerName>, an overview of your performance this week:",
@@ -30,6 +34,8 @@
   {
     "mnemo": "greeting",
     "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
     "title": {
       "fr": "<playerName>, voici vos statistiques de la semaine : ",
       "us": "<playerName>, here are your stats for the week: ",
@@ -44,6 +50,8 @@
   {
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Félicitations pour votre engagement ! ",
       "us": "You've played at least three days this week, which is great for keeping your brain in shape. Congratulations on your commitment! ",
@@ -58,6 +66,8 @@
   {
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez joué au moins trois jours cette semaine, c’est un bel engagement. Continuez sur cette lancée !  ",
       "us": "You played at least three days this week, that’s a great commitment. Keep this momentum going!  ",
@@ -72,6 +82,8 @@
   {
     "mnemo": "regularity",
     "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Au moins trois jours de jeu cette semaine, un beau rythme pour progresser. Bien joué !",
       "us": "At least three days of play this week, a good pace to progress. Well done!",
@@ -85,7 +97,57 @@
   },
   {
     "mnemo": "regularity",
+    "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Trois jours ou plus de jeu cette semaine, c’est une belle habitude qui aide votre mémoire et votre concentration. Continuez ainsi à votre rythme !",
+      "us": "Three or more days of play this week is a great habit that helps your memory and concentration. Continue at your own pace!",
+      "it": "Tre o più giorni di gioco questa settimana sono un'ottima abitudine che aiuta la memoria e la concentrazione. Continua al tuo ritmo!",
+      "pt": "Três ou mais dias de jogo esta semana é um ótimo hábito que ajuda a memória e a concentração. Continue no seu próprio ritmo!",
+      "nl": "Drie of meer dagen spelen deze week is een goede gewoonte die je geheugen en concentratie ten goede komt. Ga verder in je eigen tempo!",
+      "cn": "本周玩三天或以上是一个很好的习惯，可以帮助你的记忆力和注意力。按照自己的节奏继续！",
+      "de": "Drei oder mehr Spieltage in dieser Woche sind eine tolle Angewohnheit, die Ihr Gedächtnis und Ihre Konzentration fördert. Fahren Sie in Ihrem eigenen Tempo fort!",
+      "es": "Tres o más días de juego esta semana es un gran hábito que ayuda a tu memoria y concentración. ¡Continúa a tu propio ritmo!"
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Vous avez joué régulièrement cette semaine, et c’est une très bonne chose pour stimuler votre mémoire. J'espère que les jeux vous ont plu ! ",
+      "us": "You have been playing regularly this week, and that is a very good thing for stimulating your memory. I hope you enjoyed the games! ",
+      "it": "Hai giocato regolarmente questa settimana e questa è un'ottima cosa per stimolare la tua memoria. Spero che i giochi ti siano piaciuti! ",
+      "pt": "Você tem jogado regularmente esta semana e isso é muito bom para estimular sua memória. Espero que tenham gostado dos jogos! ",
+      "nl": "Je hebt deze week regelmatig gespeeld en dat is heel goed voor het stimuleren van je geheugen. Ik hoop dat je genoten hebt van de spellen! ",
+      "cn": "这周你经常玩游戏，这对于激发你的记忆力是一件非常好的事情。我希望你喜欢这些游戏！ ",
+      "de": "Sie haben diese Woche regelmäßig gespielt, und das ist sehr gut für die Anregung Ihres Gedächtnisses. Ich hoffe, die Spiele haben euch gefallen! ",
+      "es": "Has estado jugando con regularidad esta semana y eso es muy bueno para estimular tu memoria. ¡Espero que hayas disfrutado de los juegos! "
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Vous avez joué plusieurs jours cette semaine, et c’est une belle façon d’entretenir votre mémoire et votre concentration. Continuez à votre rythme et surtout, amusez-vous !",
+      "us": "You've played several days this week, and it's a great way to maintain your memory and concentration. Continue at your own pace and above all, have fun!",
+      "it": "Hai giocato diversi giorni questa settimana ed è un ottimo modo per mantenere la memoria e la concentrazione. Prosegui con il tuo ritmo e, soprattutto, divertiti!",
+      "pt": "Você jogou vários dias esta semana e é uma ótima maneira de manter a memória e a concentração. Continue no seu ritmo e acima de tudo, divirta-se!",
+      "nl": "Je hebt deze week een aantal dagen gespeeld en het is een geweldige manier om je geheugen en concentratie op peil te houden. Ga verder in je eigen tempo en vooral: veel plezier!",
+      "cn": "这周你已经玩了几天了，这是保持记忆力和注意力的好方法。按照自己的节奏继续，最重要的是，玩得开心！",
+      "de": "Sie haben diese Woche mehrere Tage gespielt und es ist eine großartige Möglichkeit, Ihr Gedächtnis und Ihre Konzentration zu bewahren. Gehen Sie in Ihrem eigenen Tempo weiter und haben Sie vor allem Spaß!",
+      "es": "Has jugado varios días esta semana y es una excelente manera de mantener la memoria y la concentración. ¡Continúa a tu propio ritmo y sobre todo, diviértete!"
+    }
+  },
+  {
+    "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est la clé pour maximiser les bienfaits.",
       "us": "You played less than three days this week. Remember, regularity is the key to maximizing benefits.",
@@ -100,6 +162,8 @@
   {
     "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Moins de trois jours de jeu cette semaine. N’oubliez pas, la pratique régulière est essentielle pour progresser.",
       "us": "Less than three days of play this week. Remember, regular practice is essential to progress.",
@@ -114,6 +178,8 @@
   {
     "mnemo": "regularity",
     "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. Un peu plus de constance vous aidera à maximiser vos performances.",
       "us": "You played less than three days this week. A little more consistency will help you maximize your performance.",
@@ -126,8 +192,58 @@
     }
   },
   {
+    "mnemo": "regularity",
+    "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Parfois, il est difficile de jouer régulièrement, et c’est tout à fait normal. Si besoin, n’hésitez pas à demander à un proche de vous accompagner pour un moment convivial.",
+      "us": "Sometimes it's difficult to play consistently, and that's completely normal. If necessary, do not hesitate to ask a loved one to accompany you for a friendly moment.",
+      "it": "A volte è difficile giocare con costanza, e questo è del tutto normale. Se necessario, non esitate a chiedere a una persona cara di accompagnarvi per un momento conviviale.",
+      "pt": "Às vezes é difícil jogar de forma consistente e isso é completamente normal. Se necessário, não hesite em pedir a um ente querido que o acompanhe num momento de amizade.",
+      "nl": "Soms is het moeilijk om consistent te spelen, en dat is volkomen normaal. Aarzel indien nodig niet om een ​​dierbare te vragen u te vergezellen voor een vriendelijk moment.",
+      "cn": "有时很难保持一致的演奏，这是完全正常的。如有必要，请毫不犹豫地邀请您所爱的人陪伴您度过一段友好的时光。",
+      "de": "Manchmal ist es schwierig, konstant zu spielen, und das ist völlig normal. Zögern Sie bei Bedarf nicht, einen geliebten Menschen zu bitten, Sie für einen freundlichen Moment zu begleiten.",
+      "es": "A veces es difícil jugar de forma consistente y eso es completamente normal. Si es necesario, no dudes en pedirle a un ser querido que te acompañe en un momento amistoso."
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Même si vous n’avez pas joué autant que vous l’auriez souhaité, chaque partie compte. L’important est de se faire plaisir !",
+      "us": "Even if you haven't played as much as you would have liked, every game counts. The important thing is to have fun!",
+      "it": "Anche se non hai giocato quanto avresti voluto, ogni partita conta. L'importante è divertirsi!",
+      "pt": "Mesmo que você não tenha jogado tanto quanto gostaria, cada jogo conta. O importante é se divertir!",
+      "nl": "Zelfs als je niet zoveel hebt gespeeld als je had gewild, telt elk spel. Het belangrijkste is om plezier te hebben!",
+      "cn": "即使你没有玩到你想要的那么多，每场比赛都很重要。重要的是玩得开心！",
+      "de": "Auch wenn Sie nicht so viel gespielt haben, wie Sie gerne hätten, zählt jedes Spiel. Das Wichtigste ist, Spaß zu haben!",
+      "es": "Incluso si no has jugado tanto como te hubiera gustado, cada partida cuenta. ¡Lo importante es divertirse!"
+    }
+  },
+  {
+    "mnemo": "regularity",
+    "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Chaque partie jouée est une belle victoire. Si vous souhaitez jouer plus souvent, vous pouvez demander un petit coup de main à un proche pour vous aider à démarrer.\n",
+      "us": "Every game played is a great victory. If you want to play more often, you can ask a loved one for a little help to get you started.\n",
+      "it": "Ogni partita giocata è una grande vittoria. Se vuoi giocare più spesso, puoi chiedere a una persona cara un piccolo aiuto per iniziare.\n",
+      "pt": "Cada jogo disputado é uma grande vitória. Se quiser jogar com mais frequência, você pode pedir uma ajudinha a alguém querido para começar.\n",
+      "nl": "Elke gespeelde wedstrijd is een grote overwinning. Als je vaker wilt spelen, kun je een geliefde om wat hulp vragen om aan de slag te gaan.\n",
+      "cn": "每场比赛都是一场伟大的胜利。如果您想更频繁地玩游戏，可以向您所爱的人寻求一点帮助来帮助您开始游戏。\n",
+      "de": "Jedes gespielte Spiel ist ein großer Sieg. Wenn Sie öfter spielen möchten, können Sie einen geliebten Menschen um ein wenig Hilfe bitten, um Ihnen den Einstieg zu erleichtern.\n",
+      "es": "Cada partido jugado es una gran victoria. Si quieres jugar más a menudo, puedes pedirle un poco de ayuda a un ser querido para empezar.\n"
+    }
+  },
+  {
     "mnemo": "gameDiversity",
     "condition": "moreThan5GamesThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Bravo pour la diversité de vos choix de jeux ! ",
       "us": "You play a wide range of games, which is ideal for stimulating several cognitive functions. Bravo for the diversity of your game choices! ",
@@ -142,6 +258,8 @@
   {
     "mnemo": "gameDiversity",
     "condition": "moreThan5GamesThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez testé différents jeux cette semaine, un excellent moyen de travailler différentes parties de votre cerveau. Continuez !",
       "us": "You've tried different games this week, a great way to work different parts of your brain. Keep going!",
@@ -156,6 +274,8 @@
   {
     "mnemo": "gameDiversity",
     "condition": "moreThan5GamesThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": true,
     "title": {
       "fr": "Plus de cinq jeux différents cette semaine ! Cette variété est idéale pour maximiser votre agilité mentale.",
       "us": "More than five different games this week! This strain is ideal for maximizing your mental agility.",
@@ -170,6 +290,8 @@
   {
     "mnemo": "gameDiversity",
     "condition": "lessThan5GamesThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités en <cognitiveFunction>, et vous avez montré une belle constance dans cette activité.",
       "us": "You mainly play <gameName>. This is an excellent choice! This game works on your <cognitiveFunction> skills, and you have shown great consistency in this activity.",
@@ -184,6 +306,8 @@
   {
     "mnemo": "gameDiversity",
     "condition": "lessThan5GamesThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous vous concentrez principalement sur <gameName>, un excellent choix pour renforcer vos capacités en <cognitiveFunction>.",
       "us": "You mainly focus on <gameName>, an excellent choice for strengthening your abilities in <cognitiveFunction>.",
@@ -198,6 +322,8 @@
   {
     "mnemo": "gameDiversity",
     "condition": "lessThan5GamesThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous privilégiez <gameName>, ce qui est excellent pour améliorer votre <cognitiveFunction>.",
       "us": "You favor <gameName>, which is great for improving your <cognitiveFunction>.",
@@ -210,50 +336,106 @@
     }
   },
   {
-    "mnemo": "progress",
-    "condition": "didProgressInAGame",
+    "mnemo": "gameDiversity",
+    "condition": "lessThan5GamesThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
     "title": {
-      "fr": "Nous avons remarqué des progrès notables dans <gameTitle>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. ",
-      "us": "We've noticed some notable progress in <gameTitle>. You improve your overall performance, and it shows that your efforts are paying off. ",
-      "it": "Abbiamo notato alcuni progressi notevoli in <gameTitle>. Migliori le tue prestazioni complessive e ciò dimostra che i tuoi sforzi stanno dando i loro frutti. ",
-      "pt": "Notamos alguns progressos notáveis ​​em <gameTitle>. Você melhora seu desempenho geral e isso mostra que seus esforços estão valendo a pena. ",
-      "nl": "We hebben opmerkelijke vooruitgang opgemerkt in <gameTitle>. U verbetert uw algehele prestaties en het laat zien dat uw inspanningen vruchten afwerpen. ",
-      "cn": "我们注意到 <gameTitle> 取得了一些显着的进展。你提高了你的整体表现，这表明你的努力得到了回报。 ",
-      "de": "Wir haben einige bemerkenswerte Fortschritte bei <gameTitle> festgestellt. Sie verbessern Ihre Gesamtleistung und es zeigt, dass sich Ihre Bemühungen auszahlen. ",
-      "es": "Hemos notado un progreso notable en <gameTitle>. Mejora su rendimiento general y demuestra que sus esfuerzos están dando sus frutos. "
+      "fr": "\nVous aimez beaucoup le jeu <gameName> : il vous convient bien, et c’est l’essentiel. Continuez à en profiter à votre rythme !",
+      "us": "\nYou really like the game <gameName>: it suits you well, and that's the main thing. Continue to enjoy it at your own pace!",
+      "it": "\nTi piace molto il gioco <gameName>: ti sta bene, e questa è la cosa principale. Continua a godertelo al tuo ritmo!",
+      "pt": "\nVocê realmente gosta do jogo <gameName>: combina bem com você e isso é o principal. Continue aproveitando no seu próprio ritmo!",
+      "nl": "\nJe vindt het spel <gameName> erg leuk: het past goed bij je, en dat is het belangrijkste. Blijf ervan genieten in je eigen tempo!",
+      "cn": "\n你真的很喜欢这个游戏<gameName>：它很适合你，这是最重要的。继续按照自己的节奏享受吧！",
+      "de": "\nDir gefällt das Spiel <gameName> wirklich: Es passt gut zu dir, und das ist die Hauptsache. Genießen Sie es weiterhin in Ihrem eigenen Tempo!",
+      "es": "\nTe gusta mucho el juego <gameName>: te sienta bien y eso es lo principal. ¡Continúa disfrutándolo a tu propio ritmo!"
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "lessThan5GamesThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "<gameName> vous plaît particulièrement, et c’est une très bonne chose. Ce jeu sollicite votre <cognitiveFunction> de manière douce et agréable. Profitez-en ! Je vous invite également à découvrir <gameName2> qui pourrait également vous plaire.",
+      "us": "You particularly like <gameName>, and that's a very good thing. This game uses your <cognitiveFunction> in a gentle and pleasant way. Enjoy! I also invite you to discover <gameName2> which you might also like.",
+      "it": "Ti piace particolarmente <gameName>, e questa è un'ottima cosa. Questo gioco utilizza la tua <cognitiveFunction> in modo gentile e piacevole. Godere! Ti invito anche a scoprire <gameName2> che potrebbe piacerti.",
+      "pt": "Você gosta particularmente de <gameName>, e isso é uma coisa muito boa. Este jogo usa sua <cognitiveFunction> de uma forma gentil e agradável. Aproveitar! Também convido você a descobrir <gameName2> do qual você também pode gostar.",
+      "nl": "Je houdt vooral van <gameName>, en dat is heel goed. Dit spel gebruikt je <cognitiveFunction> op een zachte en prettige manier. Genieten! Ik nodig je ook uit om <gameName2> te ontdekken, wat je misschien ook leuk vindt.",
+      "cn": "你特别喜欢<gameName>，这是一件非常好的事情。这个游戏以一种温和而愉快的方式使用你的<cognitiveFunction>。享受！我还邀请您发现您可能也会喜欢的<gameName2>。",
+      "de": "<gameName> gefällt Dir besonders gut, und das ist auch gut so. Dieses Spiel nutzt Ihre <cognitiveFunction> auf sanfte und angenehme Weise. Genießen! Ich lade Sie auch ein, <gameName2> zu entdecken, das Ihnen auch gefallen könnte.",
+      "es": "Te gusta especialmente <gameName>, y eso es algo muy bueno. Este juego utiliza tu <cognitiveFunction> de una manera suave y placentera. ¡Disfrutar! También te invito a descubrir <gameName2> que también te puede gustar."
+    }
+  },
+  {
+    "mnemo": "gameDiversity",
+    "condition": "lessThan5GamesThisWeek",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Jouer régulièrement à <gameName> est une belle habitude. Si cela vous plaît, pourquoi ne pas essayer un autre jeu pour varier un peu ? Je peux vous conseiller <gamename2>, il devrait vous plaire ! ",
+      "us": "Playing <gameName> regularly is a great habit. If you like it, why not try another game for a little variety? I can advise you <gamename2>, you should like it! ",
+      "it": "Giocare regolarmente a <gameName> è un'ottima abitudine. Se ti piace, perché non provare un altro gioco per un po' di varietà? Posso consigliarti <gamename2>, ti dovrebbe piacere! ",
+      "pt": "Jogar <gameName> regularmente é um ótimo hábito. Se você gosta, por que não experimentar outro jogo para variar um pouco? Posso te aconselhar <gamename2>, você vai gostar! ",
+      "nl": "Regelmatig <gameName> spelen is een goede gewoonte. Als je het leuk vindt, waarom probeer je dan niet een ander spel voor een beetje variatie? Ik kan je <gamename2> adviseren, je zou het leuk moeten vinden! ",
+      "cn": "经常玩<gameName>是一个很好的习惯。如果您喜欢它，为什么不尝试其他游戏来尝试一下呢？我可以建议你<gamename2>，你应该喜欢它！ ",
+      "de": "Regelmäßiges Spielen von <gameName> ist eine tolle Angewohnheit. Wenn es Ihnen gefällt, probieren Sie für etwas Abwechslung doch mal ein anderes Spiel aus. Ich kann dir raten <gamename2>, es sollte dir gefallen! ",
+      "es": "Jugar <gameName> con regularidad es un gran hábito. Si te gusta, ¿por qué no pruebas con otro juego para tener un poco de variedad? Puedo aconsejarte <gamename2>, ¡te gustará! "
     }
   },
   {
     "mnemo": "progress",
     "condition": "didProgressInAGame",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
-      "fr": "Vous avez fait des avancées remarquables dans <gameTitle>. Vos efforts sont clairement visibles !",
-      "us": "You have made remarkable progress in <gameTitle>. Your efforts are clearly visible!",
-      "it": "Hai fatto notevoli progressi in <gameTitle>. I tuoi sforzi sono chiaramente visibili!",
-      "pt": "Você fez um progresso notável em <gameTitle>. Seus esforços são claramente visíveis!",
-      "nl": "Je hebt opmerkelijke vooruitgang geboekt in <gameTitle>. Jouw inspanningen zijn duidelijk zichtbaar!",
-      "cn": "您在<gameTitle>中取得了显着的进步。你的努力是有目共睹的！",
-      "de": "Sie haben in <gameTitle> bemerkenswerte Fortschritte gemacht. Ihr Einsatz ist deutlich sichtbar!",
-      "es": "Has logrado un progreso notable en <gameTitle>. ¡Tus esfuerzos son claramente visibles!"
+      "fr": "Nous avons remarqué des progrès notables dans <gameName>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. ",
+      "us": "We've noticed some notable progress in <gameName>. You improve your overall performance, and it shows that your efforts are paying off. ",
+      "it": "Abbiamo notato alcuni progressi notevoli in <gameName>. Migliori le tue prestazioni complessive e ciò dimostra che i tuoi sforzi stanno dando i loro frutti. ",
+      "pt": "Notamos alguns progressos notáveis ​​em <gameName>. Você melhora seu desempenho geral e isso mostra que seus esforços estão valendo a pena. ",
+      "nl": "We hebben opmerkelijke vooruitgang opgemerkt in <gameName>. U verbetert uw algehele prestaties en het laat zien dat uw inspanningen vruchten afwerpen. ",
+      "cn": "我们注意到 <gameName> 取得了一些显着的进展。你提高了你的整体表现，这表明你的努力得到了回报。 ",
+      "de": "Wir haben einige bemerkenswerte Fortschritte bei <gameName> festgestellt. Sie verbessern Ihre Gesamtleistung und es zeigt, dass sich Ihre Bemühungen auszahlen. ",
+      "es": "Hemos notado un progreso notable en <gameName>. Mejora su rendimiento general y demuestra que sus esfuerzos están dando sus frutos. "
     }
   },
   {
     "mnemo": "progress",
     "condition": "didProgressInAGame",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
-      "fr": "Vous avez amélioré vos performances dans <gameTitle>. Continuez comme ça, ça paye !",
-      "us": "You have improved your performance in <gameTitle>. Keep it up, it’s paying off!",
-      "it": "Hai migliorato le tue prestazioni in <gameTitle>. Continua così, sta dando i suoi frutti!",
-      "pt": "Você melhorou seu desempenho em <gameTitle>. Continue assim, está valendo a pena!",
-      "nl": "Je hebt je prestaties in <gameTitle> verbeterd. Ga zo door, het werpt zijn vruchten af!",
-      "cn": "您在 <gameTitle> 中的表现有所提高。坚持下去，就会有回报！",
-      "de": "Sie haben Ihre Leistung in <gameTitle> verbessert. Weiter so, es zahlt sich aus!",
-      "es": "Has mejorado tu rendimiento en <gameTitle>. ¡Sigue así, está dando sus frutos!"
+      "fr": "Vous avez fait des avancées remarquables dans <gameName>. Vos efforts sont clairement visibles !",
+      "us": "You have made remarkable progress in <gameName>. Your efforts are clearly visible!",
+      "it": "Hai fatto notevoli progressi in <gameName>. I tuoi sforzi sono chiaramente visibili!",
+      "pt": "Você fez um progresso notável em <gameName>. Seus esforços são claramente visíveis!",
+      "nl": "Je hebt opmerkelijke vooruitgang geboekt in <gameName>. Jouw inspanningen zijn duidelijk zichtbaar!",
+      "cn": "您在<gameName>中取得了显着的进步。你的努力是有目共睹的！",
+      "de": "Sie haben in <gameName> bemerkenswerte Fortschritte gemacht. Ihr Einsatz ist deutlich sichtbar!",
+      "es": "Has logrado un progreso notable en <gameName>. ¡Tus esfuerzos son claramente visibles!"
+    }
+  },
+  {
+    "mnemo": "progress",
+    "condition": "didProgressInAGame",
+    "isForEHPAD": false,
+    "isForPAPY": true,
+    "title": {
+      "fr": "Vous avez amélioré vos performances dans <gameName>. Continuez comme ça, ça paye !",
+      "us": "You have improved your performance in <gameName>. Keep it up, it’s paying off!",
+      "it": "Hai migliorato le tue prestazioni in <gameName>. Continua così, sta dando i suoi frutti!",
+      "pt": "Você melhorou seu desempenho em <gameName>. Continue assim, está valendo a pena!",
+      "nl": "Je hebt je prestaties in <gameName> verbeterd. Ga zo door, het werpt zijn vruchten af!",
+      "cn": "您在 <gameName> 中的表现有所提高。坚持下去，就会有回报！",
+      "de": "Sie haben Ihre Leistung in <gameName> verbessert. Weiter so, es zahlt sich aus!",
+      "es": "Has mejorado tu rendimiento en <gameName>. ¡Sigue así, está dando sus frutos!"
     }
   },
   {
     "mnemo": "trophy",
     "condition": "newTrophy",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez gagné le trophée <trophy> ! Continuez à relever les défis pour compléter votre collection.",
       "us": "You have won the <trophy> trophy! Continue to complete the challenges to complete your collection.",
@@ -268,6 +450,8 @@
   {
     "mnemo": "trophy",
     "condition": "newTrophy",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez remporté le trophée <trophy>. Continuez à progresser pour en obtenir d’autres.",
       "us": "You have won the <trophy> trophy. Keep progressing to get more.",
@@ -282,6 +466,8 @@
   {
     "mnemo": "trophy",
     "condition": "newTrophy",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez décroché le trophée <trophy>. Continuez à relever des défis pour en gagner davantage.",
       "us": "You have won the <trophy> trophy. Continue to complete challenges to earn more.",
@@ -296,6 +482,8 @@
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Votre moyenne au niveau facile est de <grade>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
       "us": "Your average at the easy level is <grade>. Why not upgrade to medium level for more challenges?",
@@ -310,6 +498,8 @@
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez obtenu une moyenne de <grade> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !",
       "us": "You achieved an average of <grade> in the easy level. It's time to try the medium level for more stimulation!",
@@ -324,6 +514,8 @@
   {
     "mnemo": "level",
     "condition": "goodScoreInEasyLevel",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez une moyenne de <grade> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
       "us": "You have an average of <grade> at the easy level. How about upgrading to medium level to progress further?",
@@ -338,6 +530,8 @@
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous avez une moyenne de <grade> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
       "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?",
@@ -352,6 +546,8 @@
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Avec une excellente moyenne de <grade> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
       "us": "With an excellent <grade> average in the medium level, it would be interesting to explore the hard level!",
@@ -366,9 +562,11 @@
   {
     "mnemo": "level",
     "condition": "goodScoreInMediumLevel",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Vous affichez une moyenne de <grade> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !",
-      "us": "You have an average of <score> at the average level. It's time to put your skills to the test on the difficult level!",
+      "us": "You have an average of <grade> at the average level. It's time to put your skills to the test on the difficult level!",
       "it": "Hai una media di <score> al livello medio. È tempo di mettere alla prova le tue abilità al livello difficile!",
       "pt": "Você tem uma média de <grade> no nível médio. É hora de testar suas habilidades no nível difícil!",
       "nl": "Je hebt een gemiddelde van <score> op het gemiddelde niveau. Het is tijd om je vaardigheden op de proef te stellen op het moeilijke niveau!",
@@ -380,6 +578,8 @@
   {
     "mnemo": "conclusion",
     "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Continuez à explorer différentes options pour renforcer encore plus vos capacités.",
       "us": "Continue to explore different options to strengthen your abilities even further.",
@@ -394,6 +594,8 @@
   {
     "mnemo": "conclusion",
     "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Poursuivez cette belle dynamique en explorant de nouveaux défis et en affinant vos compétences.",
       "us": "Continue this great dynamic by exploring new challenges and refining your skills.",
@@ -408,6 +610,8 @@
   {
     "mnemo": "conclusion",
     "condition": "moreThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Restez engagé et continuez à explorer de nouvelles options pour enrichir votre expérience de jeu.",
       "us": "Stay engaged and continue to explore new options to enrich your gaming experience.",
@@ -422,6 +626,8 @@
   {
     "mnemo": "conclusion",
     "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances.",
       "us": "Try playing a little more often, it will make a difference to your performance.",
@@ -436,6 +642,8 @@
   {
     "mnemo": "conclusion",
     "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances.",
       "us": "Try increasing your playing time, it could really improve your performance.",
@@ -450,6 +658,8 @@
   {
     "mnemo": "conclusion",
     "condition": "lessThan3PlaysThisWeek",
+    "isForEHPAD": false,
+    "isForPAPY": true,
     "title": {
       "fr": "En jouant un peu plus régulièrement, vous verrez des améliorations notables dans vos performances.",
       "us": "By playing a little more regularly, you will see noticeable improvements in your performance.",
@@ -460,5 +670,4325 @@
       "de": "Wenn Sie etwas regelmäßiger spielen, werden Sie spürbare Verbesserungen Ihrer Leistung feststellen.",
       "es": "Si juegas con un poco más de regularidad, verás mejoras notables en tu rendimiento."
     }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeAttentionGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Je vois que vous aimez les défis qui sollicitent votre attention, une belle façon d’exercer votre vigilance et votre concentration tout en vous amusant. Voici une astuce qui pourrait vous aider à aller encore plus loin : faire des pauses si nécessaire. L’attention fonctionne mieux lorsqu’elle est sollicitée par courtes périodes. N’hésitez pas à souffler entre deux parties.",
+      "us": "I see that you like challenges that require your attention, a great way to exercise your alertness and concentration while having fun. Here's a tip that could help you go even further: take breaks if necessary. Attention works best when required in short bursts. Don’t hesitate to breathe between two games.",
+      "it": "Vedo che ti piacciono le sfide che richiedono la tua attenzione, un ottimo modo per esercitare la tua attenzione e concentrazione divertendoti. Ecco un consiglio che potrebbe aiutarti ad andare ancora oltre: fai delle pause se necessario. L'attenzione funziona meglio quando richiesta in brevi periodi. Non esitate a respirare tra due partite.",
+      "pt": "Vejo que você gosta de desafios que exijam sua atenção, uma ótima forma de exercitar seu estado de alerta e concentração enquanto se diverte. Aqui vai uma dica que pode te ajudar a ir ainda mais longe: faça pausas se necessário. A atenção funciona melhor quando necessária em períodos curtos. Não hesite em respirar entre dois jogos.",
+      "nl": "Ik zie dat je van uitdagingen houdt die je aandacht vereisen, een geweldige manier om je alertheid en concentratie te oefenen terwijl je plezier hebt. Hier is een tip die u kan helpen nog verder te gaan: neem indien nodig pauzes. Aandacht werkt het beste wanneer dit in korte uitbarstingen nodig is. Aarzel niet om tussen twee games door adem te halen.",
+      "cn": "我发现你喜欢需要你集中注意力的挑战，这是在享受乐趣的同时锻炼你的警觉性和注意力的好方法。这里有一个可以帮助您走得更远的提示：必要时休息一下。当需要短暂集中注意力时效果最好。在两场比赛之间不要犹豫喘口气。",
+      "de": "Ich sehe, dass Sie Herausforderungen mögen, die Ihre Aufmerksamkeit erfordern, eine großartige Möglichkeit, Ihre Aufmerksamkeit und Konzentration zu trainieren und dabei Spaß zu haben. Hier ist ein Tipp, der Ihnen noch weiterhelfen könnte: Machen Sie bei Bedarf Pausen. Aufmerksamkeit funktioniert am besten, wenn sie in kurzen Stößen erforderlich ist. Zögern Sie nicht, zwischen zwei Spielen durchzuatmen.",
+      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate descansos si es necesario. La atención funciona mejor cuando se requiere en períodos cortos. No dudes en respirar entre dos partidos."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeAttentionGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Je vois que vous aimez les défis qui sollicitent votre attention, une belle façon d’exercer votre vigilance et votre concentration tout en vous amusant. Un petit conseil pour continuer à progresser en douceur : observez bien les détails. Parfois, une petite différence peut tout changer dans un jeu ! Prenez le temps d’analyser avant de répondre.",
+      "us": "I see that you like challenges that require your attention, a great way to exercise your alertness and concentration while having fun. A little advice to continue progressing smoothly: pay close attention to the details. Sometimes a small difference can change everything in a game! Take the time to analyze before responding.",
+      "it": "Vedo che ti piacciono le sfide che richiedono la tua attenzione, un ottimo modo per esercitare la tua attenzione e concentrazione divertendoti. Un piccolo consiglio per continuare a procedere senza intoppi: prestare molta attenzione ai dettagli. A volte una piccola differenza può cambiare tutto in un gioco! Prendetevi il tempo per analizzare prima di rispondere.",
+      "pt": "Vejo que você gosta de desafios que exijam sua atenção, uma ótima forma de exercitar seu estado de alerta e concentração enquanto se diverte. Um pequeno conselho para continuar progredindo sem problemas: preste muita atenção aos detalhes. Às vezes, uma pequena diferença pode mudar tudo num jogo! Reserve um tempo para analisar antes de responder.",
+      "nl": "Ik zie dat je van uitdagingen houdt die je aandacht vereisen, een geweldige manier om je alertheid en concentratie te oefenen terwijl je plezier hebt. Een klein advies om soepel verder te gaan: let goed op de details. Soms kan een klein verschil alles in een spel veranderen! Neem de tijd om te analyseren voordat u reageert.",
+      "cn": "我发现你喜欢需要你集中注意力的挑战，这是在享受乐趣的同时锻炼你的警觉性和注意力的好方法。继续顺利进展的一点建议：密切关注细节。有时，一个小小的差异就可以改变游戏中的一切！在做出回应之前花点时间进行分析。",
+      "de": "Ich sehe, dass Sie Herausforderungen mögen, die Ihre Aufmerksamkeit erfordern, eine großartige Möglichkeit, Ihre Aufmerksamkeit und Konzentration zu trainieren und dabei Spaß zu haben. Ein kleiner Ratschlag, um weiterhin reibungslos voranzukommen: Achten Sie genau auf die Details. Manchmal kann ein kleiner Unterschied alles in einem Spiel verändern! Nehmen Sie sich Zeit für eine Analyse, bevor Sie antworten.",
+      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Un pequeño consejo para seguir progresando sin problemas: presta mucha atención a los detalles. ¡A veces una pequeña diferencia puede cambiar todo en un juego! Tómate el tiempo para analizar antes de responder."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeAttentionGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Jouer à des jeux qui stimulent l’attention est un très bon exercice pour renforcer votre concentration. Prenez votre temps : ne vous précipitez pas, l’attention se renforce avec la patience et la concentration. Continuez ainsi !",
+      "us": "Playing games that stimulate attention is a very good exercise to strengthen your concentration. Take your time: don’t rush, attention is strengthened with patience and concentration. Keep it up!",
+      "it": "Giocare a giochi che stimolano l'attenzione è un ottimo esercizio per rafforzare la concentrazione. Prenditi il ​​tuo tempo: non avere fretta, l’attenzione si rafforza con pazienza e concentrazione. Continua così!",
+      "pt": "Jogar jogos que estimulem a atenção é um exercício muito bom para fortalecer a concentração. Não tenha pressa: não tenha pressa, a atenção se fortalece com paciência e concentração. Mantem!",
+      "nl": "Spelletjes spelen die de aandacht stimuleren is een hele goede oefening om je concentratie te versterken. Neem de tijd: haast je niet, de aandacht wordt versterkt met geduld en concentratie. Ga zo door!",
+      "cn": "玩激发注意力的游戏是加强注意力的很好的练习。慢慢来：不要着急，耐心和专注会增强注意力。继续努力吧！",
+      "de": "Spiele zu spielen, die die Aufmerksamkeit anregen, ist eine sehr gute Übung, um die Konzentration zu stärken. Nehmen Sie sich Zeit: Beeilen Sie sich nicht, die Aufmerksamkeit wird durch Geduld und Konzentration gestärkt. Weiter so!",
+      "es": "Jugar juegos que estimulen la atención es un muy buen ejercicio para fortalecer tu concentración. Tómate tu tiempo: no te apresures, la atención se fortalece con paciencia y concentración. ¡Avanza!"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeAttentionGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Les jeux d’attention sont parfaits pour rester alerte et affûter votre capacité d’observation. Et il semble que vous les appréciez particulièrement ! Pour profiter encore plus de vos jeux, voici un conseil à essayer : jouer dans un endroit calme. Moins de distractions, c’est plus de chances de rester concentré et d’être pleinement dans le jeu.",
+      "us": "Attention games are perfect for staying alert and sharpening your observation skills. And it seems that you particularly like them! To enjoy your games even more, here is a tip to try: play in a quiet place. Fewer distractions mean more chances to stay focused and be fully in the game.",
+      "it": "I giochi di attenzione sono perfetti per rimanere vigili e affinare le tue capacità di osservazione. E sembra che ti piacciano particolarmente! Per goderti ancora di più i tuoi giochi, ecco un consiglio da provare: gioca in un posto tranquillo. Meno distrazioni significano più possibilità di rimanere concentrati ed essere pienamente coinvolti nel gioco.",
+      "pt": "Os jogos de atenção são perfeitos para ficar alerta e aprimorar suas habilidades de observação. E parece que você gosta particularmente deles! Para aproveitar ainda mais seus jogos, aqui vai uma dica para experimentar: jogue em um local tranquilo. Menos distrações significam mais chances de manter o foco e entrar totalmente no jogo.",
+      "nl": "Aandachtsspellen zijn perfect om alert te blijven en je observatievaardigheden aan te scherpen. En het lijkt erop dat je ze vooral leuk vindt! Om nog meer van je games te genieten, is hier een tip om te proberen: speel op een rustige plek. Minder afleiding betekent meer kansen om gefocust te blijven en volledig in het spel te blijven.",
+      "cn": "注意力游戏非常适合保持警觉和提高观察能力。而且看来你还特别喜欢他们！为了更好地享受游戏的乐趣，可以尝试以下提示：在安静的地方玩。更少的干扰意味着更多的机会保持专注并全身心投入游戏。",
+      "de": "Aufmerksamkeitsspiele eignen sich perfekt, um aufmerksam zu bleiben und Ihre Beobachtungsfähigkeiten zu schärfen. Und es scheint, dass sie dir besonders gut gefallen! Damit Sie Ihre Spiele noch mehr genießen können, sollten Sie Folgendes ausprobieren: Spielen Sie an einem ruhigen Ort. Weniger Ablenkungen bedeuten mehr Chancen, konzentriert zu bleiben und voll im Spiel zu sein.",
+      "es": "Los juegos de atención son perfectos para mantenerte alerta y mejorar tus habilidades de observación. ¡Y parece que te gustan especialmente! Para disfrutar aún más de tus juegos, aquí tienes un consejo que puedes probar: juega en un lugar tranquilo. Menos distracciones significan más oportunidades de mantener la concentración y estar plenamente involucrado en el juego."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeAttentionGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Votre intérêt pour les jeux de concentration est une belle habitude ! En jouant régulièrement, vous entraînez votre esprit tout en passant un bon moment. Une astuce qui peut faire la différence dans votre entraînement : essayer différents jeux. Travailler son attention sous plusieurs formes (recherche visuelle, rapidité, mémorisation) aide à renforcer cette capacité au quotidien.",
+      "us": "Your interest in concentration games is a great habit! By playing regularly, you train your mind while having a good time. A tip that can make a difference in your training: try different games. Working on your attention in several forms (visual search, speed, memorization) helps to strengthen this ability on a daily basis.",
+      "it": "Il tuo interesse per i giochi di concentrazione è un'ottima abitudine! Giocando regolarmente, alleni la tua mente divertendoti. Un consiglio che può fare la differenza nel tuo allenamento: prova giochi diversi. Lavorare sull'attenzione in diverse forme (ricerca visiva, velocità, memorizzazione) aiuta a rafforzare quotidianamente questa capacità.",
+      "pt": "Seu interesse em jogos de concentração é um ótimo hábito! Ao jogar regularmente, você treina sua mente enquanto se diverte. Uma dica que pode fazer a diferença no seu treino: experimente jogos diferentes. Trabalhar a atenção de diversas formas (busca visual, velocidade, memorização) ajuda a fortalecer essa capacidade no dia a dia.",
+      "nl": "Je interesse in concentratiespellen is een goede gewoonte! Door regelmatig te spelen train je je geest terwijl je plezier hebt. Een tip die het verschil kan maken in je training: probeer verschillende spellen. Door op verschillende manieren aan je aandacht te werken (visueel zoeken, snelheid, onthouden) kun je dit vermogen dagelijks versterken.",
+      "cn": "你对集中游戏的兴趣是一个很好的习惯！通过定期玩耍，您可以在享受美好时光的同时训练您的思维。可以对您的训练产生影响的提示：尝试不同的游戏。以多种形式（视觉搜索、速度、记忆）来锻炼你的注意力有助于每天增强这种能力。",
+      "de": "Ihr Interesse an Konzentrationsspielen ist eine tolle Angewohnheit! Durch regelmäßiges Spielen trainieren Sie Ihren Geist und haben gleichzeitig Spaß. Ein Tipp, der Ihr Training verändern kann: Probieren Sie verschiedene Spiele aus. Die Arbeit an Ihrer Aufmerksamkeit in verschiedenen Formen (visuelle Suche, Geschwindigkeit, Auswendiglernen) trägt dazu bei, diese Fähigkeit täglich zu stärken.",
+      "es": "¡Tu interés por los juegos de concentración es un gran hábito! Al jugar con regularidad, entrenas tu mente mientras te lo pasas bien. Un consejo que puede marcar la diferencia en tu entrenamiento: prueba diferentes juegos. Trabajar tu atención en varias formas (búsqueda visual, velocidad, memorización) ayuda a fortalecer esta capacidad en el día a día."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeLangageGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Je vois que vous aimez les jeux de langage, une belle façon d’enrichir votre vocabulaire et d’exercer votre esprit tout en vous amusant. Voici une astuce qui pourrait vous aider à aller encore plus loin : prenez le temps de bien articuler les mots dans votre tête ou à voix haute. Cela peut faciliter leur mémorisation et améliorer votre aisance.",
+      "us": "I see that you like language games, a great way to enrich your vocabulary and exercise your mind while having fun. Here's a tip that could help you go even further: take the time to articulate the words in your head or out loud. This can make them easier to remember and improve your fluency.",
+      "it": "Vedo che ti piacciono i giochi linguistici, un ottimo modo per arricchire il tuo vocabolario ed esercitare la mente divertendoti. Ecco un consiglio che potrebbe aiutarti ad andare ancora oltre: prenditi il ​​tempo per articolare le parole nella tua testa o ad alta voce. Questo può renderli più facili da ricordare e migliorare la tua fluidità.",
+      "pt": "Vejo que você gosta de jogos de linguagem, uma ótima maneira de enriquecer seu vocabulário e exercitar sua mente enquanto se diverte. Aqui vai uma dica que pode te ajudar a ir ainda mais longe: reserve um tempo para articular as palavras na sua cabeça ou em voz alta. Isso pode torná-los mais fáceis de lembrar e melhorar sua fluência.",
+      "nl": "Ik zie dat je van taalspelletjes houdt, een geweldige manier om je woordenschat te verrijken en je geest te oefenen terwijl je plezier hebt. Hier is een tip die je kan helpen nog verder te gaan: neem de tijd om de woorden in je hoofd of hardop uit te spreken. Hierdoor kunt u ze gemakkelijker onthouden en uw spreekvaardigheid verbeteren.",
+      "cn": "我发现你喜欢语言游戏，这是在享受乐趣的同时丰富词汇量和锻炼思维的好方法。这里有一个可以帮助您走得更远的提示：花时间在脑海中清晰地表达或大声说出来。这可以使它们更容易记住并提高您的流利程度。",
+      "de": "Ich sehe, dass Sie Sprachspiele mögen, eine großartige Möglichkeit, Ihren Wortschatz zu erweitern und Ihren Geist zu trainieren und dabei Spaß zu haben. Hier ist ein Tipp, der Ihnen noch weiterhelfen könnte: Nehmen Sie sich die Zeit, die Wörter im Kopf oder laut auszusprechen. Dadurch können Sie sich diese leichter merken und Ihre Sprachkompetenz verbessern.",
+      "es": "Veo que te gustan los juegos de lenguaje, una forma genial de enriquecer tu vocabulario y ejercitar tu mente mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate el tiempo para articular las palabras en tu cabeza o en voz alta. Esto puede hacer que sean más fáciles de recordar y mejorar su fluidez."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeLangageGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Les jeux de langage sont un excellent moyen de stimuler votre mémoire et votre compréhension des mots. Un petit conseil pour continuer à progresser en douceur : faites des associations ! Reliez les mots à des images ou à des souvenirs, cela peut vous aider à mieux les retenir.",
+      "us": "Language games are a great way to boost your memory and understanding of words. A little advice to continue to progress smoothly: make associations! Connect words to images or memories, this can help you remember them better.",
+      "it": "I giochi linguistici sono un ottimo modo per potenziare la memoria e la comprensione delle parole. Un piccolo consiglio per continuare a progredire senza intoppi: fare associazioni! Collega le parole ad immagini o ricordi, questo può aiutarti a ricordarli meglio.",
+      "pt": "Os jogos de linguagem são uma ótima maneira de aumentar a memória e a compreensão das palavras. Um pequeno conselho para continuar a progredir sem problemas: faça associações! Conecte palavras a imagens ou memórias, isso pode ajudá-lo a lembrá-las melhor.",
+      "nl": "Taalspelletjes zijn een geweldige manier om uw geheugen en begrip van woorden te vergroten. Een klein advies om soepel vooruitgang te blijven boeken: maak associaties! Verbind woorden met afbeeldingen of herinneringen, dit kan je helpen ze beter te onthouden.",
+      "cn": "语言游戏是增强单词记忆和理解的好方法。继续顺利进步的一点建议：建立关联！将单词与图像或记忆联系起来，这可以帮助您更好地记住它们。",
+      "de": "Sprachspiele sind eine großartige Möglichkeit, Ihr Gedächtnis und Ihr Wortverständnis zu verbessern. Ein kleiner Rat, um weiterhin reibungslos voranzukommen: Stellen Sie Assoziationen her! Verknüpfen Sie Wörter mit Bildern oder Erinnerungen. Dies kann Ihnen helfen, sich besser an sie zu erinnern.",
+      "es": "Los juegos de lenguaje son una excelente manera de mejorar la memoria y la comprensión de las palabras. Un pequeño consejo para seguir progresando sin problemas: ¡haz asociaciones! Conecta palabras con imágenes o recuerdos, esto puede ayudarte a recordarlos mejor."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeLangageGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Jouer à des jeux qui sollicitent votre langage est une très bonne habitude pour enrichir votre esprit et garder votre mémoire active. Prenez votre temps : ne vous précipitez pas, réfléchissez aux différentes significations des mots et aux indices cachés dans le jeu.",
+      "us": "Playing games that challenge your language is a very good habit to enrich your mind and keep your memory active. Take your time: don't rush, think about the different meanings of the words and the clues hidden in the game.",
+      "it": "Giocare a giochi che mettono alla prova la tua lingua è un'ottima abitudine per arricchire la tua mente e mantenere attiva la tua memoria. Prenditi il ​​tuo tempo: non avere fretta, pensa ai diversi significati delle parole e agli indizi nascosti nel gioco.",
+      "pt": "Jogar jogos que desafiam o seu idioma é um hábito muito bom para enriquecer a sua mente e manter a sua memória ativa. Não tenha pressa: não tenha pressa, pense nos diferentes significados das palavras e nas pistas escondidas no jogo.",
+      "nl": "Het spelen van spelletjes die uw taal uitdagen is een zeer goede gewoonte om uw geest te verrijken en uw geheugen actief te houden. Neem de tijd: haast je niet, denk na over de verschillende betekenissen van de woorden en de aanwijzingen die in het spel verborgen zijn.",
+      "cn": "玩挑战你的语言的游戏是一个非常好的习惯，可以丰富你的思维并保持你的记忆活跃。慢慢来：不要着急，思考一下单词的不同含义以及游戏中隐藏的线索。",
+      "de": "Spiele zu spielen, die Ihre Sprache herausfordern, ist eine sehr gute Angewohnheit, um Ihren Geist zu bereichern und Ihr Gedächtnis aktiv zu halten. Nehmen Sie sich Zeit: Beeilen Sie sich nicht, denken Sie über die verschiedenen Bedeutungen der Wörter und die im Spiel verborgenen Hinweise nach.",
+      "es": "Jugar juegos que desafíen tu idioma es un muy buen hábito para enriquecer tu mente y mantener activa tu memoria. Tómate tu tiempo: no te apresures, piensa en los diferentes significados de las palabras y las pistas que esconde el juego."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeLangageGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Les jeux de langage sont parfaits pour développer votre aisance et votre capacité à jouer avec les mots. Et il semble que vous les appréciez particulièrement ! Pour profiter encore plus de vos jeux, voici un conseil à essayer : lisez les mots à voix haute si possible. Cela aide à mieux les intégrer et à renforcer la mémoire auditive.",
+      "us": "Language games are perfect for developing your fluency and ability to play with words. And it seems that you particularly like them! To enjoy your games even more, here's a tip to try: read the words out loud if possible. This helps to better integrate them and strengthen auditory memory.",
+      "it": "I giochi linguistici sono perfetti per sviluppare la tua fluidità e la capacità di giocare con le parole. E sembra che ti piacciano particolarmente! Per divertirti ancora di più con i tuoi giochi, ecco un consiglio da provare: leggi le parole ad alta voce, se possibile. Questo aiuta a integrarli meglio e a rafforzare la memoria uditiva.",
+      "pt": "Os jogos de linguagem são perfeitos para desenvolver sua fluência e capacidade de brincar com as palavras. E parece que você gosta particularmente deles! Para aproveitar ainda mais seus jogos, aqui vai uma dica: leia as palavras em voz alta, se possível. Isso ajuda a integrá-los melhor e a fortalecer a memória auditiva.",
+      "nl": "Taalspellen zijn perfect voor het ontwikkelen van uw spreekvaardigheid en het vermogen om met woorden te spelen. En het lijkt erop dat je ze vooral leuk vindt! Om nog meer van je games te genieten, is hier een tip die je kunt proberen: lees de woorden zo mogelijk hardop. Dit helpt om ze beter te integreren en het auditieve geheugen te versterken.",
+      "cn": "语言游戏非常适合培养您的流利程度和文字游戏能力。而且看来你还特别喜欢他们！为了更好地享受游戏的乐趣，可以尝试以下提示：如果可能的话，大声朗读单词。这有助于更好地整合它们并加强听觉记忆。",
+      "de": "Sprachspiele sind perfekt, um Ihre Sprachkompetenz und die Fähigkeit, mit Wörtern zu spielen, zu entwickeln. Und es scheint, dass sie dir besonders gut gefallen! Um noch mehr Freude an Ihren Spielen zu haben, sollten Sie Folgendes ausprobieren: Lesen Sie die Wörter möglichst laut vor. Dies hilft, sie besser zu integrieren und das auditive Gedächtnis zu stärken.",
+      "es": "Los juegos de lenguaje son perfectos para desarrollar tu fluidez y capacidad para jugar con palabras. ¡Y parece que te gustan especialmente! Para disfrutar aún más de tus juegos, aquí tienes un consejo que puedes probar: lee las palabras en voz alta si es posible. Esto ayuda a integrarlos mejor y fortalecer la memoria auditiva."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeLangageGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Votre intérêt pour les jeux de langage est une belle habitude ! En jouant régulièrement, vous stimulez votre mémoire des mots et votre aisance avec la langue tout en vous amusant. Une astuce qui peut faire la différence dans votre entraînement : variez les types de jeux. Passez de Syllabus à Poème Perdu, au Pendu ou à Chasse à l'intrus. Cela permet d'exercer différentes facettes du langage et d’améliorer votre fluidité. Plus vous jouez, plus les mots vous viendront naturellement !",
+      "us": "Your interest in language games is a great habit! By playing regularly, you stimulate your memory of words and your ease with the language while having fun. A tip that can make a difference in your training: vary the types of games. Switch from Syllabus to Lost Poem, Hangman or Intruder Hunt. This allows you to practice different facets of language and improve your fluency. The more you play, the more words will come naturally to you!",
+      "it": "Il tuo interesse per i giochi linguistici è un'ottima abitudine! Giocando regolarmente, stimolerai la tua memoria delle parole e la tua disinvoltura con la lingua divertendoti. Un consiglio che può fare la differenza nel tuo allenamento: varia le tipologie di gioco. Passa dal programma a Poesia perduta, L'impiccato o Caccia all'intruso. Ciò ti consente di praticare diversi aspetti della lingua e migliorare la tua fluidità. Più giochi, più le parole ti verranno naturali!",
+      "pt": "Seu interesse por jogos de idiomas é um ótimo hábito! Ao jogar regularmente, você estimula a memória das palavras e a facilidade com o idioma enquanto se diverte. Uma dica que pode fazer a diferença no seu treino: varie os tipos de jogos. Mude de Syllabus para Lost Poem, Hangman ou Intruder Hunt. Isso permite que você pratique diferentes facetas do idioma e melhore sua fluência. Quanto mais você joga, mais palavras virão naturalmente para você!",
+      "nl": "Je interesse in taalspelletjes is een goede gewoonte! Door regelmatig te spelen stimuleer je je woordengeheugen en je gemak met de taal terwijl je plezier hebt. Een tip die het verschil kan maken in je training: varieer met de soorten spellen. Schakel over van Syllabus naar Lost Poem, Hangman of Intruder Hunt. Hierdoor kunt u verschillende facetten van de taal oefenen en uw spreekvaardigheid verbeteren. Hoe meer je speelt, hoe meer woorden vanzelf in je opkomen!",
+      "cn": "你对语言游戏的兴趣是一个很好的习惯！通过定期玩耍，您可以在享受乐趣的同时激发您对单词的记忆以及对语言的轻松掌握。一个可以对你的训练产生影响的技巧：改变游戏类型。从教学大纲切换到失落的诗歌、刽子手或入侵者狩猎。这可以让您练习语言的不同方面并提高您的流利程度。你玩得越多，你就会自然而然地想到更多的单词！",
+      "de": "Ihr Interesse an Sprachspielen ist eine tolle Angewohnheit! Durch regelmäßiges Spielen fördern Sie Ihr Wortgedächtnis und Ihren Umgang mit der Sprache, während Sie gleichzeitig Spaß haben. Ein Tipp, der Ihr Training verändern kann: Variieren Sie die Spielarten. Wechseln Sie vom Lehrplan zu Lost Poem, Hangman oder Intruder Hunt. Dadurch können Sie verschiedene Facetten der Sprache üben und Ihre Sprachkompetenz verbessern. Je mehr Sie spielen, desto mehr Wörter werden Ihnen von selbst einfallen!",
+      "es": "¡Tu interés por los juegos de lenguaje es un gran hábito! Al jugar con regularidad, estimulas tu memoria de las palabras y tu facilidad con el idioma mientras te diviertes. Un consejo que puede marcar la diferencia en tu entrenamiento: varía los tipos de juegos. Cambie del programa de estudios a Lost Poem, Hangman o Intruder Hunt. Esto te permite practicar diferentes facetas del lenguaje y mejorar tu fluidez. ¡Cuanto más juegues, más palabras te resultarán naturales!"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeMemoryGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Vous appréciez les jeux de mémoire, et c’est une excellente manière d’entretenir vos souvenirs et de stimuler votre esprit tout en vous amusant. Une astuce pour aller encore plus loin : essayez de visualiser mentalement ce que vous devez retenir. Faire des associations d’images ou de petites histoires peut aider à mieux mémoriser !",
+      "us": "You enjoy memory games, and this is a great way to maintain your memories and stimulate your mind while having fun. A tip to go even further: try to mentally visualize what you need to remember. Making associations of images or short stories can help you memorize better!",
+      "it": "Ti piacciono i giochi di memoria e questo è un ottimo modo per conservare i tuoi ricordi e stimolare la tua mente divertendoti. Un consiglio per andare ancora oltre: prova a visualizzare mentalmente ciò che devi ricordare. Fare associazioni di immagini o racconti può aiutarti a memorizzare meglio!",
+      "pt": "Você gosta de jogos de memória e esta é uma ótima maneira de manter suas memórias e estimular sua mente enquanto se diverte. Uma dica para ir ainda mais longe: tente visualizar mentalmente o que você precisa lembrar. Fazer associações de imagens ou contos pode te ajudar a memorizar melhor!",
+      "nl": "Je houdt van geheugenspellen, en dit is een geweldige manier om je herinneringen vast te houden en je geest te stimuleren terwijl je plezier hebt. Een tip om nog verder te gaan: probeer mentaal te visualiseren wat je moet onthouden. Door associaties te maken met afbeeldingen of korte verhalen kun je beter onthouden!",
+      "cn": "您喜欢记忆游戏，这是在享受乐趣的同时保持记忆和刺激思维的好方法。更进一步的提示：尝试在脑海中想象您需要记住的内容。将图像或短篇故事联系起来可以帮助您更好地记忆！",
+      "de": "Sie haben Spaß an Memory-Spielen. Dies ist eine großartige Möglichkeit, Ihre Erinnerungen zu bewahren, Ihren Geist anzuregen und gleichzeitig Spaß zu haben. Ein Tipp, um noch weiter zu gehen: Versuchen Sie, sich mental vorzustellen, woran Sie sich erinnern müssen. Das Herstellen von Assoziationen mit Bildern oder Kurzgeschichten kann Ihnen dabei helfen, sich besser einzuprägen!",
+      "es": "Disfrutas de los juegos de memoria y esta es una excelente manera de mantener tus recuerdos y estimular tu mente mientras te diviertes. Un consejo para ir aún más lejos: intenta visualizar mentalmente lo que necesitas recordar. ¡Hacer asociaciones de imágenes o historias cortas puede ayudarte a memorizar mejor!"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeMemoryGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Vous aimez les défis de mémoire, et c’est une très bonne chose ! Plus vous jouez, plus vous stimulez votre capacité à retenir des informations avec facilité. Un petit conseil : ne vous mettez pas la pression. Apprendre en douceur et avec plaisir est la meilleure façon de renforcer sa mémoire.",
+      "us": "You like memory challenges, and that’s a very good thing! The more you play, the more you stimulate your ability to retain information with ease. A little advice: don't put pressure on yourself. Learning gently and with pleasure is the best way to strengthen your memory.",
+      "it": "Ti piacciono le sfide di memoria, e questa è un'ottima cosa! Più giochi, più stimoli la tua capacità di conservare le informazioni con facilità. Un piccolo consiglio: non metterti pressione. Imparare dolcemente e con piacere è il modo migliore per rafforzare la tua memoria.",
+      "pt": "Você gosta de desafios de memória, e isso é uma coisa muito boa! Quanto mais você joga, mais estimula sua capacidade de reter informações com facilidade. Um pequeno conselho: não se pressione. Aprender com delicadeza e prazer é a melhor forma de fortalecer a memória.",
+      "nl": "Je houdt van geheugenuitdagingen, en dat is heel goed! Hoe meer u speelt, hoe meer u uw vermogen stimuleert om informatie gemakkelijk vast te houden. Een klein advies: oefen geen druk op jezelf uit. Zacht en met plezier leren is de beste manier om uw geheugen te versterken.",
+      "cn": "你喜欢记忆力挑战，这是一件非常好的事情！你玩得越多，就越能激发你轻松记住信息的能力。一个小建议：不要给自己施加压力。温和而愉快地学习是增强记忆力的最佳方法。",
+      "de": "Du magst Gedächtnisherausforderungen, und das ist eine sehr gute Sache! Je mehr Sie spielen, desto mehr fördern Sie Ihre Fähigkeit, sich Informationen leichter zu merken. Kleiner Tipp: Machen Sie sich keinen Druck. Sanftes und mit Freude lernen ist der beste Weg, Ihr Gedächtnis zu stärken.",
+      "es": "Te gustan los desafíos de memoria, ¡y eso es algo muy bueno! Cuanto más juegas, más estimulas tu capacidad para retener información con facilidad. Un pequeño consejo: no te presiones. Aprender con suavidad y placer es la mejor manera de fortalecer la memoria."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeMemoryGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Votre engagement dans les jeux de mémoire montre votre envie de garder votre esprit actif. Bravo ! Pour encore mieux progresser, essayez de jouer à des moments où vous vous sentez reposé et détendu. La mémoire fonctionne mieux quand on est serein et concentré !",
+      "us": "Your engagement in memory games shows your desire to keep your mind active. Well done ! To improve even further, try to play at times when you feel rested and relaxed. Memory works better when you are calm and focused!",
+      "it": "Il tuo impegno nei giochi di memoria mostra il tuo desiderio di mantenere la mente attiva. Ben fatto ! Per migliorare ulteriormente, prova a giocare nei momenti in cui ti senti riposato e rilassato. La memoria funziona meglio quando sei calmo e concentrato!",
+      "pt": "Seu envolvimento em jogos de memória mostra seu desejo de manter sua mente ativa. Bom trabalho ! Para melhorar ainda mais, tente jogar em momentos em que se sinta descansado e relaxado. A memória funciona melhor quando você está calmo e focado!",
+      "nl": "Uit uw betrokkenheid bij geheugenspelletjes blijkt dat u uw geest actief wilt houden. Goed gedaan ! Om nog verder te verbeteren, probeer te spelen op momenten dat u zich uitgerust en ontspannen voelt. Het geheugen werkt beter als je kalm en gefocust bent!",
+      "cn": "您参与记忆游戏表明您希望保持思维活跃。干得好！为了进一步提高，请尝试在您感到休息和放松的时候玩。当你平静和专注时，记忆力会更好！",
+      "de": "Ihr Engagement bei Memory-Spielen zeigt Ihren Wunsch, Ihren Geist aktiv zu halten. Gut gemacht ! Um sich noch weiter zu verbessern, versuchen Sie, zu Zeiten zu spielen, in denen Sie sich ausgeruht und entspannt fühlen. Das Gedächtnis funktioniert besser, wenn Sie ruhig und konzentriert sind!",
+      "es": "Su participación en los juegos de memoria muestra su deseo de mantener la mente activa. Bien hecho ! Para mejorar aún más, intenta jugar en momentos en los que te sientas descansado y relajado. ¡La memoria funciona mejor cuando estás tranquilo y concentrado!"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeMemoryGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Chaque partie jouée est une belle occasion d’exercer votre mémoire et de stimuler votre esprit. Un conseil pour progresser encore plus : essayez de reformuler ce que vous venez de mémoriser avec vos propres mots ou d’en discuter avec un proche. Dire les choses à voix haute ou les expliquer permet souvent de mieux les ancrer dans la mémoire !",
+      "us": "Each game played is a great opportunity to exercise your memory and stimulate your mind. A tip to progress even further: try to reformulate what you have just memorized in your own words or discuss it with a loved one. Saying things out loud or explaining them often helps to anchor them better in memory!",
+      "it": "Ogni partita giocata è una grande opportunità per esercitare la memoria e stimolare la mente. Un consiglio per progredire ancora di più: prova a riformulare ciò che hai appena memorizzato con parole tue o discutilo con una persona cara. Dire le cose ad alta voce o spiegarle spesso aiuta ad ancorarle meglio nella memoria!",
+      "pt": "Cada jogo disputado é uma ótima oportunidade para exercitar a memória e estimular a mente. Uma dica para progredir ainda mais: tente reformular o que acabou de memorizar com suas próprias palavras ou converse com alguém querido. Dizer coisas em voz alta ou explicá-las muitas vezes ajuda a ancorá-las melhor na memória!",
+      "nl": "Elk gespeeld spel is een geweldige kans om uw geheugen te oefenen en uw geest te stimuleren. Een tip om nog verder te komen: probeer wat je zojuist uit je hoofd hebt geleerd in je eigen woorden te herformuleren of bespreek het met een dierbare. Dingen hardop zeggen of uitleggen helpt vaak om ze beter in het geheugen te verankeren!",
+      "cn": "每场比赛都是锻炼记忆力和激发思维的绝佳机会。进一步进步的秘诀是：尝试用自己的话重新表述你刚刚记住的内容，或者与所爱的人讨论它。大声说出事情或解释它们通常有助于更好地记住它们！",
+      "de": "Jedes gespielte Spiel ist eine großartige Gelegenheit, Ihr Gedächtnis zu trainieren und Ihren Geist anzuregen. Ein Tipp, um noch weiter voranzukommen: Versuchen Sie, das, was Sie gerade auswendig gelernt haben, in eigenen Worten umzuformulieren oder besprechen Sie es mit einem geliebten Menschen. Dinge laut auszusprechen oder zu erklären hilft oft dabei, sie besser im Gedächtnis zu verankern!",
+      "es": "Cada partido jugado es una gran oportunidad para ejercitar tu memoria y estimular tu mente. Un consejo para avanzar aún más: intenta reformular con tus propias palabras lo que acabas de memorizar o discútelo con un ser querido. ¡Decir las cosas en voz alta o explicarlas a menudo ayuda a anclarlas mejor en la memoria!"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "likeMemoryGames",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Les jeux de mémoire sont parfaits pour affiner votre capacité à retenir des informations. Une idée pour améliorer vos performances : prenez de petites pauses entre les parties. Le cerveau a besoin de temps pour assimiler les informations, et un court moment de repos peut vous aider à mieux mémoriser ce que vous avez appris.\n\n",
+      "us": "Memory games are great for honing your ability to retain information. An idea to improve your performance: take small breaks between games. The brain needs time to process information, and a short rest can help you better remember what you've learned.\n\n",
+      "it": "I giochi di memoria sono ottimi per affinare la tua capacità di conservare le informazioni. Un'idea per migliorare le tue prestazioni: fai piccole pause tra una partita e l'altra. Il cervello ha bisogno di tempo per elaborare le informazioni e un breve riposo può aiutarti a ricordare meglio ciò che hai imparato.\n\n",
+      "pt": "Os jogos de memória são ótimos para aprimorar sua capacidade de reter informações. Uma ideia para melhorar seu desempenho: faça pequenos intervalos entre os jogos. O cérebro precisa de tempo para processar informações, e um breve descanso pode ajudá-lo a lembrar melhor o que aprendeu.\n\n",
+      "nl": "Geheugenspellen zijn geweldig om uw vermogen om informatie vast te houden aan te scherpen. Een idee om je prestaties te verbeteren: neem kleine pauzes tussen de games. De hersenen hebben tijd nodig om informatie te verwerken, en een korte rustpauze kan je helpen beter te onthouden wat je hebt geleerd.\n\n",
+      "cn": "记忆游戏非常适合磨练你记住信息的能力。提高表现的一个方法是：在比赛之间进行短暂的休息。大脑需要时间来处理信息，短暂的休息可以帮助你更好地记住所学的内容。\n\n",
+      "de": "Memory-Spiele eignen sich hervorragend, um Ihre Fähigkeit, Informationen zu behalten, zu verbessern. Eine Idee zur Leistungssteigerung: Machen Sie zwischen den Spielen kleine Pausen. Das Gehirn braucht Zeit, um Informationen zu verarbeiten, und eine kurze Pause kann Ihnen helfen, sich besser an das Gelernte zu erinnern.\n\n",
+      "es": "Los juegos de memoria son excelentes para perfeccionar tu capacidad de retener información. Una idea para mejorar tu rendimiento: tómate pequeños descansos entre juegos. El cerebro necesita tiempo para procesar información y un breve descanso puede ayudarte a recordar mejor lo que has aprendido.\n\n"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Vous aimez explorer une variété de jeux, et c’est une excellente façon de stimuler votre esprit sous plusieurs angles. Pour encore mieux en profiter, essayez de vous concentrer sur les détails et prenez quelques minutes après chaque partie pour revoir ce que vous avez appris. Cette petite habitude renforce la mémorisation !",
+      "us": "You enjoy exploring a variety of games, and this is a great way to stimulate your mind from multiple angles. To benefit even more, try to focus on the details and take a few minutes after each game to review what you have learned. This little habit strengthens memorization!",
+      "it": "Ti piace esplorare una varietà di giochi e questo è un ottimo modo per stimolare la tua mente da più angolazioni. Per trarne ancora di più, prova a concentrarti sui dettagli e dedica qualche minuto dopo ogni partita a rivedere ciò che hai imparato. Questa piccola abitudine rafforza la memorizzazione!",
+      "pt": "Você gosta de explorar uma variedade de jogos e esta é uma ótima maneira de estimular sua mente de vários ângulos. Para se beneficiar ainda mais, tente se concentrar nos detalhes e reserve alguns minutos após cada jogo para revisar o que aprendeu. Esse pequeno hábito fortalece a memorização!",
+      "nl": "Je vindt het leuk om verschillende spellen te verkennen, en dit is een geweldige manier om je geest vanuit meerdere invalshoeken te stimuleren. Om nog meer voordeel te behalen, probeer je te concentreren op de details en neem je na elk spel een paar minuten de tijd om door te nemen wat je hebt geleerd. Deze kleine gewoonte versterkt het onthouden!",
+      "cn": "您喜欢探索各种游戏，这是从多个角度刺激您的思维的好方法。为了获得更多好处，请尝试专注于细节，并在每场比赛后花几分钟回顾您所学到的内容。这个小习惯加强记忆！",
+      "de": "Es macht Ihnen Spaß, eine Vielzahl von Spielen zu erkunden, und dies ist eine großartige Möglichkeit, Ihren Geist aus verschiedenen Blickwinkeln zu stimulieren. Um noch mehr davon zu profitieren, konzentrieren Sie sich auf die Details und nehmen Sie sich nach jedem Spiel ein paar Minuten Zeit, um das Gelernte noch einmal durchzugehen. Diese kleine Angewohnheit stärkt das Auswendiglernen!",
+      "es": "Disfrutas explorando una variedad de juegos y esta es una excelente manera de estimular tu mente desde múltiples ángulos. Para beneficiarte aún más, intenta concentrarte en los detalles y tómate unos minutos después de cada juego para repasar lo que has aprendido. ¡Este pequeño hábito fortalece la memorización!"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Jouer à des jeux variés est une belle habitude ! Que ce soit la mémoire, le langage ou l’attention, chaque type de jeu apporte ses bienfaits. Un conseil pour progresser : prenez votre temps et jouez dans un endroit calme. Moins de distractions, c’est plus de chances de bien retenir les informations !",
+      "us": "Playing a variety of games is a great habit! Whether it is memory, language or attention, each type of play brings its benefits. A tip for progress: take your time and play in a quiet place. Fewer distractions mean more chances of retaining information well!",
+      "it": "Giocare a una varietà di giochi è un'ottima abitudine! Che si tratti di memoria, linguaggio o attenzione, ogni tipo di gioco porta i suoi benefici. Un consiglio per progredire: prenditi il ​​tuo tempo e gioca in un posto tranquillo. Meno distrazioni significano più possibilità di conservare bene le informazioni!",
+      "pt": "Jogar uma variedade de jogos é um ótimo hábito! Seja memória, linguagem ou atenção, cada tipo de brincadeira traz seus benefícios. Uma dica para progredir: não tenha pressa e brinque em um local tranquilo. Menos distrações significam mais chances de reter bem as informações!",
+      "nl": "Verschillende spellen spelen is een goede gewoonte! Of het nu gaat om geheugen, taal of aandacht, elk type spel brengt zijn voordelen met zich mee. Een tip voor de voortgang: neem de tijd en speel op een rustige plek. Minder afleiding betekent meer kansen om informatie goed te onthouden!",
+      "cn": "玩各种游戏是一个很好的习惯！无论是记忆力、语言还是注意力，每种类型的游戏都有其好处。进步的秘诀：慢慢来，在安静的地方玩。更少的干扰意味着更好地保留信息的机会！",
+      "de": "Verschiedene Spiele zu spielen ist eine tolle Angewohnheit! Ob Gedächtnis, Sprache oder Aufmerksamkeit, jede Spielart bringt ihre Vorteile mit sich. Ein Tipp für den Fortschritt: Nehmen Sie sich Zeit und spielen Sie an einem ruhigen Ort. Weniger Ablenkungen bedeuten mehr Chancen, Informationen gut zu behalten!",
+      "es": "¡Jugar una variedad de juegos es un gran hábito! Ya sea memoria, lenguaje o atención, cada tipo de juego aporta sus beneficios. Un consejo para progresar: tómate tu tiempo y juega en un lugar tranquilo. ¡Menos distracciones significan más posibilidades de retener bien la información!"
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Votre curiosité vous pousse à essayer différents jeux, et c’est une excellente manière de garder votre esprit alerte ! Pour encore mieux entraîner votre mémoire, essayez de faire des liens entre les éléments du jeu et votre quotidien. Associer des mots, des images ou des concepts à quelque chose de familier aide à mieux s’en souvenir.",
+      "us": "Your curiosity drives you to try different games, and this is a great way to keep your mind sharp! To train your memory even better, try to make connections between the elements of the game and your daily life. Associating words, images or concepts with something familiar helps you remember it better.",
+      "it": "La tua curiosità ti spinge a provare giochi diversi e questo è un ottimo modo per mantenere la mente acuta! Per allenare ancora meglio la tua memoria, prova a creare collegamenti tra gli elementi del gioco e la tua vita quotidiana. Associare parole, immagini o concetti a qualcosa di familiare ti aiuta a ricordarlo meglio.",
+      "pt": "Sua curiosidade o leva a experimentar jogos diferentes, e esta é uma ótima maneira de manter sua mente afiada! Para treinar ainda melhor a sua memória, tente fazer conexões entre os elementos do jogo e o seu dia a dia. Associar palavras, imagens ou conceitos a algo familiar ajuda a lembrar melhor.",
+      "nl": "Je nieuwsgierigheid drijft je ertoe om verschillende spellen te proberen, en dit is een geweldige manier om je geest scherp te houden! Om je geheugen nog beter te trainen, probeer je verbanden te leggen tussen de elementen van het spel en je dagelijkse leven. Door woorden, afbeeldingen of concepten te associëren met iets bekends, kunt u het beter onthouden.",
+      "cn": "您的好奇心驱使您尝试不同的游戏，这是保持思维敏捷的好方法！为了更好地训练您的记忆力，请尝试将游戏元素与您的日常生活联系起来。将单词、图像或概念与熟悉的事物联系起来可以帮助您更好地记住它。",
+      "de": "Ihre Neugier treibt Sie dazu, verschiedene Spiele auszuprobieren, und das ist eine großartige Möglichkeit, Ihren Geist scharf zu halten! Um Ihr Gedächtnis noch besser zu trainieren, versuchen Sie, Verbindungen zwischen den Elementen des Spiels und Ihrem täglichen Leben herzustellen. Wenn Sie Wörter, Bilder oder Konzepte mit etwas Vertrautem verknüpfen, können Sie sich besser daran erinnern.",
+      "es": "Tu curiosidad te lleva a probar diferentes juegos, ¡y esta es una excelente manera de mantener tu mente alerta! Para entrenar aún mejor tu memoria, intenta establecer conexiones entre los elementos del juego y tu vida diaria. Asociar palabras, imágenes o conceptos con algo familiar te ayuda a recordarlo mejor."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Vous aimez relever des défis variés, et c’est un très bon entraînement pour votre cerveau ! Une astuce pour progresser : ne jouez pas trop vite. Prenez le temps d’observer, de bien lire les consignes et de mémoriser les éléments clés. Plus on est attentif, plus la mémoire s’active naturellement.",
+      "us": "You like taking on a variety of challenges, and it’s a great workout for your brain! A tip for progress: don't play too quickly. Take the time to observe, read the instructions carefully and memorize the key elements. The more attentive we are, the more memory is naturally activated.",
+      "it": "Ti piace affrontare una serie di sfide ed è un ottimo allenamento per il tuo cervello! Un consiglio per progredire: non giocare troppo velocemente. Prendetevi il tempo per osservare, leggere attentamente le istruzioni e memorizzare gli elementi chiave. Più siamo attenti, più la memoria viene attivata naturalmente.",
+      "pt": "Você gosta de enfrentar uma variedade de desafios e é um ótimo treino para o seu cérebro! Uma dica para progredir: não jogue muito rápido. Reserve um tempo para observar, leia atentamente as instruções e memorize os elementos-chave. Quanto mais atentos estamos, mais a memória é naturalmente ativada.",
+      "nl": "Je vindt het leuk om verschillende uitdagingen aan te gaan, en het is een geweldige training voor je hersenen! Een tip voor de voortgang: speel niet te snel. Neem de tijd om te observeren, lees de instructies aandachtig en onthoud de belangrijkste elementen. Hoe aandachtiger we zijn, hoe meer het geheugen op natuurlijke wijze wordt geactiveerd.",
+      "cn": "您喜欢接受各种挑战，这对您的大脑来说是一次很好的锻炼！进步的秘诀：不要玩得太快。花时间观察，仔细阅读说明并记住关键要素。我们越专心，自然激活的记忆就越多。",
+      "de": "Du stellst dich gerne verschiedenen Herausforderungen und es ist ein tolles Training für dein Gehirn! Ein Tipp für den Fortschritt: Spielen Sie nicht zu schnell. Nehmen Sie sich Zeit zum Beobachten, lesen Sie die Anweisungen sorgfältig durch und merken Sie sich die wichtigsten Elemente. Je aufmerksamer wir sind, desto mehr wird das Gedächtnis auf natürliche Weise aktiviert.",
+      "es": "Te gusta afrontar una variedad de desafíos y ¡es un gran ejercicio para tu cerebro! Un consejo para progresar: no juegues demasiado rápido. Tómese el tiempo para observar, lea atentamente las instrucciones y memorice los elementos clave. Cuanto más atentos estemos, más memoria se activa de forma natural."
+    }
+  },
+  {
+    "mnemo": "conclusion",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": false,
+    "title": {
+      "fr": "Quelle belle diversité dans vos jeux ! Alterner entre différents types de défis stimule plusieurs capacités cognitives. Un petit conseil : rejouer à un jeu après quelques jours permet de consolider ce que vous avez appris. La répétition espacée est l’un des meilleurs moyens de renforcer la mémoire !\n",
+      "us": "What great diversity in your games! Alternating between different types of challenges stimulates several cognitive abilities. A little tip: playing a game again after a few days helps consolidate what you have learned. Spaced repetition is one of the best ways to strengthen memory!\n",
+      "it": "Che grande diversità nei tuoi giochi! L’alternanza tra diversi tipi di sfide stimola diverse capacità cognitive. Un piccolo consiglio: rigiocare un gioco dopo qualche giorno aiuta a consolidare quanto imparato. La ripetizione spaziata è uno dei modi migliori per rafforzare la memoria!\n",
+      "pt": "Que grande diversidade em seus jogos! A alternância entre diferentes tipos de desafios estimula diversas habilidades cognitivas. Uma pequena dica: jogar novamente depois de alguns dias ajuda a consolidar o que você aprendeu. A repetição espaçada é uma das melhores formas de fortalecer a memória!\n",
+      "nl": "Wat een grote diversiteit in jullie spellen! Het afwisselen tussen verschillende soorten uitdagingen stimuleert verschillende cognitieve vaardigheden. Een kleine tip: na een paar dagen opnieuw een spel spelen helpt om het geleerde te consolideren. Gespreide herhaling is een van de beste manieren om het geheugen te versterken!\n",
+      "cn": "你们的游戏多么多样化啊！不同类型的挑战之间的交替可以激发多种认知能力。小提示：几天后再次玩游戏有助于巩固所学知识。间隔重复是加强记忆的最佳方法之一！\n",
+      "de": "Was für eine große Vielfalt in euren Spielen! Der Wechsel zwischen verschiedenen Arten von Herausforderungen stimuliert mehrere kognitive Fähigkeiten. Kleiner Tipp: Das erneute Spielen eines Spiels nach ein paar Tagen hilft, das Gelernte zu festigen. Abstandswiederholung ist eine der besten Möglichkeiten, das Gedächtnis zu stärken!\n",
+      "es": "¡Qué gran diversidad en tus juegos! Alternar entre diferentes tipos de desafíos estimula varias habilidades cognitivas. Un pequeño consejo: volver a jugar un juego después de unos días ayuda a consolidar lo aprendido. ¡La repetición espaciada es una de las mejores formas de fortalecer la memoria!\n"
+    }
+  },
+  {
+    "mnemo": "conclusion2",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
+    "title": {
+      "fr": "\nÀ bientôt pour de nouvelles parties !",
+      "us": "\nSee you soon for new games!",
+      "it": "\nA presto per nuovi giochi!",
+      "pt": "\nVejo vocês em breve para novos jogos!",
+      "nl": "\nTot snel voor nieuwe spellen!",
+      "cn": "\n新游戏再见！",
+      "de": "\nBis bald mit neuen Spielen!",
+      "es": "\n¡Nos vemos pronto para nuevos juegos!"
+    }
+  },
+  {
+    "mnemo": "conclusion2",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
+    "title": {
+      "fr": "Continuez comme ça et passez une belle semaine !",
+      "us": "Keep it up and have a great week!",
+      "it": "Continuate così e buona settimana!",
+      "pt": "Continue assim e tenha uma ótima semana!",
+      "nl": "Ga zo door en maak er een fijne week van!",
+      "cn": "坚持下去，祝你度过愉快的一周！",
+      "de": "Weiter so und eine tolle Woche!",
+      "es": "¡Sigue así y que tengas una gran semana!"
+    }
+  },
+  {
+    "mnemo": "conclusion2",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
+    "title": {
+      "fr": "Prenez soin de vous et à bientôt !",
+      "us": "Take care of yourself and see you soon!",
+      "it": "Abbi cura di te e a presto!",
+      "pt": "Cuide-se e até breve!",
+      "nl": "Zorg goed voor jezelf en tot snel!",
+      "cn": "照顾好自己，很快再见！",
+      "de": "Passen Sie auf sich auf und bis bald!",
+      "es": "¡Cuídate mucho y hasta pronto!"
+    }
+  },
+  {
+    "mnemo": "conclusion2",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
+    "title": {
+      "fr": "Continuez à jouer à votre rythme et surtout amusez-vous bien !",
+      "us": "Keep playing at your own pace and above all have fun!",
+      "it": "Continua a giocare al tuo ritmo e soprattutto divertiti!",
+      "pt": "Continue jogando no seu ritmo e acima de tudo divirta-se!",
+      "nl": "Blijf in je eigen tempo spelen en vooral veel plezier!",
+      "cn": "继续按照自己的节奏玩，最重要的是玩得开心！",
+      "de": "Spielen Sie weiter in Ihrem eigenen Tempo und haben Sie vor allem Spaß!",
+      "es": "¡Sigue jugando a tu propio ritmo y sobre todo diviértete!"
+    }
+  },
+  {
+    "mnemo": "conclusion2",
+    "condition": "always",
+    "isForEHPAD": true,
+    "isForPAPY": true,
+    "title": {
+      "fr": "À bientôt pour de nouveaux défis !",
+      "us": "See you soon for new challenges!",
+      "it": "A presto per nuove sfide!",
+      "pt": "Até breve para novos desafios!",
+      "nl": "Tot snel voor nieuwe uitdagingen!",
+      "cn": "很快再见，迎接新的挑战！",
+      "de": "Bis bald für neue Herausforderungen!",
+      "es": "¡Nos vemos pronto para nuevos desafíos!"
+    }
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
+  },
+  {
+    "isForEHPAD": false,
+    "isForPAPY": false
   }
 ]
