@@ -17400,6 +17400,16 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
+    "isForPAPY": "TRUE",
+    "isForEHPAD": "FALSE",
+    "isForCOCO": "TRUE",
+    "title": {
+      "fr": "Vous avez utilisé <score> indices, c’est un peu plus que la moyenne. Essayez de prendre plus de temps pour repérer les mots avant de demander un indice ! | <score> indices cette fois-ci, c’est au-dessus de la moyenne. Essayez de regarder l’ensemble de la grille avant de chercher un indice, cela pourra vous aider à réduire votre score ! | Vous avez fait appel à <score> indices, un peu plus que la moyenne. En vous entraînant à observer plus attentivement, vous pourrez peut-être trouver plus de mots sans aide ! | Vous avez utilisé <score> indices, c’est un peu plus que d’habitude. N’hésitez pas à parcourir lentement la grille et à réfléchir un peu plus avant d’utiliser un indice ! | Avec <score> indices, c’est une performance au-dessus de la moyenne. Essayez de repérer les zones contenant plusieurs mots en même temps pour éviter d’utiliser trop d’indices ! | Vous avez fait appel à <score> indices. La prochaine fois, essayez de focaliser votre attention sur les plus grands mots ou ceux que vous reconnaissez immédiatement pour réduire votre besoin d’indices !"
+    }
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "WORDLE",
     "isForPAPY": "FALSE",
     "isForEHPAD": "FALSE",
     "isForCOCO": "TRUE",
