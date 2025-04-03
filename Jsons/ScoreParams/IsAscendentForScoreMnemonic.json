@@ -1,107 +1,107 @@
 [
   {
     "scoreMnemonic": "nbGoodAnswer",
-    "isAscendent": "YES",
-    "useAnalyse": "YES"
+    "isAscendent": true,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbBadAnswers",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbClues",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbResets",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbDeaths",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbChallenges",
-    "isAscendent": "YES",
-    "useAnalyse": "YES"
+    "isAscendent": true,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
-    "isAscendent": "YES",
-    "useAnalyse": "YES"
+    "isAscendent": true,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
-    "isAscendent": "YES",
-    "useAnalyse": "YES"
+    "isAscendent": true,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
-    "isAscendent": "YES",
-    "useAnalyse": "YES"
+    "isAscendent": true,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "reactionTime",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "time",
-    "isAscendent": "NO",
-    "useAnalyse": "YES"
+    "isAscendent": false,
+    "useAnalyse": true
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "isAscendent": "NO",
-    "useAnalyse": "NO"
+    "isAscendent": false,
+    "useAnalyse": false
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TANGRAM",
-    "isAscendent": "YES",
-    "useAnalyse": "NO"
+    "isAscendent": true,
+    "useAnalyse": false
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "isAscendent": "YES",
-    "useAnalyse": "NO"
+    "isAscendent": true,
+    "useAnalyse": false
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "isAscendent": "YES",
-    "useAnalyse": "NO"
+    "isAscendent": true,
+    "useAnalyse": false
   }
 ]
