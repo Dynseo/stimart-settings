@@ -2,7 +2,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -14,7 +14,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -25,7 +25,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -36,7 +36,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -47,7 +47,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -58,7 +58,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -76,7 +76,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -94,7 +94,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -112,7 +112,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -130,7 +130,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -148,7 +148,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -166,7 +166,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -184,7 +184,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -202,7 +202,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -220,7 +220,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -238,7 +238,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -256,7 +256,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -274,7 +274,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -292,7 +292,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -310,7 +310,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -328,7 +328,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -346,7 +346,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -364,7 +364,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -382,7 +382,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -400,7 +400,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -418,7 +418,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -436,7 +436,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -454,7 +454,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -472,7 +472,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -490,7 +490,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -508,7 +508,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -526,7 +526,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -544,7 +544,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -563,7 +563,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -581,7 +581,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -599,7 +599,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -617,7 +617,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -635,7 +635,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -653,7 +653,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -671,7 +671,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -690,7 +690,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -708,7 +708,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -726,7 +726,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -744,7 +744,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -762,7 +762,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -781,7 +781,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -799,7 +799,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -817,7 +817,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -835,7 +835,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -853,7 +853,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -871,7 +871,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -889,7 +889,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -907,7 +907,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -925,7 +925,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -943,7 +943,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -961,7 +961,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -979,7 +979,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -997,7 +997,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -1015,7 +1015,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -1033,7 +1033,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -1051,7 +1051,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -1069,7 +1069,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -1088,7 +1088,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -1106,7 +1106,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -1124,7 +1124,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1142,7 +1142,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -1160,7 +1160,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -1178,7 +1178,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1196,7 +1196,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -1214,7 +1214,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -1233,7 +1233,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -1251,7 +1251,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -1269,7 +1269,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -1287,7 +1287,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -1305,7 +1305,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1323,7 +1323,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -1341,7 +1341,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -1359,7 +1359,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -1377,7 +1377,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -1395,7 +1395,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -1413,7 +1413,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -1431,7 +1431,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -1449,7 +1449,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1467,7 +1467,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -1485,7 +1485,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -1503,7 +1503,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -1521,7 +1521,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -1539,7 +1539,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -1557,7 +1557,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -1575,7 +1575,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -1593,7 +1593,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1611,7 +1611,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -1630,7 +1630,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -1648,7 +1648,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -1666,7 +1666,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -1684,7 +1684,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -1702,7 +1702,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1720,7 +1720,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -1738,7 +1738,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -1756,7 +1756,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -1774,7 +1774,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -1792,7 +1792,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1810,7 +1810,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -1828,7 +1828,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -1846,7 +1846,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -1859,7 +1859,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -1877,7 +1877,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -1895,7 +1895,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -1914,7 +1914,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -1932,7 +1932,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -1950,7 +1950,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -1968,7 +1968,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -1986,7 +1986,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -2004,7 +2004,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -2023,7 +2023,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -2041,7 +2041,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -2059,7 +2059,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2077,7 +2077,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -2095,7 +2095,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -2113,7 +2113,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -2131,7 +2131,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -2149,7 +2149,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -2167,7 +2167,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -2185,7 +2185,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -2203,7 +2203,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -2221,7 +2221,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -2239,7 +2239,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2257,7 +2257,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -2275,7 +2275,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2286,7 +2286,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -2304,7 +2304,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -2322,7 +2322,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -2340,7 +2340,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2358,7 +2358,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -2376,7 +2376,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -2394,7 +2394,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -2412,7 +2412,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -2430,7 +2430,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -2448,7 +2448,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -2467,7 +2467,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -2485,7 +2485,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -2503,7 +2503,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2521,7 +2521,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -2539,7 +2539,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -2557,7 +2557,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -2575,7 +2575,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -2593,7 +2593,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2611,7 +2611,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -2629,7 +2629,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -2647,7 +2647,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -2665,7 +2665,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -2683,7 +2683,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -2701,7 +2701,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2719,7 +2719,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -2737,7 +2737,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -2755,7 +2755,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -2773,7 +2773,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -2791,7 +2791,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -2809,7 +2809,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -2827,7 +2827,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -2846,7 +2846,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -2864,7 +2864,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -2882,7 +2882,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -2900,7 +2900,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -2918,7 +2918,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -2936,7 +2936,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -2954,7 +2954,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -2972,7 +2972,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -2990,7 +2990,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -3008,7 +3008,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -3026,7 +3026,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -3044,7 +3044,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3059,7 +3059,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -3077,7 +3077,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -3088,7 +3088,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -3099,7 +3099,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3110,7 +3110,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -3121,7 +3121,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -3132,7 +3132,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -3143,7 +3143,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -3154,7 +3154,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -3165,7 +3165,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3176,7 +3176,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -3186,7 +3186,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -3196,7 +3196,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -3206,7 +3206,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -3216,7 +3216,7 @@
   },
   {
     "scoreMnemonic": "nbBadAnswers",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3227,7 +3227,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "subMode": "free",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -3238,7 +3238,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "subMode": "free",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -3249,7 +3249,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "subMode": "line",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -3260,7 +3260,7 @@
   {
     "scoreMnemonic": "nbBadAnswers",
     "subMode": "line",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -3271,7 +3271,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -3289,7 +3289,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -3307,7 +3307,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3325,7 +3325,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -3343,7 +3343,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -3361,7 +3361,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -3379,7 +3379,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -3397,7 +3397,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3415,7 +3415,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -3433,7 +3433,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -3451,7 +3451,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3469,7 +3469,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -3487,7 +3487,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -3505,7 +3505,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -3523,7 +3523,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -3541,7 +3541,7 @@
   {
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3559,7 +3559,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -3577,7 +3577,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3595,7 +3595,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -3613,7 +3613,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -3631,7 +3631,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -3649,7 +3649,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -3668,7 +3668,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3686,7 +3686,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -3704,7 +3704,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -3722,7 +3722,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3740,7 +3740,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -3758,7 +3758,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -3776,7 +3776,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -3794,7 +3794,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3812,7 +3812,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3830,7 +3830,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -3848,7 +3848,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -3867,7 +3867,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3885,7 +3885,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -3903,7 +3903,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -3921,7 +3921,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -3939,7 +3939,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -3957,7 +3957,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -3975,7 +3975,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -3993,7 +3993,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -4011,7 +4011,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4029,7 +4029,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4047,7 +4047,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -4065,7 +4065,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -4083,7 +4083,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -4101,7 +4101,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4119,7 +4119,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -4137,7 +4137,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4155,7 +4155,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4173,7 +4173,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -4192,7 +4192,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4210,7 +4210,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4228,7 +4228,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -4247,7 +4247,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4265,7 +4265,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4283,7 +4283,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -4302,7 +4302,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -4313,7 +4313,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -4324,7 +4324,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4335,7 +4335,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4346,7 +4346,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -4357,7 +4357,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -4368,7 +4368,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -4379,7 +4379,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -4390,7 +4390,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4401,7 +4401,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "COCO_1"
     ],
@@ -4413,7 +4413,7 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -4423,7 +4423,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -4433,7 +4433,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -4443,7 +4443,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4453,7 +4453,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4463,7 +4463,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -4473,7 +4473,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -4483,7 +4483,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4493,7 +4493,7 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -4504,7 +4504,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -4522,7 +4522,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4540,7 +4540,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4558,7 +4558,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -4576,7 +4576,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -4594,7 +4594,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -4612,7 +4612,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4630,7 +4630,7 @@
   {
     "scoreMnemonic": "nbDeaths",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -4648,7 +4648,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -4660,7 +4660,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -4671,7 +4671,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -4682,7 +4682,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "ANIMALS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4693,7 +4693,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -4711,7 +4711,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -4729,7 +4729,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4747,7 +4747,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4765,7 +4765,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -4783,7 +4783,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -4801,7 +4801,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -4819,7 +4819,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4837,7 +4837,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -4855,7 +4855,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -4868,7 +4868,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -4886,7 +4886,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -4904,7 +4904,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -4922,7 +4922,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -4940,7 +4940,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -4959,7 +4959,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -4977,7 +4977,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -4995,7 +4995,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -5013,7 +5013,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5031,7 +5031,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5049,7 +5049,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -5067,7 +5067,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -5085,7 +5085,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5103,7 +5103,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -5122,7 +5122,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5140,7 +5140,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5158,7 +5158,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5176,7 +5176,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -5194,7 +5194,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5212,7 +5212,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5230,7 +5230,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5248,7 +5248,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -5266,7 +5266,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5284,7 +5284,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5302,7 +5302,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5320,7 +5320,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -5338,7 +5338,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -5356,7 +5356,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -5374,7 +5374,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5392,7 +5392,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5410,7 +5410,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -5428,7 +5428,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -5447,7 +5447,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5465,7 +5465,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -5483,7 +5483,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -5501,7 +5501,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -5519,7 +5519,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5537,7 +5537,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5555,7 +5555,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -5573,7 +5573,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -5591,7 +5591,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5609,7 +5609,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -5627,7 +5627,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -5645,7 +5645,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -5663,7 +5663,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5681,7 +5681,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5699,7 +5699,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -5717,7 +5717,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -5735,7 +5735,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5753,7 +5753,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -5771,7 +5771,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -5789,7 +5789,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -5807,7 +5807,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5825,7 +5825,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5843,7 +5843,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -5861,7 +5861,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -5879,7 +5879,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -5897,7 +5897,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -5916,7 +5916,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -5934,7 +5934,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -5952,7 +5952,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -5970,7 +5970,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -5988,7 +5988,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -6006,7 +6006,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -6024,7 +6024,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -6042,7 +6042,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6060,7 +6060,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -6078,7 +6078,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -6096,7 +6096,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -6114,7 +6114,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -6132,7 +6132,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -6150,7 +6150,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -6168,7 +6168,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -6187,7 +6187,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6205,7 +6205,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -6223,7 +6223,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -6241,7 +6241,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -6259,7 +6259,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -6277,7 +6277,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -6296,7 +6296,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -6314,7 +6314,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -6332,7 +6332,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6350,7 +6350,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -6368,7 +6368,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -6386,7 +6386,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -6404,7 +6404,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -6422,7 +6422,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -6440,7 +6440,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -6458,7 +6458,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -6476,7 +6476,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6494,7 +6494,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -6512,7 +6512,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -6530,7 +6530,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -6548,7 +6548,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -6566,7 +6566,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -6584,7 +6584,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -6603,7 +6603,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -6621,7 +6621,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6639,7 +6639,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6650,7 +6650,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -6668,7 +6668,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -6686,7 +6686,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -6704,7 +6704,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -6722,7 +6722,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -6740,7 +6740,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -6758,7 +6758,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -6776,7 +6776,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6794,7 +6794,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -6812,7 +6812,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -6830,7 +6830,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -6848,7 +6848,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -6866,7 +6866,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -6884,7 +6884,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -6903,7 +6903,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -6921,7 +6921,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -6939,7 +6939,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -6957,7 +6957,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -6975,7 +6975,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -6993,7 +6993,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -7011,7 +7011,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7029,7 +7029,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -7047,7 +7047,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -7066,7 +7066,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -7084,7 +7084,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7102,7 +7102,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7120,7 +7120,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -7138,7 +7138,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -7156,7 +7156,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7174,7 +7174,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -7193,7 +7193,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -7211,7 +7211,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -7229,7 +7229,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7247,7 +7247,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7265,7 +7265,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -7283,7 +7283,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -7301,7 +7301,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7319,7 +7319,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -7337,7 +7337,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -7355,7 +7355,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -7373,7 +7373,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7391,7 +7391,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7409,7 +7409,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -7427,7 +7427,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -7445,7 +7445,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7463,7 +7463,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -7481,7 +7481,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -7499,7 +7499,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -7517,7 +7517,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7535,7 +7535,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7553,7 +7553,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -7571,7 +7571,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -7589,7 +7589,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7607,7 +7607,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -7625,7 +7625,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -7643,7 +7643,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -7662,7 +7662,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7673,7 +7673,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7684,7 +7684,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -7695,7 +7695,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -7706,7 +7706,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7717,7 +7717,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -7728,7 +7728,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -7739,7 +7739,7 @@
   {
     "scoreMnemonic": "nbGoodAnswer",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -7749,7 +7749,7 @@
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7759,7 +7759,7 @@
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7769,7 +7769,7 @@
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7779,7 +7779,7 @@
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -7789,7 +7789,7 @@
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -7800,7 +7800,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7818,7 +7818,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7836,7 +7836,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -7854,7 +7854,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -7872,7 +7872,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -7890,7 +7890,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -7908,7 +7908,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -7927,7 +7927,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -7945,7 +7945,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -7963,7 +7963,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -7981,7 +7981,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -7999,7 +7999,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -8017,7 +8017,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -8035,7 +8035,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -8053,7 +8053,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -8071,7 +8071,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -8089,7 +8089,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -8107,7 +8107,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -8125,7 +8125,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -8143,7 +8143,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -8161,7 +8161,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -8179,7 +8179,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -8197,7 +8197,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -8215,7 +8215,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -8233,7 +8233,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -8244,7 +8244,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -8255,7 +8255,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -8266,7 +8266,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -8277,7 +8277,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -8288,7 +8288,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -8299,7 +8299,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -8310,7 +8310,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -8321,7 +8321,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -8339,7 +8339,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -8357,7 +8357,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -8375,7 +8375,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -8393,7 +8393,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -8411,7 +8411,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -8429,7 +8429,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -8447,7 +8447,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -8465,7 +8465,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -8483,7 +8483,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -8501,7 +8501,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -8519,7 +8519,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -8537,7 +8537,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -8555,7 +8555,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -8574,7 +8574,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -8592,7 +8592,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails2",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -8610,7 +8610,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -8628,7 +8628,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -8646,7 +8646,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -8664,7 +8664,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -8682,7 +8682,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -8700,7 +8700,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -8718,7 +8718,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -8737,7 +8737,7 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails3",
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -8755,7 +8755,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -8773,7 +8773,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -8791,7 +8791,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -8809,7 +8809,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -8827,7 +8827,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -8845,7 +8845,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -8864,7 +8864,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -8882,7 +8882,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -8900,7 +8900,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -8918,7 +8918,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -8936,7 +8936,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -8954,7 +8954,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -8972,7 +8972,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -8990,7 +8990,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -9008,7 +9008,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -9026,7 +9026,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -9045,7 +9045,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -9063,7 +9063,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -9081,7 +9081,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -9099,7 +9099,7 @@
   {
     "scoreMnemonic": "nbItemClickedByMistakes",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -9117,7 +9117,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -9135,7 +9135,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -9153,7 +9153,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -9171,7 +9171,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -9189,7 +9189,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -9207,7 +9207,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -9225,7 +9225,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -9243,7 +9243,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -9261,7 +9261,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -9279,7 +9279,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -9297,7 +9297,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -9315,7 +9315,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -9333,7 +9333,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -9351,7 +9351,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -9369,7 +9369,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -9387,7 +9387,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -9405,7 +9405,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -9423,7 +9423,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -9441,7 +9441,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -9459,7 +9459,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -9477,7 +9477,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -9495,7 +9495,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -9513,7 +9513,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -9531,7 +9531,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -9549,7 +9549,7 @@
   {
     "scoreMnemonic": "nbItemsForgotten",
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -9566,7 +9566,7 @@
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -9576,7 +9576,7 @@
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -9586,7 +9586,7 @@
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -9597,7 +9597,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -9615,7 +9615,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -9633,7 +9633,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -9651,7 +9651,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -9669,7 +9669,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -9687,7 +9687,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -9705,7 +9705,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -9723,7 +9723,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -9741,7 +9741,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -9759,7 +9759,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -9777,7 +9777,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -9795,7 +9795,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -9813,7 +9813,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -9831,7 +9831,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -9850,7 +9850,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -9868,7 +9868,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -9886,7 +9886,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -9904,7 +9904,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -9922,7 +9922,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -9940,7 +9940,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -9958,7 +9958,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -9977,7 +9977,7 @@
   {
     "scoreMnemonic": "nbItemsSkipped",
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -9994,7 +9994,7 @@
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -10004,7 +10004,7 @@
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -10015,7 +10015,7 @@
   {
     "scoreMnemonic": "nbSolutionViewed",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -10033,7 +10033,7 @@
   {
     "scoreMnemonic": "nbSolutionViewed",
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -10052,7 +10052,7 @@
   {
     "scoreMnemonic": "nbSolutionViewed",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -10070,7 +10070,7 @@
   {
     "scoreMnemonic": "nbSolutionViewed",
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -10087,7 +10087,7 @@
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -10097,7 +10097,7 @@
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -10107,7 +10107,7 @@
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -10117,7 +10117,7 @@
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -10127,7 +10127,7 @@
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -10137,7 +10137,7 @@
   },
   {
     "scoreMnemonic": "nbSolutionViewed",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -10148,7 +10148,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -10166,7 +10166,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -10184,7 +10184,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -10202,7 +10202,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -10220,7 +10220,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -10238,7 +10238,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -10257,7 +10257,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -10275,7 +10275,7 @@
   {
     "scoreMnemonic": "time",
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -10293,7 +10293,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -10311,7 +10311,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -10329,7 +10329,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -10347,7 +10347,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -10365,7 +10365,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -10383,7 +10383,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -10401,7 +10401,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -10419,7 +10419,7 @@
   {
     "scoreMnemonic": "time",
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -10437,7 +10437,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -10455,7 +10455,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -10473,7 +10473,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -10491,7 +10491,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -10509,7 +10509,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -10527,7 +10527,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -10545,7 +10545,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -10563,7 +10563,7 @@
   {
     "scoreMnemonic": "time",
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -10581,7 +10581,7 @@
   {
     "scoreMnemonic": "time",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -10599,7 +10599,7 @@
   {
     "scoreMnemonic": "time",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -10617,7 +10617,7 @@
   {
     "scoreMnemonic": "time",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -10635,7 +10635,7 @@
   {
     "scoreMnemonic": "time",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -10653,7 +10653,7 @@
   {
     "scoreMnemonic": "time",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -10671,7 +10671,7 @@
   {
     "scoreMnemonic": "time",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -10689,7 +10689,7 @@
   {
     "scoreMnemonic": "time",
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -10706,7 +10706,7 @@
   },
   {
     "scoreMnemonic": "time",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -10716,7 +10716,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -10733,7 +10733,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -10750,7 +10750,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -10767,7 +10767,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -10784,7 +10784,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -10801,7 +10801,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -10818,7 +10818,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -10835,7 +10835,7 @@
   },
   {
     "game": "BALL",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -10847,7 +10847,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -10864,7 +10864,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -10881,7 +10881,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -10898,7 +10898,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -10915,7 +10915,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -10932,7 +10932,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -10949,7 +10949,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -10966,7 +10966,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -10983,7 +10983,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -11000,7 +11000,7 @@
   },
   {
     "game": "BLOCK_PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -11018,7 +11018,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -11035,7 +11035,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -11052,7 +11052,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -11069,7 +11069,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -11086,7 +11086,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -11103,7 +11103,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -11120,7 +11120,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -11137,7 +11137,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -11154,7 +11154,7 @@
   },
   {
     "game": "CALCULUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -11171,7 +11171,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -11189,7 +11189,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -11207,7 +11207,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -11224,7 +11224,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -11241,7 +11241,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -11258,7 +11258,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -11275,7 +11275,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -11292,7 +11292,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -11309,7 +11309,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -11326,7 +11326,7 @@
   },
   {
     "game": "CARS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -11343,7 +11343,7 @@
   },
   {
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -11360,7 +11360,7 @@
   },
   {
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -11377,7 +11377,7 @@
   },
   {
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -11394,7 +11394,7 @@
   },
   {
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -11412,7 +11412,7 @@
   },
   {
     "game": "CASCADE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -11429,7 +11429,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -11446,7 +11446,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -11463,7 +11463,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -11480,7 +11480,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -11497,7 +11497,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -11514,7 +11514,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -11531,7 +11531,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -11548,7 +11548,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -11565,7 +11565,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -11582,7 +11582,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -11600,7 +11600,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -11617,7 +11617,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -11634,7 +11634,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -11651,7 +11651,7 @@
   },
   {
     "game": "CATERPILLAR",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -11668,7 +11668,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -11685,7 +11685,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -11702,7 +11702,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -11719,7 +11719,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -11736,7 +11736,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -11753,7 +11753,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -11770,7 +11770,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -11787,7 +11787,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -11804,7 +11804,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -11821,7 +11821,7 @@
   },
   {
     "game": "CHESSBOARD",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -11838,7 +11838,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -11856,7 +11856,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -11874,7 +11874,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -11891,7 +11891,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -11908,7 +11908,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -11925,7 +11925,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -11942,7 +11942,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -11959,7 +11959,7 @@
   },
   {
     "game": "COLORFORM",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -11977,7 +11977,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -11994,7 +11994,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -12011,7 +12011,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -12028,7 +12028,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -12045,7 +12045,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -12062,7 +12062,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -12079,7 +12079,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -12096,7 +12096,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -12113,7 +12113,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -12130,7 +12130,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -12147,7 +12147,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -12164,7 +12164,7 @@
   },
   {
     "game": "COLORMIND",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -12181,7 +12181,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -12198,7 +12198,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -12215,7 +12215,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -12232,7 +12232,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -12249,7 +12249,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -12266,7 +12266,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -12283,7 +12283,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -12300,7 +12300,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -12317,7 +12317,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -12334,7 +12334,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -12351,7 +12351,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -12368,7 +12368,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -12385,7 +12385,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -12403,7 +12403,7 @@
   },
   {
     "game": "COOK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -12420,7 +12420,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -12437,7 +12437,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -12454,7 +12454,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -12471,7 +12471,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -12488,7 +12488,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -12505,7 +12505,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -12522,7 +12522,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -12539,7 +12539,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -12556,7 +12556,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -12573,7 +12573,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -12590,7 +12590,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -12607,7 +12607,7 @@
   },
   {
     "game": "FURIOUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -12624,7 +12624,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -12641,7 +12641,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -12658,7 +12658,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -12675,7 +12675,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -12692,7 +12692,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -12709,7 +12709,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -12726,7 +12726,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -12743,7 +12743,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -12760,7 +12760,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -12777,7 +12777,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -12794,7 +12794,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -12811,7 +12811,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -12828,7 +12828,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -12845,7 +12845,7 @@
   },
   {
     "game": "GEO",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -12862,7 +12862,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -12879,7 +12879,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -12896,7 +12896,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -12913,7 +12913,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -12930,7 +12930,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -12947,7 +12947,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -12964,7 +12964,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -12981,7 +12981,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -12998,7 +12998,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -13015,7 +13015,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -13032,7 +13032,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -13049,7 +13049,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -13066,7 +13066,7 @@
   },
   {
     "game": "HANGMAN",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -13084,7 +13084,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -13102,7 +13102,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -13120,7 +13120,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -13137,7 +13137,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -13154,7 +13154,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -13171,7 +13171,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -13188,7 +13188,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -13205,7 +13205,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -13222,7 +13222,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -13239,7 +13239,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -13256,7 +13256,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -13273,7 +13273,7 @@
   },
   {
     "game": "INTRUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -13290,7 +13290,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -13307,7 +13307,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -13324,7 +13324,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -13341,7 +13341,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -13358,7 +13358,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -13375,7 +13375,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -13392,7 +13392,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -13409,7 +13409,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -13426,7 +13426,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -13443,7 +13443,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -13460,7 +13460,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -13477,7 +13477,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -13494,7 +13494,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -13511,7 +13511,7 @@
   },
   {
     "game": "LOST_POEM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -13528,7 +13528,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -13545,7 +13545,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -13562,7 +13562,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -13579,7 +13579,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -13596,7 +13596,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -13613,7 +13613,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -13630,7 +13630,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -13647,7 +13647,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -13664,7 +13664,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -13681,7 +13681,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -13698,7 +13698,7 @@
   },
   {
     "game": "MEMORY",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -13715,7 +13715,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -13732,7 +13732,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -13749,7 +13749,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -13766,7 +13766,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -13783,7 +13783,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -13800,7 +13800,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -13817,7 +13817,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -13834,7 +13834,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -13851,7 +13851,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -13869,7 +13869,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -13886,7 +13886,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -13903,7 +13903,7 @@
   },
   {
     "game": "MUSIC",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -13920,7 +13920,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -13938,7 +13938,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -13956,7 +13956,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -13973,7 +13973,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -13990,7 +13990,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -14007,7 +14007,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -14024,7 +14024,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -14041,7 +14041,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -14058,7 +14058,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -14075,7 +14075,7 @@
   },
   {
     "game": "NOAHS_ARK",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -14092,7 +14092,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -14110,7 +14110,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -14128,7 +14128,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -14145,7 +14145,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -14162,7 +14162,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -14179,7 +14179,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -14196,7 +14196,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -14213,7 +14213,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -14230,7 +14230,7 @@
   },
   {
     "game": "PANURGE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -14247,7 +14247,7 @@
   },
   {
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -14264,7 +14264,7 @@
   },
   {
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -14281,7 +14281,7 @@
   },
   {
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -14298,7 +14298,7 @@
   },
   {
     "game": "PONG",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -14315,7 +14315,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -14332,7 +14332,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -14349,7 +14349,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -14366,7 +14366,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -14383,7 +14383,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -14400,7 +14400,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -14417,7 +14417,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -14434,7 +14434,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -14451,7 +14451,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -14468,7 +14468,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -14485,7 +14485,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -14502,7 +14502,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -14519,7 +14519,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -14536,7 +14536,7 @@
   },
   {
     "game": "POPBALLOON",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -14553,7 +14553,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -14570,7 +14570,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -14587,7 +14587,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -14604,7 +14604,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -14621,7 +14621,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -14638,7 +14638,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -14655,7 +14655,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -14672,7 +14672,7 @@
   },
   {
     "game": "PROVERB",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -14689,7 +14689,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -14706,7 +14706,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -14723,7 +14723,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -14740,7 +14740,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -14758,7 +14758,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -14775,7 +14775,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -14792,7 +14792,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -14809,7 +14809,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -14826,7 +14826,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -14843,7 +14843,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -14860,7 +14860,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -14877,7 +14877,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -14894,7 +14894,7 @@
   },
   {
     "game": "PUZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -14911,7 +14911,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -14928,7 +14928,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -14945,7 +14945,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -14962,7 +14962,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -14979,7 +14979,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -14996,7 +14996,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -15013,7 +15013,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -15030,7 +15030,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -15047,7 +15047,7 @@
   },
   {
     "game": "QUIZZLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -15064,7 +15064,7 @@
   },
   {
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -15081,7 +15081,7 @@
   },
   {
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -15098,7 +15098,7 @@
   },
   {
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -15129,7 +15129,7 @@
   },
   {
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -15146,7 +15146,7 @@
   },
   {
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -15163,7 +15163,7 @@
   },
   {
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -15181,7 +15181,7 @@
   },
   {
     "game": "RELIBULLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -15198,7 +15198,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -15215,7 +15215,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -15232,7 +15232,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -15249,7 +15249,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -15266,7 +15266,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -15283,7 +15283,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -15300,7 +15300,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -15317,7 +15317,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -15334,7 +15334,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -15351,7 +15351,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -15368,7 +15368,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -15385,7 +15385,7 @@
   },
   {
     "game": "SCROLLANDCATCH",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -15402,7 +15402,7 @@
   },
   {
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -15419,7 +15419,7 @@
   },
   {
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -15436,7 +15436,7 @@
   },
   {
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -15453,7 +15453,7 @@
   },
   {
     "game": "SEQUENCE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -15470,7 +15470,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -15487,7 +15487,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -15504,7 +15504,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -15522,7 +15522,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -15539,7 +15539,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -15556,7 +15556,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -15573,7 +15573,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -15590,7 +15590,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -15607,7 +15607,7 @@
   },
   {
     "game": "SHAPEBOX",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -15624,7 +15624,7 @@
   },
   {
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -15641,7 +15641,7 @@
   },
   {
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -15658,7 +15658,7 @@
   },
   {
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -15675,7 +15675,7 @@
   },
   {
     "game": "SIMILI",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -15692,7 +15692,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -15709,7 +15709,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -15726,7 +15726,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -15743,7 +15743,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -15760,7 +15760,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -15777,7 +15777,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -15794,7 +15794,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -15811,7 +15811,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -15828,7 +15828,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -15845,7 +15845,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -15862,7 +15862,7 @@
   },
   {
     "game": "SLIDE_MAZE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -15879,7 +15879,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -15896,7 +15896,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -15913,7 +15913,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -15930,7 +15930,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -15947,7 +15947,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -15964,7 +15964,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -15981,7 +15981,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -15998,7 +15998,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -16015,7 +16015,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -16032,7 +16032,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -16049,7 +16049,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -16067,7 +16067,7 @@
   },
   {
     "game": "SNOWBALL_EFFECT",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -16084,7 +16084,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -16101,7 +16101,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -16118,7 +16118,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -16135,7 +16135,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -16152,7 +16152,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -16169,7 +16169,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -16186,7 +16186,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -16203,7 +16203,7 @@
   },
   {
     "game": "SUDOKU",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -16221,7 +16221,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -16238,7 +16238,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -16255,7 +16255,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -16273,7 +16273,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -16290,7 +16290,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -16307,7 +16307,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -16324,7 +16324,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -16341,7 +16341,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -16358,7 +16358,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -16375,7 +16375,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -16392,7 +16392,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -16409,7 +16409,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -16427,7 +16427,7 @@
   },
   {
     "game": "SYLLABUS",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -16444,7 +16444,7 @@
   },
   {
     "game": "TANGRAM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -16461,7 +16461,7 @@
   },
   {
     "game": "TANGRAM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -16478,7 +16478,7 @@
   },
   {
     "game": "TANGRAM",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -16509,7 +16509,7 @@
   },
   {
     "game": "TANGRAM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -16526,7 +16526,7 @@
   },
   {
     "game": "TANGRAM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -16543,7 +16543,7 @@
   },
   {
     "game": "TANGRAM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -16560,7 +16560,7 @@
   },
   {
     "game": "TANGRAM",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -16577,7 +16577,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -16594,7 +16594,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -16611,7 +16611,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -16628,7 +16628,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -16645,7 +16645,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -16662,7 +16662,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -16679,7 +16679,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -16696,7 +16696,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -16713,7 +16713,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -16730,7 +16730,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -16748,7 +16748,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -16765,7 +16765,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -16782,7 +16782,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -16799,7 +16799,7 @@
   },
   {
     "game": "TIMELINE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -16816,7 +16816,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -16833,7 +16833,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -16850,7 +16850,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -16867,7 +16867,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -16884,7 +16884,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -16901,7 +16901,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -16918,7 +16918,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -16935,7 +16935,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -16952,7 +16952,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -16969,7 +16969,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -16986,7 +16986,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -17003,7 +17003,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -17020,7 +17020,7 @@
   },
   {
     "game": "WALKER",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -17037,7 +17037,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -17055,7 +17055,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -17073,7 +17073,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -17090,7 +17090,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -17107,7 +17107,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -17124,7 +17124,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -17141,7 +17141,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -17158,7 +17158,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -17175,7 +17175,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -17192,7 +17192,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "EHPAD",
       "COCO_1"
     ],
@@ -17210,7 +17210,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -17227,7 +17227,7 @@
   },
   {
     "game": "WHACKAMOLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -17244,7 +17244,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -17255,7 +17255,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY",
       "EHPAD"
     ],
@@ -17266,7 +17266,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -17276,7 +17276,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "bestThanAverage",
@@ -17286,7 +17286,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -17296,7 +17296,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -17306,7 +17306,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -17316,7 +17316,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -17326,7 +17326,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -17336,7 +17336,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -17346,7 +17346,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -17356,7 +17356,7 @@
   },
   {
     "game": "WORDLE",
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
@@ -17365,7 +17365,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "newRecord",
@@ -17375,7 +17375,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "equalRecord",
@@ -17384,7 +17384,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "perfectScore",
@@ -17393,7 +17393,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "worstThanAverage",
@@ -17402,7 +17402,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "PAPY"
     ],
     "interactionType": "bestThanAverage",
@@ -17411,7 +17411,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "worstThanAverage",
@@ -17420,7 +17420,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "newRecord",
@@ -17429,7 +17429,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "EHPAD"
     ],
     "interactionType": "equalRecord",
@@ -17438,7 +17438,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "newRecord",
@@ -17447,7 +17447,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "equalRecord",
@@ -17456,7 +17456,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "bestThanAverage",
@@ -17465,7 +17465,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "worstThanAverage",
@@ -17474,7 +17474,7 @@
     }
   },
   {
-    "Apps": [
+    "apps": [
       "COCO_1"
     ],
     "interactionType": "perfectScore",
