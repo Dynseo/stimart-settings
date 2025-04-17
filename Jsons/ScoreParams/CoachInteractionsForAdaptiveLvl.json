@@ -1,0 +1,401 @@
+[
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "better",
+    "title": {
+      "fr": "Bravo <FirstName> ! Vous avez obtenu <grade>/10, on passe au niveau supérieur !|Félicitations <FirstName> ! Avec ce très beau <grade>/10, vous accédez au palier suivant.|Très belle partie <FirstName> ! Vous avez eu <grade>/10, la difficulté va maintenant augmenter.|Super score <FirstName> : <grade>/10 ! On vous propose un niveau plus difficile.|Excellent travail <FirstName> ! Avec ce <grade>/10, vous êtes prêt pour le prochain niveau.|Bravo <FirstName> ! Vous avez eu <grade>/10, on passe à la vitesse supérieure !|Félicitations <FirstName> ! Ce <grade>/10 vous permet d’atteindre un niveau plus complexe.|Bien joué <FirstName> ! Vous avez eu <grade>/10, on augmente un peu le défi !|Très bon score <FirstName> ! Ce <grade>/10 vous ouvre les portes du palier supérieur."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "better",
+    "title": {
+      "fr": "Bravo <FirstName> ! Tu as obtenu <grade>/10, on passe au niveau supérieur !|Félicitations <FirstName> ! Avec ce très beau <grade>/10, tu accèdes au palier suivant.|Très belle partie <FirstName> ! Tu as eu <grade>/10, la difficulté va maintenant augmenter.|Super score <FirstName> : <grade>/10 ! On te propose un niveau plus difficile.|Excellent travail <FirstName> ! Avec ce <grade>/10, tu es prêt pour le prochain palier.|Bravo <FirstName> ! Tu as eu <grade>/10, on passe à la vitesse supérieure !|Félicitations <FirstName> ! Ce <grade>/10 te permet d’atteindre un niveau plus complexe.|Bien joué <FirstName> ! Tu as eu <grade>/10, on augmente un peu le défi !|Très bon score <FirstName> ! Ce <grade>/10 t’ouvre les portes du palier supérieur."
+    }
+  },
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "equal",
+    "title": {
+      "fr": "Bien joué <FirstName> ! Vous avez obtenu <grade>/10, on continue au même rythme.|Bravo <FirstName> ! Ce score de <grade>/10 montre que vous êtes sur la bonne voie.|Vous avez eu <grade>/10 <FirstName>, continuez ainsi, vous progressez bien.|Félicitations <FirstName> ! Avec <grade>/10, vous maintenez un bon niveau, poursuivez vos efforts.|<grade>/10 <FirstName> ! Vous êtes régulier, c’est le bon chemin.|Très bien <FirstName> ! Ce <grade>/10 montre que vous êtes constant, continuez comme ça.|Vous avez marqué <grade>/10 <FirstName>, et vous restez sur une belle lancée.|Bonne partie <FirstName> ! Vous avez obtenu <grade>/10, on reste sur ce niveau pour renforcer vos acquis.|Avec <grade>/10, vous avez fait une bonne partie <FirstName>. On poursuit à ce niveau pour consolider vos progrès."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "equal",
+    "title": {
+      "fr": "Bien joué <FirstName> ! Tu as obtenu <grade>/10, on continue au même rythme.|Bravo <FirstName> ! Ce score de <grade>/10 montre que tu es sur la bonne voie.|Tu as eu <grade>/10 <FirstName>, continue comme ça, tu progresses bien.|Félicitations <FirstName> ! Avec <grade>/10, tu maintiens un bon niveau, poursuis tes efforts.|<grade>/10 <FirstName> ! Tu es régulier, c’est le bon chemin.|Très bien <FirstName> ! Ce <grade>/10 montre que tu es constant, continue ainsi.|Tu as marqué <grade>/10 <FirstName>, et tu restes sur une belle lancée.|Bonne partie <FirstName> ! Tu as obtenu <grade>/10, on reste sur ce niveau pour renforcer tes acquis.|Avec <grade>/10, tu as fait une bonne partie <FirstName>. On poursuit à ce niveau pour consolider tes progrès."
+    }
+  },
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "worst",
+    "title": {
+      "fr": "Ce n’est pas grave <FirstName>, vous avez eu <grade>/10. On ajuste la difficulté pour vous aider à progresser.|Courage <FirstName> ! Avec ce score de <grade>/10, on adapte le jeu pour vous accompagner au mieux.|Pas de souci <FirstName>, vous avez eu <grade>/10. On ajuste la difficulté pour que ce soit plus adapté à votre rythme.|Vous avez obtenu <grade>/10 <FirstName>, on adapte le jeu pour vous soutenir dans vos efforts.|Avec ce <grade>/10, <FirstName>, on ajuste la difficulté pour vous aider à avancer pas à pas.|Ne vous découragez pas <FirstName> ! On adapte le niveau pour que vous puissiez progresser à votre rythme.|<grade>/10, c’est juste une étape <FirstName>. On ajuste la difficulté pour continuer à avancer ensemble.|Bravo d’avoir essayé <FirstName> ! On adapte la difficulté pour vous permettre de progresser sereinement.|Vous avez eu <grade>/10 <FirstName>, et c’est l’occasion d’ajuster le jeu pour mieux vous accompagner.|Chaque partie compte <FirstName> ! On ajuste la difficulté pour vous offrir les meilleures chances de réussite."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "worst",
+    "title": {
+      "fr": "Ce n’est pas grave <FirstName>, tu as eu <grade>/10. On ajuste la difficulté pour t’aider à progresser.|Courage <FirstName> ! Avec ce score de <grade>/10, on adapte le jeu pour mieux t’accompagner.|Pas de souci <FirstName>, tu as eu <grade>/10. On ajuste la difficulté pour que ce soit plus adapté à ton rythme.|Tu as obtenu <grade>/10 <FirstName>, on adapte le jeu pour te soutenir dans tes efforts.|Avec ce <grade>/10, <FirstName>, on ajuste la difficulté pour t’aider à avancer pas à pas.|Ne te décourage pas <FirstName> ! On adapte le niveau pour que tu puisses progresser à ton rythme.|<grade>/10, c’est juste une étape <FirstName>. On ajuste la difficulté pour continuer à avancer ensemble.|Bravo d’avoir essayé <FirstName> ! On adapte la difficulté pour te permettre de progresser sereinement.|Tu as eu <grade>/10 <FirstName>, et c’est l’occasion d’ajuster le jeu pour mieux t’accompagner.|Chaque partie compte <FirstName> ! On ajuste la difficulté pour te donner les meilleures chances de réussite."
+    }
+  },
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "goodStreakWin",
+    "title": {
+      "fr": "Bravo <FirstName> ! Avec un score de <grade>/10, vous avez terminé votre série de bonnes parties. Nous augmentons la difficulté pour vous faire progresser encore plus.|Félicitations <FirstName> ! Vous avez obtenu <grade>/10 et complété votre série de bonnes parties. Préparez-vous, le défi monte d’un cran.|Très belle performance <FirstName> ! Ce <grade>/10 clôt votre série de bonnes parties. On augmente la difficulté pour continuer à vous stimuler.|Bravo <FirstName> ! Grâce à ce <grade>/10, vous avez validé votre série. Le niveau va maintenant devenir plus exigeant.|Félicitations <FirstName> ! Avec <grade>/10, vous venez de finaliser la série des bonnes parties. On passe à un palier supérieur.|Excellent travail <FirstName> ! Vous avez marqué <grade>/10 et terminé votre série. On augmente la difficulté pour continuer votre progression.|Bravo <FirstName> ! Ce <grade>/10 marque la fin de votre série de réussites. Le prochain niveau vous attend !|Très bien joué <FirstName> ! Vous avez obtenu <grade>/10 et validé toutes les étapes. Nous allons maintenant augmenter la difficulté.|Félicitations <FirstName> ! Ce <grade>/10 vous permet de terminer votre série avec succès. On passe à un niveau plus complexe."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "goodStreakWin",
+    "title": {
+      "fr": "Bravo <FirstName> ! Avec un score de <grade>/10, tu as terminé ta série de bonnes parties. On augmente la difficulté pour te faire progresser encore plus.|Félicitations <FirstName> ! Tu as obtenu <grade>/10 et complété ta série de bonnes parties. Prépare-toi, le défi monte d’un cran.|Très belle performance <FirstName> ! Ce <grade>/10 clôt ta série de bonnes parties. On augmente la difficulté pour continuer à te stimuler.|Bravo <FirstName> ! Grâce à ce <grade>/10, tu as validé ta série. Le niveau va maintenant devenir plus exigeant.|Félicitations <FirstName> ! Avec <grade>/10, tu viens de finaliser ta série de bonnes parties. On passe à un palier supérieur.|Excellent travail <FirstName> ! Tu as marqué <grade>/10 et terminé ta série. On augmente la difficulté pour continuer ta progression.|Bravo <FirstName> ! Ce <grade>/10 marque la fin de ta série de réussites. Le prochain niveau t’attend !|Très bien joué <FirstName> ! Tu as obtenu <grade>/10 et validé toutes les étapes. On va maintenant augmenter la difficulté.|Félicitations <FirstName> ! Ce <grade>/10 te permet de terminer ta série avec succès. On passe à un niveau plus complexe."
+    }
+  },
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "goodStreakLose",
+    "title": {
+      "fr": "Ce n’est pas grave <FirstName>, avec un score de <grade>/10, votre série de bonnes parties repart à zéro. Vous aurez bientôt l’occasion de relancer une belle progression.|Ne vous découragez pas <FirstName>, vous avez obtenu <grade>/10. La série redémarre, mais chaque partie vous rapproche de votre objectif.|Vous avez marqué <grade>/10 <FirstName>. La série recommence, mais vous avez tout ce qu’il faut pour repartir du bon pied.|Avec un score de <grade>/10, la série de bonnes parties repart à zéro <FirstName>. C’est le moment de vous recentrer pour mieux repartir.|Ce <grade>/10 relance la série <FirstName>, mais chaque tentative est une chance de mieux faire. Vous allez y arriver !|Votre score est de <grade>/10 <FirstName>. On remet la série à zéro, mais cela fait partie du chemin pour progresser.|Pas d’inquiétude <FirstName>, avec ce <grade>/10, la série redémarre. Continuez à donner le meilleur de vous-même !|Avec un score de <grade>/10, la série de bonnes parties est à recommencer <FirstName>. Mais vous avez montré de belles choses !|Ce <grade>/10 fait repartir la série à zéro <FirstName>, mais vous avez toutes les capacités pour rebondir rapidement."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "goodStreakLose",
+    "title": {
+      "fr": "Ce n’est pas grave <FirstName>, avec un score de <grade>/10, ta série de bonnes parties repart à zéro. Tu auras bientôt l’occasion de relancer une belle progression.|Ne te décourage pas <FirstName>, tu as obtenu <grade>/10. La série redémarre, mais chaque partie te rapproche de ton objectif.|Tu as marqué <grade>/10 <FirstName>. La série recommence, mais tu as tout ce qu’il faut pour repartir du bon pied.|Avec un score de <grade>/10, la série de bonnes parties repart à zéro <FirstName>. C’est le moment de te recentrer pour mieux repartir.|Ce <grade>/10 relance la série <FirstName>, mais chaque tentative est une chance de mieux faire. Tu vas y arriver !|Ton score est de <grade>/10 <FirstName>. On remet la série à zéro, mais cela fait partie du chemin pour progresser.|Pas d’inquiétude <FirstName>, avec ce <grade>/10, la série redémarre. Continue à donner le meilleur de toi-même !|Avec un score de <grade>/10, la série de bonnes parties est à recommencer <FirstName>. Mais tu as montré de belles choses !|Ce <grade>/10 fait repartir la série à zéro <FirstName>, mais tu as toutes les capacités pour rebondir rapidement.|Même si ton score est de <grade>/10, ce n’est qu’un contretemps <FirstName>. La série recommence, mais ta progression continue !"
+    }
+  },
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "goodStreakProgress",
+    "title": {
+      "fr": "Bravo <FirstName> ! Vous avez obtenu <grade>/10, encore <goodGamesToProgress> parties comme celle-ci pour faire évoluer la difficulté.|Très belle partie <FirstName> ! Vous avez eu <grade>/10, continuez comme ça, plus que <goodGamesToProgress> parties avant de passer au niveau suivant.|Félicitations <FirstName> ! Avec ce score de <grade>/10, vous êtes sur la bonne lancée. Encore <goodGamesToProgress> parties comme celle-ci !|Vous avez eu <grade>/10 <FirstName>, c’est excellent. Plus que <goodGamesToProgress> parties réussies pour faire monter la difficulté.|Très bon travail <FirstName> ! Avec <grade>/10, vous êtes proche de progresser. Encore <goodGamesToProgress> parties comme celle-ci.|Bien joué <FirstName> ! Vous avez obtenu <grade>/10. Il ne manque plus que <goodGamesToProgress> parties pour changer de niveau.|Encore <goodGamesToProgress> parties comme celle-ci, <FirstName>, et on pourra passer à la suite !|<grade>/10, c’est excellent <FirstName> ! Continuez ainsi, il ne reste plus que <goodGamesToProgress> belles parties à faire.|Félicitations <FirstName> ! Vous êtes tout proche d’un nouveau palier. Plus que <goodGamesToProgress> parties comme celle-ci."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "goodStreakProgress",
+    "title": {
+      "fr": "Bravo <FirstName> ! Tu as obtenu <grade>/10, encore <goodGamesToProgress> parties comme celle-ci pour faire évoluer la difficulté.|Très belle partie <FirstName> ! Tu as eu <grade>/10, continue comme ça, plus que <goodGamesToProgress> parties avant de passer au niveau suivant.|Félicitations <FirstName> ! Avec ce score de <grade>/10, tu es sur la bonne lancée. Encore <goodGamesToProgress> parties comme celle-ci !|Tu as eu <grade>/10 <FirstName>, c’est excellent. Plus que <goodGamesToProgress> parties réussies pour faire monter la difficulté.|Très bon travail <FirstName> ! Avec <grade>/10, tu es proche de progresser. Encore <goodGamesToProgress> parties comme celle-ci.|Bien joué <FirstName> ! Tu as obtenu <grade>/10. Il ne manque plus que <goodGamesToProgress> parties pour changer de niveau.|Encore <goodGamesToProgress> parties comme celle-ci, <FirstName>, et on pourra passer à la suite !|<grade>/10, c’est excellent <FirstName> ! Continue ainsi, il ne reste plus que <goodGamesToProgress> belles parties à faire.|Félicitations <FirstName> ! Tu es tout proche d’un nouveau palier. Plus que <goodGamesToProgress> parties comme celle-ci."
+    }
+  },
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "badStreakWin",
+    "title": {
+      "fr": "Ne vous inquiétez pas <FirstName>, après ces quelques tentatives difficiles, nous réadaptons le niveau pour mieux correspondre à votre rythme.|<FirstName>, comme les dernières parties ont été un peu plus compliquées, nous allons rééquilibrer la difficulté pour que vous puissiez progresser plus sereinement.|Vous avez fait de votre mieux <FirstName>. Pour vous aider à reprendre confiance, nous ajustons le niveau à votre rythme.|Pas de souci <FirstName>, nous allons réajuster la difficulté afin de mieux vous accompagner dans votre progression.|<FirstName>, ces dernières parties étaient plus difficiles. Nous allons réadapter le niveau pour vous permettre de consolider vos acquis.|Nous faisons évoluer le niveau pour qu’il reste motivant et adapté <FirstName>. Vous allez pouvoir reprendre à un rythme plus confortable.|<FirstName>, on rééquilibre un peu la difficulté pour que vous puissiez retrouver un bon élan.|Ces dernières parties ont été un peu plus complexes <FirstName>, alors on ajuste la difficulté pour que vous restiez motivé.|Rien d’alarmant <FirstName>, on ajuste le niveau pour vous offrir un nouveau départ plus adapté.|<FirstName>, on réadapte le jeu pour qu’il continue à vous encourager et vous faire progresser pas à pas."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "badStreakWin",
+    "title": {
+      "fr": "Ne t’inquiète pas <FirstName>, après ces quelques tentatives difficiles, on réadapte le niveau pour mieux suivre ton rythme.|<FirstName>, comme les dernières parties ont été un peu plus compliquées, on va rééquilibrer la difficulté pour que tu puisses progresser plus sereinement.|Tu as fait de ton mieux <FirstName>. Pour t’aider à reprendre confiance, on ajuste le niveau à ton rythme.|Pas de souci <FirstName>, on va réajuster la difficulté afin de mieux t’accompagner dans ta progression.|<FirstName>, ces dernières parties étaient plus difficiles. On va réadapter le niveau pour que tu puisses consolider tes acquis.|On fait évoluer le niveau pour qu’il reste motivant et adapté <FirstName>. Tu vas pouvoir reprendre à un rythme plus confortable.|<FirstName>, on rééquilibre un peu la difficulté pour que tu puisses retrouver un bon élan.|Ces dernières parties ont été un peu plus complexes <FirstName>, alors on ajuste la difficulté pour que tu restes motivé.|Rien d’alarmant <FirstName>, on ajuste le niveau pour t’offrir un nouveau départ plus adapté.|<FirstName>, on réadapte le jeu pour qu’il continue à t’encourager et te faire progresser pas à pas."
+    }
+  },
+  {
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "interactionType": "badStreakProgress",
+    "title": {
+      "fr": "<FirstName>, après deux parties plus difficiles, cette nouvelle tentative pourra relancer une belle dynamique. Et si besoin, nous ajusterons un peu la difficulté pour mieux vous accompagner.|Vous avez connu quelques obstacles <FirstName>, mais cette prochaine partie est l’occasion de repartir sur de bonnes bases. Le niveau s’adaptera à votre progression si nécessaire.|<FirstName>, vous avez traversé deux manches un peu complexes. Cette nouvelle tentative pourrait marquer un tournant positif. Le jeu évoluera en fonction de votre rythme.|Encore un petit effort <FirstName> ! C’est l’opportunité de reprendre votre élan, avec un niveau qui s’adaptera toujours à vos besoins.|<FirstName>, après deux essais moins réussis, vous pouvez retrouver votre équilibre dès cette partie. Le niveau restera en phase avec votre progression.|Cette nouvelle tentative peut vous permettre de reprendre confiance, <FirstName>. Nous ferons en sorte que la difficulté vous soutienne au mieux.|<FirstName>, vous avancez à votre rythme. Après deux parties plus complexes, celle-ci peut relancer une belle progression, ou nous permettre de réajuster pour vous aider.|Ce n’est qu’une étape <FirstName>. La suite s’adaptera à vous : cette partie peut relancer votre série ou nous aider à mieux équilibrer la suite.|<FirstName>, rien n’est figé. Cette partie est l’occasion de retrouver un bon rythme. Le niveau suivra toujours votre progression.|<FirstName>, c’est le bon moment pour retrouver une belle dynamique. Le jeu reste à votre écoute, et s’ajustera si besoin."
+    }
+  },
+  {
+    "apps": [
+      "COCO_1"
+    ],
+    "interactionType": "badStreakProgress",
+    "title": {
+      "fr": "Tu as rencontré quelques difficultés, <FirstName>, mais cette nouvelle partie peut être l’occasion de repartir sur de bonnes bases. Le niveau s’ajustera pour t’aider à progresser.|Tu as eu quelques obstacles, <FirstName>, mais cette partie pourrait marquer un tournant positif. Et si besoin, le niveau s’adaptera à ton rythme.|Après deux parties plus difficiles, <FirstName>, cette nouvelle tentative peut te permettre de repartir sur de bonnes bases. Le jeu évoluera selon ta progression.|Encore un petit effort, <FirstName> ! C’est l’occasion de reprendre ton élan. Si nécessaire, on ajustera le niveau pour mieux t’accompagner.|Tu as traversé quelques manches un peu complexes, <FirstName>, mais celle-ci peut être un point de départ pour relancer la dynamique. Le niveau sera là pour t’aider.|Rien n’est perdu, <FirstName> ! Cette nouvelle tentative peut t’offrir l’opportunité de retrouver confiance. Le jeu suivra ton rythme et s’adaptera si besoin.|Tu avances bien à ton rythme, <FirstName>. Cette prochaine partie pourrait relancer ta progression, ou nous permettra de réajuster le niveau à ton besoin.|Ce n’est qu’une étape, <FirstName>. Si cette partie te permet de repartir sur de bonnes bases, on continue, sinon on réajuste un peu la difficulté pour mieux t’accompagner.|C’est une bonne occasion de retrouver un bon rythme, <FirstName>. Le jeu reste flexible et s’adaptera en fonction de ta performance.|Tu as tout pour y arriver, <FirstName>. Cette partie pourrait être celle qui relance ta série, sinon le niveau s’ajustera pour mieux t’aider à progresser."
+    }
+  },
+  {
+    "game": "MEMORY",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Chaque paire retrouvée dans <gameTitle> renforce votre mémoire comme une séance de sport visuel !|Concentrez-vous sur les détails des cartes dès qu’elles sont montrées, c’est là que la mémoire entre en jeu.|Essayez d’imaginer une petite histoire entre les cartes, cela peut vous aider à les associer plus facilement.|Votre mémoire visuelle s’améliore à chaque paire retrouvée dans <gameTitle>. Continuez ainsi !|<gameTitle> vous fait jongler avec les images : pour mieux retenir, visualisez des groupes plutôt qu’une seule carte.|Associer une carte à une couleur, une forme ou même une émotion peut rendre sa mémorisation plus facile.|Essayez de repérer les cartes par zone dans la grille, cela aide à retrouver plus vite les paires.|Mieux vous mémorisez les cartes dès qu’elles apparaissent, plus les paires vous sembleront évidentes !"
+    }
+  },
+  {
+    "game": "MEMORY",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Chaque paire retrouvée dans <gameTitle> renforce ta mémoire comme une séance de sport visuel !|Concentre-toi sur les détails des cartes dès qu’elles sont montrées, c’est là que ta mémoire entre en jeu.|Essaie d’imaginer une petite histoire entre les cartes, ça peut t’aider à les associer plus facilement.|Ta mémoire visuelle s’améliore à chaque paire retrouvée dans <gameTitle>. Continue comme ça !|<gameTitle> te fait jongler avec les images : pour mieux retenir, visualise des groupes plutôt qu’une seule carte.|Associe une carte à une couleur, une forme ou même une émotion, ça rend sa mémorisation plus facile.|Essaie de repérer les cartes par zone dans la grille, ça t’aidera à retrouver plus vite les paires.|Plus tu mémorises les cartes dès qu’elles apparaissent, plus les paires te sembleront évidentes !"
+    }
+  },
+  {
+    "game": "WHACKAMOLE",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "La chasse aux taupes est ouverte ! Mais seulement dans <gameTitle>, alors gardez l'œil vif et prêt à cliquer au bon moment.|<gameTitle> n'est pas un jardin, mais un terrain d'entraînement pour vos réflexes : respirez un coup avant de commencer.|Les taupes surgissent de partout, mais pas de panique : focalisez-vous sur une zone à la fois pour ne pas vous disperser.|Votre œil de lynx et votre doigt agile forment une équipe redoutable dans <gameTitle> !|Les taupes n’ont aucune chance si vous restez attentif et gardez votre sang-froid.|L’astuce de <gameTitle> ? Ne pas vouloir toutes attraper toutes les taupes d’un coup, mais rester calme et précis.|<gameTitle> fait appel à votre attention sélective : visez bien, mais sans pression.|Les taupes sont rapides… mais vous pouvez l’être encore plus avec un peu d’entraînement et de concentration !|Dans <gameTitle> vous pouvez taper sur les taupes, mais attention à ne pas le faire dans la vrai vie !"
+    }
+  },
+  {
+    "game": "WHACKAMOLE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "La chasse aux taupes est ouverte ! Mais seulement dans <gameTitle>, alors garde l'œil vif et sois prêt à cliquer au bon moment.|<gameTitle> n'est pas un jardin, mais un terrain d'entraînement pour tes réflexes : respire un coup avant de commencer.|Les taupes surgissent de partout, mais pas de panique : concentre-toi sur une zone à la fois pour ne pas te disperser.|Ton œil de lynx et ton doigt agile forment une équipe redoutable dans <gameTitle> !|Les taupes n’ont aucune chance si tu restes attentif et que tu gardes ton sang-froid.|L’astuce de <gameTitle> ? Ne cherche pas à attraper toutes les taupes d’un coup, reste calme et précis.|<gameTitle> fait appel à ton attention sélective : vise bien, mais sans pression.|Les taupes sont rapides… mais tu peux l’être encore plus avec un peu d’entraînement et de concentration !|Dans <gameTitle> tu peux taper sur les taupes, mais attention à ne pas le faire dans la vraie vie !"
+    }
+  },
+  {
+    "game": "CARS",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Votre sens de l’orientation et votre logique font des merveilles dans <gameTitle> : la voiture jaune vous remercie !|Dans <gameTitle>, chaque mouvement compte : anticipez bien vos déplacements pour éviter les impasses.|Vous êtes en train de devenir un vrai maître du parking : chaque voiture déplacée rapproche la sortie !|Un peu de stratégie, un brin de patience… et l’embouteillage devient un souvenir dans <gameTitle>.|Vous avez manœuvré avec finesse : une vraie démonstration de logique appliquée !|La voiture jaune était coincée, mais vous l’avez guidée comme un chef : quelle maîtrise !|Les bouchons n’ont qu’à bien se tenir ! Votre sens tactique s’aiguise à chaque partie de <gameTitle>."
+    }
+  },
+  {
+    "game": "CARS",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Ton sens de l’orientation et ta logique font des merveilles dans <gameTitle> : la voiture jaune te remercie !|Dans <gameTitle>, chaque mouvement compte : anticipe bien tes déplacements pour éviter les impasses.|Tu es en train de devenir un vrai maître du parking : chaque voiture déplacée rapproche la sortie !|Un peu de stratégie, un brin de patience… et l’embouteillage devient un souvenir dans <gameTitle>.|Tu as manœuvré avec finesse : une vraie démonstration de logique appliquée !|La voiture jaune était coincée, mais tu l’as guidée comme un chef : quelle maîtrise !|Les bouchons n’ont qu’à bien se tenir ! Ton sens tactique s’aiguise à chaque partie de <gameTitle>."
+    }
+  },
+  {
+    "game": "NOAHS_ARK",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Prenez un moment pour bien analyser chaque paire d'animaux avant de les faire glisser dans l'arche, cela vous permettra d'être plus rapide et précis.|Chaque animal que vous sauvez dans <gameTitle> est un pas de plus vers la réussite. Restez concentré, et vous éviterez les erreurs.|L'enchaînement rapide des paires d'animaux dans <gameTitle> démontre une grande fluidité et une bonne gestion de vos réflexes. Continuez à analyser les paires avec soin pour gagner du temps.|Votre mémoire visuelle et votre concentration vous aident à sauver de plus en plus d'animaux. Continuez à vous concentrer, chaque mouvement compte. | Les paires d'animaux se multiplient, et vous gérez chaque déplacement avec soin. Vous êtes bien parti pour réussir."
+    }
+  },
+  {
+    "game": "NOAHS_ARK",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Prends un moment pour bien analyser chaque paire d'animaux avant de les faire glisser dans l'arche, cela te permettra d'être plus rapide et précis. | Chaque animal que tu sauves dans <gameTitle> est un pas de plus vers la réussite. Reste concentré, et tu éviteras les erreurs. | L'enchaînement rapide des paires d'animaux dans <gameTitle> montre une grande fluidité et une bonne gestion de tes réflexes. Continue à analyser les paires avec soin pour gagner du temps. | Ta mémoire visuelle et ta concentration t'aident à sauver de plus en plus d'animaux. Continue à te concentrer, chaque mouvement compte. | Les paires d'animaux se multiplient, et tu gères chaque déplacement avec soin. Tu es bien parti pour réussir."
+    }
+  },
+  {
+    "game": "SIMILI",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, diviser l’écran en sections vous permettra de repérer les doublons plus rapidement et de mieux gérer votre attention. | Chaque détail compte dans <gameTitle> : restez concentré sur l’ensemble de l’écran pour éviter toute distraction et améliorer votre précision. | En vous concentrant sur les images périphériques dans <gameTitle>, vous pourrez augmenter votre rapidité de détection des doublons. | Avant de commencer, prenez un moment pour balayer l’écran, cela vous permettra de repérer les doublons plus rapidement. | Dans <gameTitle>, balayer soigneusement l’écran dès le début vous aidera à repérer plus facilement les doublons et à optimiser vos mouvements. | Prêter attention aux détails périphériques dans peut considérablement améliorer votre rapidité et votre efficacité. | En divisant votre champ de vision et en analysant chaque section, vous serez capable de repérer les doublons avec plus de précision et de fluidité."
+    }
+  },
+  {
+    "game": "SIMILI",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, diviser l’écran en sections te permettra de repérer les doublons plus rapidement et de mieux gérer ton attention. | Chaque détail compte dans <gameTitle> : reste concentré sur l’ensemble de l’écran pour éviter toute distraction et améliorer ta précision. | En te concentrant sur les images périphériques dans <gameTitle>, tu pourras augmenter ta rapidité de détection des doublons. | Avant de commencer, prends un moment pour balayer l’écran, cela te permettra de repérer les doublons plus rapidement. | Dans <gameTitle>, balayer soigneusement l’écran dès le début t’aidera à repérer plus facilement les doublons et à optimiser tes mouvements. | Prêter attention aux détails périphériques dans <gameTitle> peut considérablement améliorer ta rapidité et ton efficacité. | En divisant ton champ de vision et en analysant chaque section, tu seras capable de repérer les doublons avec plus de précision et de fluidité."
+    }
+  },
+  {
+    "game": "PONG",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, anticiper les mouvements de la balle est essentiel pour maximiser votre réactivité et toucher davantage de balles. | Avez-vous déjà pratiqué le tennis ? Votre maîtrise de la raquette dans <gameTitle> est impressionnante, on pourrait presque vous confondre avec un professionnel ! | Prenez un moment pour bien suivre la balle, cela renforcera votre capacité à l'intercepter avec précision. | Dans <gameTitle>, bien positionner votre raquette et anticiper les trajectoires de la balle vous permettra de mieux contrôler le jeu. | Continuez à affiner vos réflexes et à anticiper les mouvements de la balle : dans <gameTitle>, chaque détail compte pour améliorer votre performance. | Restez concentré tout au long de la partie, dans <gameTitle> chaque instant d'attention compte pour réussir à toucher la balle de manière plus précise."
+    }
+  },
+  {
+    "game": "PONG",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, anticiper les mouvements de la balle est essentiel pour maximiser ta réactivité et toucher davantage de balles. | Tu as déjà pratiqué le tennis ? Ta maîtrise de la raquette dans <gameTitle> est impressionnante, on pourrait presque te confondre avec un professionnel ! | Prends un moment pour bien suivre la balle, cela renforcera ta capacité à l'intercepter avec précision. | Dans <gameTitle>, bien positionner ta raquette et anticiper les trajectoires de la balle te permettra de mieux contrôler le jeu. | Continue à affiner tes réflexes et à anticiper les mouvements de la balle : dans <gameTitle>, chaque détail compte pour améliorer ta performance. | Reste concentré tout au long de la partie, dans <gameTitle>, chaque instant d'attention compte pour réussir à toucher la balle de manière plus précise."
+    }
+  },
+  {
+    "game": "WALKER",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, prenez un peu plus de temps pour analyser chaque chemin avant de le tracer, cela vous aidera à anticiper les obstacles et à optimiser vos choix. | Concentrez-vous sur l’ensemble du trajet dès le début, cela vous permettra d’avoir une vision globale du parcours et de mieux organiser vos déplacements. | Dans <gameTitle>, analysez les cartes avec attention et anticipez vos déplacements à l’avance pour éviter les erreurs et fluidifier votre parcours. | Vous tracez vos chemins avec stratégie, chaque décision vous rapproche de la création d’un parcours plus efficace. | En combinant les cartes de manière réfléchie dans <gameTitle>, vous arrivez à tracer des chemins toujours plus directs et optimisés. | Améliorez votre planification dans <gameTitle> pour rendre chaque parcours plus rapide, précis et cohérent."
+    }
+  },
+  {
+    "game": "WALKER",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, prends un peu plus de temps pour analyser chaque chemin avant de le tracer, cela t'aidera à anticiper les obstacles et à optimiser tes choix. | Concentre-toi sur l’ensemble du trajet dès le début, cela te permettra d’avoir une vision globale du parcours et de mieux organiser tes déplacements. | Dans <gameTitle>, analyse les cartes avec attention et anticipe tes déplacements à l’avance pour éviter les erreurs et fluidifier ton parcours. | Tu traces tes chemins avec stratégie, chaque décision te rapproche de la création d’un parcours plus efficace. | En combinant les cartes de manière réfléchie dans <gameTitle>, tu arrives à tracer des chemins toujours plus directs et optimisés. | Améliore ta planification dans <gameTitle> pour rendre chaque parcours plus rapide, précis et cohérent."
+    }
+  },
+  {
+    "game": "PUZZLE",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, prenez le temps d’observer chaque pièce et de scruter les contours, chaque détail vous rapproche de la solution. | Votre mémoire visuelle s’affine à chaque mouvement : concentrez-vous sur les petits détails pour mieux assembler les morceaux du puzzle. | Chaque pièce de <gameTitle> trouve sa place progressivement : l’assemblage est un vrai travail de patience, mais votre persévérance porte ses fruits. | Dans <gameTitle>, chaque petite avancée est un pas de plus vers le tableau complet : n’oubliez pas que c’est l’ensemble qui fait la beauté du puzzle ! | Trouver la place de chaque  pièce est un vrai défi, mais avec un peu de stratégie, vous y arriverez en un rien de temps. J’espère que l’explication finale vous a donné un petit aperçu enrichissant. "
+    }
+  },
+  {
+    "game": "PUZZLE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, prends le temps d’observer chaque pièce et de scruter les contours, chaque détail te rapproche de la solution. | Ta mémoire visuelle s’affine à chaque mouvement : concentre-toi sur les petits détails pour mieux assembler les morceaux du puzzle. | Chaque pièce de <gameTitle> trouve sa place progressivement : l’assemblage demande de la patience, mais ta persévérance porte ses fruits. | Dans <gameTitle>, chaque petite avancée est un pas de plus vers le tableau complet : n’oublie pas que c’est l’ensemble qui fait la beauté du puzzle ! | Trouver la place de chaque pièce est un vrai défi, mais avec un peu de stratégie, tu y arriveras en un rien de temps. J’espère que l’explication finale vous a donné un petit aperçu enrichissant. "
+    }
+  },
+  {
+    "game": "FURIOUS",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, associer chaque image à une situation ou à un souvenir personnel peut vraiment aider à renforcer votre mémoire visuelle. Vous serez surpris de voir à quel point cela facilite la mémorisation ! | Prenez un moment pour imaginer chaque objet dans une action quotidienne : cela vous permettra de mieux l'ancrer dans votre mémoire.| Essayez de visualiser chaque objet dans son contexte, et d'y ajouter des détails, pour renforcer la structure de votre mémoire. Chaque détail compte ! | Dans <gameTitle>, ne vous contentez pas de regarder les images : associez-les à des lieux, des souvenirs ou des émotions pour vraiment les fixer dans votre esprit. | Si vous avez du mal à mémoriser l'ordre des objets, imaginez un petit scénario où chaque objet joue un rôle. La mémoire adore les histoires ! | Et si, au lieu de mémoriser une image seule, vous la reliez à une chanson ou à une phrase rigolote ? Votre cerveau adore les associations créatives et vous pourrez peut-être chanter tout le jeu !"
+    }
+  },
+  {
+    "game": "FURIOUS",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, associer chaque image à une situation ou à un souvenir personnel peut vraiment t'aider à renforcer ta mémoire visuelle. Tu seras surpris de voir à quel point cela facilite la mémorisation ! | Prends un moment pour imaginer chaque objet dans une action quotidienne : cela t'aidera à mieux l'ancrer dans ta mémoire. | Essaie de visualiser chaque objet dans son contexte, et d'y ajouter des détails, pour renforcer la structure de ta mémoire. Chaque détail compte ! | Dans <gameTitle>, ne te contente pas de regarder les images : associe-les à des lieux, des souvenirs ou des émotions pour vraiment les fixer dans ton esprit. | Si tu as du mal à mémoriser l'ordre des objets, imagine un petit scénario où chaque objet joue un rôle. La mémoire adore les histoires ! | Et si, au lieu de mémoriser une image seule, tu la reliais à une chanson ou à une phrase rigolote ? Ton cerveau adore les associations créatives et tu pourras peut-être chanter tout le jeu !"
+    }
+  },
+  {
+    "game": "COLORMIND",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Les couleurs ne sont pas là que pour décorer : elles mettent votre mémoire au défi, alors prenez le temps de bien les observer !|<gameTitle> est un feu d’artifice pour les yeux, mais votre mémoire a besoin d’un peu de calme : visualisez chaque couleur une à une.|Associer chaque couleur à une image mentale, c’est comme donner un surnom à un ami : ça aide à s’en souvenir !|<gameTitle> fait travailler votre mémoire de travail ! Essayez de regrouper les couleurs en petits ensembles pour mieux les retenir.|Pensez à respirer un instant entre les séquences, votre cerveau aime les petites pauses.|Faites confiance à votre mémoire visuelle, elle se renforce à chaque essai dans <gameTitle>.|Repérer le son des couleurs pendant la séquence peut renforcer votre mémoire auditive et visuelle. "
+    }
+  },
+  {
+    "game": "COLORMIND",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Les couleurs ne sont pas là que pour décorer : elles mettent ta mémoire au défi, alors prends le temps de bien les observer !|<gameTitle> est un feu d’artifice pour les yeux, mais ta mémoire a besoin d’un peu de calme : visualise chaque couleur une à une.|Associer chaque couleur à une image mentale, c’est comme donner un surnom à un ami : ça aide à s’en souvenir !|<gameTitle> fait travailler ta mémoire de travail ! Essaie de regrouper les couleurs en petits ensembles pour mieux les retenir.|Pense à respirer un instant entre les séquences, ton cerveau aime les petites pauses.|Fais confiance à ta mémoire visuelle, elle se renforce à chaque essai dans <gameTitle>.|Repérer le son des couleurs pendant la séquence peut renforcer ta mémoire auditive et visuelle."
+    }
+  },
+  {
+    "game": "CHESSBOARD",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Vous avez entraîné votre mémoire visuelle avec <gameTitle>, c’est un très bon exercice pour votre concentration.|<gameTitle> vous aide à mieux mémoriser des images dans l’espace. Continuez ainsi !|Essayez de repérer les cases par petits groupes, cela facilite la mémorisation.|Dans <gameTitle>, prenez un instant pour bien visualiser les cases avant de commencer.|Essayez de créer des formes ou des schémas mentaux avec les cases à mémoriser, cela peut aider !|<gameTitle> demande de la précision et de la mémoire visuelle : vous êtes sur la bonne voie.|Prenez quelques secondes pour bien fixer les cases dans votre esprit avant de cliquer.|Votre mémoire visuelle s’entraîne à chaque partie de <gameTitle> ! Bravo !|Pensez à balayer le damier avec vos yeux lentement pour mieux enregistrer les bonnes cases.|<gameTitle> fait appel à votre mémoire immédiate, et vous la renforcez un peu plus à chaque partie.|<gameTitle> est un jeu de mémoire, en vous concentrant sur une section du damier à la fois, les progrès vont vite arriver !"
+    }
+  },
+  {
+    "game": "CHESSBOARD",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as entraîné ta mémoire visuelle avec <gameTitle>, c’est un très bon exercice pour ta concentration.|<gameTitle> t’aide à mieux mémoriser des images dans l’espace. Continue comme ça !|Essaie de repérer les cases par petits groupes, ça facilite la mémorisation.|Dans <gameTitle>, prends un instant pour bien visualiser les cases avant de commencer.|Essaie de créer des formes ou des schémas mentaux avec les cases à mémoriser, ça peut t’aider !|<gameTitle> demande de la précision et une bonne mémoire visuelle : tu es sur la bonne voie.|Prends quelques secondes pour bien fixer les cases dans ton esprit avant de cliquer.|Ta mémoire visuelle s’entraîne à chaque partie de <gameTitle> ! Bravo !|Pense à balayer le damier avec tes yeux lentement pour mieux enregistrer les bonnes cases.|<gameTitle> fait appel à ta mémoire immédiate, et tu la renforces un peu plus à chaque partie.|<gameTitle> est un jeu de mémoire, si tu te concentres sur une section du damier à la fois, les progrès vont vite arriver !"
+    }
+  },
+  {
+    "game": "SCROLLANDCATCH",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, pour ne rien manquer, concentrez-vous sur les premiers ballons colorés, chaque détail compte pour améliorer votre mémoire visuelle et ne rien laisser filer. | Gardez l’œil affûté et repérez les ballons dans les coins de l'écran : votre mémoire périphérique vous aidera à en attraper plus en un clin d'œil. | Ne vous laissez pas distraire : restez concentré jusqu’à la fin pour capturer les derniers ballons, chaque erreur pourrait être fatale à votre score ! | Dans <gameTitle>, suivez chaque groupe de ballons dès leur apparition et comptez-les avec précision : votre cerveau adore ce genre d’exercice de mémoire active. | Pensez à suivre les ballons colorés qui passent au bord de l’écran, mais attention à ne pas vous laisser emporter par la vitesse ! | Gardez un œil attentif sur les ballons de couleur, même les plus petits détails peuvent faire la différence. | Suivez chaque ballon coloré avec une précision de lynx, car chaque ballon compté renforce votre agilité mentale et votre concentration. "
+    }
+  },
+  {
+    "game": "SCROLLANDCATCH",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, pour ne rien manquer, concentre-toi sur les premiers ballons colorés, chaque détail compte pour améliorer ta mémoire visuelle et ne rien laisser filer. | Garde l’œil affûté et repère les ballons dans les coins de l'écran : ta mémoire périphérique t’aidera à en attraper plus en un clin d'œil. | Ne te laisse pas distraire : reste concentré jusqu’à la fin pour capturer les derniers ballons, chaque erreur pourrait être fatale à ton score ! | Dans <gameTitle>, suis chaque groupe de ballons dès leur apparition et compte-les avec précision : ton cerveau adore ce genre d’exercice de mémoire active. | Pense à suivre les ballons colorés qui passent au bord de l’écran, mais attention à ne pas te laisser emporter par la vitesse ! | Garde un œil attentif sur les ballons de couleur, même les plus petits détails peuvent faire la différence. | Suis chaque ballon coloré avec une précision de lynx, car chaque ballon compté renforce ton agilité mentale et ta concentration."
+    }
+  },
+  {
+    "game": "SNOWBALL_EFFECT",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, votre capacité à analyser la direction des flèches est essentielle pour créer une chaîne d’effet boule de neige qui touche toutes les flèches de l'écran. | Prenez un moment pour bien observer chaque flèche et analyser leur direction : chaque détail compte pour créer un enchaînement parfait. | Dans <gameTitle>, il est crucial de vérifier la direction de chaque flèche afin de bien comprendre la solution et de maximiser l'effet boule de neige. | Votre logique et votre rapidité à analyser les flèches feront toute la différence dans ce jeu : chaque mouvement compte pour réussir ! | Prenez un peu plus de temps pour analyser le sens des flèches : parfois, un petit ajustement peut déclencher un effet bien plus grand que prévu. | Continuez à observer les flèches avec précision, elles sont la clé de votre succès, et chaque flèche bien analysée vous rapproche du résultat parfait. | Votre mémoire et votre capacité d’analyse rapide sont vos meilleurs alliés dans <gameTitle>, surtout lorsqu'il s'agit de créer des bonhommes à la fin du parcours ! |Dans <gameTitle>, à chaque enchaînement parfait de flèches, des bonhommes de neige prennent forme sous vos yeux : chaque mouvement bien exécuté rend l'hiver encore plus magique. | N'oubliez pas que chaque flèche bien placée ne fait pas seulement progresser le jeu, elle permet aussi de créer des bonhommes de neige, ajoutant une touche festive à votre performance ! "
+    }
+  },
+  {
+    "game": "SNOWBALL_EFFECT",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Dans <gameTitle>, ta capacité à analyser la direction des flèches est essentielle pour créer une chaîne d’effet boule de neige qui touche toutes les flèches de l'écran. | Prends un moment pour bien observer chaque flèche et analyser leur direction : chaque détail compte pour créer un enchaînement parfait. | Dans <gameTitle>, il est crucial de vérifier la direction de chaque flèche afin de bien comprendre la solution et de maximiser l'effet boule de neige. | Ta logique et ta rapidité à analyser les flèches feront toute la différence dans ce jeu : chaque mouvement compte pour réussir ! | Prends un peu plus de temps pour analyser le sens des flèches : parfois, un petit ajustement peut déclencher un effet bien plus grand que prévu. | Continue à observer les flèches avec précision, elles sont la clé de ton succès, et chaque flèche bien analysée te rapproche du résultat parfait. | Ta mémoire et ta capacité d’analyse rapide sont tes meilleurs alliés dans <gameTitle>, surtout lorsqu'il s'agit de créer des bonhommes à la fin du parcours ! | Dans <gameTitle>, à chaque enchaînement parfait de flèches, des bonhommes de neige prennent forme sous tes yeux : chaque mouvement bien exécuté rend l'hiver encore plus magique. | N'oublie pas que chaque flèche bien placée ne fait pas seulement progresser le jeu, elle permet aussi de créer des bonhommes de neige, ajoutant une touche festive à ta performance !"
+    }
+  }
+]
