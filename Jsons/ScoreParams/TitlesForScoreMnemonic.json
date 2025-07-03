@@ -17,7 +17,7 @@
     "it": "Risposte sbagliate",
     "cn": "错误答案",
     "nl": "Verkeerde antwoorden",
-    "pt": "respostas erradas",
+    "pt": "Respostas erradas",
     "de": "Falsche Antworten",
     "es": "Respuestas incorrectas"
   },
@@ -72,7 +72,7 @@
     "it": "Oggetti dimenticati",
     "cn": "遗忘物品",
     "nl": "Vergeten artikelen",
-    "pt": "objetos esquecidos",
+    "pt": "Objetos esquecidos",
     "de": "Vergessene Gegenstände",
     "es": "Artículos olvidados"
   },
@@ -105,7 +105,7 @@
     "it": "Vite perdute",
     "cn": "失去生命",
     "nl": "Levens verloren",
-    "pt": "vidas perdidas",
+    "pt": "Vidas perdidas",
     "de": "Leben verloren",
     "es": "Vidas perdidas"
   },
@@ -148,12 +148,12 @@
     "game": "PANURGE",
     "fr": "Mes moutons",
     "us": "My sheep",
-    "it": "le mie pecore",
+    "it": "Le mie pecore",
     "cn": "我的羊",
-    "nl": "mijn schapen",
-    "pt": "minhas ovelhas",
+    "nl": "Mijn schapen",
+    "pt": "Minhas ovelhas",
     "de": "Meine Schafe",
-    "es": "mis ovejas"
+    "es": "Mis ovejas"
   },
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
@@ -196,11 +196,11 @@
     "scoreMnemonic": "nbMoveMin",
     "game": "SYLLABUS",
     "fr": "Syllabes à trouver",
-    "us": "syllables to find",
+    "us": "Syllables to find",
     "it": "sillabe da trovare",
     "cn": "要查找的音节",
-    "nl": "lettergrepen te vinden",
-    "pt": "sílabas para encontrar",
+    "nl": "Lettergrepen te vinden",
+    "pt": "Sílabas para encontrar",
     "de": "Silben zu finden",
     "es": "Sílabas para encontrar"
   },
@@ -212,7 +212,7 @@
     "it": "Colpi",
     "cn": "打击",
     "nl": "Blaast",
-    "pt": "golpes",
+    "pt": "Golpes",
     "de": "Schläge",
     "es": "Golpes"
   },
@@ -236,9 +236,9 @@
     "it": "Parole trovate",
     "cn": "找到的单词",
     "nl": "Woorden gevonden",
-    "pt": "palavras encontradas",
+    "pt": "Palavras encontradas",
     "de": "Wörter gefunden",
-    "es": "palabras encontradas"
+    "es": "Palabras encontradas"
   },
   {
     "scoreMnemonic": "nbGoodAnswer",
@@ -260,7 +260,7 @@
     "it": "Proverbi del passato",
     "cn": "过去的谚语",
     "nl": "Spreekwoorden uit het verleden",
-    "pt": "provérbios passados",
+    "pt": "Provérbios passados",
     "de": "Frühere Sprichwörter",
     "es": "Proverbios pasados"
   },
@@ -269,7 +269,7 @@
     "game": "POPBALLOON",
     "fr": "Mauvais ballons touchés",
     "us": "Wrong balls hit",
-    "it": "colpite le palle sbagliate",
+    "it": "Colpite le palle sbagliate",
     "cn": "击中错误的球",
     "nl": "Verkeerde ballen geraakt",
     "pt": "Bolas erradas acertadas",
@@ -416,7 +416,7 @@
     "it": "Pupazzi di neve completati",
     "cn": "已完成的雪人",
     "nl": "Voltooide sneeuwpoppen",
-    "pt": "bonecos de neve concluídos",
+    "pt": "Bonecos de neve concluídos",
     "de": "Fertige Schneemänner",
     "es": "Muñecos de nieve completados"
   },
@@ -428,7 +428,7 @@
     "it": "Parole trovate",
     "cn": "找到的单词",
     "nl": "Woorden gevonden",
-    "pt": "palavras encontradas",
+    "pt": "Palavras encontradas",
     "de": "Wörter gefunden",
     "es": "Palabras encontradas"
   },
@@ -452,7 +452,7 @@
     "it": "Lettere fallite",
     "cn": "失败的信件",
     "nl": "Mislukte brieven",
-    "pt": "cartas falhadas",
+    "pt": "Cartas falhadas",
     "de": "Fehlgeschlagene Briefe",
     "es": "Cartas fallidas"
   },
@@ -464,7 +464,7 @@
     "it": "Lettere ritrovate",
     "cn": "找到信件",
     "nl": "Brieven gevonden",
-    "pt": "cartas encontradas",
+    "pt": "Cartas encontradas",
     "de": "Briefe gefunden",
     "es": "Cartas encontradas"
   },
@@ -475,8 +475,8 @@
     "us": "Prey eaten",
     "it": "Preda mangiata",
     "cn": "猎物被吃掉",
-    "nl": "prooi gegeten",
-    "pt": "presa comida",
+    "nl": "Prooi gegeten",
+    "pt": "Presa comida",
     "de": "Beute gefressen",
     "es": "Presa comida"
   },
@@ -488,7 +488,7 @@
     "it": "Preda mancata",
     "cn": "错过猎物",
     "nl": "Gemiste prooi",
-    "pt": "presa perdida",
+    "pt": "Presa perdida",
     "de": "Beute verpasst",
     "es": "Presa perdida"
   },
@@ -500,7 +500,7 @@
     "it": "Palle mancate",
     "cn": "失球",
     "nl": "Gemiste ballen",
-    "pt": "bolas perdidas",
+    "pt": "Bolas perdidas",
     "de": "Verschossene Bälle",
     "es": "Bolas perdidas"
   },
@@ -591,6 +591,6 @@
   {
     "scoreMnemonic": "nbGoodAnswerDetails1",
     "game": "WORDLE",
-    "fr": "Nombres de points"
+    "fr": "Nombre de points"
   }
 ]
