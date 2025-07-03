@@ -7,7 +7,7 @@
     "interactionType": "bestThanAverage",
     "isPerfectScore": false,
     "title": {
-      "fr": "Bien joué <FirstName> ! Vous avez fait mieux que votre moyenne, vous progressez à grands pas. | Bravo <FirstName>, une performance au-dessus de votre moyenne, vous touchez bientôt l’excellence. | Superbe <FirstNasme> ! Vous avez dépassé votre moyenne habituelle, un nouveau record est peut-être en vue. | Bravo <FirstName> ! Vous venez de faire mieux que votre moyenne, encore un petit effort et vous la ferez exploser. | Félicitations <FirstName>, vous avez amélioré votre moyenne, votre régularité commence à porter ses fruits. | Bien joué <FirstName> ! Une performance au-dessus de votre moyenne, vous êtes sur la bonne voie.",
+      "fr": "Bien joué <FirstName> ! Vous avez fait mieux que votre moyenne, vous progressez à grands pas. | Bravo <FirstName>, une performance au-dessus de votre moyenne, vous touchez bientôt l’excellence. | Superbe <FirstName> ! Vous avez dépassé votre moyenne habituelle, un nouveau record est peut-être en vue. | Bravo <FirstName> ! Vous venez de faire mieux que votre moyenne, encore un petit effort et vous la ferez exploser. | Félicitations <FirstName>, vous avez amélioré votre moyenne, votre régularité commence à porter ses fruits. | Bien joué <FirstName> ! Une performance au-dessus de votre moyenne, vous êtes sur la bonne voie.",
       "us": "Bien joué <FirstName> ! Vous avez fait mieux que votre moyenne, vous progressez à grands pas. | Bravo <FirstName>, une performance au-dessus de votre moyenne, vous touchez bientôt l’excellence. | Superbe <FirstName> ! Vous avez dépassé votre moyenne habituelle, un nouveau record est peut-être en vue. | Bravo <FirstName> ! Vous venez de faire mieux que votre moyenne, encore un petit effort et vous la ferez exploser. | Félicitations <FirstName>, vous avez amélioré votre moyenne, votre régularité commence à porter ses fruits. | Bien joué <FirstName> ! Une performance au-dessus de votre moyenne, vous êtes sur la bonne voie.",
       "it": "Ben fatto <FirstName>! Hai fatto meglio della tua media, stai facendo passi da gigante. | Bravo <FirstName>, una prestazione superiore alla tua media, presto raggiungerai l'eccellenza. | Stupendo <FirstName>! Hai superato la tua media abituale, un nuovo record potrebbe essere in vista. | Ben fatto <FirstName>! Hai appena fatto meglio della tua media, basta un piccolo sforzo in più e farai esplodere tutto. | Complimenti <FirstName>, hai migliorato la tua media, la tua costanza inizia a dare i suoi frutti. | Ben fatto <FirstName>! Una prestazione superiore alla tua media, sei sulla strada giusta.",
       "cn": "干得好<FirstName>！你的表现比你的平均水平要好，你正在取得很大的进步。 |干得好<FirstName>，表现高于你的平均水平，你很快就会达到卓越水平。 |太棒了<FirstName>！你已经超出了平时的平均水平，新的记录可能就在眼前。 |干得好<FirstName>！你只是比你的平均水平做得更好，只要多努力一点，你就会把它搞砸。 |恭喜<FirstName>，你的平均成绩有所提高，你的一致性正在开始结出硕果。 |干得好<FirstName>！如果你的表现高于你的平均水平，你就走在正确的道路上。",
@@ -375,7 +375,7 @@
       "nl": "Je hebt <score> vragen behaald. Aarzel niet om de tijd te nemen als een vraag u moeilijk lijkt. | Je hebt <score> vragen behaald. Vergeet niet goed te ademen en de komende dagen gefocust te blijven. | Je hebt tijdens dit onderdeel <score> vragen behaald. Het belangrijkste is dat u in uw eigen tempo beweegt. | Je hebt ervoor gekozen om <score> vragen te beantwoorden. Ga rustig verder, elke poging telt.",
       "es": "Pasaste <score> preguntas. No dude en tomarse su tiempo si alguna pregunta le parece difícil. | Pasaste <score> preguntas. Recuerda respirar bien y mantenerte concentrado durante los próximos días. | Pasaste <score> preguntas durante esta parte. Lo principal es avanzar a tu propio ritmo. | Elegiste responder preguntas de <score>. Continúa con calma, cada intento cuenta.",
       "pt": "Você passou nas questões de <score>. Não hesite em demorar se uma pergunta parecer difícil para você. | Você passou nas questões de <score>. Lembre-se de respirar bem e manter o foco nos próximos dias. | Você passou nas questões <score> durante esta parte. O principal é avançar no seu próprio ritmo. | Você optou por responder às perguntas <score>. Continue com calma, cada tentativa conta.",
-      "de": "Sie haben <score>-Fragen bestanden. Zögern Sie nicht, sich Zeit zu nehmen, wenn Ihnen eine Frage schwierig erscheint. | Sie haben <score>-Fragen bestanden. Denken Sie daran, in den nächsten Tagen gut zu atmen und konzentriert zu bleiben. | Sie haben in diesem Teil <score>-Fragen bestanden. Die Hauptsache ist, sich in Ihrem eigenen Tempo fortzubewegen. | Sie haben sich entschieden, <Score>-Fragen zu beantworten. Machen Sie ruhig weiter, jeder Versuch zählt."
+      "de": "Sie haben <score>-Fragen bestanden. Zögern Sie nicht, sich Zeit zu nehmen, wenn Ihnen eine Frage schwierig erscheint. | Sie haben <score>-Fragen bestanden. Denken Sie daran, in den nächsten Tagen gut zu atmen und konzentriert zu bleiben. | Sie haben in diesem Teil <score>-Fragen bestanden. Die Hauptsache ist, sich in Ihrem eigenen Tempo fortzubewegen. | Sie haben sich entschieden, <score>-Fragen zu beantworten. Machen Sie ruhig weiter, jeder Versuch zählt."
     }
   },
   {
@@ -915,7 +915,7 @@
       "nl": "Je raakt <score> normale moedervlekken. | Je hebt op <score> normale moedervlekken geklikt. | Je hebt <score> normale moedervlekken getypt. | Je hebt met succes <score> normale moedervlekken getypt. | Je hebt met succes op <score> normale moedervlekken geklikt.",
       "es": "Golpeas <score> lunares normales. | Hiciste clic en <score> lunares normales. | Escribiste <score> lunares normales. | Ha escrito correctamente <score> moles normales. | Has hecho clic correctamente en <score> lunares normales.",
       "pt": "Você atingiu <score> moles normais. | Você clicou em <score> moles normais. | Você digitou <score> moles normais. | Você digitou com sucesso <score> moles normais. | Você clicou com sucesso em <score> moles normais.",
-      "de": "Du hast <score> normale Muttermale getroffen. | Sie haben auf <score> normale Muttermale geklickt. | Sie haben <score> normale Muttermale eingegeben. | Sie haben erfolgreich <score> normale Muttermale eingegeben. | Sie haben erfolgreich auf <Score> normale Muttermale geklickt."
+      "de": "Du hast <score> normale Muttermale getroffen. | Sie haben auf <score> normale Muttermale geklickt. | Sie haben <score> normale Muttermale eingegeben. | Sie haben erfolgreich <score> normale Muttermale eingegeben. | Sie haben erfolgreich auf <score> normale Muttermale geklickt."
     }
   },
   {
@@ -1059,7 +1059,7 @@
       "nl": "Je hebt <score> pijlen geactiveerd. | Je hebt <score> pijlen geraakt. | Je sneeuwbaleffect heeft de pijlen <score> bereikt. | Je hebt <score> pijlen ingeschakeld. | Je hebt in totaal <score> pijlen afgevuurd.",
       "es": "Has activado las flechas <score>. | Has pulsado las flechas <score>. | Tu efecto de bola de nieve ha alcanzado las flechas <score>. | Ha habilitado las flechas <score>. | Has disparado un total de flechas <score>.",
       "pt": "Você acionou setas <score>. | Você acertou as setas <score>. | Seu efeito bola de neve atingiu as setas <score>. | Você ativou as setas <score>. | Você disparou um total de flechas <score>.",
-      "de": "Sie haben <Score>-Pfeile ausgelöst. | Sie haben die <score>-Pfeile gedrückt. | Ihr Schneeballeffekt hat <score> Pfeile erreicht. | Sie haben <Score>-Pfeile aktiviert. | Du hast insgesamt <score> Pfeile abgefeuert."
+      "de": "Sie haben <score>-Pfeile ausgelöst. | Sie haben die <score>-Pfeile gedrückt. | Ihr Schneeballeffekt hat <score> Pfeile erreicht. | Sie haben <score>-Pfeile aktiviert. | Du hast insgesamt <score> Pfeile abgefeuert."
     }
   },
   {
@@ -1077,7 +1077,7 @@
       "nl": "Je hebt <score> pijlen losgelaten. | Je raakt <score> pijlen. | Je sneeuwbaleffect heeft de pijlen <score> bereikt. | Je hebt <score> pijlen geactiveerd. | Je hebt in totaal <score> pijlen losgelaten.",
       "es": "Liberaste flechas <score>. | Presionas las flechas <score>. | Tu efecto de bola de nieve ha alcanzado las flechas <score>. | Has activado las flechas <score>. | Has desatado un total de flechas <score>.",
       "pt": "Você disparou flechas <score>. | Você acertou as setas <score>. | Seu efeito bola de neve atingiu as setas <score>. | Você ativou as setas <score>. | Você disparou um total de flechas <score>.",
-      "de": "Du hast <score> Pfeile abgefeuert. | Du triffst die <score>-Pfeile. | Ihr Schneeballeffekt hat <score> Pfeile erreicht. | Sie haben <Score>-Pfeile aktiviert. | Du hast insgesamt <score> Pfeile abgefeuert."
+      "de": "Du hast <score> Pfeile abgefeuert. | Du triffst die <score>-Pfeile. | Ihr Schneeballeffekt hat <score> Pfeile erreicht. | Sie haben <score>-Pfeile aktiviert. | Du hast insgesamt <score> Pfeile abgefeuert."
     }
   },
   {
@@ -1095,7 +1095,7 @@
       "nl": "Je hebt geen <score> pijlen geactiveerd. | <score> pijlen bleven inactief. | Je laat <score> pijlen passeren zonder ze te activeren. | <score> pijlen zijn niet geactiveerd. | Je hebt <score> pijlen gemist, ze zijn niet afgevuurd.",
       "es": "No has activado las flechas <score>. | Las flechas <score> permanecieron inactivas. | Dejas pasar las flechas <score> sin activarlas. | Las flechas <score> no se han activado. | Te perdiste las flechas <score>, no fueron disparadas.",
       "pt": "Você não acionou as setas <score>. | As setas <score> permaneceram inativas. | Você deixa as setas <score> passarem sem acioná-las. | As setas <score> não foram ativadas. | Você errou as flechas <score>, elas não foram disparadas.",
-      "de": "Sie haben keine <Score>-Pfeile ausgelöst. | <score> Pfeile blieben inaktiv. | Du lässt <score>-Pfeile passieren, ohne sie auszulösen. | <Score>-Pfeile wurden nicht aktiviert. | Du hast <score> Pfeile verfehlt, sie wurden nicht abgefeuert."
+      "de": "Sie haben keine <score>-Pfeile ausgelöst. | <score> Pfeile blieben inaktiv. | Du lässt <score>-Pfeile passieren, ohne sie auszulösen. | <score>-Pfeile wurden nicht aktiviert. | Du hast <score> Pfeile verfehlt, sie wurden nicht abgefeuert."
     }
   },
   {
@@ -1113,7 +1113,7 @@
       "nl": "Je hebt de <score> pijlen niet geactiveerd. | <score> pijlen bleven inactief. | Je laat <score> pijlen passeren zonder ze te activeren. | <score> pijlen zijn niet geactiveerd. | Je hebt <score> pijlen gemist, ze zijn niet geactiveerd.",
       "es": "No activaste las flechas <score>. | Las flechas <score> permanecieron inactivas. | Dejas pasar las flechas <score> sin activarlas. | Las flechas <score> no se han activado. | Te perdiste las flechas <score>, no se activaron.",
       "pt": "Você não acionou as setas <score>. | As setas <score> permaneceram inativas. | Você deixa as setas <score> passarem sem acioná-las. | As setas <score> não foram ativadas. | Você errou as setas <score>, elas não foram acionadas.",
-      "de": "Sie haben keine <Score>-Pfeile ausgelöst. | <score> Pfeile blieben inaktiv. | Du lässt <score>-Pfeile passieren, ohne sie auszulösen. | <Score>-Pfeile wurden nicht aktiviert. | Du hast <score>-Pfeile verpasst, sie wurden nicht ausgelöst."
+      "de": "Sie haben keine <score>-Pfeile ausgelöst. | <score> Pfeile blieben inaktiv. | Du lässt <score>-Pfeile passieren, ohne sie auszulösen. | <score>-Pfeile wurden nicht aktiviert. | Du hast <score>-Pfeile verpasst, sie wurden nicht ausgelöst."
     }
   },
   {
@@ -1347,7 +1347,7 @@
       "nl": "Je hebt <score> combo's behaald. | Je hebt met succes <score> combo's uitgevoerd. | Je hebt <score> combo's voltooid. | Je hebt <score> combo's behaald! | Je hebt met succes <score> combo's aan elkaar gekoppeld.",
       "es": "Has logrado combos de <score>. | Realizaste combos <score> con éxito. | Has completado combos de <score>. | ¡Has logrado combos de <score>! | Has encadenado con éxito combos <score>.",
       "pt": "Você alcançou combos <score>. | Você executou combos <score> com sucesso. | Você completou combos <score>. | Você alcançou <score> combos! | Você encadeou combos <score> com sucesso.",
-      "de": "Du hast <score>-Combos erreicht. | Du hast erfolgreich <Score>-Combos ausgeführt. | Du hast <score>-Combos abgeschlossen. | Du hast <score>-Combos erreicht! | Sie haben <score>-Combos erfolgreich miteinander verkettet."
+      "de": "Du hast <score>-Combos erreicht. | Du hast erfolgreich <score>-Combos ausgeführt. | Du hast <score>-Combos abgeschlossen. | Du hast <score>-Combos erreicht! | Sie haben <score>-Combos erfolgreich miteinander verkettet."
     }
   },
   {
@@ -1365,7 +1365,7 @@
       "nl": "Je hebt <score> combo's behaald. | Je hebt met succes <score> combo's uitgevoerd. | Je hebt <score> combo's voltooid. | Je hebt <score> combo's behaald! | Je hebt met succes <score> combo's aan elkaar gekoppeld.",
       "es": "Lograste combos de <score>. | Realizaste combos <score> con éxito. | Has completado combos de <score>. | ¡Lograste <score> combos! | Has encadenado con éxito combos <score>.",
       "pt": "Você alcançou <score> combos. | Você executou combos <score> com sucesso. | Você completou combos <score>. | Você conseguiu <score> combos! | Você encadeou combos <score> com sucesso.",
-      "de": "Du hast <score>-Combos erreicht. | Du hast erfolgreich <Score>-Combos ausgeführt. | Du hast <score>-Combos abgeschlossen. | Du hast <score>-Combos erreicht! | Sie haben <score>-Combos erfolgreich miteinander verkettet."
+      "de": "Du hast <score>-Combos erreicht. | Du hast erfolgreich <score>-Combos ausgeführt. | Du hast <score>-Combos abgeschlossen. | Du hast <score>-Combos erreicht! | Sie haben <score>-Combos erfolgreich miteinander verkettet."
     }
   },
   {
