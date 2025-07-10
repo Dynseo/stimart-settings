@@ -1,6 +1,6 @@
 [
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "isAscendent": true,
     "useAnalyse": true
   },
@@ -10,7 +10,7 @@
     "useAnalyse": true
   },
   {
-    "scoreMnemonic": "nbSolutionViewed",
+    "scoreMnemonic": "nbSolutionsViewed",
     "isAscendent": false,
     "useAnalyse": true
   },
@@ -30,7 +30,7 @@
     "useAnalyse": true
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "isAscendent": false,
     "useAnalyse": true
   },
@@ -50,17 +50,17 @@
     "useAnalyse": true
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "isAscendent": true,
     "useAnalyse": true
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "scoreMnemonic": "nbGoodAnswersDetails2",
     "isAscendent": true,
     "useAnalyse": true
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails3",
+    "scoreMnemonic": "nbGoodAnswersDetails3",
     "isAscendent": true,
     "useAnalyse": true
   },
@@ -70,7 +70,7 @@
     "useAnalyse": true
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "CARS",
     "isAscendent": false,
     "useAnalyse": true
@@ -81,25 +81,25 @@
     "useAnalyse": true
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "PANURGE",
     "isAscendent": false,
     "useAnalyse": false
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "TANGRAM",
     "isAscendent": true,
     "useAnalyse": false
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SLIDE_MAZE",
     "isAscendent": true,
     "useAnalyse": false
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SYLLABUS",
     "isAscendent": true,
     "useAnalyse": false
