@@ -175,7 +175,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "apps": [
       "PAPY"
     ],
@@ -192,7 +192,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "apps": [
       "COCO_1"
     ],
@@ -277,7 +277,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbSolutionViewed",
+    "scoreMnemonic": "nbSolutionsViewed",
     "apps": [
       "PAPY"
     ],
@@ -294,7 +294,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbSolutionViewed",
+    "scoreMnemonic": "nbSolutionsViewed",
     "apps": [
       "COCO_1"
     ],
@@ -379,7 +379,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "CARS",
     "apps": [
       "PAPY"
@@ -397,7 +397,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "CARS",
     "apps": [
       "COCO_1"
@@ -415,7 +415,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "PANURGE",
     "apps": [
       "PAPY"
@@ -433,7 +433,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "PANURGE",
     "apps": [
       "COCO_1"
@@ -469,7 +469,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SLIDE_MAZE",
     "apps": [
       "PAPY"
@@ -487,7 +487,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SLIDE_MAZE",
     "apps": [
       "COCO_1"
@@ -541,7 +541,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbMovesMin",
     "game": "SYLLABUS",
     "apps": [
       "PAPY"
@@ -559,7 +559,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbMovesMin",
     "game": "SYLLABUS",
     "apps": [
       "COCO_1"
@@ -577,7 +577,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SYLLABUS",
     "apps": [
       "PAPY"
@@ -595,7 +595,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SYLLABUS",
     "apps": [
       "COCO_1"
@@ -613,7 +613,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "LOST_POEM",
     "apps": [
       "PAPY"
@@ -631,7 +631,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "LOST_POEM",
     "apps": [
       "COCO_1"
@@ -649,7 +649,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "PROVERB",
     "apps": [
       "PAPY"
@@ -667,7 +667,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "PROVERB",
     "apps": [
       "COCO_1"
@@ -721,7 +721,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "POPBALLOON",
     "apps": [
       "PAPY"
@@ -739,7 +739,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "POPBALLOON",
     "apps": [
       "COCO_1"
@@ -757,7 +757,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "POPBALLOON",
     "apps": [
       "PAPY"
@@ -775,7 +775,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "POPBALLOON",
     "apps": [
       "COCO_1"
@@ -793,7 +793,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SHAPEBOX",
     "apps": [
       "PAPY"
@@ -811,7 +811,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SHAPEBOX",
     "apps": [
       "COCO_1"
@@ -829,7 +829,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "SHAPEBOX",
     "apps": [
       "PAPY"
@@ -847,7 +847,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "SHAPEBOX",
     "apps": [
       "COCO_1"
@@ -901,7 +901,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WHACKAMOLE",
     "apps": [
       "PAPY"
@@ -919,7 +919,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WHACKAMOLE",
     "apps": [
       "COCO_1"
@@ -937,7 +937,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "scoreMnemonic": "nbGoodAnswersDetails2",
     "game": "WHACKAMOLE",
     "apps": [
       "PAPY"
@@ -955,7 +955,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "scoreMnemonic": "nbGoodAnswersDetails2",
     "game": "WHACKAMOLE",
     "apps": [
       "COCO_1"
@@ -973,7 +973,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "WHACKAMOLE",
     "apps": [
       "PAPY"
@@ -991,7 +991,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "WHACKAMOLE",
     "apps": [
       "COCO_1"
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SNOWBALL_EFFECT",
     "apps": [
       "PAPY"
@@ -1063,7 +1063,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SNOWBALL_EFFECT",
     "apps": [
       "COCO_1"
@@ -1153,7 +1153,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "HANGMAN",
     "apps": [
       "PAPY"
@@ -1171,7 +1171,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "HANGMAN",
     "apps": [
       "COCO_1"
@@ -1225,7 +1225,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "BALL",
     "apps": [
       "COCO_1"
@@ -1297,7 +1297,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "BLOCK_PUZZLE",
     "apps": [
       "PAPY"
@@ -1315,7 +1315,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "BLOCK_PUZZLE",
     "apps": [
       "COCO_1"
@@ -1333,7 +1333,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "BLOCK_PUZZLE",
     "apps": [
       "PAPY"
@@ -1351,7 +1351,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "BLOCK_PUZZLE",
     "apps": [
       "COCO_1"
@@ -1369,7 +1369,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails3",
+    "scoreMnemonic": "nbGoodAnswersDetails3",
     "game": "BLOCK_PUZZLE",
     "apps": [
       "PAPY"
@@ -1387,7 +1387,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails3",
+    "scoreMnemonic": "nbGoodAnswersDetails3",
     "game": "BLOCK_PUZZLE",
     "apps": [
       "COCO_1"
@@ -1405,7 +1405,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "NOAHS_ARK",
     "apps": [
       "PAPY"
@@ -1423,7 +1423,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "NOAHS_ARK",
     "apps": [
       "COCO_1"
@@ -1477,7 +1477,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WORDLE",
     "apps": [
       "PAPY"
@@ -1495,7 +1495,7 @@
     }
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WORDLE",
     "apps": [
       "COCO_1"
