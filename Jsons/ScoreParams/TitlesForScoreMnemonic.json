@@ -1,6 +1,6 @@
 [
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "fr": "Bonnes réponses",
     "us": "Correct answers",
     "it": "Risposte corrette",
@@ -22,7 +22,7 @@
     "es": "Respuestas incorrectas"
   },
   {
-    "scoreMnemonic": "nbSolutionViewed",
+    "scoreMnemonic": "nbSolutionsViewed",
     "fr": "Visualisations de la solution",
     "us": "Solution viewed",
     "it": "Visualizzazioni della soluzione",
@@ -77,7 +77,7 @@
     "es": "Artículos olvidados"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "fr": "Objets tapés par erreur",
     "us": "Objects hit by mistake",
     "it": "Oggetti digitati per errore",
@@ -110,7 +110,7 @@
     "es": "Vidas perdidas"
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbMovesMin",
     "fr": "Déplacements minimum",
     "us": "Minimum moves",
     "it": "Mosse minime",
@@ -132,7 +132,7 @@
     "es": "Tiempo de reacción"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "CARS",
     "fr": "Déplacements effectués",
     "us": "Moves",
@@ -144,7 +144,7 @@
     "es": "Viajes realizados"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "PANURGE",
     "fr": "Mes moutons",
     "us": "My sheep",
@@ -156,7 +156,7 @@
     "es": "Mis ovejas"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "PANURGE",
     "unity": "%",
     "fr": "Champ rempli",
@@ -181,7 +181,7 @@
     "es": "Fallos"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SLIDE_MAZE",
     "fr": "Déplacements effectués",
     "us": "Trips made",
@@ -193,7 +193,7 @@
     "es": "Viajes realizados"
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbMovesMin",
     "game": "SYLLABUS",
     "fr": "Syllabes à trouver",
     "us": "Syllables to find",
@@ -205,7 +205,7 @@
     "es": "Sílabas para encontrar"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SYLLABUS",
     "fr": "Coups",
     "us": "Blows",
@@ -217,7 +217,7 @@
     "es": "Golpes"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "MEMORY",
     "fr": "Paires trouvées",
     "us": "Pairs found",
@@ -229,7 +229,7 @@
     "es": "Pares encontrados"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "LOST_POEM",
     "fr": "Mots trouvés",
     "us": "Words found",
@@ -241,7 +241,7 @@
     "es": "Palabras encontradas"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "PROVERB",
     "fr": "Proverbes résolus",
     "us": "Proverbs resolved",
@@ -265,7 +265,7 @@
     "es": "Proverbios pasados"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "POPBALLOON",
     "fr": "Mauvais ballons touchés",
     "us": "Wrong balls hit",
@@ -277,7 +277,7 @@
     "es": "Golpe de bolas malas"
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbMovesMin",
     "game": "POPBALLOON",
     "fr": "Bons ballons à toucher",
     "us": "Good balls to touch",
@@ -289,7 +289,7 @@
     "es": "Buenos globos para tocar."
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "POPBALLOON",
     "fr": "Bons ballons touchés",
     "us": "Good balls touched",
@@ -301,7 +301,7 @@
     "es": "Buenas bolas tocadas"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SHAPEBOX",
     "fr": "Bonnes formes touchées",
     "us": "Good forms touched",
@@ -313,7 +313,7 @@
     "es": "Buenas formas afectadas"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "SHAPEBOX",
     "fr": "Mauvaises formes touchées",
     "us": "Wrong forms touched",
@@ -337,7 +337,7 @@
     "es": "Formas fallidas "
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WHACKAMOLE",
     "fr": "Taupes normales tappées",
     "us": "Tapped normal moles",
@@ -349,7 +349,7 @@
     "es": "Lunares roscados normales"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "scoreMnemonic": "nbGoodAnswersDetails2",
     "game": "WHACKAMOLE",
     "fr": "Taupes à casque tappées",
     "us": "Helmeted moles tapped",
@@ -361,7 +361,7 @@
     "es": "Topos de casco golpeados"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "WHACKAMOLE",
     "fr": "Taupes à lunettes tappées",
     "us": "Spectacled moles tapped",
@@ -385,7 +385,7 @@
     "es": "Lunares fallidos"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SNOWBALL_EFFECT",
     "fr": "Flèches déclenchées",
     "us": "Arrows triggered",
@@ -421,7 +421,7 @@
     "es": "Muñecos de nieve completados"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "HANGMAN",
     "fr": "Mots trouvés",
     "us": "Words found",
@@ -445,7 +445,7 @@
     "es": "Palabras no encontradas"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "HANGMAN",
     "fr": "Lettres ratées",
     "us": "Failed letters",
@@ -457,7 +457,7 @@
     "es": "Cartas fallidas"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "HANGMAN",
     "fr": "Lettres trouvés",
     "us": "Letters found",
@@ -469,7 +469,7 @@
     "es": "Cartas encontradas"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SNAKE",
     "fr": "Proies mangées",
     "us": "Prey eaten",
@@ -505,7 +505,7 @@
     "es": "Bolas perdidas"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "BALL",
     "fr": "Balles touchées",
     "us": "Balls hit",
@@ -529,7 +529,7 @@
     "es": "Puntos"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "BLOCK_PUZZLE",
     "fr": "Lignes et colonnes complétées",
     "us": "Completed rows and columns",
@@ -541,7 +541,7 @@
     "es": "Filas y columnas completadas"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "scoreMnemonic": "nbGoodAnswersDetails2",
     "game": "BLOCK_PUZZLE",
     "fr": "Combos",
     "us": "Combos",
@@ -553,7 +553,7 @@
     "es": "Combos"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails3",
+    "scoreMnemonic": "nbGoodAnswersDetails3",
     "game": "BLOCK_PUZZLE",
     "fr": "Combo max",
     "us": "Max Combo",
@@ -565,7 +565,7 @@
     "es": "Combinación máxima"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "NOAHS_ARK",
     "fr": "Nombre d'animaux sauvés",
     "us": "Number of animals saved",
@@ -589,7 +589,7 @@
     "es": "Número de pares malos"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WORDLE",
     "fr": "Nombre de points"
   }
