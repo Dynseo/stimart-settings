@@ -2,10 +2,10 @@
   {
     "scoreVisualisationType": "gradeDetail",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbBadAnswers",
       "nbClues",
-      "nbSolutionViewed"
+      "nbSolutionsViewed"
     ]
   },
   {
@@ -18,16 +18,16 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "CARS",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbClues",
-      "nbSolutionViewed"
+      "nbSolutionsViewed"
     ]
   },
   {
     "scoreVisualisationType": "moreInfo",
     "game": "CARS",
     "scoreVisualisation": [
-      "nbMoveMin",
+      "nbMovesMin",
       "time"
     ]
   },
@@ -35,9 +35,9 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "CASCADE",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbItemsForgotten",
-      "nbItemClickedByMistakes"
+      "nbItemsClickedByMistakes"
     ]
   },
   {
@@ -45,7 +45,7 @@
     "game": "GEO",
     "mode": "placeIt",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbBadAnswers",
       "nbItemsSkipped",
       "nbClues"
@@ -62,7 +62,7 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "PROVERB",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbBadAnswers",
       "nbItemsSkipped"
     ]
@@ -79,8 +79,8 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "SLIDE_MAZE",
     "scoreVisualisation": [
-      "nbMoveMin",
-      "nbGoodAnswer",
+      "nbMovesMin",
+      "nbGoodAnswers",
       "nbDeaths",
       "nbClues"
     ]
@@ -104,8 +104,8 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "SYLLABUS",
     "scoreVisualisation": [
-      "nbMoveMin",
-      "nbGoodAnswer",
+      "nbMovesMin",
+      "nbGoodAnswers",
       "nbClues"
     ]
   },
@@ -114,7 +114,7 @@
     "game": "TIMELINE",
     "mode": "chrono",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbBadAnswers",
       "nbItemsSkipped"
     ]
@@ -131,15 +131,15 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "PANURGE",
     "scoreVisualisation": [
-      "nbGoodAnswer",
-      "nbGoodAnswerDetails1"
+      "nbGoodAnswers",
+      "nbGoodAnswersDetails1"
     ]
   },
   {
     "scoreVisualisationType": "gradeDetail",
     "game": "FURIOUS",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbItemsSkipped",
       "nbClues"
     ]
@@ -148,27 +148,27 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "POPBALLOON",
     "scoreVisualisation": [
-      "nbGoodAnswer",
-      "nbMoveMin",
-      "nbItemClickedByMistakes"
+      "nbGoodAnswers",
+      "nbMovesMin",
+      "nbItemsClickedByMistakes"
     ]
   },
   {
     "scoreVisualisationType": "gradeDetail",
     "game": "SHAPEBOX",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbItemsForgotten",
-      "nbItemClickedByMistakes"
+      "nbItemsClickedByMistakes"
     ]
   },
   {
     "scoreVisualisationType": "gradeDetail",
     "game": "WHACKAMOLE",
     "scoreVisualisation": [
-      "nbGoodAnswerDetails1",
-      "nbGoodAnswerDetails2",
-      "nbItemClickedByMistakes",
+      "nbGoodAnswersDetails1",
+      "nbGoodAnswersDetails2",
+      "nbItemsClickedByMistakes",
       "nbItemsForgotten"
     ]
   },
@@ -177,7 +177,7 @@
     "game": "SNOWBALL_EFFECT",
     "mode": "quick",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbBadAnswers",
       "nbChallenges"
     ]
@@ -202,8 +202,8 @@
     "scoreVisualisationType": "moreInfo",
     "game": "HANGMAN",
     "scoreVisualisation": [
-      "nbGoodAnswerDetails1",
-      "nbItemClickedByMistakes",
+      "nbGoodAnswersDetails1",
+      "nbItemsClickedByMistakes",
       "time"
     ]
   },
@@ -211,7 +211,7 @@
     "scoreVisualisationType": "gradeDetail",
     "game": "SNAKE",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "time"
     ]
   },
@@ -227,9 +227,9 @@
     "game": "BLOCK_PUZZLE",
     "scoreVisualisation": [
       "nbChallenges",
-      "nbGoodAnswerDetails1",
-      "nbGoodAnswerDetails2",
-      "nbGoodAnswerDetails3"
+      "nbGoodAnswersDetails1",
+      "nbGoodAnswersDetails2",
+      "nbGoodAnswersDetails3"
     ]
   },
   {
@@ -251,7 +251,7 @@
     "scoreVisualisationType": "moreInfo",
     "game": "MEMORY",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "time"
     ]
   },
@@ -267,7 +267,7 @@
     "scoreVisualisationType": "moreInfo",
     "game": "CHESSBOARD",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "time"
     ]
   },
@@ -276,7 +276,7 @@
     "game": "WORDLE",
     "subMode": "free",
     "scoreVisualisation": [
-      "nbGoodAnswerDetails1",
+      "nbGoodAnswersDetails1",
       "nbClues"
     ]
   },
@@ -294,7 +294,7 @@
     "game": "WORDLE",
     "subMode": "line",
     "scoreVisualisation": [
-      "nbGoodAnswer",
+      "nbGoodAnswers",
       "nbBadAnswers",
       "nbClues"
     ]
