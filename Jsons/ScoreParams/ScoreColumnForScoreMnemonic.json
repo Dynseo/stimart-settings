@@ -1,15 +1,23 @@
 [
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbChallenges",
+    "game": "BLOCK_PUZZLE",
     "scoreColumn": "score1"
   },
   {
-    "scoreMnemonic": "nbBadAnswers",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
+    "game": "BLOCK_PUZZLE",
     "scoreColumn": "score2"
   },
   {
-    "scoreMnemonic": "time",
-    "scoreColumn": "duration"
+    "scoreMnemonic": "nbGoodAnswersDetails2",
+    "game": "BLOCK_PUZZLE",
+    "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswersDetails3",
+    "game": "BLOCK_PUZZLE",
+    "scoreColumn": "score4"
   },
   {
     "scoreMnemonic": "nbClues",
@@ -17,14 +25,19 @@
     "scoreColumn": "score5"
   },
   {
-    "scoreMnemonic": "nbSolutionViewed",
+    "scoreMnemonic": "nbSolutionsViewed",
     "game": "CARS",
     "scoreColumn": "score6"
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbMovesMin",
     "game": "CARS",
     "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "CARS",
+    "scoreColumn": "score1"
   },
   {
     "scoreMnemonic": "nbItemsForgotten",
@@ -32,9 +45,14 @@
     "scoreColumn": "score6"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "CASCADE",
     "scoreColumn": "score5"
+  },
+  {
+    "scoreMnemonic": "reactionTime",
+    "game": "CATERPILLAR",
+    "scoreColumn": "score3"
   },
   {
     "scoreMnemonic": "nbClues",
@@ -42,7 +60,7 @@
     "scoreColumn": "score3"
   },
   {
-    "scoreMnemonic": "nbSolutionViewed",
+    "scoreMnemonic": "nbSolutionsViewed",
     "game": "COLORMIND",
     "scoreColumn": "score3"
   },
@@ -79,13 +97,38 @@
     "scoreColumn": "score5"
   },
   {
+    "scoreMnemonic": "nbItemsClickedByMistakes",
+    "game": "HANGMAN",
+    "scoreColumn": "score4"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswersDetails1",
+    "game": "HANGMAN",
+    "scoreColumn": "score3"
+  },
+  {
     "scoreMnemonic": "nbClues",
     "game": "LOST_POEM",
     "scoreColumn": "score4"
   },
   {
-    "scoreMnemonic": "nbSolutionViewed",
+    "scoreMnemonic": "nbSolutionsViewed",
     "game": "LOST_POEM",
+    "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswersDetails1",
+    "game": "PANURGE",
+    "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "nbMovesMin",
+    "game": "POPBALLOON",
+    "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "nbItemsClickedByMistakes",
+    "game": "POPBALLOON",
     "scoreColumn": "score3"
   },
   {
@@ -99,7 +142,7 @@
     "scoreColumn": "score3"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "SEQUENCE",
     "scoreColumn": "score3"
   },
@@ -109,12 +152,22 @@
     "scoreColumn": "score4"
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbItemsForgotten",
+    "game": "SHAPEBOX",
+    "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbItemsClickedByMistakes",
+    "game": "SHAPEBOX",
+    "scoreColumn": "score4"
+  },
+  {
+    "scoreMnemonic": "nbMovesMin",
     "game": "SLIDE_MAZE",
     "scoreColumn": "score3"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SLIDE_MAZE",
     "scoreColumn": "score2"
   },
@@ -129,19 +182,29 @@
     "scoreColumn": "score5"
   },
   {
+    "scoreMnemonic": "nbChallenges",
+    "game": "SNOWBALL_EFFECT",
+    "scoreColumn": "score3"
+  },
+  {
     "scoreMnemonic": "nbClues",
     "game": "SYLLABUS",
     "scoreColumn": "score3"
   },
   {
-    "scoreMnemonic": "nbMoveMin",
+    "scoreMnemonic": "nbMovesMin",
     "game": "SYLLABUS",
     "scoreColumn": "score1"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "SYLLABUS",
     "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "TANGRAM",
+    "scoreColumn": "score4"
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
@@ -155,37 +218,17 @@
     "scoreColumn": "score5"
   },
   {
-    "scoreMnemonic": "nbMoveMin",
-    "game": "POPBALLOON",
-    "scoreColumn": "score2"
-  },
-  {
-    "scoreMnemonic": "nbItemClickedByMistakes",
-    "game": "POPBALLOON",
-    "scoreColumn": "score3"
-  },
-  {
-    "scoreMnemonic": "nbItemsForgotten",
-    "game": "SHAPEBOX",
-    "scoreColumn": "score3"
-  },
-  {
-    "scoreMnemonic": "nbItemClickedByMistakes",
-    "game": "SHAPEBOX",
-    "scoreColumn": "score4"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WHACKAMOLE",
     "scoreColumn": "score3"
   },
   {
-    "scoreMnemonic": "nbGoodAnswerDetails2",
+    "scoreMnemonic": "nbGoodAnswersDetails2",
     "game": "WHACKAMOLE",
     "scoreColumn": "score4"
   },
   {
-    "scoreMnemonic": "nbItemClickedByMistakes",
+    "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "WHACKAMOLE",
     "scoreColumn": "score5"
   },
@@ -195,62 +238,7 @@
     "scoreColumn": "score6"
   },
   {
-    "scoreMnemonic": "nbChallenges",
-    "game": "SNOWBALL_EFFECT",
-    "scoreColumn": "score3"
-  },
-  {
-    "scoreMnemonic": "nbClues",
-    "game": "TANGRAM",
-    "scoreColumn": "score4"
-  },
-  {
-    "scoreMnemonic": "nbItemClickedByMistakes",
-    "game": "HANGMAN",
-    "scoreColumn": "score4"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
-    "game": "HANGMAN",
-    "scoreColumn": "score3"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswer",
-    "game": "CARS",
-    "scoreColumn": "score1"
-  },
-  {
-    "scoreMnemonic": "nbChallenges",
-    "game": "BLOCK_PUZZLE",
-    "scoreColumn": "score1"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
-    "game": "BLOCK_PUZZLE",
-    "scoreColumn": "score2"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswerDetails2",
-    "game": "BLOCK_PUZZLE",
-    "scoreColumn": "score3"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswerDetails3",
-    "game": "BLOCK_PUZZLE",
-    "scoreColumn": "score4"
-  },
-  {
-    "scoreMnemonic": "reactionTime",
-    "game": "CATERPILLAR",
-    "scoreColumn": "score3"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
-    "game": "PANURGE",
-    "scoreColumn": "score2"
-  },
-  {
-    "scoreMnemonic": "nbGoodAnswerDetails1",
+    "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WORDLE",
     "subMode": "free",
     "scoreColumn": "score1"
@@ -268,7 +256,7 @@
     "scoreColumn": "score3"
   },
   {
-    "scoreMnemonic": "nbGoodAnswer",
+    "scoreMnemonic": "nbGoodAnswers",
     "game": "WORDLE",
     "subMode": "line",
     "scoreColumn": "score1"
@@ -284,5 +272,22 @@
     "game": "WORDLE",
     "subMode": "line",
     "scoreColumn": "score3"
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "scoreColumn": "score1"
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "time",
+    "scoreColumn": "duration"
+  },
+  {
+    "scoreMnemonic": "nbResets",
+    "game": "SLIDE_MAZE",
+    "scoreColumn": "score4"
   }
 ]
