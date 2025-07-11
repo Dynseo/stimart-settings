@@ -4,6 +4,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Bonjour <playerName> ! Voici votre bilan hebdomadaire :",
       "us": "Hello <playerName>! Here is your weekly report:",
@@ -20,6 +21,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Bonjour <playerName>, un aperçu de vos performances cette semaine :",
       "us": "Hello <playerName>, an overview of your performance this week:",
@@ -36,6 +38,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "<playerName>, voici vos statistiques de la semaine : ",
       "us": "<playerName>, here are your stats for the week: ",
@@ -52,6 +55,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez joué au moins trois jours de cette semaine, ce qui est excellent pour maintenir votre cerveau en forme. Félicitations pour votre engagement ! ",
       "us": "You've played at least three days this week, which is great for keeping your brain in shape. Congratulations on your commitment! ",
@@ -68,6 +72,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez joué au moins trois jours cette semaine, c’est un bel engagement. Continuez sur cette lancée !  ",
       "us": "You played at least three days this week, that’s a great commitment. Keep this momentum going!  ",
@@ -84,6 +89,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Au moins trois jours de jeu cette semaine, un beau rythme pour progresser. Bien joué !",
       "us": "At least three days of play this week, a good pace to progress. Well done!",
@@ -100,6 +106,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Trois jours ou plus de jeu cette semaine, c’est une belle habitude qui aide votre mémoire et votre concentration. Continuez ainsi à votre rythme !",
       "us": "Three or more days of play this week is a great habit that helps your memory and concentration. Continue at your own pace!",
@@ -116,6 +123,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Vous avez joué régulièrement cette semaine, et c’est une très bonne chose pour stimuler votre mémoire. J'espère que les jeux vous ont plu ! ",
       "us": "You have been playing regularly this week, and that is a very good thing for stimulating your memory. I hope you enjoyed the games! ",
@@ -132,6 +140,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Vous avez joué plusieurs jours cette semaine, et c’est une belle façon d’entretenir votre mémoire et votre concentration. Continuez à votre rythme et surtout, amusez-vous !",
       "us": "You've played several days this week, and it's a great way to maintain your memory and concentration. Continue at your own pace and above all, have fun!",
@@ -148,6 +157,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est la clé pour maximiser les bienfaits.",
       "us": "You played less than three days this week. Remember, regularity is the key to maximizing benefits.",
@@ -164,6 +174,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Moins de trois jours de jeu cette semaine. N’oubliez pas, la pratique régulière est essentielle pour progresser.",
       "us": "Less than three days of play this week. Remember, regular practice is essential to progress.",
@@ -180,6 +191,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. Un peu plus de constance vous aidera à maximiser vos performances.",
       "us": "You played less than three days this week. A little more consistency will help you maximize your performance.",
@@ -196,6 +208,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Parfois, il est difficile de jouer régulièrement, et c’est tout à fait normal. Si besoin, n’hésitez pas à demander à un proche de vous accompagner pour un moment convivial.",
       "us": "Sometimes it's difficult to play consistently, and that's completely normal. If necessary, do not hesitate to ask a loved one to accompany you for a friendly moment.",
@@ -212,6 +225,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Même si vous n’avez pas joué autant que vous l’auriez souhaité, chaque partie compte. L’important est de se faire plaisir !",
       "us": "Even if you haven't played as much as you would have liked, every game counts. The important thing is to have fun!",
@@ -228,6 +242,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Chaque partie jouée est une belle victoire. Si vous souhaitez jouer plus souvent, vous pouvez demander un petit coup de main à un proche pour vous aider à démarrer.\n",
       "us": "Every game played is a great victory. If you want to play more often, you can ask a loved one for a little help to get you started.\n",
@@ -244,6 +259,7 @@
     "condition": "moreThan5GamesThisWeek",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Bravo pour la diversité de vos choix de jeux ! ",
       "us": "You play a wide range of games, which is ideal for stimulating several cognitive functions. Bravo for the diversity of your game choices! ",
@@ -260,6 +276,7 @@
     "condition": "moreThan5GamesThisWeek",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez testé différents jeux cette semaine, un excellent moyen de travailler différentes parties de votre cerveau. Continuez !",
       "us": "You've tried different games this week, a great way to work different parts of your brain. Keep going!",
@@ -276,6 +293,7 @@
     "condition": "moreThan5GamesThisWeek",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Plus de cinq jeux différents cette semaine ! Cette variété est idéale pour maximiser votre agilité mentale.",
       "us": "More than five different games this week! This strain is ideal for maximizing your mental agility.",
@@ -292,6 +310,7 @@
     "condition": "lessThan5GamesThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous jouez principalement à <gameName>. C’est un excellent choix ! Ce jeu fait travailler vos capacités en <cognitiveFunction>, et vous avez montré une belle constance dans cette activité.",
       "us": "You mainly play <gameName>. This is an excellent choice! This game works on your <cognitiveFunction> skills, and you have shown great consistency in this activity.",
@@ -308,6 +327,7 @@
     "condition": "lessThan5GamesThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous vous concentrez principalement sur <gameName>, un excellent choix pour renforcer vos capacités en <cognitiveFunction>.",
       "us": "You mainly focus on <gameName>, an excellent choice for strengthening your abilities in <cognitiveFunction>.",
@@ -324,6 +344,7 @@
     "condition": "lessThan5GamesThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous privilégiez <gameName>, ce qui est excellent pour améliorer votre <cognitiveFunction>.",
       "us": "You favor <gameName>, which is great for improving your <cognitiveFunction>.",
@@ -340,6 +361,7 @@
     "condition": "lessThan5GamesThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "\nVous aimez beaucoup le jeu <gameName> : il vous convient bien, et c’est l’essentiel. Continuez à en profiter à votre rythme !",
       "us": "\nYou really like the game <gameName>: it suits you well, and that's the main thing. Continue to enjoy it at your own pace!",
@@ -356,6 +378,7 @@
     "condition": "lessThan5GamesThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "<gameName> vous plaît particulièrement, et c’est une très bonne chose. Ce jeu sollicite votre <cognitiveFunction> de manière douce et agréable. Profitez-en ! Je vous invite également à découvrir <gameName2> qui pourrait également vous plaire.",
       "us": "You particularly like <gameName>, and that's a very good thing. This game uses your <cognitiveFunction> in a gentle and pleasant way. Enjoy! I also invite you to discover <gameName2> which you might also like.",
@@ -372,6 +395,7 @@
     "condition": "lessThan5GamesThisWeek",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Jouer régulièrement à <gameName> est une belle habitude. Si cela vous plaît, pourquoi ne pas essayer un autre jeu pour varier un peu ? Je peux vous conseiller <gameName2>, il devrait vous plaire ! ",
       "us": "Playing <gameName> regularly is a great habit. If you like it, why not try another game for a little variety? I can advise you <gameName2>, you should like it! ",
@@ -388,6 +412,7 @@
     "condition": "didProgressInAGame",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Nous avons remarqué des progrès notables dans <gameName>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. ",
       "us": "We've noticed some notable progress in <gameName>. You improve your overall performance, and it shows that your efforts are paying off. ",
@@ -404,6 +429,7 @@
     "condition": "didProgressInAGame",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez fait des avancées remarquables dans <gameName>. Vos efforts sont clairement visibles !",
       "us": "You have made remarkable progress in <gameName>. Your efforts are clearly visible!",
@@ -420,6 +446,7 @@
     "condition": "didProgressInAGame",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez amélioré vos performances dans <gameName>. Continuez comme ça, ça paye !",
       "us": "You have improved your performance in <gameName>. Keep it up, it’s paying off!",
@@ -436,6 +463,7 @@
     "condition": "newTrophy",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez gagné le trophée <trophy> ! Continuez à relever les défis pour compléter votre collection.",
       "us": "You have won the <trophy> trophy! Continue to complete the challenges to complete your collection.",
@@ -452,6 +480,7 @@
     "condition": "newTrophy",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez remporté le trophée <trophy>. Continuez à progresser pour en obtenir d’autres.",
       "us": "You have won the <trophy> trophy. Keep progressing to get more.",
@@ -468,6 +497,7 @@
     "condition": "newTrophy",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez décroché le trophée <trophy>. Continuez à relever des défis pour en gagner davantage.",
       "us": "You have won the <trophy> trophy. Continue to complete challenges to earn more.",
@@ -484,6 +514,7 @@
     "condition": "goodScoreInEasyLevel",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Votre moyenne au niveau facile est de <grade>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
       "us": "Your average at the easy level is <grade>. Why not upgrade to medium level for more challenges?",
@@ -500,6 +531,7 @@
     "condition": "goodScoreInEasyLevel",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez obtenu une moyenne de <grade> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !",
       "us": "You achieved an average of <grade> in the easy level. It's time to try the medium level for more stimulation!",
@@ -516,6 +548,7 @@
     "condition": "goodScoreInEasyLevel",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez une moyenne de <grade> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
       "us": "You have an average of <grade> at the easy level. How about upgrading to medium level to progress further?",
@@ -532,6 +565,7 @@
     "condition": "goodScoreInMediumLevel",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous avez une moyenne de <grade> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
       "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?",
@@ -548,6 +582,7 @@
     "condition": "goodScoreInMediumLevel",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Avec une excellente moyenne de <grade> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
       "us": "With an excellent <grade> average in the medium level, it would be interesting to explore the hard level!",
@@ -564,6 +599,7 @@
     "condition": "goodScoreInMediumLevel",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Vous affichez une moyenne de <grade> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !",
       "us": "You have an average of <grade> at the average level. It's time to put your skills to the test on the difficult level!",
@@ -580,6 +616,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Continuez à explorer différentes options pour renforcer encore plus vos capacités.",
       "us": "Continue to explore different options to strengthen your abilities even further.",
@@ -596,6 +633,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Poursuivez cette belle dynamique en explorant de nouveaux défis et en affinant vos compétences.",
       "us": "Continue this great dynamic by exploring new challenges and refining your skills.",
@@ -612,6 +650,7 @@
     "condition": "moreThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Restez engagé et continuez à explorer de nouvelles options pour enrichir votre expérience de jeu.",
       "us": "Stay engaged and continue to explore new options to enrich your gaming experience.",
@@ -628,6 +667,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Essayez de jouer un peu plus souvent, cela fera une différence sur vos performances.",
       "us": "Try playing a little more often, it will make a difference to your performance.",
@@ -644,6 +684,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Essayez d'augmenter votre temps de jeu, cela pourrait vraiment améliorer vos performances.",
       "us": "Try increasing your playing time, it could really improve your performance.",
@@ -660,6 +701,7 @@
     "condition": "lessThan3PlaysThisWeek",
     "isForEHPAD": false,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "En jouant un peu plus régulièrement, vous verrez des améliorations notables dans vos performances.",
       "us": "By playing a little more regularly, you will see noticeable improvements in your performance.",
@@ -676,6 +718,7 @@
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Je vois que vous aimez les défis qui sollicitent votre attention, une belle façon d’exercer votre vigilance et votre concentration tout en vous amusant. Voici une astuce qui pourrait vous aider à aller encore plus loin : faire des pauses si nécessaire. L’attention fonctionne mieux lorsqu’elle est sollicitée par courtes périodes. N’hésitez pas à souffler entre deux parties.",
       "us": "I see that you like challenges that require your attention, a great way to exercise your alertness and concentration while having fun. Here's a tip that could help you go even further: take breaks if necessary. Attention works best when required in short bursts. Don’t hesitate to breathe between two games.",
@@ -684,7 +727,7 @@
       "nl": "Ik zie dat je van uitdagingen houdt die je aandacht vereisen, een geweldige manier om je alertheid en concentratie te oefenen terwijl je plezier hebt. Hier is een tip die u kan helpen nog verder te gaan: neem indien nodig pauzes. Aandacht werkt het beste wanneer dit in korte uitbarstingen nodig is. Aarzel niet om tussen twee games door adem te halen.",
       "cn": "我发现你喜欢需要你集中注意力的挑战，这是在享受乐趣的同时锻炼你的警觉性和注意力的好方法。这里有一个可以帮助您走得更远的提示：必要时休息一下。当需要短暂集中注意力时效果最好。在两场比赛之间不要犹豫喘口气。",
       "de": "Ich sehe, dass Sie Herausforderungen mögen, die Ihre Aufmerksamkeit erfordern, eine großartige Möglichkeit, Ihre Aufmerksamkeit und Konzentration zu trainieren und dabei Spaß zu haben. Hier ist ein Tipp, der Ihnen noch weiterhelfen könnte: Machen Sie bei Bedarf Pausen. Aufmerksamkeit funktioniert am besten, wenn sie in kurzen Stößen erforderlich ist. Zögern Sie nicht, zwischen zwei Spielen durchzuatmen.",
-      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate descansos si es necesario. La atención funciona mejor cuando se requiere en períodos cortos. No dudes en respirar entre dos partidos."
+      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate descansos si es necesario. La atención funciona mejor cuando se requiere en períodos cortos. No dudes en respirar entre dos partidas."
     }
   },
   {
@@ -692,6 +735,7 @@
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Je vois que vous aimez les défis qui sollicitent votre attention, une belle façon d’exercer votre vigilance et votre concentration tout en vous amusant. Un petit conseil pour continuer à progresser en douceur : observez bien les détails. Parfois, une petite différence peut tout changer dans un jeu ! Prenez le temps d’analyser avant de répondre.",
       "us": "I see that you like challenges that require your attention, a great way to exercise your alertness and concentration while having fun. A little advice to continue progressing smoothly: pay close attention to the details. Sometimes a small difference can change everything in a game! Take the time to analyze before responding.",
@@ -708,6 +752,7 @@
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Jouer à des jeux qui stimulent l’attention est un très bon exercice pour renforcer votre concentration. Prenez votre temps : ne vous précipitez pas, l’attention se renforce avec la patience et la concentration. Continuez ainsi !",
       "us": "Playing games that stimulate attention is a very good exercise to strengthen your concentration. Take your time: don’t rush, attention is strengthened with patience and concentration. Keep it up!",
@@ -724,6 +769,7 @@
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Les jeux d’attention sont parfaits pour rester alerte et affûter votre capacité d’observation. Et il semble que vous les appréciez particulièrement ! Pour profiter encore plus de vos jeux, voici un conseil à essayer : jouer dans un endroit calme. Moins de distractions, c’est plus de chances de rester concentré et d’être pleinement dans le jeu.",
       "us": "Attention games are perfect for staying alert and sharpening your observation skills. And it seems that you particularly like them! To enjoy your games even more, here is a tip to try: play in a quiet place. Fewer distractions mean more chances to stay focused and be fully in the game.",
@@ -740,6 +786,7 @@
     "condition": "likeAttentionGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Votre intérêt pour les jeux de concentration est une belle habitude ! En jouant régulièrement, vous entraînez votre esprit tout en passant un bon moment. Une astuce qui peut faire la différence dans votre entraînement : essayer différents jeux. Travailler son attention sous plusieurs formes (recherche visuelle, rapidité, mémorisation) aide à renforcer cette capacité au quotidien.",
       "us": "Your interest in concentration games is a great habit! By playing regularly, you train your mind while having a good time. A tip that can make a difference in your training: try different games. Working on your attention in several forms (visual search, speed, memorization) helps to strengthen this ability on a daily basis.",
@@ -756,6 +803,7 @@
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Je vois que vous aimez les jeux de langage, une belle façon d’enrichir votre vocabulaire et d’exercer votre esprit tout en vous amusant. Voici une astuce qui pourrait vous aider à aller encore plus loin : prenez le temps de bien articuler les mots dans votre tête ou à voix haute. Cela peut faciliter leur mémorisation et améliorer votre aisance.",
       "us": "I see that you like language games, a great way to enrich your vocabulary and exercise your mind while having fun. Here's a tip that could help you go even further: take the time to articulate the words in your head or out loud. This can make them easier to remember and improve your fluency.",
@@ -772,6 +820,7 @@
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Les jeux de langage sont un excellent moyen de stimuler votre mémoire et votre compréhension des mots. Un petit conseil pour continuer à progresser en douceur : faites des associations ! Reliez les mots à des images ou à des souvenirs, cela peut vous aider à mieux les retenir.",
       "us": "Language games are a great way to boost your memory and understanding of words. A little advice to continue to progress smoothly: make associations! Connect words to images or memories, this can help you remember them better.",
@@ -788,6 +837,7 @@
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Jouer à des jeux qui sollicitent votre langage est une très bonne habitude pour enrichir votre esprit et garder votre mémoire active. Prenez votre temps : ne vous précipitez pas, réfléchissez aux différentes significations des mots et aux indices cachés dans le jeu.",
       "us": "Playing games that challenge your language is a very good habit to enrich your mind and keep your memory active. Take your time: don't rush, think about the different meanings of the words and the clues hidden in the game.",
@@ -804,6 +854,7 @@
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Les jeux de langage sont parfaits pour développer votre aisance et votre capacité à jouer avec les mots. Et il semble que vous les appréciez particulièrement ! Pour profiter encore plus de vos jeux, voici un conseil à essayer : lisez les mots à voix haute si possible. Cela aide à mieux les intégrer et à renforcer la mémoire auditive.",
       "us": "Language games are perfect for developing your fluency and ability to play with words. And it seems that you particularly like them! To enjoy your games even more, here's a tip to try: read the words out loud if possible. This helps to better integrate them and strengthen auditory memory.",
@@ -820,6 +871,7 @@
     "condition": "likeLangageGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Votre intérêt pour les jeux de langage est une belle habitude ! En jouant régulièrement, vous stimulez votre mémoire des mots et votre aisance avec la langue tout en vous amusant. Une astuce qui peut faire la différence dans votre entraînement : variez les types de jeux. Passez de Syllabus à Poème Perdu, au Pendu ou à Chasse à l'intrus. Cela permet d'exercer différentes facettes du langage et d’améliorer votre fluidité. Plus vous jouez, plus les mots vous viendront naturellement !",
       "us": "Your interest in language games is a great habit! By playing regularly, you stimulate your memory of words and your ease with the language while having fun. A tip that can make a difference in your training: vary the types of games. Switch from Syllabus to Lost Poem, Hangman or Intruder Hunt. This allows you to practice different facets of language and improve your fluency. The more you play, the more words will come naturally to you!",
@@ -836,6 +888,7 @@
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Vous appréciez les jeux de mémoire, et c’est une excellente manière d’entretenir vos souvenirs et de stimuler votre esprit tout en vous amusant. Une astuce pour aller encore plus loin : essayez de visualiser mentalement ce que vous devez retenir. Faire des associations d’images ou de petites histoires peut aider à mieux mémoriser !",
       "us": "You enjoy memory games, and this is a great way to maintain your memories and stimulate your mind while having fun. A tip to go even further: try to mentally visualize what you need to remember. Making associations of images or short stories can help you memorize better!",
@@ -852,6 +905,7 @@
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Vous aimez les défis de mémoire, et c’est une très bonne chose ! Plus vous jouez, plus vous stimulez votre capacité à retenir des informations avec facilité. Un petit conseil : ne vous mettez pas la pression. Apprendre en douceur et avec plaisir est la meilleure façon de renforcer sa mémoire.",
       "us": "You like memory challenges, and that’s a very good thing! The more you play, the more you stimulate your ability to retain information with ease. A little advice: don't put pressure on yourself. Learning gently and with pleasure is the best way to strengthen your memory.",
@@ -868,6 +922,7 @@
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Votre engagement dans les jeux de mémoire montre votre envie de garder votre esprit actif. Bravo ! Pour encore mieux progresser, essayez de jouer à des moments où vous vous sentez reposé et détendu. La mémoire fonctionne mieux quand on est serein et concentré !",
       "us": "Your engagement in memory games shows your desire to keep your mind active. Well done ! To improve even further, try to play at times when you feel rested and relaxed. Memory works better when you are calm and focused!",
@@ -884,6 +939,7 @@
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Chaque partie jouée est une belle occasion d’exercer votre mémoire et de stimuler votre esprit. Un conseil pour progresser encore plus : essayez de reformuler ce que vous venez de mémoriser avec vos propres mots ou d’en discuter avec un proche. Dire les choses à voix haute ou les expliquer permet souvent de mieux les ancrer dans la mémoire !",
       "us": "Each game played is a great opportunity to exercise your memory and stimulate your mind. A tip to progress even further: try to reformulate what you have just memorized in your own words or discuss it with a loved one. Saying things out loud or explaining them often helps to anchor them better in memory!",
@@ -900,6 +956,7 @@
     "condition": "likeMemoryGames",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Les jeux de mémoire sont parfaits pour affiner votre capacité à retenir des informations. Une idée pour améliorer vos performances : prenez de petites pauses entre les parties. Le cerveau a besoin de temps pour assimiler les informations, et un court moment de repos peut vous aider à mieux mémoriser ce que vous avez appris.\n\n",
       "us": "Memory games are great for honing your ability to retain information. An idea to improve your performance: take small breaks between games. The brain needs time to process information, and a short rest can help you better remember what you've learned.\n\n",
@@ -916,6 +973,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Vous aimez explorer une variété de jeux, et c’est une excellente façon de stimuler votre esprit sous plusieurs angles. Pour encore mieux en profiter, essayez de vous concentrer sur les détails et prenez quelques minutes après chaque partie pour revoir ce que vous avez appris. Cette petite habitude renforce la mémorisation !",
       "us": "You enjoy exploring a variety of games, and this is a great way to stimulate your mind from multiple angles. To benefit even more, try to focus on the details and take a few minutes after each game to review what you have learned. This little habit strengthens memorization!",
@@ -932,6 +990,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Jouer à des jeux variés est une belle habitude ! Que ce soit la mémoire, le langage ou l’attention, chaque type de jeu apporte ses bienfaits. Un conseil pour progresser : prenez votre temps et jouez dans un endroit calme. Moins de distractions, c’est plus de chances de bien retenir les informations !",
       "us": "Playing a variety of games is a great habit! Whether it is memory, language or attention, each type of play brings its benefits. A tip for progress: take your time and play in a quiet place. Fewer distractions mean more chances of retaining information well!",
@@ -948,6 +1007,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Votre curiosité vous pousse à essayer différents jeux, et c’est une excellente manière de garder votre esprit alerte ! Pour encore mieux entraîner votre mémoire, essayez de faire des liens entre les éléments du jeu et votre quotidien. Associer des mots, des images ou des concepts à quelque chose de familier aide à mieux s’en souvenir.",
       "us": "Your curiosity drives you to try different games, and this is a great way to keep your mind sharp! To train your memory even better, try to make connections between the elements of the game and your daily life. Associating words, images or concepts with something familiar helps you remember it better.",
@@ -964,6 +1024,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Vous aimez relever des défis variés, et c’est un très bon entraînement pour votre cerveau ! Une astuce pour progresser : ne jouez pas trop vite. Prenez le temps d’observer, de bien lire les consignes et de mémoriser les éléments clés. Plus on est attentif, plus la mémoire s’active naturellement.",
       "us": "You like taking on a variety of challenges, and it’s a great workout for your brain! A tip for progress: don't play too quickly. Take the time to observe, read the instructions carefully and memorize the key elements. The more attentive we are, the more memory is naturally activated.",
@@ -980,6 +1041,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": false,
+    "isForCoco": false,
     "title": {
       "fr": "Quelle belle diversité dans vos jeux ! Alterner entre différents types de défis stimule plusieurs capacités cognitives. Un petit conseil : rejouer à un jeu après quelques jours permet de consolider ce que vous avez appris. La répétition espacée est l’un des meilleurs moyens de renforcer la mémoire !\n",
       "us": "What great diversity in your games! Alternating between different types of challenges stimulates several cognitive abilities. A little tip: playing a game again after a few days helps consolidate what you have learned. Spaced repetition is one of the best ways to strengthen memory!\n",
@@ -996,6 +1058,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "\nÀ bientôt pour de nouvelles parties !",
       "us": "\nSee you soon for new games!",
@@ -1012,6 +1075,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Continuez comme ça et passez une belle semaine !",
       "us": "Keep it up and have a great week!",
@@ -1028,6 +1092,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Prenez soin de vous et à bientôt !",
       "us": "Take care of yourself and see you soon!",
@@ -1044,6 +1109,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "Continuez à jouer à votre rythme et surtout amusez-vous bien !",
       "us": "Keep playing at your own pace and above all have fun!",
@@ -1060,6 +1126,7 @@
     "condition": "always",
     "isForEHPAD": true,
     "isForPAPY": true,
+    "isForCoco": true,
     "title": {
       "fr": "À bientôt pour de nouveaux défis !",
       "us": "See you soon for new challenges!",
