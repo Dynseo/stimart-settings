@@ -292,12 +292,12 @@
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
-    "game": "TALKTOME",
+    "game": "TALK_TO_ME",
     "scoreColumn": "score2"
   },
   {
     "scoreMnemonic": "nbClues",
-    "game": "TALKTOME",
+    "game": "TALK_TO_ME",
     "scoreColumn": "score3"
   }
 ]
