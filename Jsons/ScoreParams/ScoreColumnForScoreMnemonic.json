@@ -289,5 +289,15 @@
     "scoreMnemonic": "nbResets",
     "game": "SLIDE_MAZE",
     "scoreColumn": "score4"
+  },
+  {
+    "scoreMnemonic": "nbItemsSkipped",
+    "game": "TALKTOME",
+    "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "nbClues",
+    "game": "TALKTOME",
+    "scoreColumn": "score3"
   }
 ]
