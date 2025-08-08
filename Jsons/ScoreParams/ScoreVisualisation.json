@@ -306,5 +306,14 @@
     "scoreVisualisation": [
       "time"
     ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "TALKTOME",
+    "scoreVisualisation": [
+      "nbClues",
+      "time",
+      "nbItemsSkipped"
+    ]
   }
 ]
