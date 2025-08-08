@@ -309,7 +309,7 @@
   },
   {
     "scoreVisualisationType": "gradeDetail",
-    "game": "TALKTOME",
+    "game": "TALK_TO_ME",
     "scoreVisualisation": [
       "nbClues",
       "time",
