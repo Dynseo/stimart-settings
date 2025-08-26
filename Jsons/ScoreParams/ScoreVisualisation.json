@@ -114,9 +114,17 @@
     "game": "TIMELINE",
     "mode": "chrono",
     "scoreVisualisation": [
-      "nbGoodAnswers",
       "nbBadAnswers",
       "nbItemsSkipped"
+    ]
+  },
+  {
+    "scoreVisualisationType": "moreInfo",
+    "game": "TIMELINE",
+    "mode": "chrono",
+    "scoreVisualisation": [
+      "nbGoodAnswers",
+      "time"
     ]
   },
   {
@@ -199,6 +207,15 @@
     ]
   },
   {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "HANGMAN",
+    "scoreVisualisation": [
+      "nbGoodAnswers",
+      "nbBadAnswers",
+      "nbClues"
+    ]
+  },
+  {
     "scoreVisualisationType": "moreInfo",
     "game": "HANGMAN",
     "scoreVisualisation": [
@@ -230,6 +247,14 @@
       "nbGoodAnswersDetails1",
       "nbGoodAnswersDetails2",
       "nbGoodAnswersDetails3"
+    ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "CATERPILLAR",
+    "scoreVisualisation": [
+      "nbGoodAnswers",
+      "nbBadAnswers"
     ]
   },
   {
