@@ -764,5 +764,20 @@
       "de": "Zu ergänzende Ergänzungen",
       "es": "Adiciones que se deben realizar"
     }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "CATERPILLAR",
+    "mode": "reach100",
+    "title": {
+      "fr": "Bonnes réponses",
+      "us": "Correct answers",
+      "it": "Risposte esatte",
+      "cn": "正确答案",
+      "nl": "Juiste antwoorden",
+      "pt": "Respostas corretas",
+      "de": "Richtige Antworten",
+      "es": "Respuestas correctas"
+    }
   }
 ]
