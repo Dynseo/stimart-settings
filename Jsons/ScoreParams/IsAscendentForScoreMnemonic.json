@@ -103,5 +103,36 @@
     "game": "SYLLABUS",
     "isAscendent": true,
     "useAnalyse": false
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "COOK",
+    "isAscendent": true,
+    "useAnalyse": false
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "COLORFORM",
+    "isAscendent": true,
+    "useAnalyse": false
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "RELIBULLE",
+    "isAscendent": true,
+    "useAnalyse": false
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "HANGMAN",
+    "isAscendent": true,
+    "useAnalyse": false
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "CATERPILLAR",
+    "mode": "free",
+    "isAscendent": true,
+    "useAnalyse": false
   }
 ]
