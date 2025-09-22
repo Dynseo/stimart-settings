@@ -292,12 +292,12 @@
   },
   {
     "scoreMnemonic": "nbItemsSkipped",
-    "game": "TALK_TO_ME",
+    "game": "WHO_AM_I",
     "scoreColumn": "score2"
   },
   {
     "scoreMnemonic": "nbClues",
-    "game": "TALK_TO_ME",
+    "game": "WHO_AM_I",
     "scoreColumn": "score3"
   }
 ]

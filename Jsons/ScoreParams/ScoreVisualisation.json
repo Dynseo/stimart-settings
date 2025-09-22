@@ -334,7 +334,7 @@
   },
   {
     "scoreVisualisationType": "gradeDetail",
-    "game": "TALK_TO_ME",
+    "game": "WHO_AM_I",
     "scoreVisualisation": [
       "nbClues",
       "time",
