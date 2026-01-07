@@ -664,7 +664,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu te débrouilles bien avec les animaux ! Tu commences à connaître leurs habitats, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les animaux trouvent de mieux en mieux leur maison grâce à toi. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Les animaux te font confiance, tu es sur la bonne voie. On retente ? | Les animaux de <GameTitle> sont de plus en plus contents grâce à toi ! Continue comme ça. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu te débrouilles bien avec les animaux ! Tu commences à connaître leurs habitats, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les animaux trouvent de mieux en mieux leur maison grâce à toi. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Les animaux te font confiance, tu es sur la bonne voie. On retente ? | Les animaux de <GameTitle> sont de plus en plus contents grâce à toi ! Continue comme ça. On continue ensemble ?"
     }
   },
   {
@@ -704,7 +704,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous suivez de mieux en mieux la balle ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La balle a du mal à vous échapper maintenant. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre concentration s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle attention ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | La balle de <GameTitle> vous obéit de mieux en mieux ! Votre regard est de plus en plus vif. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous suivez de mieux en mieux la balle ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La balle a du mal à vous échapper maintenant. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre concentration s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle attention ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | La balle de <GameTitle> vous obéit de mieux en mieux ! Votre regard est de plus en plus vif. On continue ensemble ?"
     }
   },
   {
@@ -744,7 +744,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu suis de mieux en mieux la balle ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La balle a du mal à t'échapper maintenant. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta concentration s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle attention ! Garde cette concentration, tu es sur la bonne voie. On retente ? | La balle de <GameTitle> t'obéit de mieux en mieux ! Ton regard est de plus en plus vif. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu suis de mieux en mieux la balle ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La balle a du mal à t'échapper maintenant. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta concentration s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle attention ! Garde cette concentration, tu es sur la bonne voie. On retente ? | La balle de <GameTitle> t'obéit de mieux en mieux ! Ton regard est de plus en plus vif. On continue ensemble ?"
     }
   },
   {
@@ -786,7 +786,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous calculez de mieux en mieux ! Votre esprit logique se réveille, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres commencent à vous obéir. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre calcul mental s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les opérations de <GameTitle> vous résistent de moins en moins ! La gymnastique mentale vous réussit. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous calculez de mieux en mieux ! Votre esprit logique se réveille, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres commencent à vous obéir. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre calcul mental s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les opérations de <GameTitle> vous résistent de moins en moins ! La gymnastique mentale vous réussit. On continue ensemble ?"
     }
   },
   {
@@ -828,7 +828,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu calcules de mieux en mieux ! Ton esprit logique se réveille, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres commencent à t'obéir. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton calcul mental s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les opérations de <GameTitle> te résistent de moins en moins ! La gymnastique mentale te réussit. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu calcules de mieux en mieux ! Ton esprit logique se réveille, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres commencent à t'obéir. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton calcul mental s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les opérations de <GameTitle> te résistent de moins en moins ! La gymnastique mentale te réussit. On continue ensemble ?"
     }
   },
   {
@@ -870,7 +870,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous organisez de mieux en mieux le parking ! Votre logique spatiale s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les voitures commencent à vous obéir. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'organisation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de réflexion ! Gardez cette stratégie, vous êtes sur la bonne voie. On retente ? | Le parking de <GameTitle> vous résiste de moins en moins ! Votre logique spatiale se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous organisez de mieux en mieux le parking ! Votre logique spatiale s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les voitures commencent à vous obéir. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'organisation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de réflexion ! Gardez cette stratégie, vous êtes sur la bonne voie. On retente ? | Le parking de <GameTitle> vous résiste de moins en moins ! Votre logique spatiale se développe. On continue ensemble ?"
     }
   },
   {
@@ -912,7 +912,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu organises de mieux en mieux le parking ! Ta logique s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les voitures commencent à t'obéir. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'organisation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de réflexion ! Garde cette stratégie, tu es sur la bonne voie. On retente ? | Le parking de <GameTitle> te résiste de moins en moins ! Ta logique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu organises de mieux en mieux le parking ! Ta logique s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les voitures commencent à t'obéir. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'organisation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de réflexion ! Garde cette stratégie, tu es sur la bonne voie. On retente ? | Le parking de <GameTitle> te résiste de moins en moins ! Ta logique se développe. On continue ensemble ?"
     }
   },
   {
@@ -954,7 +954,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les différences ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les détails commencent à vous sauter aux yeux. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil ! Gardez cette attention, vous êtes sur la bonne voie. On retente ? | Les différences de <GameTitle> vous échappent de moins en moins ! Votre regard s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les différences ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les détails commencent à vous sauter aux yeux. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil ! Gardez cette attention, vous êtes sur la bonne voie. On retente ? | Les différences de <GameTitle> vous échappent de moins en moins ! Votre regard s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -996,7 +996,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les différences ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les détails commencent à te sauter aux yeux. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un bel œil ! Garde cette attention, tu es sur la bonne voie. On retente ? | Les différences de <GameTitle> t'échappent de moins en moins ! Ton regard s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les différences ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les détails commencent à te sauter aux yeux. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un bel œil ! Garde cette attention, tu es sur la bonne voie. On retente ? | Les différences de <GameTitle> t'échappent de moins en moins ! Ton regard s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -1038,7 +1038,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous mémorisez de mieux en mieux les positions ! Votre mémoire visuelle s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cases restent de mieux en mieux dans votre tête. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle mémoire ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les cases de <GameTitle> vous résistent de moins en moins ! Votre mémoire se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous mémorisez de mieux en mieux les positions ! Votre mémoire visuelle s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cases restent de mieux en mieux dans votre tête. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle mémoire ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les cases de <GameTitle> vous résistent de moins en moins ! Votre mémoire se développe. On continue ensemble ?"
     }
   },
   {
@@ -1080,7 +1080,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu mémorises de mieux en mieux les positions ! Ta mémoire visuelle s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cases restent de mieux en mieux dans ta tête. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle mémoire ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les cases de <GameTitle> te résistent de moins en moins ! Ta mémoire se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu mémorises de mieux en mieux les positions ! Ta mémoire visuelle s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cases restent de mieux en mieux dans ta tête. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle mémoire ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les cases de <GameTitle> te résistent de moins en moins ! Ta mémoire se développe. On continue ensemble ?"
     }
   },
   {
@@ -1122,7 +1122,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous reconnaissez de mieux en mieux les formes ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à vous obéir. Prenez le temps de repérer les différences, vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités d'analyse ! Gardez cette attention aux détails, vous êtes sur la bonne voie. On retente ? | Les formes de <GameTitle> vous sont de plus en plus familières ! Continuez à bien mémoriser le modèle, votre regard s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous reconnaissez de mieux en mieux les formes ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à vous obéir. Prenez le temps de repérer les différences, vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités d'analyse ! Gardez cette attention aux détails, vous êtes sur la bonne voie. On retente ? | Les formes de <GameTitle> vous sont de plus en plus familières ! Continuez à bien mémoriser le modèle, votre regard s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -1164,7 +1164,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu reconnais de mieux en mieux les formes ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à t'obéir. Prends le temps de repérer les différences, tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités d'analyse ! Garde cette attention aux détails, tu es sur la bonne voie. On retente ? | Les formes de <GameTitle> te sont de plus en plus familières ! Continue à bien mémoriser le modèle. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu reconnais de mieux en mieux les formes ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à t'obéir. Prends le temps de repérer les différences, tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités d'analyse ! Garde cette attention aux détails, tu es sur la bonne voie. On retente ? | Les formes de <GameTitle> te sont de plus en plus familières ! Continue à bien mémoriser le modèle. On continue ensemble ?"
     }
   },
   {
@@ -1206,7 +1206,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous reproduisez de mieux en mieux les séquences de couleurs ! Votre mémoire visuelle s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les couleurs restent de mieux en mieux dans votre tête. Prenez votre temps, vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de mémoire ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | L'arc-en-ciel de <GameTitle> vous obéit de mieux en mieux ! Continuez cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous reproduisez de mieux en mieux les séquences de couleurs ! Votre mémoire visuelle s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les couleurs restent de mieux en mieux dans votre tête. Prenez votre temps, vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de mémoire ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | L'arc-en-ciel de <GameTitle> vous obéit de mieux en mieux ! Continuez cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1248,7 +1248,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu reproduis de mieux en mieux les séquences de couleurs ! Ta mémoire s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les couleurs restent de mieux en mieux dans ta tête. Prends ton temps, tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de mémoire ! Garde cette méthode, tu es sur la bonne voie. On retente ? | L'arc-en-ciel de <GameTitle> t'obéit de mieux en mieux ! Continue cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu reproduis de mieux en mieux les séquences de couleurs ! Ta mémoire s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les couleurs restent de mieux en mieux dans ta tête. Prends ton temps, tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta technique de mémorisation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de mémoire ! Garde cette méthode, tu es sur la bonne voie. On retente ? | L'arc-en-ciel de <GameTitle> t'obéit de mieux en mieux ! Continue cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1290,7 +1290,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous retenez de mieux en mieux les ingrédients ! Votre mémoire gourmande s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les recettes commencent à n'avoir plus de secrets pour vous. Ça me donne faim de vous voir progresser ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre œil de chef s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de mémorisation ! Gardez cette attention, vous êtes sur la bonne voie. On retente ? | Les ingrédients de <GameTitle> vous obéissent de mieux en mieux ! J'ai l'impression que vous pourriez bientôt ouvrir votre propre restaurant ! On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous retenez de mieux en mieux les ingrédients ! Votre mémoire gourmande s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les recettes commencent à n'avoir plus de secrets pour vous. Ça me donne faim de vous voir progresser ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre œil de chef s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de mémorisation ! Gardez cette attention, vous êtes sur la bonne voie. On retente ? | Les ingrédients de <GameTitle> vous obéissent de mieux en mieux ! J'ai l'impression que vous pourriez bientôt ouvrir votre propre restaurant ! On continue ensemble ?"
     }
   },
   {
@@ -1332,7 +1332,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu retiens de mieux en mieux les ingrédients ! Ta mémoire gourmande s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les recettes commencent à n'avoir plus de secrets pour toi. Ça me donne faim de te voir progresser ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton œil de petit chef s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Garde cette attention, tu es sur la bonne voie. On retente ? | Les ingrédients de <GameTitle> t'obéissent de mieux en mieux ! Tu pourrais bientôt devenir un vrai petit chef ! On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu retiens de mieux en mieux les ingrédients ! Ta mémoire gourmande s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les recettes commencent à n'avoir plus de secrets pour toi. Ça me donne faim de te voir progresser ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton œil de petit chef s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Garde cette attention, tu es sur la bonne voie. On retente ? | Les ingrédients de <GameTitle> t'obéissent de mieux en mieux ! Tu pourrais bientôt devenir un vrai petit chef ! On continue ensemble ?"
     }
   },
   {
@@ -1374,7 +1374,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous mémorisez de mieux en mieux l'ordre des images ! Votre technique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images commencent à défiler dans le bon ordre dans votre tête. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre mémoire séquentielle s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de mémorisation ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le ballet d'images de <GameTitle> vous obéit de mieux en mieux ! Continuez cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous mémorisez de mieux en mieux l'ordre des images ! Votre technique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images commencent à défiler dans le bon ordre dans votre tête. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre mémoire séquentielle s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de mémorisation ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le ballet d'images de <GameTitle> vous obéit de mieux en mieux ! Continuez cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1416,7 +1416,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu mémorises de mieux en mieux l'ordre des images ! Ta technique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images commencent à défiler dans le bon ordre dans ta tête. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta mémoire s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de mémorisation ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le ballet d'images de <GameTitle> t'obéit de mieux en mieux ! Continue cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu mémorises de mieux en mieux l'ordre des images ! Ta technique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images commencent à défiler dans le bon ordre dans ta tête. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta mémoire s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de mémorisation ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le ballet d'images de <GameTitle> t'obéit de mieux en mieux ! Continue cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1458,7 +1458,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous localisez de mieux en mieux les pays ! Votre sens de l'orientation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La carte commence à n'avoir plus de secrets pour vous. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre culture géographique s'enrichit, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de repérage ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les pays de <GameTitle> vous sont de plus en plus familiers ! Ça donne envie de voyager, non ? On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous localisez de mieux en mieux les pays ! Votre sens de l'orientation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La carte commence à n'avoir plus de secrets pour vous. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre culture géographique s'enrichit, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de repérage ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les pays de <GameTitle> vous sont de plus en plus familiers ! Ça donne envie de voyager, non ? On continue ensemble ?"
     }
   },
   {
@@ -1500,7 +1500,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu localises de mieux en mieux les pays ! Ton sens de l'orientation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La carte commence à n'avoir plus de secrets pour toi. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta culture géographique s'enrichit, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de repérage ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les pays de <GameTitle> te sont de plus en plus familiers ! Ça donne envie de voyager, non ? On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu localises de mieux en mieux les pays ! Ton sens de l'orientation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La carte commence à n'avoir plus de secrets pour toi. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta culture géographique s'enrichit, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de repérage ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les pays de <GameTitle> te sont de plus en plus familiers ! Ça donne envie de voyager, non ? On continue ensemble ?"
     }
   },
   {
@@ -1542,7 +1542,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous devinez de mieux en mieux les mots ! Votre vocabulaire s'enrichit, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se révéler facilement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre intuition des lettres s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de déduction ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les mots cachés de <GameTitle> vous résistent de moins en moins ! Continuez cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous devinez de mieux en mieux les mots ! Votre vocabulaire s'enrichit, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se révéler facilement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre intuition des lettres s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de déduction ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les mots cachés de <GameTitle> vous résistent de moins en moins ! Continuez cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1584,7 +1584,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu devines de mieux en mieux les mots ! Ton vocabulaire s'enrichit, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se révéler facilement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton intuition des lettres s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de déduction ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les mots cachés de <GameTitle> te résistent de moins en moins ! Continue cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu devines de mieux en mieux les mots ! Ton vocabulaire s'enrichit, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se révéler facilement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton intuition des lettres s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de déduction ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les mots cachés de <GameTitle> te résistent de moins en moins ! Continue cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1626,7 +1626,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les intrus ! Votre logique s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se regrouper naturellement dans votre tête. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens des catégories s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de raisonnement ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les intrus de <GameTitle> ne vous échappent plus facilement ! Continuez cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les intrus ! Votre logique s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se regrouper naturellement dans votre tête. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens des catégories s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités de raisonnement ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les intrus de <GameTitle> ne vous échappent plus facilement ! Continuez cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1668,7 +1668,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les intrus ! Ta logique s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se regrouper naturellement dans ta tête. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens des catégories s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de raisonnement ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les intrus de <GameTitle> ne t'échappent plus facilement ! Continue cet entraînement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les intrus ! Ta logique s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots commencent à se regrouper naturellement dans ta tête. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens des catégories s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités de raisonnement ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les intrus de <GameTitle> ne t'échappent plus facilement ! Continue cet entraînement. On continue ensemble ?"
     }
   },
   {
@@ -1710,7 +1710,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous retrouvez de mieux en mieux les mots manquants ! Votre sensibilité poétique s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les vers commencent à chanter grâce à vous. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre oreille musicale s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle intuition littéraire ! Gardez cette écoute, vous êtes sur la bonne voie. On retente ? | Les poèmes de <GameTitle> vous parlent de mieux en mieux ! Votre sensibilité aux mots se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous retrouvez de mieux en mieux les mots manquants ! Votre sensibilité poétique s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les vers commencent à chanter grâce à vous. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre oreille musicale s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle intuition littéraire ! Gardez cette écoute, vous êtes sur la bonne voie. On retente ? | Les poèmes de <GameTitle> vous parlent de mieux en mieux ! Votre sensibilité aux mots se développe. On continue ensemble ?"
     }
   },
   {
@@ -1752,7 +1752,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu retrouves de mieux en mieux les mots manquants ! Ta sensibilité poétique s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les vers commencent à chanter grâce à toi. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton oreille musicale s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle intuition ! Garde cette écoute, tu es sur la bonne voie. On retente ? | Les poèmes de <GameTitle> te parlent de mieux en mieux ! Ta sensibilité aux mots se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu retrouves de mieux en mieux les mots manquants ! Ta sensibilité poétique s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les vers commencent à chanter grâce à toi. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton oreille musicale s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle intuition ! Garde cette écoute, tu es sur la bonne voie. On retente ? | Les poèmes de <GameTitle> te parlent de mieux en mieux ! Ta sensibilité aux mots se développe. On continue ensemble ?"
     }
   },
   {
@@ -1794,7 +1794,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous retrouvez de mieux en mieux les paires ! Votre mémoire visuelle s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cartes commencent à rester bien en place dans votre tête. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Vos associations mentales s'affinent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle mémoire ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les paires de <GameTitle> vous résistent de moins en moins ! Votre mémoire se réveille vraiment. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous retrouvez de mieux en mieux les paires ! Votre mémoire visuelle s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cartes commencent à rester bien en place dans votre tête. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Vos associations mentales s'affinent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle mémoire ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les paires de <GameTitle> vous résistent de moins en moins ! Votre mémoire se réveille vraiment. On continue ensemble ?"
     }
   },
   {
@@ -1836,7 +1836,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu retrouves de mieux en mieux les paires ! Ta mémoire visuelle s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cartes commencent à rester bien en place dans ta tête. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Tes associations mentales s'affinent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle mémoire ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les paires de <GameTitle> te résistent de moins en moins ! Ta mémoire se réveille vraiment. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu retrouves de mieux en mieux les paires ! Ta mémoire visuelle s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les cartes commencent à rester bien en place dans ta tête. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Tes associations mentales s'affinent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle mémoire ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les paires de <GameTitle> te résistent de moins en moins ! Ta mémoire se réveille vraiment. On continue ensemble ?"
     }
   },
   {
@@ -1878,7 +1878,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous sauvez de mieux en mieux les animaux ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'arche se remplit de mieux en mieux grâce à vous. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités ! Les animaux vous font confiance, vous êtes sur la bonne voie. On retente ? | Les animaux de <GameTitle> trouvent de mieux en mieux leur chemin grâce à vous ! Votre méthode fonctionne. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous sauvez de mieux en mieux les animaux ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'arche se remplit de mieux en mieux grâce à vous. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités ! Les animaux vous font confiance, vous êtes sur la bonne voie. On retente ? | Les animaux de <GameTitle> trouvent de mieux en mieux leur chemin grâce à vous ! Votre méthode fonctionne. On continue ensemble ?"
     }
   },
   {
@@ -1920,7 +1920,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu sauves de mieux en mieux les animaux ! Ton sens de l'observation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'arche se remplit de mieux en mieux grâce à toi. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Les animaux te font confiance, tu es sur la bonne voie. On retente ? | Les animaux de <GameTitle> trouvent de mieux en mieux leur chemin grâce à toi ! Ta méthode fonctionne. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu sauves de mieux en mieux les animaux ! Ton sens de l'observation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'arche se remplit de mieux en mieux grâce à toi. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Les animaux te font confiance, tu es sur la bonne voie. On retente ? | Les animaux de <GameTitle> trouvent de mieux en mieux leur chemin grâce à toi ! Ta méthode fonctionne. On continue ensemble ?"
     }
   },
   {
@@ -1962,7 +1962,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous tracez de mieux en mieux vos enclos ! Votre stratégie s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les moutons ont de plus en plus de mal à vous échapper. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'anticipation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle stratégie ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le champ de <GameTitle> rétrécit de mieux en mieux grâce à vous ! Votre technique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous tracez de mieux en mieux vos enclos ! Votre stratégie s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les moutons ont de plus en plus de mal à vous échapper. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'anticipation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle stratégie ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le champ de <GameTitle> rétrécit de mieux en mieux grâce à vous ! Votre technique se développe. On continue ensemble ?"
     }
   },
   {
@@ -2004,7 +2004,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu traces de mieux en mieux tes enclos ! Ta stratégie s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les moutons ont de plus en plus de mal à t'échapper. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'anticipation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stratégie ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le champ de <GameTitle> rétrécit de mieux en mieux grâce à toi ! Ta technique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu traces de mieux en mieux tes enclos ! Ta stratégie s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les moutons ont de plus en plus de mal à t'échapper. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'anticipation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stratégie ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le champ de <GameTitle> rétrécit de mieux en mieux grâce à toi ! Ta technique se développe. On continue ensemble ?"
     }
   },
   {
@@ -2044,7 +2044,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous renvoyez de mieux en mieux la balle ! Vos réflexes s'améliorent, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La balle a de plus en plus de mal à vous échapper. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre coordination œil-main s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | La balle de <GameTitle> vous obéit de mieux en mieux ! Vos mouvements sont de plus en plus précis. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous renvoyez de mieux en mieux la balle ! Vos réflexes s'améliorent, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! La balle a de plus en plus de mal à vous échapper. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre coordination œil-main s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | La balle de <GameTitle> vous obéit de mieux en mieux ! Vos mouvements sont de plus en plus précis. On continue ensemble ?"
     }
   },
   {
@@ -2086,7 +2086,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous visez de mieux en mieux les bons ballons ! Votre précision s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les ballons éclatent de plus en plus au bon moment. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle précision ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les ballons de <GameTitle> vous obéissent de mieux en mieux ! Votre œil s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous visez de mieux en mieux les bons ballons ! Votre précision s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les ballons éclatent de plus en plus au bon moment. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle précision ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les ballons de <GameTitle> vous obéissent de mieux en mieux ! Votre œil s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2128,7 +2128,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu vises de mieux en mieux les bons ballons ! Ta précision s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les ballons éclatent de plus en plus au bon moment. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle précision ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les ballons de <GameTitle> t'obéissent de mieux en mieux ! Ton œil s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu vises de mieux en mieux les bons ballons ! Ta précision s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les ballons éclatent de plus en plus au bon moment. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle précision ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les ballons de <GameTitle> t'obéissent de mieux en mieux ! Ton œil s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2170,7 +2170,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous retrouvez de mieux en mieux l'ordre des mots ! Votre sens du rythme s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proverbes commencent à reprendre forme grâce à vous. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre intuition des mots s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les proverbes de <GameTitle> vous résistent de moins en moins ! Votre sens de la langue se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous retrouvez de mieux en mieux l'ordre des mots ! Votre sens du rythme s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proverbes commencent à reprendre forme grâce à vous. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre intuition des mots s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les proverbes de <GameTitle> vous résistent de moins en moins ! Votre sens de la langue se développe. On continue ensemble ?"
     }
   },
   {
@@ -2212,7 +2212,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu retrouves de mieux en mieux l'ordre des mots ! Ton sens du rythme s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proverbes commencent à reprendre forme grâce à toi. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton intuition des mots s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les proverbes de <GameTitle> te résistent de moins en moins ! Ton sens de la langue se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu retrouves de mieux en mieux l'ordre des mots ! Ton sens du rythme s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proverbes commencent à reprendre forme grâce à toi. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton intuition des mots s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les proverbes de <GameTitle> te résistent de moins en moins ! Ton sens de la langue se développe. On continue ensemble ?"
     }
   },
   {
@@ -2254,7 +2254,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous assemblez de mieux en mieux les pièces ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'image prend forme de mieux en mieux grâce à vous. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre technique d'assemblage s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les pièces de <GameTitle> trouvent de mieux en mieux leur place grâce à vous ! Votre œil s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous assemblez de mieux en mieux les pièces ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'image prend forme de mieux en mieux grâce à vous. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre technique d'assemblage s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de belles capacités ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les pièces de <GameTitle> trouvent de mieux en mieux leur place grâce à vous ! Votre œil s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2296,7 +2296,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu assembles de mieux en mieux les pièces ! Ton sens de l'observation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'image prend forme de mieux en mieux grâce à toi. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta technique d'assemblage s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les pièces de <GameTitle> trouvent de mieux en mieux leur place grâce à toi ! Ton œil s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu assembles de mieux en mieux les pièces ! Ton sens de l'observation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'image prend forme de mieux en mieux grâce à toi. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta technique d'assemblage s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de belles capacités ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les pièces de <GameTitle> trouvent de mieux en mieux leur place grâce à toi ! Ton œil s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2338,7 +2338,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous reconnaissez de mieux en mieux les sons ! Votre oreille s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les sons commencent à vous parler clairement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre mémoire auditive s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle oreille ! Gardez cette attention, vous êtes sur la bonne voie. On retente ? | Les sons de <GameTitle> vous sont de plus en plus familiers ! Votre écoute s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous reconnaissez de mieux en mieux les sons ! Votre oreille s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les sons commencent à vous parler clairement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre mémoire auditive s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle oreille ! Gardez cette attention, vous êtes sur la bonne voie. On retente ? | Les sons de <GameTitle> vous sont de plus en plus familiers ! Votre écoute s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2380,7 +2380,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu reconnais de mieux en mieux les sons ! Ton oreille s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les sons commencent à te parler clairement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta mémoire auditive s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle oreille ! Garde cette attention, tu es sur la bonne voie. On retente ? | Les sons de <GameTitle> te sont de plus en plus familiers ! Ton écoute s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu reconnais de mieux en mieux les sons ! Ton oreille s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les sons commencent à te parler clairement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta mémoire auditive s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle oreille ! Garde cette attention, tu es sur la bonne voie. On retente ? | Les sons de <GameTitle> te sont de plus en plus familiers ! Ton écoute s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2422,7 +2422,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous répondez de mieux en mieux aux questions ! Votre culture générale s'enrichit, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes réponses arrivent de plus en plus facilement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre mémoire et votre intuition s'améliorent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle culture ! Gardez cette curiosité, vous êtes sur la bonne voie. On retente ? | Les questions de <GameTitle> vous résistent de moins en moins ! Votre savoir s'élargit. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous répondez de mieux en mieux aux questions ! Votre culture générale s'enrichit, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes réponses arrivent de plus en plus facilement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre mémoire et votre intuition s'améliorent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle culture ! Gardez cette curiosité, vous êtes sur la bonne voie. On retente ? | Les questions de <GameTitle> vous résistent de moins en moins ! Votre savoir s'élargit. On continue ensemble ?"
     }
   },
   {
@@ -2464,7 +2464,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu réponds de mieux en mieux aux questions ! Ta culture générale s'enrichit, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes réponses arrivent de plus en plus facilement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta mémoire et ton intuition s'améliorent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle culture ! Garde cette curiosité, tu es sur la bonne voie. On retente ? | Les questions de <GameTitle> te résistent de moins en moins ! Ton savoir s'élargit. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu réponds de mieux en mieux aux questions ! Ta culture générale s'enrichit, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes réponses arrivent de plus en plus facilement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta mémoire et ton intuition s'améliorent, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle culture ! Garde cette curiosité, tu es sur la bonne voie. On retente ? | Les questions de <GameTitle> te résistent de moins en moins ! Ton savoir s'élargit. On continue ensemble ?"
     }
   },
   {
@@ -2504,7 +2504,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous suivez de mieux en mieux les chiffres ! Votre méthode s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Le parcours se dessine de plus en plus facilement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les chiffres de <GameTitle> s'enchaînent de mieux en mieux grâce à vous ! Votre concentration se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous suivez de mieux en mieux les chiffres ! Votre méthode s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Le parcours se dessine de plus en plus facilement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les chiffres de <GameTitle> s'enchaînent de mieux en mieux grâce à vous ! Votre concentration se développe. On continue ensemble ?"
     }
   },
   {
@@ -2544,7 +2544,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu suis de mieux en mieux les chiffres ! Ta méthode s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Le parcours se dessine de plus en plus facilement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les chiffres de <GameTitle> s'enchaînent de mieux en mieux grâce à toi ! Ta concentration se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu suis de mieux en mieux les chiffres ! Ta méthode s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Le parcours se dessine de plus en plus facilement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'observation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les chiffres de <GameTitle> s'enchaînent de mieux en mieux grâce à toi ! Ta concentration se développe. On continue ensemble ?"
     }
   },
   {
@@ -2586,7 +2586,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les bonnes couleurs ! Votre concentration s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bons ballons vous sautent de plus en plus aux yeux. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre attention sélective s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle concentration ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les ballons de <GameTitle> ne vous échappent plus facilement ! Votre œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les bonnes couleurs ! Votre concentration s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bons ballons vous sautent de plus en plus aux yeux. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre attention sélective s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle concentration ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les ballons de <GameTitle> ne vous échappent plus facilement ! Votre œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -2628,7 +2628,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les bonnes couleurs ! Ta concentration s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bons ballons te sautent de plus en plus aux yeux. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton attention sélective s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle concentration ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les ballons de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les bonnes couleurs ! Ta concentration s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bons ballons te sautent de plus en plus aux yeux. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton attention sélective s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle concentration ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les ballons de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -2670,7 +2670,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les séquences ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les suites commencent à vous parler clairement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle capacité d'analyse ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les séquences de <GameTitle> vous résistent de moins en moins ! Votre œil logique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les séquences ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les suites commencent à vous parler clairement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle capacité d'analyse ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les séquences de <GameTitle> vous résistent de moins en moins ! Votre œil logique se développe. On continue ensemble ?"
     }
   },
   {
@@ -2712,7 +2712,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les bonnes formes ! Ta vigilance s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à te sauter aux yeux. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton attention s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les formes de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les bonnes formes ! Ta vigilance s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à te sauter aux yeux. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton attention s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les formes de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -2754,7 +2754,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les bonnes formes ! Votre vigilance s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à vous sauter aux yeux. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre attention s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les formes de <GameTitle> ne vous échappent plus facilement ! Votre œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les bonnes formes ! Votre vigilance s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à vous sauter aux yeux. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre attention s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les formes de <GameTitle> ne vous échappent plus facilement ! Votre œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -2796,7 +2796,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les bonnes formes ! Ta vigilance s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à te sauter aux yeux. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton attention s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les formes de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les bonnes formes ! Ta vigilance s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes commencent à te sauter aux yeux. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton attention s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les formes de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -2838,7 +2838,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les images en double ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images identiques vous sautent de plus en plus aux yeux. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les doubles de <GameTitle> ne vous échappent plus facilement ! Votre regard s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous repérez de mieux en mieux les images en double ! Votre œil s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images identiques vous sautent de plus en plus aux yeux. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les doubles de <GameTitle> ne vous échappent plus facilement ! Votre regard s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2880,7 +2880,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les images en double ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images identiques te sautent de plus en plus aux yeux. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un bel œil ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les doubles de <GameTitle> ne t'échappent plus facilement ! Ton regard s'affûte. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu repères de mieux en mieux les images en double ! Ton œil s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les images identiques te sautent de plus en plus aux yeux. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'observation s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un bel œil ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les doubles de <GameTitle> ne t'échappent plus facilement ! Ton regard s'affûte. On continue ensemble ?"
     }
   },
   {
@@ -2920,7 +2920,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous trouvez de mieux en mieux le chemin vers le trésor ! Votre sens de l'orientation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les sirènes ont de plus en plus de mal à vous piéger. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre stratégie de pirate s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil de navigateur ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le chemin vers le trésor de <GameTitle> vous est de plus en plus familier ! Votre sens du pirate se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous trouvez de mieux en mieux le chemin vers le trésor ! Votre sens de l'orientation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les sirènes ont de plus en plus de mal à vous piéger. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre stratégie de pirate s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil de navigateur ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le chemin vers le trésor de <GameTitle> vous est de plus en plus familier ! Votre sens du pirate se développe. On continue ensemble ?"
     }
   },
   {
@@ -2960,7 +2960,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous trouvez de mieux en mieux le chemin vers le chalet ! Votre sens de l'orientation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les rennes ont de plus en plus de mal à vous barrer la route. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre stratégie s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le chemin vers le chalet de <GameTitle> vous est de plus en plus familier ! Votre prudence paie. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous trouvez de mieux en mieux le chemin vers le chalet ! Votre sens de l'orientation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les rennes ont de plus en plus de mal à vous barrer la route. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre stratégie s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un bel œil ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le chemin vers le chalet de <GameTitle> vous est de plus en plus familier ! Votre prudence paie. On continue ensemble ?"
     }
   },
   {
@@ -3000,7 +3000,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu traces de mieux en mieux le chemin vers le ballon ! Ta stratégie s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les crabes ont de plus en plus de mal à t'attraper. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens du parcours s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le chemin vers le ballon de <GameTitle> t'est de plus en plus familier ! Ta stratégie fonctionne. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu traces de mieux en mieux le chemin vers le ballon ! Ta stratégie s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les crabes ont de plus en plus de mal à t'attraper. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens du parcours s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le chemin vers le ballon de <GameTitle> t'est de plus en plus familier ! Ta stratégie fonctionne. On continue ensemble ?"
     }
   },
   {
@@ -3042,7 +3042,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous remplissez de mieux en mieux la grille ! Votre logique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres trouvent de plus en plus facilement leur place. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre méthode s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les grilles de <GameTitle> vous résistent de moins en moins ! Votre sens de la déduction se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous remplissez de mieux en mieux la grille ! Votre logique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres trouvent de plus en plus facilement leur place. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre méthode s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les grilles de <GameTitle> vous résistent de moins en moins ! Votre sens de la déduction se développe. On continue ensemble ?"
     }
   },
   {
@@ -3084,7 +3084,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu remplis de mieux en mieux la grille ! Ta logique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres trouvent de plus en plus facilement leur place. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta méthode s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les grilles de <GameTitle> te résistent de moins en moins ! Ton sens de la déduction se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu remplis de mieux en mieux la grille ! Ta logique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les chiffres trouvent de plus en plus facilement leur place. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta méthode s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les grilles de <GameTitle> te résistent de moins en moins ! Ton sens de la déduction se développe. On continue ensemble ?"
     }
   },
   {
@@ -3126,7 +3126,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous assemblez de mieux en mieux les syllabes ! Votre oreille s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots se forment de plus en plus facilement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens des sons s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle intuition ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les syllabes de <GameTitle> s'assemblent de mieux en mieux grâce à vous ! Votre oreille se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous assemblez de mieux en mieux les syllabes ! Votre oreille s'affine, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots se forment de plus en plus facilement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens des sons s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle intuition ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les syllabes de <GameTitle> s'assemblent de mieux en mieux grâce à vous ! Votre oreille se développe. On continue ensemble ?"
     }
   },
   {
@@ -3168,7 +3168,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu assembles de mieux en mieux les syllabes ! Ton oreille s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots se forment de plus en plus facilement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens des sons s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle intuition ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les syllabes de <GameTitle> s'assemblent de mieux en mieux grâce à toi ! Ton oreille se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu assembles de mieux en mieux les syllabes ! Ton oreille s'affine, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots se forment de plus en plus facilement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens des sons s'améliore, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle intuition ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les syllabes de <GameTitle> s'assemblent de mieux en mieux grâce à toi ! Ton oreille se développe. On continue ensemble ?"
     }
   },
   {
@@ -3210,7 +3210,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous replacez de mieux en mieux les événements ! Votre sens chronologique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les dates commencent à s'ordonner naturellement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre mémoire historique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique temporelle ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les événements de <GameTitle> trouvent de mieux en mieux leur place grâce à vous ! Votre sens de l'histoire se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous replacez de mieux en mieux les événements ! Votre sens chronologique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les dates commencent à s'ordonner naturellement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre mémoire historique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique temporelle ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les événements de <GameTitle> trouvent de mieux en mieux leur place grâce à vous ! Votre sens de l'histoire se développe. On continue ensemble ?"
     }
   },
   {
@@ -3252,7 +3252,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu replaces de mieux en mieux les événements ! Ton sens chronologique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les dates commencent à s'ordonner naturellement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta mémoire historique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique temporelle ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les événements de <GameTitle> trouvent de mieux en mieux leur place grâce à toi ! Ton sens de l'histoire se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu replaces de mieux en mieux les événements ! Ton sens chronologique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les dates commencent à s'ordonner naturellement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta mémoire historique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique temporelle ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les événements de <GameTitle> trouvent de mieux en mieux leur place grâce à toi ! Ton sens de l'histoire se développe. On continue ensemble ?"
     }
   },
   {
@@ -3294,7 +3294,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous construisez de mieux en mieux les parcours ! Votre logique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les pièces trouvent de plus en plus facilement leur place. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens du parcours s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les itinéraires de <GameTitle> vous résistent de moins en moins ! Votre sens de la construction se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous construisez de mieux en mieux les parcours ! Votre logique s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les pièces trouvent de plus en plus facilement leur place. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens du parcours s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle logique ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les itinéraires de <GameTitle> vous résistent de moins en moins ! Votre sens de la construction se développe. On continue ensemble ?"
     }
   },
   {
@@ -3336,7 +3336,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu construis de mieux en mieux les parcours ! Ta logique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les pièces trouvent de plus en plus facilement leur place. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens du parcours s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les itinéraires de <GameTitle> te résistent de moins en moins ! Ton sens de la construction se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu construis de mieux en mieux les parcours ! Ta logique s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les pièces trouvent de plus en plus facilement leur place. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens du parcours s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle logique ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les itinéraires de <GameTitle> te résistent de moins en moins ! Ton sens de la construction se développe. On continue ensemble ?"
     }
   },
   {
@@ -3378,7 +3378,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous attrapez de mieux en mieux les taupes ! Vos réflexes s'améliorent, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les taupes ont de plus en plus de mal à vous échapper. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre rapidité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les taupes de <GameTitle> ne vous échappent plus facilement ! Votre œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous attrapez de mieux en mieux les taupes ! Vos réflexes s'améliorent, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les taupes ont de plus en plus de mal à vous échapper. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre rapidité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette concentration, vous êtes sur la bonne voie. On retente ? | Les taupes de <GameTitle> ne vous échappent plus facilement ! Votre œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -3420,7 +3420,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu attrapes de mieux en mieux les taupes ! Tes réflexes s'améliorent, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les taupes ont de plus en plus de mal à t'échapper. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta rapidité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les taupes de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu attrapes de mieux en mieux les taupes ! Tes réflexes s'améliorent, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les taupes ont de plus en plus de mal à t'échapper. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta rapidité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Les taupes de <GameTitle> ne t'échappent plus facilement ! Ton œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -3462,7 +3462,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous déclenchez de mieux en mieux les réactions en chaîne ! Votre sens de l'anticipation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'effet domino fonctionne de mieux en mieux. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle stratégie ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les réactions en chaîne de <GameTitle> vous obéissent de mieux en mieux ! Votre œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous déclenchez de mieux en mieux les réactions en chaîne ! Votre sens de l'anticipation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'effet domino fonctionne de mieux en mieux. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle stratégie ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les réactions en chaîne de <GameTitle> vous obéissent de mieux en mieux ! Votre œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -3504,7 +3504,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu déclenches de mieux en mieux les réactions en chaîne ! Ton sens de l'anticipation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'effet domino fonctionne de mieux en mieux. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stratégie ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les réactions en chaîne de <GameTitle> t'obéissent de mieux en mieux ! Ton œil se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu déclenches de mieux en mieux les réactions en chaîne ! Ton sens de l'anticipation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! L'effet domino fonctionne de mieux en mieux. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stratégie ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les réactions en chaîne de <GameTitle> t'obéissent de mieux en mieux ! Ton œil se développe. On continue ensemble ?"
     }
   },
   {
@@ -3546,7 +3546,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous assemblez de mieux en mieux les pièces ! Votre sens de l'espace s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes trouvent de plus en plus facilement leur place. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre créativité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens de l'espace ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les pièces de <GameTitle> s'assemblent de mieux en mieux grâce à vous ! Votre œil géométrique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous assemblez de mieux en mieux les pièces ! Votre sens de l'espace s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes trouvent de plus en plus facilement leur place. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre créativité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens de l'espace ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les pièces de <GameTitle> s'assemblent de mieux en mieux grâce à vous ! Votre œil géométrique se développe. On continue ensemble ?"
     }
   },
   {
@@ -3588,7 +3588,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu assembles de mieux en mieux les pièces ! Ton sens de l'espace s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes trouvent de plus en plus facilement leur place. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta créativité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens de l'espace ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les pièces de <GameTitle> s'assemblent de mieux en mieux grâce à toi ! Ton œil géométrique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu assembles de mieux en mieux les pièces ! Ton sens de l'espace s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les formes trouvent de plus en plus facilement leur place. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta créativité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens de l'espace ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les pièces de <GameTitle> s'assemblent de mieux en mieux grâce à toi ! Ton œil géométrique se développe. On continue ensemble ?"
     }
   },
   {
@@ -3630,7 +3630,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous placez de mieux en mieux les formes ! Votre stratégie s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les lignes se complètent de plus en plus facilement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de l'anticipation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle stratégie ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les grilles de <GameTitle> vous obéissent de mieux en mieux ! Votre logique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous placez de mieux en mieux les formes ! Votre stratégie s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les lignes se complètent de plus en plus facilement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de l'anticipation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez une belle stratégie ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les grilles de <GameTitle> vous obéissent de mieux en mieux ! Votre logique se développe. On continue ensemble ?"
     }
   },
   {
@@ -3672,7 +3672,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu places de mieux en mieux les formes ! Ta stratégie s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les lignes se complètent de plus en plus facilement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de l'anticipation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stratégie ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les grilles de <GameTitle> t'obéissent de mieux en mieux ! Ta logique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu places de mieux en mieux les formes ! Ta stratégie s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les lignes se complètent de plus en plus facilement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de l'anticipation s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stratégie ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les grilles de <GameTitle> t'obéissent de mieux en mieux ! Ta logique se développe. On continue ensemble ?"
     }
   },
   {
@@ -3714,7 +3714,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous guidez de mieux en mieux la chenille ! Votre calcul mental s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes pommes sont de plus en plus faciles à trouver. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre rapidité de calcul s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens du calcul ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | La chenille de <GameTitle> trouve de mieux en mieux ses pommes grâce à vous ! Votre logique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous guidez de mieux en mieux la chenille ! Votre calcul mental s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes pommes sont de plus en plus faciles à trouver. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre rapidité de calcul s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens du calcul ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | La chenille de <GameTitle> trouve de mieux en mieux ses pommes grâce à vous ! Votre logique se développe. On continue ensemble ?"
     }
   },
   {
@@ -3756,7 +3756,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu guides de mieux en mieux la chenille ! Ton calcul mental s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes pommes sont de plus en plus faciles à trouver. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta rapidité de calcul s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens du calcul ! Garde cette méthode, tu es sur la bonne voie. On retente ? | La chenille de <GameTitle> trouve de mieux en mieux ses pommes grâce à toi ! Ta logique se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu guides de mieux en mieux la chenille ! Ton calcul mental s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les bonnes pommes sont de plus en plus faciles à trouver. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta rapidité de calcul s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens du calcul ! Garde cette méthode, tu es sur la bonne voie. On retente ? | La chenille de <GameTitle> trouve de mieux en mieux ses pommes grâce à toi ! Ta logique se développe. On continue ensemble ?"
     }
   },
   {
@@ -3798,7 +3798,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous trouvez de mieux en mieux les mots cachés ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots apparaissent de plus en plus facilement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre œil de lecteur s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens des mots ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les mots de <GameTitle> vous résistent de moins en moins ! Votre vocabulaire se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous trouvez de mieux en mieux les mots cachés ! Votre sens de l'observation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots apparaissent de plus en plus facilement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre œil de lecteur s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens des mots ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les mots de <GameTitle> vous résistent de moins en moins ! Votre vocabulaire se développe. On continue ensemble ?"
     }
   },
   {
@@ -3840,7 +3840,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu trouves de mieux en mieux les mots cachés ! Ton sens de l'observation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots apparaissent de plus en plus facilement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton œil de lecteur s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens des mots ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les mots de <GameTitle> te résistent de moins en moins ! Ton vocabulaire se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu trouves de mieux en mieux les mots cachés ! Ton sens de l'observation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les mots apparaissent de plus en plus facilement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton œil de lecteur s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens des mots ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les mots de <GameTitle> te résistent de moins en moins ! Ton vocabulaire se développe. On continue ensemble ?"
     }
   },
   {
@@ -3882,7 +3882,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous guidez de mieux en mieux votre serpent ! Votre anticipation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proies sont de plus en plus faciles à attraper. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre sens de la stratégie s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le serpent de <GameTitle> grandit de mieux en mieux grâce à vous ! Votre anticipation se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous guidez de mieux en mieux votre serpent ! Votre anticipation s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proies sont de plus en plus faciles à attraper. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre sens de la stratégie s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez de beaux réflexes ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Le serpent de <GameTitle> grandit de mieux en mieux grâce à vous ! Votre anticipation se développe. On continue ensemble ?"
     }
   },
   {
@@ -3924,7 +3924,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu guides de mieux en mieux ton serpent ! Ton anticipation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proies sont de plus en plus faciles à attraper. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens de la stratégie s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le serpent de <GameTitle> grandit de mieux en mieux grâce à toi ! Ton anticipation se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu guides de mieux en mieux ton serpent ! Ton anticipation s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les proies sont de plus en plus faciles à attraper. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens de la stratégie s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Le serpent de <GameTitle> grandit de mieux en mieux grâce à toi ! Ton anticipation se développe. On continue ensemble ?"
     }
   },
   {
@@ -3964,7 +3964,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu danses de mieux en mieux ! Ton sens du rythme s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes mouvements sont de plus en plus fluides. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens du rythme ! Garde cette énergie, tu es sur la bonne voie. On retente ? | La danse de <GameTitle> te réussit de mieux en mieux ! Ton corps s'exprime avec joie. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu danses de mieux en mieux ! Ton sens du rythme s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes mouvements sont de plus en plus fluides. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens du rythme ! Garde cette énergie, tu es sur la bonne voie. On retente ? | La danse de <GameTitle> te réussit de mieux en mieux ! Ton corps s'exprime avec joie. On continue ensemble ?"
     }
   },
   {
@@ -4004,7 +4004,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu maîtrises de mieux en mieux le jeu ! Tes réflexes s'améliorent, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tu t'arrêtes de plus en plus vite au bon moment. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton écoute s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Le jeu de <GameTitle> te réussit de mieux en mieux ! Ton corps t'obéit parfaitement. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu maîtrises de mieux en mieux le jeu ! Tes réflexes s'améliorent, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tu t'arrêtes de plus en plus vite au bon moment. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton écoute s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres de beaux réflexes ! Garde cette concentration, tu es sur la bonne voie. On retente ? | Le jeu de <GameTitle> te réussit de mieux en mieux ! Ton corps t'obéit parfaitement. On continue ensemble ?"
     }
   },
   {
@@ -4044,7 +4044,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu enchaînes de mieux en mieux les positions ! Ta souplesse s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes mouvements sont de plus en plus fluides. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle souplesse ! Garde cette énergie, tu es sur la bonne voie. On retente ? | Les positions de <GameTitle> te réussissent de mieux en mieux ! Ton corps est de plus en plus agile. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu enchaînes de mieux en mieux les positions ! Ta souplesse s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes mouvements sont de plus en plus fluides. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta coordination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle souplesse ! Garde cette énergie, tu es sur la bonne voie. On retente ? | Les positions de <GameTitle> te réussissent de mieux en mieux ! Ton corps est de plus en plus agile. On continue ensemble ?"
     }
   },
   {
@@ -4084,7 +4084,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu tiens de mieux en mieux l'équilibre ! Ta stabilité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes positions sont de plus en plus stables. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta concentration s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stabilité ! Garde cette concentration, tu es sur la bonne voie. On retente ? | L'équilibre de <GameTitle> te réussit de mieux en mieux ! Ton corps est de plus en plus maîtrisé. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu tiens de mieux en mieux l'équilibre ! Ta stabilité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes positions sont de plus en plus stables. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta concentration s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle stabilité ! Garde cette concentration, tu es sur la bonne voie. On retente ? | L'équilibre de <GameTitle> te réussit de mieux en mieux ! Ton corps est de plus en plus maîtrisé. On continue ensemble ?"
     }
   },
   {
@@ -4124,7 +4124,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu mimes de mieux en mieux les émotions ! Ton expressivité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes expressions sont de plus en plus justes. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta compréhension des émotions s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle expressivité ! Garde cette créativité, tu es sur la bonne voie. On retente ? | Les émotions de <GameTitle> n'ont plus de secrets pour toi ! Ton talent d'acteur se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu mimes de mieux en mieux les émotions ! Ton expressivité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes expressions sont de plus en plus justes. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta compréhension des émotions s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle expressivité ! Garde cette créativité, tu es sur la bonne voie. On retente ? | Les émotions de <GameTitle> n'ont plus de secrets pour toi ! Ton talent d'acteur se développe. On continue ensemble ?"
     }
   },
   {
@@ -4164,7 +4164,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu imites de mieux en mieux les animaux ! Ton agilité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes mouvements d'animaux sont de plus en plus réalistes. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton imagination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle créativité ! Garde cette énergie, tu es sur la bonne voie. On retente ? | Les animaux de <GameTitle> n'ont plus de secrets pour toi ! Ton corps bouge avec aisance. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu imites de mieux en mieux les animaux ! Ton agilité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes mouvements d'animaux sont de plus en plus réalistes. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton imagination s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle créativité ! Garde cette énergie, tu es sur la bonne voie. On retente ? | Les animaux de <GameTitle> n'ont plus de secrets pour toi ! Ton corps bouge avec aisance. On continue ensemble ?"
     }
   },
   {
@@ -4204,7 +4204,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu crées de mieux en mieux tes chorégraphies ! Ta créativité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes enchaînements sont de plus en plus fluides. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ton sens du rythme s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle imagination ! Garde cette énergie, tu es sur la bonne voie. On retente ? | Les chorégraphies de <GameTitle> te réussissent de mieux en mieux ! Ton corps danse avec joie. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu crées de mieux en mieux tes chorégraphies ! Ta créativité s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes enchaînements sont de plus en plus fluides. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ton sens du rythme s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle imagination ! Garde cette énergie, tu es sur la bonne voie. On retente ? | Les chorégraphies de <GameTitle> te réussissent de mieux en mieux ! Ton corps danse avec joie. On continue ensemble ?"
     }
   },
   {
@@ -4244,7 +4244,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu maîtrises de mieux en mieux les positions ! Ta souplesse s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes postures sont de plus en plus stables. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta respiration s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle sérénité ! Garde ce calme, tu es sur la bonne voie. On retente ? | Les positions de <GameTitle> te réussissent de mieux en mieux ! Ton corps et ton esprit sont en harmonie. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu maîtrises de mieux en mieux les positions ! Ta souplesse s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Tes postures sont de plus en plus stables. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta respiration s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres une belle sérénité ! Garde ce calme, tu es sur la bonne voie. On retente ? | Les positions de <GameTitle> te réussissent de mieux en mieux ! Ton corps et ton esprit sont en harmonie. On continue ensemble ?"
     }
   },
   {
@@ -4284,7 +4284,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu respires de mieux en mieux ! Ta concentration s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Ton rythme de respiration est de plus en plus régulier. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta sérénité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau calme ! Garde cette concentration, tu es sur la bonne voie. On retente ? | La relaxation de <GameTitle> te réussit de mieux en mieux ! Ton esprit est de plus en plus apaisé. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu respires de mieux en mieux ! Ta concentration s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Ton rythme de respiration est de plus en plus régulier. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta sérénité s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau calme ! Garde cette concentration, tu es sur la bonne voie. On retente ? | La relaxation de <GameTitle> te réussit de mieux en mieux ! Ton esprit est de plus en plus apaisé. On continue ensemble ?"
     }
   },
   {
@@ -4326,7 +4326,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, vous devinez de mieux en mieux les personnages ! Votre sens de la déduction s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les personnages mystères se révèlent de plus en plus facilement. Vous progressez ! On rejoue ? | Vous progressez dans <GameTitle> ! Votre logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens de la déduction ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les personnages de <GameTitle> vous résistent de moins en moins ! Votre œil de détective se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, vous devinez de mieux en mieux les personnages ! Votre sens de la déduction s'améliore, vos efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les personnages mystères se révèlent de plus en plus facilement. Vous vous améliorez ! On rejoue ? | Vous vous améliorez dans <GameTitle> ! Votre logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, vous montrez un beau sens de la déduction ! Gardez cette méthode, vous êtes sur la bonne voie. On retente ? | Les personnages de <GameTitle> vous résistent de moins en moins ! Votre œil de détective se développe. On continue ensemble ?"
     }
   },
   {
@@ -4368,7 +4368,7 @@
     ],
     "minScore": 6,
     "title": {
-      "fr": "Dans <GameTitle>, tu devines de mieux en mieux les personnages ! Ton sens de la déduction s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les personnages mystères se révèlent de plus en plus facilement. Tu progresses ! On rejoue ? | Tu progresses dans <GameTitle> ! Ta logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens de la déduction ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les personnages de <GameTitle> te résistent de moins en moins ! Ton œil de détective se développe. On continue ensemble ?"
+      "fr": "Dans <GameTitle>, tu devines de mieux en mieux les personnages ! Ton sens de la déduction s'améliore, tes efforts portent leurs fruits. On continue ? | Pas mal dans <GameTitle> ! Les personnages mystères se révèlent de plus en plus facilement. Tu t'améliores ! On rejoue ? | Tu t'améliores dans <GameTitle> ! Ta logique s'affine, c'est encourageant. On s'entraîne encore ? | Dans <GameTitle>, tu montres un beau sens de la déduction ! Garde cette méthode, tu es sur la bonne voie. On retente ? | Les personnages de <GameTitle> te résistent de moins en moins ! Ton œil de détective se développe. On continue ensemble ?"
     }
   },
   {
