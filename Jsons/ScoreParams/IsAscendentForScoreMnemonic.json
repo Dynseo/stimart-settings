@@ -226,7 +226,7 @@
     "game": "COLORFORM",
     "level": "difficult",
     "app": "COCO_1",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
@@ -234,7 +234,7 @@
     "scoreMnemonic": "nbGoodAnswers",
     "game": "COLORFORM",
     "app": "PAPY",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
@@ -255,14 +255,14 @@
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "NOAHS_ARK",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "PANURGE",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
@@ -284,7 +284,7 @@
     "scoreMnemonic": "nbGoodAnswers",
     "game": "SHAPEBOX",
     "app": "PAPY",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
@@ -311,7 +311,7 @@
     "game": "SIMILI",
     "level": "difficult",
     "app": "COCO_1",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
@@ -319,7 +319,7 @@
     "scoreMnemonic": "nbGoodAnswers",
     "game": "SIMILI",
     "app": "PAPY",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
@@ -327,7 +327,7 @@
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
     "app": "PAPY",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   },
@@ -348,7 +348,7 @@
   {
     "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WORDLE",
-    "isAscendent": false,
+    "isAscendent": true,
     "useAnalyse": true,
     "useFeedback": true
   }
