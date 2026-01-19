@@ -8,7 +8,9 @@
       "it": "Togliere i vestiti",
       "nl": "Verwijder de kleding",
       "cn": "脱掉衣服",
-      "pt": "Tire as roupas"
+      "pt": "Tire as roupas",
+      "es": "Quitarse la ropa",
+      "de": "Kleidung ausziehen"
     }
   },
   {
@@ -20,7 +22,9 @@
       "it": "Mettere il ​​pigiama",
       "nl": "Trek een pyjama aan",
       "cn": "穿上睡衣",
-      "pt": "Coloque o pijama"
+      "pt": "Coloque o pijama",
+      "es": "Ponerse el pijama",
+      "de": "Schlafanzug anziehen"
     }
   },
   {
@@ -32,7 +36,9 @@
       "it": "Lavare i denti",
       "nl": "Poets je tanden",
       "cn": "刷牙",
-      "pt": "Escove seus dentes"
+      "pt": "Escove seus dentes",
+      "es": "Cepillarse los dientes",
+      "de": "Zähne putzen"
     }
   },
   {
@@ -44,7 +50,9 @@
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
-      "pt": "Ir ao banheiro"
+      "pt": "Ir ao banheiro",
+      "es": "Ir al baño",
+      "de": "Auf die Toilette gehen"
     }
   },
   {
@@ -56,7 +64,9 @@
       "it": "Spegni la luce",
       "nl": "Doe het licht uit",
       "cn": "关掉灯",
-      "pt": "Apague a luz"
+      "pt": "Apague a luz",
+      "es": "Apagar la luz",
+      "de": "Das Licht ausschalten"
     }
   },
   {
@@ -68,7 +78,9 @@
       "it": "Andare a letto",
       "nl": "Naar bed gaan",
       "cn": "去睡觉",
-      "pt": "Para ir para a cama"
+      "pt": "Para ir para a cama",
+      "es": "Ir a la cama",
+      "de": "Ins Bett gehen"
     }
   },
   {
@@ -80,7 +92,9 @@
       "it": "Mettere la tovaglia",
       "nl": "Leg het tafelkleed",
       "cn": "铺上桌布",
-      "pt": "Coloque a toalha de mesa"
+      "pt": "Coloque a toalha de mesa",
+      "es": "Poner el mantel",
+      "de": "Die Tischdecke auflegen"
     }
   },
   {
@@ -92,7 +106,9 @@
       "it": "Mettere i piatti",
       "nl": "Zet de borden",
       "cn": "放上盘子",
-      "pt": "Coloque os pratos"
+      "pt": "Coloque os pratos",
+      "es": "Poner los platos",
+      "de": "Die Teller hinstellen"
     }
   },
   {
@@ -104,7 +120,9 @@
       "it": "Mettere le posate",
       "nl": "De tafel dekken",
       "cn": "设置桌子",
-      "pt": "Para pôr a mesa"
+      "pt": "Para pôr a mesa",
+      "es": "Poner los cubiertos",
+      "de": "Das Besteck hinlegen"
     }
   },
   {
@@ -116,7 +134,9 @@
       "it": "Mettere i bicchieri",
       "nl": "Zet de bril",
       "cn": "戴上眼镜",
-      "pt": "Coloque os óculos"
+      "pt": "Coloque os óculos",
+      "es": "Poner los vasos",
+      "de": "Die Gläser hinstellen"
     }
   },
   {
@@ -128,7 +148,9 @@
       "it": "Lavarsi le mani",
       "nl": "Was je handen",
       "cn": "洗手",
-      "pt": "Lave as mãos"
+      "pt": "Lave as mãos",
+      "es": "Lavarse las manos",
+      "de": "Hände waschen"
     }
   },
   {
@@ -140,7 +162,9 @@
       "it": "Mangiare",
       "nl": "Eten",
       "cn": "吃",
-      "pt": "Comer"
+      "pt": "Comer",
+      "es": "Comer",
+      "de": "Essen"
     }
   },
   {
@@ -152,7 +176,9 @@
       "it": "Finire il pasto",
       "nl": "Maak uw maaltijd af",
       "cn": "吃完饭",
-      "pt": "Termine sua refeição"
+      "pt": "Termine sua refeição",
+      "es": "Terminar la comida",
+      "de": "Die Mahlzeit beenden"
     }
   },
   {
@@ -164,7 +190,9 @@
       "it": "Pulire la bocca",
       "nl": "Maak je mond schoon",
       "cn": "清洁你的嘴",
-      "pt": "Limpe sua boca"
+      "pt": "Limpe sua boca",
+      "es": "Limpiarse la boca",
+      "de": "Den Mund abwischen"
     }
   },
   {
@@ -176,7 +204,9 @@
       "it": "Fare la lavastoviglie",
       "nl": "Start de machine",
       "cn": "启动机器",
-      "pt": "Ligue a máquina"
+      "pt": "Ligue a máquina",
+      "es": "Poner la máquina",
+      "de": "Die Maschine starten"
     }
   },
   {
@@ -188,7 +218,9 @@
       "it": "Mettre la biancheria intima",
       "nl": "Trek je ondergoed aan",
       "cn": "穿上你的内衣",
-      "pt": "Coloque sua roupa íntima"
+      "pt": "Coloque sua roupa íntima",
+      "es": "Ponerse la ropa interior",
+      "de": "Unterwäsche anziehen"
     }
   },
   {
@@ -200,7 +232,9 @@
       "it": "Mettere i pantaloni",
       "nl": "Broek aantrekken",
       "cn": "穿上裤子",
-      "pt": "Coloque calças"
+      "pt": "Coloque calças",
+      "es": "Ponerse los pantalones",
+      "de": "Hose anziehen"
     }
   },
   {
@@ -212,7 +246,9 @@
       "it": "Mettere la maglietta",
       "nl": "Zet de bovenkant erop",
       "cn": "放在上面",
-      "pt": "Coloque no topo"
+      "pt": "Coloque no topo",
+      "es": "Ponerse la camiseta",
+      "de": "Oberteil anziehen"
     }
   },
   {
@@ -224,7 +260,9 @@
       "it": "Mettere le scarpe",
       "nl": "Trek de schoenen aan",
       "cn": "穿上鞋子",
-      "pt": "Coloque os sapatos"
+      "pt": "Coloque os sapatos",
+      "es": "Ponerse los zapatos",
+      "de": "Schuhe anziehen"
     }
   },
   {
@@ -236,7 +274,9 @@
       "it": "Abbassare i pantaloni",
       "nl": "trek je broek naar beneden",
       "cn": "拉下你的裤子",
-      "pt": "Abaixe as calças"
+      "pt": "Abaixe as calças",
+      "es": "Bajarse los pantalones",
+      "de": "Hose herunterziehen"
     }
   },
   {
@@ -248,7 +288,9 @@
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
-      "pt": "Ir ao banheiro"
+      "pt": "Ir ao banheiro",
+      "es": "Ir al baño",
+      "de": "Auf die Toilette gehen"
     }
   },
   {
@@ -260,7 +302,9 @@
       "it": "Usare la carta igienica",
       "nl": "Gebruik toiletpapier",
       "cn": "使用卫生纸",
-      "pt": "Use papel higiênico"
+      "pt": "Use papel higiênico",
+      "es": "Usar papel higiénico",
+      "de": "Toilettenpapier benutzen"
     }
   },
   {
@@ -272,7 +316,9 @@
       "it": "Buttare la carta igienica",
       "nl": "Gooi het toiletpapier weg",
       "cn": "把卫生纸扔掉",
-      "pt": "Jogue fora o papel higiênico"
+      "pt": "Jogue fora o papel higiênico",
+      "es": "Tirar el papel higiénico",
+      "de": "Toilettenpapier wegwerfen"
     }
   },
   {
@@ -284,7 +330,9 @@
       "it": "Mettere i pantaloni",
       "nl": "Broek aantrekken",
       "cn": "穿上裤子",
-      "pt": "Coloque calças"
+      "pt": "Coloque calças",
+      "es": "Ponerse los pantalones",
+      "de": "Hose anziehen"
     }
   },
   {
@@ -296,7 +344,9 @@
       "it": "Tirare l'acqua",
       "nl": "Doorspoelen",
       "cn": "冲水",
-      "pt": "Rubor"
+      "pt": "Rubor",
+      "es": "Tirar de la cadena",
+      "de": "Spülen"
     }
   },
   {
@@ -308,7 +358,9 @@
       "it": "Lavarsi le mani",
       "nl": "Was je handen",
       "cn": "洗手",
-      "pt": "Lave as mãos"
+      "pt": "Lave as mãos",
+      "es": "Lavarse las manos",
+      "de": "Hände waschen"
     }
   },
   {
@@ -320,7 +372,9 @@
       "it": "Aprire il rubinetto dell'acqua",
       "nl": "Open de waterkraan",
       "cn": "打开水龙头",
-      "pt": "Abra a torneira da água"
+      "pt": "Abra a torneira da água",
+      "es": "Abrir el grifo",
+      "de": "Den Wasserhahn aufdrehen"
     }
   },
   {
@@ -332,7 +386,9 @@
       "it": "Prendere il sapone",
       "nl": "Neem zeep en laat het schuimen",
       "cn": "取肥皂并起泡沫",
-      "pt": "Pegue o sabonete e ensaboe"
+      "pt": "Pegue o sabonete e ensaboe",
+      "es": "Coger jabón y hacer espuma",
+      "de": "Seife nehmen und aufschäumen"
     }
   },
   {
@@ -344,7 +400,9 @@
       "it": "Lavarsi le mani",
       "nl": "Was je handen",
       "cn": "洗手",
-      "pt": "Lave as mãos"
+      "pt": "Lave as mãos",
+      "es": "Lavarse las manos",
+      "de": "Hände waschen"
     }
   },
   {
@@ -356,7 +414,9 @@
       "it": "Chiudere il rubinetto",
       "nl": "Draai de kraan dicht",
       "cn": "关掉水龙头",
-      "pt": "Feche a torneira"
+      "pt": "Feche a torneira",
+      "es": "Cerrar el grifo",
+      "de": "Den Wasserhahn zudrehen"
     }
   },
   {
@@ -368,7 +428,9 @@
       "it": "Asciugare le mani",
       "nl": "Droog je handen",
       "cn": "擦干双手",
-      "pt": "Seque as mãos"
+      "pt": "Seque as mãos",
+      "es": "Secarse las manos",
+      "de": "Hände abtrocknen"
     }
   },
   {
@@ -380,7 +442,9 @@
       "it": "Aprire il rubinetto dell'acqua",
       "nl": "Open de waterkraan",
       "cn": "打开水龙头",
-      "pt": "Abra a torneira da água"
+      "pt": "Abra a torneira da água",
+      "es": "Abrir el grifo",
+      "de": "Den Wasserhahn aufdrehen"
     }
   },
   {
@@ -392,7 +456,9 @@
       "it": "Mettere il ​​dentifricio",
       "nl": "Doe de tandpasta",
       "cn": "放上牙膏",
-      "pt": "Coloque a pasta de dente"
+      "pt": "Coloque a pasta de dente",
+      "es": "Poner la pasta de dientes",
+      "de": "Zahnpasta auftragen"
     }
   },
   {
@@ -404,7 +470,9 @@
       "it": "Lavare i denti",
       "nl": "Poets je tanden",
       "cn": "刷牙",
-      "pt": "Escove seus dentes"
+      "pt": "Escove seus dentes",
+      "es": "Cepillarse los dientes",
+      "de": "Zähne putzen"
     }
   },
   {
@@ -416,7 +484,9 @@
       "it": "Sciacquare la bocca",
       "nl": "Spoel uw mond met water",
       "cn": "用水漱口",
-      "pt": "Enxágue a boca com água"
+      "pt": "Enxágue a boca com água",
+      "es": "Enjuagarse la boca con agua",
+      "de": "Den Mund mit Wasser ausspülen"
     }
   },
   {
@@ -428,7 +498,9 @@
       "it": "Sciacquare lo spazzolino",
       "nl": "Spoel de tandenborstel af",
       "cn": "冲洗牙刷",
-      "pt": "Enxágue a escova de dentes"
+      "pt": "Enxágue a escova de dentes",
+      "es": "Enjuagar el cepillo de dientes",
+      "de": "Die Zahnbürste abspülen"
     }
   },
   {
@@ -440,7 +512,9 @@
       "it": "Chiudere il rubinetto",
       "nl": "Draai de kraan dicht",
       "cn": "关掉水龙头",
-      "pt": "Feche a torneira"
+      "pt": "Feche a torneira",
+      "es": "Cerrar el grifo",
+      "de": "Den Wasserhahn zudrehen"
     }
   }
 ]
