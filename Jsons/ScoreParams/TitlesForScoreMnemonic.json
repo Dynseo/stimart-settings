@@ -114,8 +114,7 @@
       "pt": "Retornos ao início",
       "de": "Zurück zum Start",
       "es": "Vuelta al inicio"
-    },
-    "": " "
+    }
   },
   {
     "scoreMnemonic": "nbDeaths",
@@ -128,8 +127,7 @@
       "pt": "Vidas perdidas",
       "de": "Verlorene Leben",
       "es": "Vidas perdidas"
-    },
-    "": " "
+    }
   },
   {
     "scoreMnemonic": "nbMovesMin",
@@ -142,8 +140,7 @@
       "pt": "Movimentos mínimos",
       "de": "Minimale Züge",
       "es": "Movimientos mínimos"
-    },
-    "": " "
+    }
   },
   {
     "scoreMnemonic": "reactionTime",
@@ -156,8 +153,7 @@
       "pt": "Tempo de reação",
       "de": "Reaktionszeit",
       "es": "Tiempo de reacción"
-    },
-    "": " "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
@@ -171,8 +167,7 @@
       "pt": "Movimentos realizados",
       "de": "Ausgeführte Züge",
       "es": "Movimientos realizados"
-    },
-    "": " "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
@@ -186,8 +181,7 @@
       "pt": "Minhas ovelhas",
       "de": "Meine Schafe",
       "es": "Mis ovejas"
-    },
-    "": " "
+    }
   },
   {
     "scoreMnemonic": "nbGoodAnswersDetails1",
@@ -516,7 +510,7 @@
     "scoreMnemonic": "nbBadAnswers",
     "game": "HANGMAN",
     "title": {
-      "fr": "Mots manquées",
+      "fr": "Mots manqués",
       "us": "Missed words",
       "it": "Parole mancanti",
       "cn": "漏掉的单词",
