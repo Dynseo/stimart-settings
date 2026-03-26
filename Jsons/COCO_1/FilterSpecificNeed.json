@@ -15,7 +15,8 @@
       "NOAHS_ARK",
       "COOK",
       "TANGRAM"
-    ]
+    ],
+    "title_hi": "ऑटिज़्म"
   },
   {
     "title_fr": "TDAH",
@@ -34,7 +35,8 @@
       "CARS",
       "SNAKE",
       "BLOCK_PUZZLE"
-    ]
+    ],
+    "title_hi": "एडीएचडी"
   },
   {
     "title_fr": "Dyspraxie",
@@ -58,7 +60,8 @@
       "SNOWBALL_EFFECT",
       "SNAKE",
       "BLOCK_PUZZLE"
-    ]
+    ],
+    "title_hi": "डिस्प्रैक्सिया"
   },
   {
     "title_fr": "Dyscalculie",
@@ -69,7 +72,8 @@
       "SCROLLANDCATCH",
       "SEQUENCE",
       "SUDOKU"
-    ]
+    ],
+    "title_hi": "डिस्कैलकुलिया"
   },
   {
     "title_fr": "Dyslexie et Dysorthographie",
@@ -80,7 +84,8 @@
       "LOST_POEM",
       "HANGMAN",
       "PROVERB"
-    ]
+    ],
+    "title_hi": "डिस्लेक्सिया और डिसग्राफिया"
   },
   {
     "title_fr": "Dysphasie",
@@ -92,7 +97,8 @@
       "LOST_POEM",
       "PROVERB",
       "COOK"
-    ]
+    ],
+    "title_hi": "डिस्फेसिया"
   },
   {
     "title_fr": "Trisomie",
@@ -111,6 +117,7 @@
       "POPBALLOON",
       "SHAPEBOX",
       "NOAHS_ARK"
-    ]
+    ],
+    "title_hi": "डाउन सिंड्रोम"
   }
 ]

@@ -10,7 +10,8 @@
       "cn": "脱掉衣服",
       "pt": "Tire as roupas",
       "es": "Quitarse la ropa",
-      "de": "Kleidung ausziehen"
+      "de": "Kleidung ausziehen",
+      "hi": "कपड़े उतारें"
     }
   },
   {
@@ -24,7 +25,8 @@
       "cn": "穿上睡衣",
       "pt": "Coloque o pijama",
       "es": "Ponerse el pijama",
-      "de": "Schlafanzug anziehen"
+      "de": "Schlafanzug anziehen",
+      "hi": "पजामा पहनें"
     }
   },
   {
@@ -38,7 +40,8 @@
       "cn": "刷牙",
       "pt": "Escove seus dentes",
       "es": "Cepillarse los dientes",
-      "de": "Zähne putzen"
+      "de": "Zähne putzen",
+      "hi": "अपने दाँत ब्रश करें"
     }
   },
   {
@@ -52,7 +55,8 @@
       "cn": "去厕所",
       "pt": "Ir ao banheiro",
       "es": "Ir al baño",
-      "de": "Auf die Toilette gehen"
+      "de": "Auf die Toilette gehen",
+      "hi": "शौचालय जाएं"
     }
   },
   {
@@ -66,7 +70,8 @@
       "cn": "关掉灯",
       "pt": "Apague a luz",
       "es": "Apagar la luz",
-      "de": "Das Licht ausschalten"
+      "de": "Das Licht ausschalten",
+      "hi": "बत्ती बंद करें"
     }
   },
   {
@@ -80,7 +85,8 @@
       "cn": "去睡觉",
       "pt": "Para ir para a cama",
       "es": "Ir a la cama",
-      "de": "Ins Bett gehen"
+      "de": "Ins Bett gehen",
+      "hi": "सो जाएं"
     }
   },
   {
@@ -94,7 +100,8 @@
       "cn": "铺上桌布",
       "pt": "Coloque a toalha de mesa",
       "es": "Poner el mantel",
-      "de": "Die Tischdecke auflegen"
+      "de": "Die Tischdecke auflegen",
+      "hi": "मेज़पोश बिछाएं"
     }
   },
   {
@@ -108,7 +115,8 @@
       "cn": "放上盘子",
       "pt": "Coloque os pratos",
       "es": "Poner los platos",
-      "de": "Die Teller hinstellen"
+      "de": "Die Teller hinstellen",
+      "hi": "प्लेटें रखें"
     }
   },
   {
@@ -122,7 +130,8 @@
       "cn": "设置桌子",
       "pt": "Para pôr a mesa",
       "es": "Poner los cubiertos",
-      "de": "Das Besteck hinlegen"
+      "de": "Das Besteck hinlegen",
+      "hi": "मेज़ सजाएं"
     }
   },
   {
@@ -136,7 +145,8 @@
       "cn": "戴上眼镜",
       "pt": "Coloque os óculos",
       "es": "Poner los vasos",
-      "de": "Die Gläser hinstellen"
+      "de": "Die Gläser hinstellen",
+      "hi": "गिलास रखें"
     }
   },
   {
@@ -150,7 +160,8 @@
       "cn": "洗手",
       "pt": "Lave as mãos",
       "es": "Lavarse las manos",
-      "de": "Hände waschen"
+      "de": "Hände waschen",
+      "hi": "अपने हाथ धोएं"
     }
   },
   {
@@ -164,7 +175,8 @@
       "cn": "吃",
       "pt": "Comer",
       "es": "Comer",
-      "de": "Essen"
+      "de": "Essen",
+      "hi": "खाएं"
     }
   },
   {
@@ -178,7 +190,8 @@
       "cn": "吃完饭",
       "pt": "Termine sua refeição",
       "es": "Terminar la comida",
-      "de": "Die Mahlzeit beenden"
+      "de": "Die Mahlzeit beenden",
+      "hi": "अपना भोजन समाप्त करें"
     }
   },
   {
@@ -192,7 +205,8 @@
       "cn": "清洁你的嘴",
       "pt": "Limpe sua boca",
       "es": "Limpiarse la boca",
-      "de": "Den Mund abwischen"
+      "de": "Den Mund abwischen",
+      "hi": "अपना मुँह साफ करें"
     }
   },
   {
@@ -206,7 +220,8 @@
       "cn": "启动机器",
       "pt": "Ligue a máquina",
       "es": "Poner la máquina",
-      "de": "Die Maschine starten"
+      "de": "Die Maschine starten",
+      "hi": "मशीन चालू करें"
     }
   },
   {
@@ -220,7 +235,8 @@
       "cn": "穿上你的内衣",
       "pt": "Coloque sua roupa íntima",
       "es": "Ponerse la ropa interior",
-      "de": "Unterwäsche anziehen"
+      "de": "Unterwäsche anziehen",
+      "hi": "अपने अंडरवियर पहनें"
     }
   },
   {
@@ -234,7 +250,8 @@
       "cn": "穿上裤子",
       "pt": "Coloque calças",
       "es": "Ponerse los pantalones",
-      "de": "Hose anziehen"
+      "de": "Hose anziehen",
+      "hi": "पैंट पहनें"
     }
   },
   {
@@ -248,7 +265,8 @@
       "cn": "放在上面",
       "pt": "Coloque no topo",
       "es": "Ponerse la camiseta",
-      "de": "Oberteil anziehen"
+      "de": "Oberteil anziehen",
+      "hi": "ऊपरी कपड़ा पहनें"
     }
   },
   {
@@ -262,7 +280,8 @@
       "cn": "穿上鞋子",
       "pt": "Coloque os sapatos",
       "es": "Ponerse los zapatos",
-      "de": "Schuhe anziehen"
+      "de": "Schuhe anziehen",
+      "hi": "जूते पहनें"
     }
   },
   {
@@ -276,7 +295,8 @@
       "cn": "拉下你的裤子",
       "pt": "Abaixe as calças",
       "es": "Bajarse los pantalones",
-      "de": "Hose herunterziehen"
+      "de": "Hose herunterziehen",
+      "hi": "अपनी पैंट नीचे करें"
     }
   },
   {
@@ -290,7 +310,8 @@
       "cn": "去厕所",
       "pt": "Ir ao banheiro",
       "es": "Ir al baño",
-      "de": "Auf die Toilette gehen"
+      "de": "Auf die Toilette gehen",
+      "hi": "शौचालय जाएं"
     }
   },
   {
@@ -304,7 +325,8 @@
       "cn": "使用卫生纸",
       "pt": "Use papel higiênico",
       "es": "Usar papel higiénico",
-      "de": "Toilettenpapier benutzen"
+      "de": "Toilettenpapier benutzen",
+      "hi": "टॉयलेट पेपर का उपयोग करें"
     }
   },
   {
@@ -318,7 +340,8 @@
       "cn": "把卫生纸扔掉",
       "pt": "Jogue fora o papel higiênico",
       "es": "Tirar el papel higiénico",
-      "de": "Toilettenpapier wegwerfen"
+      "de": "Toilettenpapier wegwerfen",
+      "hi": "टॉयलेट पेपर फेंकें"
     }
   },
   {
@@ -332,7 +355,8 @@
       "cn": "穿上裤子",
       "pt": "Coloque calças",
       "es": "Ponerse los pantalones",
-      "de": "Hose anziehen"
+      "de": "Hose anziehen",
+      "hi": "पैंट पहनें"
     }
   },
   {
@@ -346,7 +370,8 @@
       "cn": "冲水",
       "pt": "Rubor",
       "es": "Tirar de la cadena",
-      "de": "Spülen"
+      "de": "Spülen",
+      "hi": "फ्लश करें"
     }
   },
   {
@@ -360,7 +385,8 @@
       "cn": "洗手",
       "pt": "Lave as mãos",
       "es": "Lavarse las manos",
-      "de": "Hände waschen"
+      "de": "Hände waschen",
+      "hi": "अपने हाथ धोएं"
     }
   },
   {
@@ -374,7 +400,8 @@
       "cn": "打开水龙头",
       "pt": "Abra a torneira da água",
       "es": "Abrir el grifo",
-      "de": "Den Wasserhahn aufdrehen"
+      "de": "Den Wasserhahn aufdrehen",
+      "hi": "पानी का नल खोलें"
     }
   },
   {
@@ -388,7 +415,8 @@
       "cn": "取肥皂并起泡沫",
       "pt": "Pegue o sabonete e ensaboe",
       "es": "Coger jabón y hacer espuma",
-      "de": "Seife nehmen und aufschäumen"
+      "de": "Seife nehmen und aufschäumen",
+      "hi": "साबुन लें और झाग बनाएं"
     }
   },
   {
@@ -402,7 +430,8 @@
       "cn": "洗手",
       "pt": "Lave as mãos",
       "es": "Lavarse las manos",
-      "de": "Hände waschen"
+      "de": "Hände waschen",
+      "hi": "अपने हाथ धोएं"
     }
   },
   {
@@ -416,7 +445,8 @@
       "cn": "关掉水龙头",
       "pt": "Feche a torneira",
       "es": "Cerrar el grifo",
-      "de": "Den Wasserhahn zudrehen"
+      "de": "Den Wasserhahn zudrehen",
+      "hi": "नल बंद करें"
     }
   },
   {
@@ -430,7 +460,8 @@
       "cn": "擦干双手",
       "pt": "Seque as mãos",
       "es": "Secarse las manos",
-      "de": "Hände abtrocknen"
+      "de": "Hände abtrocknen",
+      "hi": "अपने हाथ सुखाएं"
     }
   },
   {
@@ -444,7 +475,8 @@
       "cn": "打开水龙头",
       "pt": "Abra a torneira da água",
       "es": "Abrir el grifo",
-      "de": "Den Wasserhahn aufdrehen"
+      "de": "Den Wasserhahn aufdrehen",
+      "hi": "पानी का नल खोलें"
     }
   },
   {
@@ -458,7 +490,8 @@
       "cn": "放上牙膏",
       "pt": "Coloque a pasta de dente",
       "es": "Poner la pasta de dientes",
-      "de": "Zahnpasta auftragen"
+      "de": "Zahnpasta auftragen",
+      "hi": "टूथपेस्ट लगाएं"
     }
   },
   {
@@ -472,7 +505,8 @@
       "cn": "刷牙",
       "pt": "Escove seus dentes",
       "es": "Cepillarse los dientes",
-      "de": "Zähne putzen"
+      "de": "Zähne putzen",
+      "hi": "अपने दाँत ब्रश करें"
     }
   },
   {
@@ -486,7 +520,8 @@
       "cn": "用水漱口",
       "pt": "Enxágue a boca com água",
       "es": "Enjuagarse la boca con agua",
-      "de": "Den Mund mit Wasser ausspülen"
+      "de": "Den Mund mit Wasser ausspülen",
+      "hi": "पानी से अपना मुँह धोएं"
     }
   },
   {
@@ -500,7 +535,8 @@
       "cn": "冲洗牙刷",
       "pt": "Enxágue a escova de dentes",
       "es": "Enjuagar el cepillo de dientes",
-      "de": "Die Zahnbürste abspülen"
+      "de": "Die Zahnbürste abspülen",
+      "hi": "टूथब्रश धोएं"
     }
   },
   {
@@ -514,7 +550,8 @@
       "cn": "关掉水龙头",
       "pt": "Feche a torneira",
       "es": "Cerrar el grifo",
-      "de": "Den Wasserhahn zudrehen"
+      "de": "Den Wasserhahn zudrehen",
+      "hi": "नल बंद करें"
     }
   }
 ]

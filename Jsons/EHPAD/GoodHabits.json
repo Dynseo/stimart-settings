@@ -12,7 +12,9 @@
     "title_cn": "遵循你的日常习惯\n\n",
     "message_cn": "制定例行公事可以帮助我们安排一天的生活，并且不会忘记重要的事情。",
     "title_pt": "Siga sua rotina\n\n",
-    "message_pt": "Criar uma rotina nos ajuda a organizar o nosso dia e a não esquecer as coisas importantes."
+    "message_pt": "Criar uma rotina nos ajuda a organizar o nosso dia e a não esquecer as coisas importantes.",
+    "title_hi": "एक दिनचर्या बनाएं",
+    "message_hi": "एक निश्चित दिनचर्या होने से हमें अपने दिन को व्यवस्थित करने और महत्वपूर्ण चीजों को न भूलने में मदद मिलती है।"
   },
   {
     "category": "brain",
@@ -27,7 +29,9 @@
     "title_cn": "阅读 2 页报纸",
     "message_cn": "阅读是一项放松的活动，可以让你在保持大脑清醒的同时得到休息。\r",
     "title_pt": "Leia 2 páginas do jornal",
-    "message_pt": "Ler é uma atividade relaxante que permite descansar enquanto mantém o cérebro acordado.\r"
+    "message_pt": "Ler é uma atividade relaxante que permite descansar enquanto mantém o cérebro acordado.\r",
+    "title_hi": "अखबार के दो पृष्ठ पढ़ें",
+    "message_hi": "पढ़ना एक आरामदायक गतिविधि है जो आपके मस्तिष्क को सक्रिय रखते हुए आपको आराम करने देती है।\n"
   },
   {
     "category": "brain",
@@ -42,7 +46,9 @@
     "title_cn": "喝1升水",
     "message_cn": "保持水分对身心健康很重要！",
     "title_pt": "Beba 1 litro de água",
-    "message_pt": "Manter-se hidratado é importante para a saúde física e mental!"
+    "message_pt": "Manter-se hidratado é importante para a saúde física e mental!",
+    "title_hi": "1 लीटर पानी पिएं",
+    "message_hi": "हाइड्रेटेड रहना आपके शारीरिक और मानसिक स्वास्थ्य के लिए बहुत महत्वपूर्ण है!"
   },
   {
     "category": "brain",
@@ -57,7 +63,9 @@
     "title_cn": "打牌",
     "message_cn": "纸牌游戏是一种在享受乐趣的同时保持大脑敏锐的流行方式。",
     "title_pt": "Jogar cartas",
-    "message_pt": "Os jogos de cartas são uma forma popular de manter o cérebro afiado enquanto se diverte."
+    "message_pt": "Os jogos de cartas são uma forma popular de manter o cérebro afiado enquanto se diverte.",
+    "title_hi": "ताश खेलें",
+    "message_hi": "ताश के खेल मज़े करते हुए अपने मस्तिष्क को सक्रिय रखने का एक प्रसिद्ध तरीका है।"
   },
   {
     "category": "habits",
@@ -72,7 +80,9 @@
     "title_cn": "做饭\r",
     "message_cn": "吃是幸福的代名词：一顿美餐可以带回笑容。",
     "title_pt": "cozinhar uma refeição\r",
-    "message_pt": "Comer é sinônimo de felicidade: uma boa refeição pode trazer um sorriso de volta."
+    "message_pt": "Comer é sinônimo de felicidade: uma boa refeição pode trazer um sorriso de volta.",
+    "title_hi": "एक भोजन पकाएं",
+    "message_hi": "खाना बनाना खुशी का पर्याय है। एक अच्छा पका हुआ भोजन आपको मुस्कुरा सकता है।"
   },
   {
     "category": "habits",
@@ -87,7 +97,9 @@
     "title_cn": "做一些你喜欢的事情",
     "message_cn": "发现新的热情可以让你的一天更加充满活力。",
     "title_pt": "Faça algo que você ama",
-    "message_pt": "Descobrir uma nova paixão pode tornar o seu dia mais dinâmico."
+    "message_pt": "Descobrir uma nova paixão pode tornar o seu dia mais dinâmico.",
+    "title_hi": "कुछ ऐसा करें जो आपको पसंद हो",
+    "message_hi": "किसी भी उम्र में एक नया शौक खोजना संभव है, आपके दिन को रोशन करने के लिए कुछ छोटा सा।"
   },
   {
     "category": "habits",
@@ -102,7 +114,9 @@
     "title_cn": "给您所爱的人打电话或写信",
     "message_cn": "家人和朋友是生活中重要的成员，不要忘记他们。",
     "title_pt": "Ligue ou escreva para seus entes queridos",
-    "message_pt": "Família e amigos são membros importantes da vida, não se esqueça deles."
+    "message_pt": "Família e amigos são membros importantes da vida, não se esqueça deles.",
+    "title_hi": "किसी अपने को फोन करें या लिखें",
+    "message_hi": "परिवार और दोस्त आपके जीवन के महत्वपूर्ण सदस्य हैं, उनकी उपेक्षा न करना महत्वपूर्ण है।"
   },
   {
     "category": "habits",
@@ -117,7 +131,9 @@
     "title_cn": "有积极的想法",
     "message_cn": "回想一件让你微笑的事件可以让你看到生活美好的一面！",
     "title_pt": "Tenha um pensamento positivo",
-    "message_pt": "Pensar em um acontecimento que te fez sorrir permite que você veja o lado bom da vida!"
+    "message_pt": "Pensar em um acontecimento que te fez sorrir permite que você veja o lado bom da vida!",
+    "title_hi": "कुछ सकारात्मक सोचें",
+    "message_hi": "आज जिस चीज़ ने आपको मुस्कुराया उसके बारे में सोचें। जीवन की अच्छी चीज़ों पर ध्यान देना बेहतर है!"
   },
   {
     "category": "outside",
@@ -132,7 +148,9 @@
     "title_cn": "激活20分钟",
     "message_cn": "在任何年龄段进行体育运动都很重要。做一些健身、瑜伽或散步。",
     "title_pt": "Ative por 20 minutos",
-    "message_pt": "É importante praticar esportes em qualquer idade. Faça ginástica, ioga ou caminhada."
+    "message_pt": "É importante praticar esportes em qualquer idade. Faça ginástica, ioga ou caminhada.",
+    "title_hi": "20 मिनट के लिए सक्रिय हों",
+    "message_hi": "किसी भी उम्र में शारीरिक रूप से सक्रिय रहना महत्वपूर्ण है। कुछ व्यायाम, योग या बस टहलने जाएं।"
   },
   {
     "category": "outside",
@@ -147,7 +165,9 @@
     "title_cn": " 对别人微笑",
     "message_cn": "对街上经过的人微笑可以让你和他人的一天变得更好。\n",
     "title_pt": " Sorria para os outros",
-    "message_pt": "Sorrir para as pessoas por quem você passa na rua pode melhorar o seu dia e o dos outros.\n"
+    "message_pt": "Sorrir para as pessoas por quem você passa na rua pode melhorar o seu dia e o dos outros.\n",
+    "title_hi": "मुस्कुराएं!",
+    "message_hi": "सड़क पर मिलने वाले लोगों को देखकर मुस्कुराना आपके और दूसरों के दिन को बेहतर बना सकता है।"
   },
   {
     "category": "outside",
@@ -162,7 +182,9 @@
     "title_cn": "去理发店",
     "message_cn": "照顾好自己很重要。去理发店放松并结识朋友。\n",
     "title_pt": "Vá ao cabeleireiro",
-    "message_pt": "Cuidar de si mesmo é importante. Vá ao cabeleireiro para relaxar e conhecer pessoas.\n"
+    "message_pt": "Cuidar de si mesmo é importante. Vá ao cabeleireiro para relaxar e conhecer pessoas.\n",
+    "title_hi": "सैलून जाएं ",
+    "message_hi": "अपने लिए समय निकालना आवश्यक है। आराम करने और नए लोगों से मिलने के लिए हेयर अपॉइंटमेंट का आनंद लें। "
   },
   {
     "category": "outside",
@@ -177,6 +199,8 @@
     "title_cn": "出去散步",
     "message_cn": "在家外进行活动可以让您保持社交联系，而不是孤立自己。",
     "title_pt": "Sair para uma caminhada",
-    "message_pt": "Fazer atividades fora de casa permite manter conexões sociais e não se isolar."
+    "message_pt": "Fazer atividades fora de casa permite manter conexões sociais e não se isolar.",
+    "title_hi": "टहलने जाएं",
+    "message_hi": "घर के बाहर गतिविधियाँ करने से आप सामाजिक रूप से जुड़े रहते हैं और खुद को अलग-थलग नहीं करते।"
   }
 ]

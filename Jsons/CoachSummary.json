@@ -13,7 +13,8 @@
       "nl": "Hallo <playerName>! Hier is uw wekelijkse rapport:",
       "cn": "你好<playerName>！这是您的每周报告：",
       "de": "Hallo <playerName>! Hier ist Ihr wöchentlicher Bericht:",
-      "es": "¡Hola <playerName>! Aquí está su informe semanal:"
+      "es": "¡Hola <playerName>! Aquí está su informe semanal:",
+      "hi": "नमस्ते <playerName>! यहाँ आपकी साप्ताहिक रिपोर्ट है:"
     }
   },
   {
@@ -30,7 +31,8 @@
       "nl": "Hallo <playerName>, een overzicht van je prestaties deze week:",
       "cn": "您好<playerName>，请概述一下您本周的表现：",
       "de": "Hallo <playerName>, ein Überblick über deine Leistung diese Woche:",
-      "es": "Hola, <playerName>, un resumen de tu desempeño esta semana:"
+      "es": "Hola, <playerName>, un resumen de tu desempeño esta semana:",
+      "hi": "नमस्ते <playerName>, इस सप्ताह आपके प्रदर्शन का एक अवलोकन:"
     }
   },
   {
@@ -47,7 +49,8 @@
       "nl": "<playerName>, hier zijn je statistieken voor de week: ",
       "cn": "<playerName>，这是您本周的统计数据： ",
       "de": "<playerName>, hier sind deine Statistiken für die Woche: ",
-      "es": "<playerName>, aquí están tus estadísticas de la semana: "
+      "es": "<playerName>, aquí están tus estadísticas de la semana: ",
+      "hi": "<playerName>, यहाँ इस सप्ताह के आपके आँकड़े हैं: "
     }
   },
   {
@@ -64,7 +67,8 @@
       "nl": "Je hebt deze week minimaal drie dagen gespeeld, wat goed is om je hersenen in vorm te houden. Gefeliciteerd met je inzet! ",
       "cn": "您本周至少玩了三天，这对于保持大脑健康非常有用。祝贺您的承诺！ ",
       "de": "Sie haben diese Woche mindestens drei Tage gespielt, was gut ist, um Ihr Gehirn in Form zu halten. Herzlichen Glückwunsch zu Ihrem Engagement! ",
-      "es": "Has jugado al menos tres días esta semana, lo cual es fantástico para mantener tu cerebro en forma. ¡Felicitaciones por su compromiso! "
+      "es": "Has jugado al menos tres días esta semana, lo cual es fantástico para mantener tu cerebro en forma. ¡Felicitaciones por su compromiso! ",
+      "hi": "आपने इस सप्ताह कम से कम तीन दिन खेला है, जो आपके दिमाग को चुस्त रखने के लिए बहुत अच्छा है। आपकी प्रतिबद्धता के लिए बधाई! "
     }
   },
   {
@@ -81,7 +85,8 @@
       "nl": "Je hebt deze week minimaal drie dagen gespeeld, dat is een mooie inzet. Houd de vaart erin!  ",
       "cn": "你这周至少打了三天比赛，这是一个伟大的承诺。保持势头！  ",
       "de": "Du hast diese Woche mindestens drei Tage gespielt, das ist eine tolle Verpflichtung. Bleiben Sie dran!  ",
-      "es": "Jugaste al menos tres días esta semana, eso es un gran compromiso. ¡Sigue el impulso!  "
+      "es": "Jugaste al menos tres días esta semana, eso es un gran compromiso. ¡Sigue el impulso!  ",
+      "hi": "आपने इस सप्ताह कम से कम तीन दिन खेला, यह एक शानदार प्रतिबद्धता है। इसी गति को बनाए रखें!  "
     }
   },
   {
@@ -98,7 +103,8 @@
       "nl": "Deze week minimaal drie dagen spelen, een goed tempo om vooruitgang te boeken. Goed gedaan!",
       "cn": "这周至少打了三天，进展顺利。干得好！",
       "de": "Mindestens drei Spieltage diese Woche, ein gutes Tempo, um voranzukommen. Gut gemacht!",
-      "es": "Al menos tres días de juego esta semana, un buen ritmo para progresar. ¡Bien hecho!"
+      "es": "Al menos tres días de juego esta semana, un buen ritmo para progresar. ¡Bien hecho!",
+      "hi": "इस सप्ताह कम से कम तीन दिन खेलना, प्रगति के लिए एक अच्छी गति है। शाबाश!"
     }
   },
   {
@@ -115,7 +121,8 @@
       "nl": "Drie of meer dagen spelen deze week is een goede gewoonte die je geheugen en concentratie ten goede komt. Ga verder in je eigen tempo!",
       "cn": "本周玩三天或以上是一个很好的习惯，可以帮助你的记忆力和注意力。按照自己的节奏继续！",
       "de": "Drei oder mehr Spieltage in dieser Woche sind eine tolle Angewohnheit, die Ihr Gedächtnis und Ihre Konzentration fördert. Fahren Sie in Ihrem eigenen Tempo fort!",
-      "es": "Tres o más días de juego esta semana es un gran hábito que ayuda a tu memoria y concentración. ¡Continúa a tu propio ritmo!"
+      "es": "Tres o más días de juego esta semana es un gran hábito que ayuda a tu memoria y concentración. ¡Continúa a tu propio ritmo!",
+      "hi": "इस सप्ताह तीन या अधिक दिन खेलना एक बेहतरीन आदत है जो आपकी स्मृति और एकाग्रता में मदद करती है। इसे जारी रखें! "
     }
   },
   {
@@ -132,7 +139,8 @@
       "nl": "Je hebt deze week regelmatig gespeeld en dat is heel goed voor het stimuleren van je geheugen. Ik hoop dat je genoten hebt van de spellen! ",
       "cn": "这周你经常玩游戏，这对于激发你的记忆力是一件非常好的事情。我希望你喜欢这些游戏！ ",
       "de": "Sie haben diese Woche regelmäßig gespielt, und das ist sehr gut für die Anregung Ihres Gedächtnisses. Ich hoffe, die Spiele haben euch gefallen! ",
-      "es": "Has estado jugando con regularidad esta semana y eso es muy bueno para estimular tu memoria. ¡Espero que hayas disfrutado de los juegos! "
+      "es": "Has estado jugando con regularidad esta semana y eso es muy bueno para estimular tu memoria. ¡Espero que hayas disfrutado de los juegos! ",
+      "hi": "आप इस सप्ताह नियमित रूप से खेल रहे हैं, और यह आपकी स्मृति को उत्तेजित करने के लिए बहुत अच्छी बात है। आगे बढ़ते रहें! "
     }
   },
   {
@@ -149,7 +157,8 @@
       "nl": "Je hebt deze week een aantal dagen gespeeld en het is een geweldige manier om je geheugen en concentratie op peil te houden. Ga verder in je eigen tempo en vooral: veel plezier!",
       "cn": "这周你已经玩了几天了，这是保持记忆力和注意力的好方法。按照自己的节奏继续，最重要的是，玩得开心！",
       "de": "Sie haben diese Woche mehrere Tage gespielt und es ist eine großartige Möglichkeit, Ihr Gedächtnis und Ihre Konzentration zu bewahren. Gehen Sie in Ihrem eigenen Tempo weiter und haben Sie vor allem Spaß!",
-      "es": "Has jugado varios días esta semana y es una excelente manera de mantener la memoria y la concentración. ¡Continúa a tu propio ritmo y sobre todo, diviértete!"
+      "es": "Has jugado varios días esta semana y es una excelente manera de mantener la memoria y la concentración. ¡Continúa a tu propio ritmo y sobre todo, diviértete!",
+      "hi": "आपने इस सप्ताह कई दिन खेला है, और यह आपकी स्मृति और एकाग्रता बनाए रखने का एक शानदार तरीका है। इसी तरह आगे बढ़ते रहें! "
     }
   },
   {
@@ -166,7 +175,8 @@
       "nl": "Je hebt deze week minder dan drie dagen gespeeld. Vergeet niet dat regelmaat de sleutel is tot het maximaliseren van de voordelen.",
       "cn": "您这周玩的时间还不到三天。请记住，规律性是实现效益最大化的关键。",
       "de": "Du hast diese Woche weniger als drei Tage gespielt. Denken Sie daran, dass Regelmäßigkeit der Schlüssel zur Maximierung des Nutzens ist.",
-      "es": "Jugaste menos de tres días esta semana. Recuerde, la regularidad es la clave para maximizar los beneficios."
+      "es": "Jugaste menos de tres días esta semana. Recuerde, la regularidad es la clave para maximizar los beneficios.",
+      "hi": "आपने इस सप्ताह तीन दिन से कम खेला। याद रखें, अधिकतम लाभ के लिए नियमितता सबसे महत्वपूर्ण है।"
     }
   },
   {
@@ -183,7 +193,8 @@
       "nl": "Deze week minder dan drie speeldagen. Vergeet niet dat regelmatige beoefening essentieel is om vooruitgang te boeken.",
       "cn": "这周玩的时间还不到三天。请记住，定期练习对于进步至关重要。",
       "de": "Weniger als drei Spieltage diese Woche. Denken Sie daran, dass regelmäßiges Üben für den Fortschritt unerlässlich ist.",
-      "es": "Menos de tres días de juego esta semana. Recuerde, la práctica regular es esencial para progresar."
+      "es": "Menos de tres días de juego esta semana. Recuerde, la práctica regular es esencial para progresar.",
+      "hi": "इस सप्ताह तीन दिन से कम खेला। याद रखें, प्रगति के लिए नियमित अभ्यास आवश्यक है।"
     }
   },
   {
@@ -200,7 +211,8 @@
       "nl": "Je hebt deze week minder dan drie dagen gespeeld. Een beetje meer consistentie zal u helpen uw prestaties te maximaliseren.",
       "cn": "您这周玩的时间还不到三天。多一点一致性将帮助你最大限度地提高你的表现。",
       "de": "Du hast diese Woche weniger als drei Tage gespielt. Etwas mehr Konstanz wird Ihnen helfen, Ihre Leistung zu maximieren.",
-      "es": "Jugaste menos de tres días esta semana. Un poco más de consistencia te ayudará a maximizar tu rendimiento."
+      "es": "Jugaste menos de tres días esta semana. Un poco más de consistencia te ayudará a maximizar tu rendimiento.",
+      "hi": "आपने इस सप्ताह तीन दिन से कम खेला। थोड़ी अधिक निरंतरता आपके प्रदर्शन को अधिकतम करने में मदद करेगी। "
     }
   },
   {
@@ -217,7 +229,8 @@
       "nl": "Soms is het moeilijk om consistent te spelen, en dat is volkomen normaal. Aarzel indien nodig niet om een ​​dierbare te vragen u te vergezellen voor een vriendelijk moment.",
       "cn": "有时很难保持一致的演奏，这是完全正常的。如有必要，请毫不犹豫地邀请您所爱的人陪伴您度过一段友好的时光。",
       "de": "Manchmal ist es schwierig, konstant zu spielen, und das ist völlig normal. Zögern Sie bei Bedarf nicht, einen geliebten Menschen zu bitten, Sie für einen freundlichen Moment zu begleiten.",
-      "es": "A veces es difícil jugar de forma consistente y eso es completamente normal. Si es necesario, no dudes en pedirle a un ser querido que te acompañe en un momento amistoso."
+      "es": "A veces es difícil jugar de forma consistente y eso es completamente normal. Si es necesario, no dudes en pedirle a un ser querido que te acompañe en un momento amistoso.",
+      "hi": "कभी-कभी लगातार खेलना कठिन होता है, और यह बिल्कुल सामान्य है। यदि आवश्यक हो, तो अनुस्मारक सेट करने में संकोच न करें। "
     }
   },
   {
@@ -234,7 +247,8 @@
       "nl": "Zelfs als je niet zoveel hebt gespeeld als je had gewild, telt elk spel. Het belangrijkste is om plezier te hebben!",
       "cn": "即使你没有玩到你想要的那么多，每场比赛都很重要。重要的是玩得开心！",
       "de": "Auch wenn Sie nicht so viel gespielt haben, wie Sie gerne hätten, zählt jedes Spiel. Das Wichtigste ist, Spaß zu haben!",
-      "es": "Incluso si no has jugado tanto como te hubiera gustado, cada partida cuenta. ¡Lo importante es divertirse!"
+      "es": "Incluso si no has jugado tanto como te hubiera gustado, cada partida cuenta. ¡Lo importante es divertirse!",
+      "hi": "भले ही आपने उतना नहीं खेला जितना आप चाहते थे, हर खेल मायने रखता है। महत्वपूर्ण बात यह है कि आप खेलते रहें! "
     }
   },
   {
@@ -251,7 +265,8 @@
       "nl": "Elke gespeelde wedstrijd is een grote overwinning. Als je vaker wilt spelen, kun je een geliefde om wat hulp vragen om aan de slag te gaan.\n",
       "cn": "每场比赛都是一场伟大的胜利。如果您想更频繁地玩游戏，可以向您所爱的人寻求一点帮助来帮助您开始游戏。\n",
       "de": "Jedes gespielte Spiel ist ein großer Sieg. Wenn Sie öfter spielen möchten, können Sie einen geliebten Menschen um ein wenig Hilfe bitten, um Ihnen den Einstieg zu erleichtern.\n",
-      "es": "Cada partido jugado es una gran victoria. Si quieres jugar más a menudo, puedes pedirle un poco de ayuda a un ser querido para empezar.\n"
+      "es": "Cada partido jugado es una gran victoria. Si quieres jugar más a menudo, puedes pedirle un poco de ayuda a un ser querido para empezar.\n",
+      "hi": "खेला गया हर खेल एक बड़ी जीत है। यदि आप अधिक बार खेलना चाहते हैं, तो आप किसी प्रियजन से आपको याद दिलाने के लिए कह सकते हैं! "
     }
   },
   {
@@ -268,7 +283,8 @@
       "nl": "Je speelt een breed scala aan games, wat ideaal is voor het stimuleren van meerdere cognitieve functies. Bravo voor de diversiteit van je spelkeuzes! ",
       "cn": "您可以玩各种各样的游戏，这非常适合刺激多种认知功能。为您游戏选择的多样性而欢呼！ ",
       "de": "Sie spielen eine breite Palette von Spielen, die sich ideal zur Stimulierung mehrerer kognitiver Funktionen eignet. Bravo für die Vielfalt Ihrer Spielauswahl! ",
-      "es": "Juegas a una amplia gama de juegos, lo que es ideal para estimular varias funciones cognitivas. ¡Bravo por la diversidad de tus opciones de juego! "
+      "es": "Juegas a una amplia gama de juegos, lo que es ideal para estimular varias funciones cognitivas. ¡Bravo por la diversidad de tus opciones de juego! ",
+      "hi": "आप विभिन्न प्रकार के खेल खेलते हैं, जो कई संज्ञानात्मक कार्यों को उत्तेजित करने के लिए आदर्श है। आपकी विविधता के लिए शाबाश! "
     }
   },
   {
@@ -285,7 +301,8 @@
       "nl": "Je hebt deze week verschillende spellen geprobeerd, een geweldige manier om verschillende delen van je hersenen te bewerken. Blijf doorgaan!",
       "cn": "本周你尝试了不同的游戏，这是锻炼大脑不同部分的好方法。继续前进！",
       "de": "Sie haben diese Woche verschiedene Spiele ausprobiert, eine großartige Möglichkeit, verschiedene Teile Ihres Gehirns zu trainieren. Weitermachen!",
-      "es": "Has probado diferentes juegos esta semana, una excelente manera de trabajar diferentes partes de tu cerebro. ¡Sigue adelante!"
+      "es": "Has probado diferentes juegos esta semana, una excelente manera de trabajar diferentes partes de tu cerebro. ¡Sigue adelante!",
+      "hi": "आपने इस सप्ताह विभिन्न खेल आज़माए हैं, जो आपके दिमाग के विभिन्न हिस्सों को सक्रिय करने का एक शानदार तरीका है। इसी तरह आगे बढ़ते रहें! "
     }
   },
   {
@@ -302,7 +319,8 @@
       "nl": "Ruim vijf verschillende spellen deze week! Deze soort is ideaal voor het maximaliseren van je mentale behendigheid.",
       "cn": "本周超过五种不同的游戏！这种压力非常适合最大限度地提高您的思维敏捷性。",
       "de": "Mehr als fünf verschiedene Spiele diese Woche! Diese Sorte ist ideal zur Maximierung Ihrer geistigen Beweglichkeit.",
-      "es": "¡Más de cinco juegos diferentes esta semana! Esta variedad es ideal para maximizar tu agilidad mental."
+      "es": "¡Más de cinco juegos diferentes esta semana! Esta variedad es ideal para maximizar tu agilidad mental.",
+      "hi": "इस सप्ताह पाँच से अधिक विभिन्न खेल! यह विविधता आपकी मानसिक चपलता को अधिकतम करने के लिए आदर्श है।"
     }
   },
   {
@@ -319,7 +337,8 @@
       "nl": "Je speelt voornamelijk <gameName>. Dit is een uitstekende keuze! Dit spel werkt aan je <cognitiveFunction>-vaardigheden, en je hebt grote consistentie getoond in deze activiteit.",
       "cn": "您主要玩<游戏名称>。这是一个绝佳的选择！这个游戏可以锻炼你的<cognitiveFunction>技能，并且你在这个活动中表现出了很强的一致性。",
       "de": "Du spielst hauptsächlich <gameName>. Das ist eine ausgezeichnete Wahl! Dieses Spiel trainiert Ihre <cognitiveFunction>-Fähigkeiten und Sie haben bei dieser Aktivität große Konsequenz gezeigt.",
-      "es": "Juegas principalmente a <gameName>. ¡Esta es una excelente elección! Este juego trabaja tus habilidades de <funcióncognitiva> y has demostrado una gran coherencia en esta actividad."
+      "es": "Juegas principalmente a <gameName>. ¡Esta es una excelente elección! Este juego trabaja tus habilidades de <funcióncognitiva> y has demostrado una gran coherencia en esta actividad.",
+      "hi": "आप मुख्य रूप से <gameName> खेलते हैं। यह एक उत्कृष्ट विकल्प है! यह खेल आपकी <cognitiveFunction> पर काम करता है। "
     }
   },
   {
@@ -336,7 +355,8 @@
       "nl": "Je richt je vooral op <gameName>, een uitstekende keuze om je vaardigheden in <cognitiveFunction> te versterken.",
       "cn": "您主要关注<gameName>，这是增强您在<cognitiveFunction>中的能力的绝佳选择。",
       "de": "Sie konzentrieren sich hauptsächlich auf <gameName>, eine ausgezeichnete Wahl zur Stärkung Ihrer Fähigkeiten in <cognitiveFunction>.",
-      "es": "Te concentras principalmente en <gameName>, una excelente opción para fortalecer tus habilidades en <cognitiveFunction>."
+      "es": "Te concentras principalmente en <gameName>, una excelente opción para fortalecer tus habilidades en <cognitiveFunction>.",
+      "hi": "आप मुख्य रूप से <gameName> पर ध्यान केंद्रित करते हैं, जो <cognitiveFunction> में अपनी क्षमताओं को मजबूत करने के लिए एक उत्कृष्ट विकल्प है। "
     }
   },
   {
@@ -353,7 +373,8 @@
       "nl": "Je geeft de voorkeur aan <gameName>, wat geweldig is voor het verbeteren van je <cognitiveFunction>.",
       "cn": "您喜欢<游戏名称>，这对于提高您的<认知功能>很有帮助。",
       "de": "Sie bevorzugen <gameName>, was sich hervorragend zur Verbesserung Ihrer <cognitiveFunction> eignet.",
-      "es": "Prefieres <gameName>, que es excelente para mejorar tu <cognitiveFunction>."
+      "es": "Prefieres <gameName>, que es excelente para mejorar tu <cognitiveFunction>.",
+      "hi": "आप <gameName> को पसंद करते हैं, जो आपकी <cognitiveFunction> को बेहतर बनाने के लिए बहुत अच्छा है।"
     }
   },
   {
@@ -370,7 +391,8 @@
       "nl": "\nJe vindt het spel <gameName> erg leuk: het past goed bij je, en dat is het belangrijkste. Blijf ervan genieten in je eigen tempo!",
       "cn": "\n你真的很喜欢这个游戏<gameName>：它很适合你，这是最重要的。继续按照自己的节奏享受吧！",
       "de": "\nDir gefällt das Spiel <gameName> wirklich: Es passt gut zu dir, und das ist die Hauptsache. Genießen Sie es weiterhin in Ihrem eigenen Tempo!",
-      "es": "\nTe gusta mucho el juego <gameName>: te sienta bien y eso es lo principal. ¡Continúa disfrutándolo a tu propio ritmo!"
+      "es": "\nTe gusta mucho el juego <gameName>: te sienta bien y eso es lo principal. ¡Continúa disfrutándolo a tu propio ritmo!",
+      "hi": "\nआपको <gameName> खेल वास्तव में पसंद है: यह आपके लिए उपयुक्त है, और यही सबसे महत्वपूर्ण बात है। इसका आनंद लेते रहें! "
     }
   },
   {
@@ -387,7 +409,8 @@
       "nl": "Je houdt vooral van <gameName>, en dat is heel goed. Dit spel gebruikt je <cognitiveFunction> op een zachte en prettige manier. Genieten! Ik nodig je ook uit om <gameName2> te ontdekken, wat je misschien ook leuk vindt.",
       "cn": "你特别喜欢<gameName>，这是一件非常好的事情。这个游戏以一种温和而愉快的方式使用你的<cognitiveFunction>。享受！我还邀请您发现您可能也会喜欢的<gameName2>。",
       "de": "<gameName> gefällt Dir besonders gut, und das ist auch gut so. Dieses Spiel nutzt Ihre <cognitiveFunction> auf sanfte und angenehme Weise. Genießen! Ich lade Sie auch ein, <gameName2> zu entdecken, das Ihnen auch gefallen könnte.",
-      "es": "Te gusta especialmente <gameName>, y eso es algo muy bueno. Este juego utiliza tu <cognitiveFunction> de una manera suave y placentera. ¡Disfrutar! También te invito a descubrir <gameName2> que también te puede gustar."
+      "es": "Te gusta especialmente <gameName>, y eso es algo muy bueno. Este juego utiliza tu <cognitiveFunction> de una manera suave y placentera. ¡Disfrutar! También te invito a descubrir <gameName2> que también te puede gustar.",
+      "hi": "आपको <gameName> विशेष रूप से पसंद है, और यह बहुत अच्छी बात है। यह खेल आपकी <cognitiveFunction> का उपयोग करता है। "
     }
   },
   {
@@ -404,7 +427,8 @@
       "nl": "Regelmatig <gameName> spelen is een goede gewoonte. Als je het leuk vindt, waarom probeer je dan niet een ander spel voor een beetje variatie? Ik kan je <gameName2> adviseren, je zou het leuk moeten vinden! ",
       "cn": "经常玩<gameName>是一个很好的习惯。如果您喜欢它，为什么不尝试其他游戏来尝试一下呢？我可以建议你<gameName2>，你应该喜欢它！ ",
       "de": "Regelmäßiges Spielen von <gameName> ist eine tolle Angewohnheit. Wenn es Ihnen gefällt, probieren Sie für etwas Abwechslung doch mal ein anderes Spiel aus. Ich kann dir raten <gameName2>, es sollte dir gefallen! ",
-      "es": "Jugar <gameName> con regularidad es un gran hábito. Si te gusta, ¿por qué no pruebas con otro juego para tener un poco de variedad? Puedo aconsejarte <gameName2>, ¡te gustará! "
+      "es": "Jugar <gameName> con regularidad es un gran hábito. Si te gusta, ¿por qué no pruebas con otro juego para tener un poco de variedad? Puedo aconsejarte <gameName2>, ¡te gustará! ",
+      "hi": "नियमित रूप से <gameName> खेलना एक बेहतरीन आदत है। यदि आप इसे पसंद करते हैं, तो थोड़ी विविधता के लिए कोई अन्य खेल क्यों न आज़माएं? "
     }
   },
   {
@@ -421,7 +445,8 @@
       "nl": "We hebben opmerkelijke vooruitgang opgemerkt in <gameName>. U verbetert uw algehele prestaties en het laat zien dat uw inspanningen vruchten afwerpen. ",
       "cn": "我们注意到 <gameName> 取得了一些显着的进展。你提高了你的整体表现，这表明你的努力得到了回报。 ",
       "de": "Wir haben einige bemerkenswerte Fortschritte bei <gameName> festgestellt. Sie verbessern Ihre Gesamtleistung und es zeigt, dass sich Ihre Bemühungen auszahlen. ",
-      "es": "Hemos notado un progreso notable en <gameName>. Mejora su rendimiento general y demuestra que sus esfuerzos están dando sus frutos. "
+      "es": "Hemos notado un progreso notable en <gameName>. Mejora su rendimiento general y demuestra que sus esfuerzos están dando sus frutos. ",
+      "hi": "हमने <gameName> में कुछ उल्लेखनीय प्रगति देखी है। आप अपने समग्र प्रदर्शन में सुधार कर रहे हैं, और यह दिख रहा है! "
     }
   },
   {
@@ -438,7 +463,8 @@
       "nl": "Je hebt opmerkelijke vooruitgang geboekt in <gameName>. Jouw inspanningen zijn duidelijk zichtbaar!",
       "cn": "您在<gameName>中取得了显着的进步。你的努力是有目共睹的！",
       "de": "Sie haben in <gameName> bemerkenswerte Fortschritte gemacht. Ihr Einsatz ist deutlich sichtbar!",
-      "es": "Has logrado un progreso notable en <gameName>. ¡Tus esfuerzos son claramente visibles!"
+      "es": "Has logrado un progreso notable en <gameName>. ¡Tus esfuerzos son claramente visibles!",
+      "hi": "आपने <gameName> में उल्लेखनीय प्रगति की है। आपके प्रयास स्पष्ट रूप से दिखाई दे रहे हैं!"
     }
   },
   {
@@ -455,7 +481,8 @@
       "nl": "Je hebt je prestaties in <gameName> verbeterd. Ga zo door, het werpt zijn vruchten af!",
       "cn": "您在 <gameName> 中的表现有所提高。坚持下去，就会有回报！",
       "de": "Sie haben Ihre Leistung in <gameName> verbessert. Weiter so, es zahlt sich aus!",
-      "es": "Has mejorado tu rendimiento en <gameName>. ¡Sigue así, está dando sus frutos!"
+      "es": "Has mejorado tu rendimiento en <gameName>. ¡Sigue así, está dando sus frutos!",
+      "hi": "आपने <gameName> में अपने प्रदर्शन में सुधार किया है। इसे जारी रखें, यह रंग ला रहा है!"
     }
   },
   {
@@ -472,7 +499,8 @@
       "nl": "Je hebt de <trophy> gewonnen! Ga door met het voltooien van de uitdagingen om je verzameling te voltooien.",
       "cn": "你赢得了<trophy>！继续完成挑战以完成您的收藏。",
       "de": "Du hast die <trophy> gewonnen! Schließe weiterhin die Herausforderungen ab, um deine Sammlung zu vervollständigen.",
-      "es": "¡Has ganado el <trophy>! Continúe completando los desafíos para completar su colección."
+      "es": "¡Has ganado el <trophy>! Continúe completando los desafíos para completar su colección.",
+      "hi": "आपने <trophy> ट्रॉफी जीती है! अपना संग्रह पूरा करने के लिए चुनौतियाँ पूरी करते रहें।"
     }
   },
   {
@@ -489,7 +517,8 @@
       "nl": "Je hebt de <trophy> gewonnen. Blijf vooruitgang boeken om meer te krijgen.",
       "cn": "你赢得了<trophy>。不断进步以获得更多。",
       "de": "Du hast die <trophy> gewonnen. Machen Sie weiter, um mehr zu erreichen.",
-      "es": "Has ganado el <trophy>. Sigue progresando para conseguir más."
+      "es": "Has ganado el <trophy>. Sigue progresando para conseguir más.",
+      "hi": "आपने <trophy> ट्रॉफी जीती है। और अधिक पाने के लिए प्रगति करते रहें।"
     }
   },
   {
@@ -506,7 +535,8 @@
       "nl": "Je hebt de <trophy> gewonnen. Ga door met het voltooien van uitdagingen om meer te verdienen.",
       "cn": "你赢得了<trophy>。继续完成挑战以获得更多收入。",
       "de": "Du hast die <trophy> gewonnen. Schließe weiterhin Herausforderungen ab, um mehr zu verdienen.",
-      "es": "Has ganado el <trophy>. Continúe completando desafíos para ganar más."
+      "es": "Has ganado el <trophy>. Continúe completando desafíos para ganar más.",
+      "hi": "आपने <trophy> ट्रॉफी जीती है। और अधिक कमाने के लिए चुनौतियाँ पूरी करते रहें।"
     }
   },
   {
@@ -523,7 +553,8 @@
       "nl": "Je gemiddelde op het makkelijke niveau is <grade>. Waarom niet upgraden naar een gemiddeld niveau voor meer uitdagingen?",
       "cn": "您的简单级别平均水平是<grade>。为什么不升级到中级来迎接更多挑战呢？",
       "de": "Ihr Durchschnitt auf dem einfachen Niveau liegt bei <grade>. Warum nicht auf mittleres Niveau upgraden, um mehr Herausforderungen zu erleben?",
-      "es": "Tu promedio en el nivel fácil es <grade>. ¿Por qué no actualizar al nivel medio para enfrentar más desafíos?"
+      "es": "Tu promedio en el nivel fácil es <grade>. ¿Por qué no actualizar al nivel medio para enfrentar más desafíos?",
+      "hi": "आसान स्तर पर आपका औसत <grade> है। अधिक चुनौतियों के लिए मध्यम स्तर पर क्यों न बढ़ें?"
     }
   },
   {
@@ -540,7 +571,8 @@
       "nl": "Je behaalde een gemiddelde van <grade> op het makkelijke niveau. Het is tijd om het gemiddelde niveau te proberen voor meer stimulatie!",
       "cn": "您在简单级别中的平均成绩为<grade>。是时候尝试中等水平以获得更多刺激了！",
       "de": "Sie haben in der leichten Stufe einen Durchschnitt von <grade> erreicht. Es ist Zeit, die mittlere Stufe für mehr Stimulation auszuprobieren!",
-      "es": "Obtuviste un promedio de <grade> en el nivel fácil. ¡Es hora de probar el nivel medio para obtener más estimulación!"
+      "es": "Obtuviste un promedio de <grade> en el nivel fácil. ¡Es hora de probar el nivel medio para obtener más estimulación!",
+      "hi": "आपने आसान स्तर में <grade> का औसत हासिल किया। अधिक उत्तेजना के लिए मध्यम स्तर आज़माने का समय आ गया है! "
     }
   },
   {
@@ -557,7 +589,8 @@
       "nl": "Je hebt een gemiddelde van <grade> op het makkelijke niveau. Hoe zit het met upgraden naar een gemiddeld niveau om verder te komen?",
       "cn": "您的平均成绩为<grade>，处于简单级别。升级到中级以进一步进步怎么样？",
       "de": "Sie haben einen Durchschnitt von <grade> auf der leichten Stufe. Wie wäre es mit einem Upgrade auf die mittlere Stufe, um weiter voranzukommen?",
-      "es": "Tienes un promedio de <grade> en el nivel fácil. ¿Qué tal actualizar al nivel medio para seguir progresando?"
+      "es": "Tienes un promedio de <grade> en el nivel fácil. ¿Qué tal actualizar al nivel medio para seguir progresando?",
+      "hi": "आसान स्तर पर आपका औसत <grade> है। आगे बढ़ने के लिए मध्यम स्तर पर अपग्रेड करने के बारे में क्या ख्याल है? "
     }
   },
   {
@@ -574,7 +607,8 @@
       "nl": "Je hebt een gemiddelde van <grade> op gemiddeld niveau. Waarom probeer je niet het moeilijke niveau om nog verder te gaan?",
       "cn": "您的平均<grade>处于平均水平。为什么不尝试一下难度级别，走得更远呢？",
       "de": "Sie haben einen Durchschnitt von <grade> auf durchschnittlichem Niveau. Warum versuchen Sie es nicht mit dem schwierigen Level, um noch weiter zu kommen?",
-      "es": "Tienes una media de <grade> en nivel medio. ¿Por qué no probar el nivel difícil para llegar aún más lejos?"
+      "es": "Tienes una media de <grade> en nivel medio. ¿Por qué no probar el nivel difícil para llegar aún más lejos?",
+      "hi": "मध्यम स्तर पर आपका औसत <grade> है। और आगे बढ़ने के लिए कठिन स्तर क्यों न आज़माएं?"
     }
   },
   {
@@ -591,7 +625,8 @@
       "nl": "Met een uitstekend <grade> gemiddelde op het middenniveau zou het interessant zijn om het harde niveau te verkennen!",
       "cn": "中等水平的<grade>平均水平非常出色，探索困难水平会​​很有趣！",
       "de": "Mit einem hervorragenden <grade>-Durchschnitt im mittleren Niveau wäre es interessant, das schwere Niveau zu erkunden!",
-      "es": "Con un promedio <grade> excelente en el nivel medio, ¡sería interesante explorar el nivel difícil!"
+      "es": "Con un promedio <grade> excelente en el nivel medio, ¡sería interesante explorar el nivel difícil!",
+      "hi": "मध्यम स्तर में <grade> के उत्कृष्ट औसत के साथ, कठिन स्तर का पता लगाना दिलचस्प होगा! "
     }
   },
   {
@@ -608,7 +643,8 @@
       "nl": "Je hebt een gemiddelde van <score> op het gemiddelde niveau. Het is tijd om je vaardigheden op de proef te stellen op het moeilijke niveau!",
       "cn": "您的平均 <score> 处于平均水平。是时候在困难的关卡中考验你的技能了！",
       "de": "Sie haben einen Durchschnitt von <score> auf dem durchschnittlichen Niveau. Es ist Zeit, Ihre Fähigkeiten auf dem schwierigen Level unter Beweis zu stellen!",
-      "es": "Tienes una media de <score> en el nivel medio. ¡Es hora de poner a prueba tus habilidades en el nivel difícil!"
+      "es": "Tienes una media de <score> en el nivel medio. ¡Es hora de poner a prueba tus habilidades en el nivel difícil!",
+      "hi": "मध्यम स्तर पर आपका औसत <grade> है। कठिन स्तर पर अपनी क्षमताओं की परीक्षा लेने का समय आ गया है! "
     }
   },
   {
@@ -625,7 +661,8 @@
       "nl": "Ga door met het verkennen van verschillende opties om uw vaardigheden nog verder te versterken.",
       "cn": "继续探索不同的选择来进一步增强你的能力。",
       "de": "Erkunden Sie weiterhin verschiedene Optionen, um Ihre Fähigkeiten noch weiter zu stärken.",
-      "es": "Continúe explorando diferentes opciones para fortalecer aún más sus habilidades."
+      "es": "Continúe explorando diferentes opciones para fortalecer aún más sus habilidades.",
+      "hi": "अपनी क्षमताओं को और मजबूत करने के लिए विभिन्न विकल्पों का पता लगाते रहें।"
     }
   },
   {
@@ -642,7 +679,8 @@
       "nl": "Zet deze geweldige dynamiek voort door nieuwe uitdagingen te verkennen en je vaardigheden te verfijnen.",
       "cn": "通过探索新的挑战和提高你的技能来继续这一伟大的动力。",
       "de": "Setzen Sie diese großartige Dynamik fort, indem Sie neue Herausforderungen erkunden und Ihre Fähigkeiten verfeinern.",
-      "es": "Continúa esta gran dinámica explorando nuevos desafíos y perfeccionando tus habilidades."
+      "es": "Continúa esta gran dinámica explorando nuevos desafíos y perfeccionando tus habilidades.",
+      "hi": "नई चुनौतियों का पता लगाकर और अपने कौशल को निखारकर इस शानदार गतिशीलता को जारी रखें।"
     }
   },
   {
@@ -659,7 +697,8 @@
       "nl": "Blijf betrokken en blijf nieuwe opties verkennen om uw game-ervaring te verrijken.",
       "cn": "保持参与并继续探索新的选项来丰富您的游戏体验。",
       "de": "Bleiben Sie engagiert und erkunden Sie weiterhin neue Optionen, um Ihr Spielerlebnis zu bereichern.",
-      "es": "Manténgase involucrado y continúe explorando nuevas opciones para enriquecer su experiencia de juego."
+      "es": "Manténgase involucrado y continúe explorando nuevas opciones para enriquecer su experiencia de juego.",
+      "hi": "जुड़े रहें और अपने गेमिंग अनुभव को समृद्ध करने के लिए नए विकल्पों का पता लगाते रहें।"
     }
   },
   {
@@ -676,7 +715,8 @@
       "nl": "Probeer wat vaker te spelen, het zal een verschil maken in je prestaties.",
       "cn": "尝试多玩一点，这会对你的表现产生影响。",
       "de": "Versuchen Sie, etwas öfter zu spielen, das wird sich positiv auf Ihre Leistung auswirken.",
-      "es": "Intenta jugar un poco más a menudo, esto marcará la diferencia en tu rendimiento."
+      "es": "Intenta jugar un poco más a menudo, esto marcará la diferencia en tu rendimiento.",
+      "hi": "थोड़ा अधिक बार खेलने का प्रयास करें, इससे आपके प्रदर्शन में अंतर आएगा।"
     }
   },
   {
@@ -693,7 +733,8 @@
       "nl": "Probeer uw speeltijd te verlengen, dit kan uw prestaties aanzienlijk verbeteren.",
       "cn": "尝试增加你的比赛时间，这确实可以提高你的表现。",
       "de": "Versuchen Sie, Ihre Spielzeit zu verlängern, das könnte Ihre Leistung wirklich verbessern.",
-      "es": "Intente aumentar su tiempo de juego, realmente podría mejorar su rendimiento."
+      "es": "Intente aumentar su tiempo de juego, realmente podría mejorar su rendimiento.",
+      "hi": "अपने खेलने का समय बढ़ाने का प्रयास करें, यह वास्तव में आपके प्रदर्शन में सुधार कर सकता है।"
     }
   },
   {
@@ -710,7 +751,8 @@
       "nl": "Door wat regelmatiger te spelen, zul je merkbare verbeteringen in je prestaties zien.",
       "cn": "通过更有规律地玩，您会发现自己的表现有明显的提高。",
       "de": "Wenn Sie etwas regelmäßiger spielen, werden Sie spürbare Verbesserungen Ihrer Leistung feststellen.",
-      "es": "Si juegas con un poco más de regularidad, verás mejoras notables en tu rendimiento."
+      "es": "Si juegas con un poco más de regularidad, verás mejoras notables en tu rendimiento.",
+      "hi": "थोड़ा अधिक नियमित रूप से खेलकर, आप अपने प्रदर्शन में ध्यान देने योग्य सुधार देखेंगे।"
     }
   },
   {
@@ -727,7 +769,8 @@
       "nl": "Ik zie dat je van uitdagingen houdt die je aandacht vereisen, een geweldige manier om je alertheid en concentratie te oefenen terwijl je plezier hebt. Hier is een tip die u kan helpen nog verder te gaan: neem indien nodig pauzes. Aandacht werkt het beste wanneer dit in korte uitbarstingen nodig is. Aarzel niet om tussen twee games door adem te halen.",
       "cn": "我发现你喜欢需要你集中注意力的挑战，这是在享受乐趣的同时锻炼你的警觉性和注意力的好方法。这里有一个可以帮助您走得更远的提示：必要时休息一下。当需要短暂集中注意力时效果最好。在两场比赛之间不要犹豫喘口气。",
       "de": "Ich sehe, dass Sie Herausforderungen mögen, die Ihre Aufmerksamkeit erfordern, eine großartige Möglichkeit, Ihre Aufmerksamkeit und Konzentration zu trainieren und dabei Spaß zu haben. Hier ist ein Tipp, der Ihnen noch weiterhelfen könnte: Machen Sie bei Bedarf Pausen. Aufmerksamkeit funktioniert am besten, wenn sie in kurzen Stößen erforderlich ist. Zögern Sie nicht, zwischen zwei Spielen durchzuatmen.",
-      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate descansos si es necesario. La atención funciona mejor cuando se requiere en períodos cortos. No dudes en respirar entre dos partidas."
+      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate descansos si es necesario. La atención funciona mejor cuando se requiere en períodos cortos. No dudes en respirar entre dos partidas.",
+      "hi": "मैं देख रहा हूँ कि आपको ऐसी चुनौतियाँ पसंद हैं जिनमें ध्यान की आवश्यकता होती है, जो आपकी सतर्कता और अवलोकन क्षमता को प्रशिक्षित करने का एक शानदार तरीका है। "
     }
   },
   {
@@ -744,7 +787,8 @@
       "nl": "Ik zie dat je van uitdagingen houdt die je aandacht vereisen, een geweldige manier om je alertheid en concentratie te oefenen terwijl je plezier hebt. Een klein advies om soepel verder te gaan: let goed op de details. Soms kan een klein verschil alles in een spel veranderen! Neem de tijd om te analyseren voordat u reageert.",
       "cn": "我发现你喜欢需要你集中注意力的挑战，这是在享受乐趣的同时锻炼你的警觉性和注意力的好方法。继续顺利进展的一点建议：密切关注细节。有时，一个小小的差异就可以改变游戏中的一切！在做出回应之前花点时间进行分析。",
       "de": "Ich sehe, dass Sie Herausforderungen mögen, die Ihre Aufmerksamkeit erfordern, eine großartige Möglichkeit, Ihre Aufmerksamkeit und Konzentration zu trainieren und dabei Spaß zu haben. Ein kleiner Ratschlag, um weiterhin reibungslos voranzukommen: Achten Sie genau auf die Details. Manchmal kann ein kleiner Unterschied alles in einem Spiel verändern! Nehmen Sie sich Zeit für eine Analyse, bevor Sie antworten.",
-      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Un pequeño consejo para seguir progresando sin problemas: presta mucha atención a los detalles. ¡A veces una pequeña diferencia puede cambiar todo en un juego! Tómate el tiempo para analizar antes de responder."
+      "es": "Veo que te gustan los desafíos que requieren tu atención, una excelente manera de ejercitar tu estado de alerta y concentración mientras te diviertes. Un pequeño consejo para seguir progresando sin problemas: presta mucha atención a los detalles. ¡A veces una pequeña diferencia puede cambiar todo en un juego! Tómate el tiempo para analizar antes de responder.",
+      "hi": "मैं देख रहा हूँ कि आपको ऐसी चुनौतियाँ पसंद हैं जिनमें ध्यान की आवश्यकता होती है, जो आपकी सतर्कता और अवलोकन क्षमता को प्रशिक्षित करने का एक शानदार तरीका है। "
     }
   },
   {
@@ -761,7 +805,8 @@
       "nl": "Spelletjes spelen die de aandacht stimuleren is een hele goede oefening om je concentratie te versterken. Neem de tijd: haast je niet, de aandacht wordt versterkt met geduld en concentratie. Ga zo door!",
       "cn": "玩激发注意力的游戏是加强注意力的很好的练习。慢慢来：不要着急，耐心和专注会增强注意力。继续努力吧！",
       "de": "Spiele zu spielen, die die Aufmerksamkeit anregen, ist eine sehr gute Übung, um die Konzentration zu stärken. Nehmen Sie sich Zeit: Beeilen Sie sich nicht, die Aufmerksamkeit wird durch Geduld und Konzentration gestärkt. Weiter so!",
-      "es": "Jugar juegos que estimulen la atención es un muy buen ejercicio para fortalecer tu concentración. Tómate tu tiempo: no te apresures, la atención se fortalece con paciencia y concentración. ¡Avanza!"
+      "es": "Jugar juegos que estimulen la atención es un muy buen ejercicio para fortalecer tu concentración. Tómate tu tiempo: no te apresures, la atención se fortalece con paciencia y concentración. ¡Avanza!",
+      "hi": "ध्यान को उत्तेजित करने वाले खेल खेलना आपकी एकाग्रता को मजबूत करने के लिए एक बहुत अच्छा अभ्यास है। इन संसाधनों का लाभ उठाएं! "
     }
   },
   {
@@ -778,7 +823,8 @@
       "nl": "Aandachtsspellen zijn perfect om alert te blijven en je observatievaardigheden aan te scherpen. En het lijkt erop dat je ze vooral leuk vindt! Om nog meer van je games te genieten, is hier een tip om te proberen: speel op een rustige plek. Minder afleiding betekent meer kansen om gefocust te blijven en volledig in het spel te blijven.",
       "cn": "注意力游戏非常适合保持警觉和提高观察能力。而且看来你还特别喜欢他们！为了更好地享受游戏的乐趣，可以尝试以下提示：在安静的地方玩。更少的干扰意味着更多的机会保持专注并全身心投入游戏。",
       "de": "Aufmerksamkeitsspiele eignen sich perfekt, um aufmerksam zu bleiben und Ihre Beobachtungsfähigkeiten zu schärfen. Und es scheint, dass sie dir besonders gut gefallen! Damit Sie Ihre Spiele noch mehr genießen können, sollten Sie Folgendes ausprobieren: Spielen Sie an einem ruhigen Ort. Weniger Ablenkungen bedeuten mehr Chancen, konzentriert zu bleiben und voll im Spiel zu sein.",
-      "es": "Los juegos de atención son perfectos para mantenerte alerta y mejorar tus habilidades de observación. ¡Y parece que te gustan especialmente! Para disfrutar aún más de tus juegos, aquí tienes un consejo que puedes probar: juega en un lugar tranquilo. Menos distracciones significan más oportunidades de mantener la concentración y estar plenamente involucrado en el juego."
+      "es": "Los juegos de atención son perfectos para mantenerte alerta y mejorar tus habilidades de observación. ¡Y parece que te gustan especialmente! Para disfrutar aún más de tus juegos, aquí tienes un consejo que puedes probar: juega en un lugar tranquilo. Menos distracciones significan más oportunidades de mantener la concentración y estar plenamente involucrado en el juego.",
+      "hi": "ध्यान वाले खेल सतर्क रहने और अपनी अवलोकन क्षमता को तेज करने के लिए एकदम सही हैं। और ऐसा लगता है कि आपको ये पसंद हैं! "
     }
   },
   {
@@ -795,7 +841,8 @@
       "nl": "Je interesse in concentratiespellen is een goede gewoonte! Door regelmatig te spelen train je je geest terwijl je plezier hebt. Een tip die het verschil kan maken in je training: probeer verschillende spellen. Door op verschillende manieren aan je aandacht te werken (visueel zoeken, snelheid, onthouden) kun je dit vermogen dagelijks versterken.",
       "cn": "你对集中游戏的兴趣是一个很好的习惯！通过定期玩耍，您可以在享受美好时光的同时训练您的思维。可以对您的训练产生影响的提示：尝试不同的游戏。以多种形式（视觉搜索、速度、记忆）来锻炼你的注意力有助于每天增强这种能力。",
       "de": "Ihr Interesse an Konzentrationsspielen ist eine tolle Angewohnheit! Durch regelmäßiges Spielen trainieren Sie Ihren Geist und haben gleichzeitig Spaß. Ein Tipp, der Ihr Training verändern kann: Probieren Sie verschiedene Spiele aus. Die Arbeit an Ihrer Aufmerksamkeit in verschiedenen Formen (visuelle Suche, Geschwindigkeit, Auswendiglernen) trägt dazu bei, diese Fähigkeit täglich zu stärken.",
-      "es": "¡Tu interés por los juegos de concentración es un gran hábito! Al jugar con regularidad, entrenas tu mente mientras te lo pasas bien. Un consejo que puede marcar la diferencia en tu entrenamiento: prueba diferentes juegos. Trabajar tu atención en varias formas (búsqueda visual, velocidad, memorización) ayuda a fortalecer esta capacidad en el día a día."
+      "es": "¡Tu interés por los juegos de concentración es un gran hábito! Al jugar con regularidad, entrenas tu mente mientras te lo pasas bien. Un consejo que puede marcar la diferencia en tu entrenamiento: prueba diferentes juegos. Trabajar tu atención en varias formas (búsqueda visual, velocidad, memorización) ayuda a fortalecer esta capacidad en el día a día.",
+      "hi": "एकाग्रता वाले खेलों में आपकी रुचि एक बेहतरीन आदत है! नियमित रूप से खेलकर, आप मज़े करते हुए अपने दिमाग को प्रशिक्षित करते हैं! "
     }
   },
   {
@@ -812,7 +859,8 @@
       "nl": "Ik zie dat je van taalspelletjes houdt, een geweldige manier om je woordenschat te verrijken en je geest te oefenen terwijl je plezier hebt. Hier is een tip die je kan helpen nog verder te gaan: neem de tijd om de woorden in je hoofd of hardop uit te spreken. Hierdoor kunt u ze gemakkelijker onthouden en uw spreekvaardigheid verbeteren.",
       "cn": "我发现你喜欢语言游戏，这是在享受乐趣的同时丰富词汇量和锻炼思维的好方法。这里有一个可以帮助您走得更远的提示：花时间在脑海中清晰地表达或大声说出来。这可以使它们更容易记住并提高您的流利程度。",
       "de": "Ich sehe, dass Sie Sprachspiele mögen, eine großartige Möglichkeit, Ihren Wortschatz zu erweitern und Ihren Geist zu trainieren und dabei Spaß zu haben. Hier ist ein Tipp, der Ihnen noch weiterhelfen könnte: Nehmen Sie sich die Zeit, die Wörter im Kopf oder laut auszusprechen. Dadurch können Sie sich diese leichter merken und Ihre Sprachkompetenz verbessern.",
-      "es": "Veo que te gustan los juegos de lenguaje, una forma genial de enriquecer tu vocabulario y ejercitar tu mente mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate el tiempo para articular las palabras en tu cabeza o en voz alta. Esto puede hacer que sean más fáciles de recordar y mejorar su fluidez."
+      "es": "Veo que te gustan los juegos de lenguaje, una forma genial de enriquecer tu vocabulario y ejercitar tu mente mientras te diviertes. Aquí tienes un consejo que podría ayudarte a llegar aún más lejos: tómate el tiempo para articular las palabras en tu cabeza o en voz alta. Esto puede hacer que sean más fáciles de recordar y mejorar su fluidez.",
+      "hi": "मैं देख रहा हूँ कि आपको भाषा के खेल पसंद हैं, जो आपकी शब्दावली समृद्ध करने और मज़े करते हुए अपने दिमाग का व्यायाम करने का एक शानदार तरीका है! "
     }
   },
   {
@@ -829,7 +877,8 @@
       "nl": "Taalspelletjes zijn een geweldige manier om uw geheugen en begrip van woorden te vergroten. Een klein advies om soepel vooruitgang te blijven boeken: maak associaties! Verbind woorden met afbeeldingen of herinneringen, dit kan je helpen ze beter te onthouden.",
       "cn": "语言游戏是增强单词记忆和理解的好方法。继续顺利进步的一点建议：建立关联！将单词与图像或记忆联系起来，这可以帮助您更好地记住它们。",
       "de": "Sprachspiele sind eine großartige Möglichkeit, Ihr Gedächtnis und Ihr Wortverständnis zu verbessern. Ein kleiner Rat, um weiterhin reibungslos voranzukommen: Stellen Sie Assoziationen her! Verknüpfen Sie Wörter mit Bildern oder Erinnerungen. Dies kann Ihnen helfen, sich besser an sie zu erinnern.",
-      "es": "Los juegos de lenguaje son una excelente manera de mejorar la memoria y la comprensión de las palabras. Un pequeño consejo para seguir progresando sin problemas: ¡haz asociaciones! Conecta palabras con imágenes o recuerdos, esto puede ayudarte a recordarlos mejor."
+      "es": "Los juegos de lenguaje son una excelente manera de mejorar la memoria y la comprensión de las palabras. Un pequeño consejo para seguir progresando sin problemas: ¡haz asociaciones! Conecta palabras con imágenes o recuerdos, esto puede ayudarte a recordarlos mejor.",
+      "hi": "भाषा के खेल आपकी स्मृति और शब्दों की समझ को बढ़ावा देने का एक शानदार तरीका हैं। आगे बढ़ने की एक सलाह: नियमित रूप से खेलें! "
     }
   },
   {
@@ -846,7 +895,8 @@
       "nl": "Het spelen van spelletjes die uw taal uitdagen is een zeer goede gewoonte om uw geest te verrijken en uw geheugen actief te houden. Neem de tijd: haast je niet, denk na over de verschillende betekenissen van de woorden en de aanwijzingen die in het spel verborgen zijn.",
       "cn": "玩挑战你的语言的游戏是一个非常好的习惯，可以丰富你的思维并保持你的记忆活跃。慢慢来：不要着急，思考一下单词的不同含义以及游戏中隐藏的线索。",
       "de": "Spiele zu spielen, die Ihre Sprache herausfordern, ist eine sehr gute Angewohnheit, um Ihren Geist zu bereichern und Ihr Gedächtnis aktiv zu halten. Nehmen Sie sich Zeit: Beeilen Sie sich nicht, denken Sie über die verschiedenen Bedeutungen der Wörter und die im Spiel verborgenen Hinweise nach.",
-      "es": "Jugar juegos que desafíen tu idioma es un muy buen hábito para enriquecer tu mente y mantener activa tu memoria. Tómate tu tiempo: no te apresures, piensa en los diferentes significados de las palabras y las pistas que esconde el juego."
+      "es": "Jugar juegos que desafíen tu idioma es un muy buen hábito para enriquecer tu mente y mantener activa tu memoria. Tómate tu tiempo: no te apresures, piensa en los diferentes significados de las palabras y las pistas que esconde el juego.",
+      "hi": "ऐसे खेल खेलना जो आपकी भाषा को चुनौती देते हैं, आपके दिमाग को समृद्ध करने और अपनी स्मृति को सक्रिय रखने की बहुत अच्छी आदत है। "
     }
   },
   {
@@ -863,7 +913,8 @@
       "nl": "Taalspellen zijn perfect voor het ontwikkelen van uw spreekvaardigheid en het vermogen om met woorden te spelen. En het lijkt erop dat je ze vooral leuk vindt! Om nog meer van je games te genieten, is hier een tip die je kunt proberen: lees de woorden zo mogelijk hardop. Dit helpt om ze beter te integreren en het auditieve geheugen te versterken.",
       "cn": "语言游戏非常适合培养您的流利程度和文字游戏能力。而且看来你还特别喜欢他们！为了更好地享受游戏的乐趣，可以尝试以下提示：如果可能的话，大声朗读单词。这有助于更好地整合它们并加强听觉记忆。",
       "de": "Sprachspiele sind perfekt, um Ihre Sprachkompetenz und die Fähigkeit, mit Wörtern zu spielen, zu entwickeln. Und es scheint, dass sie dir besonders gut gefallen! Um noch mehr Freude an Ihren Spielen zu haben, sollten Sie Folgendes ausprobieren: Lesen Sie die Wörter möglichst laut vor. Dies hilft, sie besser zu integrieren und das auditive Gedächtnis zu stärken.",
-      "es": "Los juegos de lenguaje son perfectos para desarrollar tu fluidez y capacidad para jugar con palabras. ¡Y parece que te gustan especialmente! Para disfrutar aún más de tus juegos, aquí tienes un consejo que puedes probar: lee las palabras en voz alta si es posible. Esto ayuda a integrarlos mejor y fortalecer la memoria auditiva."
+      "es": "Los juegos de lenguaje son perfectos para desarrollar tu fluidez y capacidad para jugar con palabras. ¡Y parece que te gustan especialmente! Para disfrutar aún más de tus juegos, aquí tienes un consejo que puedes probar: lee las palabras en voz alta si es posible. Esto ayuda a integrarlos mejor y fortalecer la memoria auditiva.",
+      "hi": "भाषा के खेल आपकी प्रवाहशीलता और शब्दों के साथ खेलने की क्षमता विकसित करने के लिए एकदम सही हैं। और ऐसा लगता है कि आपको ये पसंद हैं! "
     }
   },
   {
@@ -880,7 +931,8 @@
       "nl": "Je interesse in taalspelletjes is een goede gewoonte! Door regelmatig te spelen stimuleer je je woordengeheugen en je gemak met de taal terwijl je plezier hebt. Een tip die het verschil kan maken in je training: varieer met de soorten spellen. Schakel over van Syllabus naar Lost Poem, Hangman of Intruder Hunt. Hierdoor kunt u verschillende facetten van de taal oefenen en uw spreekvaardigheid verbeteren. Hoe meer je speelt, hoe meer woorden vanzelf in je opkomen!",
       "cn": "你对语言游戏的兴趣是一个很好的习惯！通过定期玩耍，您可以在享受乐趣的同时激发您对单词的记忆以及对语言的轻松掌握。一个可以对你的训练产生影响的技巧：改变游戏类型。从教学大纲切换到失落的诗歌、刽子手或入侵者狩猎。这可以让您练习语言的不同方面并提高您的流利程度。你玩得越多，你就会自然而然地想到更多的单词！",
       "de": "Ihr Interesse an Sprachspielen ist eine tolle Angewohnheit! Durch regelmäßiges Spielen fördern Sie Ihr Wortgedächtnis und Ihren Umgang mit der Sprache, während Sie gleichzeitig Spaß haben. Ein Tipp, der Ihr Training verändern kann: Variieren Sie die Spielarten. Wechseln Sie vom Lehrplan zu Lost Poem, Hangman oder Intruder Hunt. Dadurch können Sie verschiedene Facetten der Sprache üben und Ihre Sprachkompetenz verbessern. Je mehr Sie spielen, desto mehr Wörter werden Ihnen von selbst einfallen!",
-      "es": "¡Tu interés por los juegos de lenguaje es un gran hábito! Al jugar con regularidad, estimulas tu memoria de las palabras y tu facilidad con el idioma mientras te diviertes. Un consejo que puede marcar la diferencia en tu entrenamiento: varía los tipos de juegos. Cambie del programa de estudios a Lost Poem, Hangman o Intruder Hunt. Esto te permite practicar diferentes facetas del lenguaje y mejorar tu fluidez. ¡Cuanto más juegues, más palabras te resultarán naturales!"
+      "es": "¡Tu interés por los juegos de lenguaje es un gran hábito! Al jugar con regularidad, estimulas tu memoria de las palabras y tu facilidad con el idioma mientras te diviertes. Un consejo que puede marcar la diferencia en tu entrenamiento: varía los tipos de juegos. Cambie del programa de estudios a Lost Poem, Hangman o Intruder Hunt. Esto te permite practicar diferentes facetas del lenguaje y mejorar tu fluidez. ¡Cuanto más juegues, más palabras te resultarán naturales!",
+      "hi": "भाषा के खेलों में आपकी रुचि एक बेहतरीन आदत है! नियमित रूप से खेलकर, आप शब्दों की अपनी स्मृति को उत्तेजित करते हैं और अपनी अभिव्यक्ति को निखारते हैं। "
     }
   },
   {
@@ -897,7 +949,8 @@
       "nl": "Je houdt van geheugenspellen, en dit is een geweldige manier om je herinneringen vast te houden en je geest te stimuleren terwijl je plezier hebt. Een tip om nog verder te gaan: probeer mentaal te visualiseren wat je moet onthouden. Door associaties te maken met afbeeldingen of korte verhalen kun je beter onthouden!",
       "cn": "您喜欢记忆游戏，这是在享受乐趣的同时保持记忆和刺激思维的好方法。更进一步的提示：尝试在脑海中想象您需要记住的内容。将图像或短篇故事联系起来可以帮助您更好地记忆！",
       "de": "Sie haben Spaß an Memory-Spielen. Dies ist eine großartige Möglichkeit, Ihre Erinnerungen zu bewahren, Ihren Geist anzuregen und gleichzeitig Spaß zu haben. Ein Tipp, um noch weiter zu gehen: Versuchen Sie, sich mental vorzustellen, woran Sie sich erinnern müssen. Das Herstellen von Assoziationen mit Bildern oder Kurzgeschichten kann Ihnen dabei helfen, sich besser einzuprägen!",
-      "es": "Disfrutas de los juegos de memoria y esta es una excelente manera de mantener tus recuerdos y estimular tu mente mientras te diviertes. Un consejo para ir aún más lejos: intenta visualizar mentalmente lo que necesitas recordar. ¡Hacer asociaciones de imágenes o historias cortas puede ayudarte a memorizar mejor!"
+      "es": "Disfrutas de los juegos de memoria y esta es una excelente manera de mantener tus recuerdos y estimular tu mente mientras te diviertes. Un consejo para ir aún más lejos: intenta visualizar mentalmente lo que necesitas recordar. ¡Hacer asociaciones de imágenes o historias cortas puede ayudarte a memorizar mejor!",
+      "hi": "आप स्मृति के खेल पसंद करते हैं, और यह आपकी यादों को बनाए रखने और मज़े करते हुए अपने दिमाग को उत्तेजित करने का एक शानदार तरीका है! "
     }
   },
   {
@@ -914,7 +967,8 @@
       "nl": "Je houdt van geheugenuitdagingen, en dat is heel goed! Hoe meer u speelt, hoe meer u uw vermogen stimuleert om informatie gemakkelijk vast te houden. Een klein advies: oefen geen druk op jezelf uit. Zacht en met plezier leren is de beste manier om uw geheugen te versterken.",
       "cn": "你喜欢记忆力挑战，这是一件非常好的事情！你玩得越多，就越能激发你轻松记住信息的能力。一个小建议：不要给自己施加压力。温和而愉快地学习是增强记忆力的最佳方法。",
       "de": "Du magst Gedächtnisherausforderungen, und das ist eine sehr gute Sache! Je mehr Sie spielen, desto mehr fördern Sie Ihre Fähigkeit, sich Informationen leichter zu merken. Kleiner Tipp: Machen Sie sich keinen Druck. Sanftes und mit Freude lernen ist der beste Weg, Ihr Gedächtnis zu stärken.",
-      "es": "Te gustan los desafíos de memoria, ¡y eso es algo muy bueno! Cuanto más juegas, más estimulas tu capacidad para retener información con facilidad. Un pequeño consejo: no te presiones. Aprender con suavidad y placer es la mejor manera de fortalecer la memoria."
+      "es": "Te gustan los desafíos de memoria, ¡y eso es algo muy bueno! Cuanto más juegas, más estimulas tu capacidad para retener información con facilidad. Un pequeño consejo: no te presiones. Aprender con suavidad y placer es la mejor manera de fortalecer la memoria.",
+      "hi": "आपको स्मृति की चुनौतियाँ पसंद हैं, और यह बहुत अच्छी बात है! जितना अधिक आप खेलते हैं, उतना अधिक आप अपनी स्मृति को उत्तेजित करते हैं! "
     }
   },
   {
@@ -931,7 +985,8 @@
       "nl": "Uit uw betrokkenheid bij geheugenspelletjes blijkt dat u uw geest actief wilt houden. Goed gedaan ! Om nog verder te verbeteren, probeer te spelen op momenten dat u zich uitgerust en ontspannen voelt. Het geheugen werkt beter als je kalm en gefocust bent!",
       "cn": "您参与记忆游戏表明您希望保持思维活跃。干得好！为了进一步提高，请尝试在您感到休息和放松的时候玩。当你平静和专注时，记忆力会更好！",
       "de": "Ihr Engagement bei Memory-Spielen zeigt Ihren Wunsch, Ihren Geist aktiv zu halten. Gut gemacht ! Um sich noch weiter zu verbessern, versuchen Sie, zu Zeiten zu spielen, in denen Sie sich ausgeruht und entspannt fühlen. Das Gedächtnis funktioniert besser, wenn Sie ruhig und konzentriert sind!",
-      "es": "Su participación en los juegos de memoria muestra su deseo de mantener la mente activa. Bien hecho ! Para mejorar aún más, intenta jugar en momentos en los que te sientas descansado y relajado. ¡La memoria funciona mejor cuando estás tranquilo y concentrado!"
+      "es": "Su participación en los juegos de memoria muestra su deseo de mantener la mente activa. Bien hecho ! Para mejorar aún más, intenta jugar en momentos en los que te sientas descansado y relajado. ¡La memoria funciona mejor cuando estás tranquilo y concentrado!",
+      "hi": "स्मृति के खेलों में आपकी भागीदारी आपके दिमाग को सक्रिय रखने की आपकी इच्छा दर्शाती है। शाबाश! और बेहतर बनने के लिए, हर दिन खेलें! "
     }
   },
   {
@@ -948,7 +1003,8 @@
       "nl": "Elk gespeeld spel is een geweldige kans om uw geheugen te oefenen en uw geest te stimuleren. Een tip om nog verder te komen: probeer wat je zojuist uit je hoofd hebt geleerd in je eigen woorden te herformuleren of bespreek het met een dierbare. Dingen hardop zeggen of uitleggen helpt vaak om ze beter in het geheugen te verankeren!",
       "cn": "每场比赛都是锻炼记忆力和激发思维的绝佳机会。进一步进步的秘诀是：尝试用自己的话重新表述你刚刚记住的内容，或者与所爱的人讨论它。大声说出事情或解释它们通常有助于更好地记住它们！",
       "de": "Jedes gespielte Spiel ist eine großartige Gelegenheit, Ihr Gedächtnis zu trainieren und Ihren Geist anzuregen. Ein Tipp, um noch weiter voranzukommen: Versuchen Sie, das, was Sie gerade auswendig gelernt haben, in eigenen Worten umzuformulieren oder besprechen Sie es mit einem geliebten Menschen. Dinge laut auszusprechen oder zu erklären hilft oft dabei, sie besser im Gedächtnis zu verankern!",
-      "es": "Cada partido jugado es una gran oportunidad para ejercitar tu memoria y estimular tu mente. Un consejo para avanzar aún más: intenta reformular con tus propias palabras lo que acabas de memorizar o discútelo con un ser querido. ¡Decir las cosas en voz alta o explicarlas a menudo ayuda a anclarlas mejor en la memoria!"
+      "es": "Cada partido jugado es una gran oportunidad para ejercitar tu memoria y estimular tu mente. Un consejo para avanzar aún más: intenta reformular con tus propias palabras lo que acabas de memorizar o discútelo con un ser querido. ¡Decir las cosas en voz alta o explicarlas a menudo ayuda a anclarlas mejor en la memoria!",
+      "hi": "खेला गया हर खेल आपकी स्मृति का अभ्यास करने और अपने दिमाग को उत्तेजित करने का एक शानदार अवसर है। आगे बढ़ने की एक सलाह: हर दिन थोड़ा खेलें! "
     }
   },
   {
@@ -965,7 +1021,8 @@
       "nl": "Geheugenspellen zijn geweldig om uw vermogen om informatie vast te houden aan te scherpen. Een idee om je prestaties te verbeteren: neem kleine pauzes tussen de games. De hersenen hebben tijd nodig om informatie te verwerken, en een korte rustpauze kan je helpen beter te onthouden wat je hebt geleerd.\n\n",
       "cn": "记忆游戏非常适合磨练你记住信息的能力。提高表现的一个方法是：在比赛之间进行短暂的休息。大脑需要时间来处理信息，短暂的休息可以帮助你更好地记住所学的内容。\n\n",
       "de": "Memory-Spiele eignen sich hervorragend, um Ihre Fähigkeit, Informationen zu behalten, zu verbessern. Eine Idee zur Leistungssteigerung: Machen Sie zwischen den Spielen kleine Pausen. Das Gehirn braucht Zeit, um Informationen zu verarbeiten, und eine kurze Pause kann Ihnen helfen, sich besser an das Gelernte zu erinnern.\n\n",
-      "es": "Los juegos de memoria son excelentes para perfeccionar tu capacidad de retener información. Una idea para mejorar tu rendimiento: tómate pequeños descansos entre juegos. El cerebro necesita tiempo para procesar información y un breve descanso puede ayudarte a recordar mejor lo que has aprendido.\n\n"
+      "es": "Los juegos de memoria son excelentes para perfeccionar tu capacidad de retener información. Una idea para mejorar tu rendimiento: tómate pequeños descansos entre juegos. El cerebro necesita tiempo para procesar información y un breve descanso puede ayudarte a recordar mejor lo que has aprendido.\n\n",
+      "hi": "स्मृति के खेल जानकारी को याद रखने की आपकी क्षमता को निखारने के लिए बहुत अच्छे हैं। अपने प्रदर्शन में सुधार का एक विचार: नियमित रूप से खेलें! "
     }
   },
   {
@@ -982,7 +1039,8 @@
       "nl": "Je vindt het leuk om verschillende spellen te verkennen, en dit is een geweldige manier om je geest vanuit meerdere invalshoeken te stimuleren. Om nog meer voordeel te behalen, probeer je te concentreren op de details en neem je na elk spel een paar minuten de tijd om door te nemen wat je hebt geleerd. Deze kleine gewoonte versterkt het onthouden!",
       "cn": "您喜欢探索各种游戏，这是从多个角度刺激您的思维的好方法。为了获得更多好处，请尝试专注于细节，并在每场比赛后花几分钟回顾您所学到的内容。这个小习惯加强记忆！",
       "de": "Es macht Ihnen Spaß, eine Vielzahl von Spielen zu erkunden, und dies ist eine großartige Möglichkeit, Ihren Geist aus verschiedenen Blickwinkeln zu stimulieren. Um noch mehr davon zu profitieren, konzentrieren Sie sich auf die Details und nehmen Sie sich nach jedem Spiel ein paar Minuten Zeit, um das Gelernte noch einmal durchzugehen. Diese kleine Angewohnheit stärkt das Auswendiglernen!",
-      "es": "Disfrutas explorando una variedad de juegos y esta es una excelente manera de estimular tu mente desde múltiples ángulos. Para beneficiarte aún más, intenta concentrarte en los detalles y tómate unos minutos después de cada juego para repasar lo que has aprendido. ¡Este pequeño hábito fortalece la memorización!"
+      "es": "Disfrutas explorando una variedad de juegos y esta es una excelente manera de estimular tu mente desde múltiples ángulos. Para beneficiarte aún más, intenta concentrarte en los detalles y tómate unos minutos después de cada juego para repasar lo que has aprendido. ¡Este pequeño hábito fortalece la memorización!",
+      "hi": "आप विभिन्न प्रकार के खेलों का पता लगाना पसंद करते हैं, और यह कई दिशाओं से अपने दिमाग को उत्तेजित करने का एक शानदार तरीका है! "
     }
   },
   {
@@ -999,7 +1057,8 @@
       "nl": "Verschillende spellen spelen is een goede gewoonte! Of het nu gaat om geheugen, taal of aandacht, elk type spel brengt zijn voordelen met zich mee. Een tip voor de voortgang: neem de tijd en speel op een rustige plek. Minder afleiding betekent meer kansen om informatie goed te onthouden!",
       "cn": "玩各种游戏是一个很好的习惯！无论是记忆力、语言还是注意力，每种类型的游戏都有其好处。进步的秘诀：慢慢来，在安静的地方玩。更少的干扰意味着更好地保留信息的机会！",
       "de": "Verschiedene Spiele zu spielen ist eine tolle Angewohnheit! Ob Gedächtnis, Sprache oder Aufmerksamkeit, jede Spielart bringt ihre Vorteile mit sich. Ein Tipp für den Fortschritt: Nehmen Sie sich Zeit und spielen Sie an einem ruhigen Ort. Weniger Ablenkungen bedeuten mehr Chancen, Informationen gut zu behalten!",
-      "es": "¡Jugar una variedad de juegos es un gran hábito! Ya sea memoria, lenguaje o atención, cada tipo de juego aporta sus beneficios. Un consejo para progresar: tómate tu tiempo y juega en un lugar tranquilo. ¡Menos distracciones significan más posibilidades de retener bien la información!"
+      "es": "¡Jugar una variedad de juegos es un gran hábito! Ya sea memoria, lenguaje o atención, cada tipo de juego aporta sus beneficios. Un consejo para progresar: tómate tu tiempo y juega en un lugar tranquilo. ¡Menos distracciones significan más posibilidades de retener bien la información!",
+      "hi": "विभिन्न प्रकार के खेल खेलना एक बेहतरीन आदत है! चाहे वह स्मृति हो, भाषा हो या ध्यान, प्रत्येक प्रकार का खेल आपके दिमाग के एक अलग हिस्से को उत्तेजित करता है। "
     }
   },
   {
@@ -1016,7 +1075,8 @@
       "nl": "Je nieuwsgierigheid drijft je ertoe om verschillende spellen te proberen, en dit is een geweldige manier om je geest scherp te houden! Om je geheugen nog beter te trainen, probeer je verbanden te leggen tussen de elementen van het spel en je dagelijkse leven. Door woorden, afbeeldingen of concepten te associëren met iets bekends, kunt u het beter onthouden.",
       "cn": "您的好奇心驱使您尝试不同的游戏，这是保持思维敏捷的好方法！为了更好地训练您的记忆力，请尝试将游戏元素与您的日常生活联系起来。将单词、图像或概念与熟悉的事物联系起来可以帮助您更好地记住它。",
       "de": "Ihre Neugier treibt Sie dazu, verschiedene Spiele auszuprobieren, und das ist eine großartige Möglichkeit, Ihren Geist scharf zu halten! Um Ihr Gedächtnis noch besser zu trainieren, versuchen Sie, Verbindungen zwischen den Elementen des Spiels und Ihrem täglichen Leben herzustellen. Wenn Sie Wörter, Bilder oder Konzepte mit etwas Vertrautem verknüpfen, können Sie sich besser daran erinnern.",
-      "es": "Tu curiosidad te lleva a probar diferentes juegos, ¡y esta es una excelente manera de mantener tu mente alerta! Para entrenar aún mejor tu memoria, intenta establecer conexiones entre los elementos del juego y tu vida diaria. Asociar palabras, imágenes o conceptos con algo familiar te ayuda a recordarlo mejor."
+      "es": "Tu curiosidad te lleva a probar diferentes juegos, ¡y esta es una excelente manera de mantener tu mente alerta! Para entrenar aún mejor tu memoria, intenta establecer conexiones entre los elementos del juego y tu vida diaria. Asociar palabras, imágenes o conceptos con algo familiar te ayuda a recordarlo mejor.",
+      "hi": "आपकी जिज्ञासा आपको विभिन्न खेल आज़माने के लिए प्रेरित करती है, और यह आपके दिमाग को तेज रखने का एक शानदार तरीका है! आगे बढ़ने की एक सलाह: हर दिन खेलें! "
     }
   },
   {
@@ -1033,7 +1093,8 @@
       "nl": "Je vindt het leuk om verschillende uitdagingen aan te gaan, en het is een geweldige training voor je hersenen! Een tip voor de voortgang: speel niet te snel. Neem de tijd om te observeren, lees de instructies aandachtig en onthoud de belangrijkste elementen. Hoe aandachtiger we zijn, hoe meer het geheugen op natuurlijke wijze wordt geactiveerd.",
       "cn": "您喜欢接受各种挑战，这对您的大脑来说是一次很好的锻炼！进步的秘诀：不要玩得太快。花时间观察，仔细阅读说明并记住关键要素。我们越专心，自然激活的记忆就越多。",
       "de": "Du stellst dich gerne verschiedenen Herausforderungen und es ist ein tolles Training für dein Gehirn! Ein Tipp für den Fortschritt: Spielen Sie nicht zu schnell. Nehmen Sie sich Zeit zum Beobachten, lesen Sie die Anweisungen sorgfältig durch und merken Sie sich die wichtigsten Elemente. Je aufmerksamer wir sind, desto mehr wird das Gedächtnis auf natürliche Weise aktiviert.",
-      "es": "Te gusta afrontar una variedad de desafíos y ¡es un gran ejercicio para tu cerebro! Un consejo para progresar: no juegues demasiado rápido. Tómese el tiempo para observar, lea atentamente las instrucciones y memorice los elementos clave. Cuanto más atentos estemos, más memoria se activa de forma natural."
+      "es": "Te gusta afrontar una variedad de desafíos y ¡es un gran ejercicio para tu cerebro! Un consejo para progresar: no juegues demasiado rápido. Tómese el tiempo para observar, lea atentamente las instrucciones y memorice los elementos clave. Cuanto más atentos estemos, más memoria se activa de forma natural.",
+      "hi": "आपको विभिन्न प्रकार की चुनौतियाँ लेना पसंद है, और यह आपके दिमाग के लिए एक बेहतरीन कसरत है! आगे बढ़ने की एक सलाह: जितना हो सके उतना खेलें! "
     }
   },
   {
@@ -1050,7 +1111,8 @@
       "nl": "Wat een grote diversiteit in jullie spellen! Het afwisselen tussen verschillende soorten uitdagingen stimuleert verschillende cognitieve vaardigheden. Een kleine tip: na een paar dagen opnieuw een spel spelen helpt om het geleerde te consolideren. Gespreide herhaling is een van de beste manieren om het geheugen te versterken!\n",
       "cn": "你们的游戏多么多样化啊！不同类型的挑战之间的交替可以激发多种认知能力。小提示：几天后再次玩游戏有助于巩固所学知识。间隔重复是加强记忆的最佳方法之一！\n",
       "de": "Was für eine große Vielfalt in euren Spielen! Der Wechsel zwischen verschiedenen Arten von Herausforderungen stimuliert mehrere kognitive Fähigkeiten. Kleiner Tipp: Das erneute Spielen eines Spiels nach ein paar Tagen hilft, das Gelernte zu festigen. Abstandswiederholung ist eine der besten Möglichkeiten, das Gedächtnis zu stärken!\n",
-      "es": "¡Qué gran diversidad en tus juegos! Alternar entre diferentes tipos de desafíos estimula varias habilidades cognitivas. Un pequeño consejo: volver a jugar un juego después de unos días ayuda a consolidar lo aprendido. ¡La repetición espaciada es una de las mejores formas de fortalecer la memoria!\n"
+      "es": "¡Qué gran diversidad en tus juegos! Alternar entre diferentes tipos de desafíos estimula varias habilidades cognitivas. Un pequeño consejo: volver a jugar un juego después de unos días ayuda a consolidar lo aprendido. ¡La repetición espaciada es una de las mejores formas de fortalecer la memoria!\n",
+      "hi": "आपके खेलों में कितनी विविधता है! विभिन्न प्रकार की चुनौतियों के बीच बदलाव करना आपके दिमाग के कई हिस्सों को उत्तेजित करता है। "
     }
   },
   {
@@ -1067,7 +1129,8 @@
       "nl": "\nTot snel voor nieuwe spellen!",
       "cn": "\n新游戏再见！",
       "de": "\nBis bald mit neuen Spielen!",
-      "es": "\n¡Nos vemos pronto para nuevos juegos!"
+      "es": "\n¡Nos vemos pronto para nuevos juegos!",
+      "hi": "\nजल्द ही नए खेलों के लिए मिलते हैं!"
     }
   },
   {
@@ -1084,7 +1147,8 @@
       "nl": "Ga zo door en maak er een fijne week van!",
       "cn": "坚持下去，祝你度过愉快的一周！",
       "de": "Weiter so und eine tolle Woche!",
-      "es": "¡Sigue así y que tengas una gran semana!"
+      "es": "¡Sigue así y que tengas una gran semana!",
+      "hi": "इसी तरह आगे बढ़ते रहें और आपका सप्ताह शानदार रहे!"
     }
   },
   {
@@ -1101,7 +1165,8 @@
       "nl": "Zorg goed voor jezelf en tot snel!",
       "cn": "照顾好自己，很快再见！",
       "de": "Passen Sie auf sich auf und bis bald!",
-      "es": "¡Cuídate mucho y hasta pronto!"
+      "es": "¡Cuídate mucho y hasta pronto!",
+      "hi": "अपना ख्याल रखें और जल्द मिलते हैं!"
     }
   },
   {
@@ -1118,7 +1183,8 @@
       "nl": "Blijf in je eigen tempo spelen en vooral veel plezier!",
       "cn": "继续按照自己的节奏玩，最重要的是玩得开心！",
       "de": "Spielen Sie weiter in Ihrem eigenen Tempo und haben Sie vor allem Spaß!",
-      "es": "¡Sigue jugando a tu propio ritmo y sobre todo diviértete!"
+      "es": "¡Sigue jugando a tu propio ritmo y sobre todo diviértete!",
+      "hi": "अपनी गति से खेलते रहें और सबसे बढ़कर मज़े करें!"
     }
   },
   {
@@ -1135,7 +1201,8 @@
       "nl": "Tot snel voor nieuwe uitdagingen!",
       "cn": "很快再见，迎接新的挑战！",
       "de": "Bis bald für neue Herausforderungen!",
-      "es": "¡Nos vemos pronto para nuevos desafíos!"
+      "es": "¡Nos vemos pronto para nuevos desafíos!",
+      "hi": "जल्द ही नई चुनौतियों के लिए मिलते हैं!"
     }
   }
 ]

@@ -8,7 +8,8 @@
       "cn": "读一本书",
       "pt": "Leia um livro",
       "de": "Ein Buch lesen",
-      "es": "Lee un libro"
+      "es": "Lee un libro",
+      "hi": "एक किताब पढ़ो"
     },
     "message": {
       "fr": "La lecture stimule l’imagination et le langage. Trouve un livre adapté à ton âge et à tes intérêts.",
@@ -17,7 +18,8 @@
       "cn": "阅读可以激发你的想象力和语言。找到一本适合您年龄和兴趣的书。",
       "pt": "A leitura estimula a imaginação e a linguagem. Encontre um livro adaptado à sua idade e interesses.",
       "de": "Lesen regt die Fantasie und die Sprache an. Finden Sie ein Buch, das Ihrem Alter und Ihren Interessen entspricht.",
-      "es": "La lectura estimula la imaginación y el lenguaje. Encuentre un libro adecuado a su edad e intereses."
+      "es": "La lectura estimula la imaginación y el lenguaje. Encuentre un libro adecuado a su edad e intereses.",
+      "hi": "पढ़ना कल्पना और भाषा को उत्तेजित करता है। अपनी उम्र और रुचियों के अनुसार एक किताब खोजो।"
     }
   },
   {
@@ -29,7 +31,8 @@
       "cn": "减少看屏幕的时间",
       "pt": "Reduza o tempo de tela",
       "de": "Reduzieren Sie Ihre Bildschirmzeit",
-      "es": "Reduce tu tiempo frente a la pantalla"
+      "es": "Reduce tu tiempo frente a la pantalla",
+      "hi": "अपना स्क्रीन टाइम कम करो"
     },
     "message": {
       "fr": "Il est important d’avoir un temps d’écran équilibré. Fais des pauses régulièrement.",
@@ -38,7 +41,8 @@
       "cn": "有节制地使用屏幕对于你的发展很重要。定期休息。",
       "pt": "Ter um uso medido das telas é importante para o seu desenvolvimento. Faça pausas regulares.",
       "de": "Es ist wichtig, eine ausgewogene Bildschirmzeit zu haben. Machen Sie regelmäßig Pausen.",
-      "es": "Es importante tener un tiempo equilibrado frente a la pantalla. Tome descansos regulares."
+      "es": "Es importante tener un tiempo equilibrado frente a la pantalla. Tome descansos regulares.",
+      "hi": "स्क्रीन का संतुलित उपयोग आपके विकास के लिए महत्वपूर्ण है। नियमित रूप से ब्रेक लो।"
     }
   },
   {
@@ -50,7 +54,8 @@
       "cn": "在家帮助父母",
       "pt": "Ajude seus pais em casa",
       "de": "Hilf deinen Eltern zu Hause",
-      "es": "Ayuda a tus padres en casa"
+      "es": "Ayuda a tus padres en casa",
+      "hi": "घर पर अपने माता-पिता की मदद करो"
     },
     "message": {
       "fr": "Aider tes parents avant qu'ils ne le demandent t'apprends à être autonome, et leur fais plaisir.",
@@ -59,7 +64,8 @@
       "cn": "在父母提出要求之前帮助他们可以教会你负责任，并让他们高兴。",
       "pt": "Ajudar seus pais antes que eles peçam ensina você a ser responsável e os deixa felizes.",
       "de": "Deinen Eltern zu helfen, bevor sie darum bitten, lehrt dich, unabhängig zu sein, und macht sie glücklich.",
-      "es": "Ayudar a tus padres antes de que te lo pidan te enseña a ser independiente y los hace felices."
+      "es": "Ayudar a tus padres antes de que te lo pidan te enseña a ser independiente y los hace felices.",
+      "hi": "माता-पिता से पूछे जाने से पहले उनकी मदद करना तुम्हें जिम्मेदार बनना सिखाता है, और उन्हें खुश करता है।"
     }
   },
   {
@@ -71,7 +77,8 @@
       "cn": "学到一些东西",
       "pt": "Aprender alguma coisa",
       "de": "Etwas lernen",
-      "es": "Aprender algo"
+      "es": "Aprender algo",
+      "hi": "कुछ नया सीखो"
     },
     "message": {
       "fr": "Apprendre de nouvelles choses aide à découvrir le monde et à assouvir ta curiosité.",
@@ -80,7 +87,8 @@
       "cn": "学习新事物可以帮助您发现世界并满足您的好奇心。",
       "pt": "Aprender algo novo ajuda você a descobrir o mundo e satisfaz sua curiosidade.",
       "de": "Das Erlernen neuer Dinge hilft Ihnen, die Welt zu entdecken und Ihre Neugier zu befriedigen.",
-      "es": "Aprender cosas nuevas te ayuda a descubrir el mundo y satisfacer tu curiosidad."
+      "es": "Aprender cosas nuevas te ayuda a descubrir el mundo y satisfacer tu curiosidad.",
+      "hi": "कुछ नया सीखना तुम्हें दुनिया की खोज करने और अपनी जिज्ञासा को संतुष्ट करने में मदद करता है।"
     }
   },
   {
@@ -92,7 +100,8 @@
       "cn": "给某人一个赞美",
       "pt": "Faça um elogio a alguém",
       "de": "Machen Sie jemandem ein Kompliment",
-      "es": "Hacerle un cumplido a alguien"
+      "es": "Hacerle un cumplido a alguien",
+      "hi": "किसी की तारीफ करो"
     },
     "message": {
       "fr": "Dire à tes proches qu’ils sont importants permet de renforcer les amitiés et d’exprimer tes émotions.",
@@ -101,7 +110,8 @@
       "cn": "告诉您所爱的人他们对您很重要有助于加强友谊并表达您的情感。",
       "pt": "Dizer aos seus entes queridos que eles são importantes para você ajuda a fortalecer amizades e a expressar suas emoções.",
       "de": "Wenn Sie Ihren Lieben sagen, dass sie wichtig sind, können Sie Freundschaften stärken und Ihre Gefühle ausdrücken.",
-      "es": "Decirles a tus seres queridos que son importantes ayuda a fortalecer las amistades y a expresar tus emociones."
+      "es": "Decirles a tus seres queridos que son importantes ayuda a fortalecer las amistades y a expresar tus emociones.",
+      "hi": "अपने प्रियजनों को बताना कि वे तुम्हारे लिए महत्वपूर्ण हैं, दोस्ती मजबूत करने और अपनी भावनाएँ व्यक्त करने में मदद करता है।"
     }
   },
   {
@@ -113,7 +123,8 @@
       "cn": "想想那些神奇的词吧！",
       "pt": "Pense nas palavras mágicas!",
       "de": "Denken Sie an die Zauberworte!",
-      "es": "¡Piensa en las palabras mágicas!"
+      "es": "¡Piensa en las palabras mágicas!",
+      "hi": "\"जादुई शब्द\" मत भूलो!"
     },
     "message": {
       "fr": "Dire « merci » ou « s’il te plait » est un signe de gentillesse et de respect envers les autres. ",
@@ -122,7 +133,8 @@
       "cn": "说“谢谢”或“请”是善意和尊重他人的表现。",
       "pt": "Dizer “obrigado” ou “por favor” é um sinal de bondade e respeito pelos outros.",
       "de": "„Danke“ oder „Bitte“ zu sagen ist ein Zeichen von Freundlichkeit und Respekt gegenüber anderen. ",
-      "es": "Decir “gracias” o “por favor” es una señal de bondad y respeto hacia los demás. "
+      "es": "Decir “gracias” o “por favor” es una señal de bondad y respeto hacia los demás. ",
+      "hi": "\"धन्यवाद\" या \"कृपया\" कहना दूसरों के प्रति दयालुता और सम्मान का संकेत है।"
     }
   },
   {
@@ -134,7 +146,8 @@
       "cn": "想想什么让你感到自豪",
       "pt": "Pense no que te deixa orgulhoso",
       "de": "Denken Sie darüber nach, was Sie stolz macht",
-      "es": "Piensa en lo que te hace sentir orgulloso"
+      "es": "Piensa en lo que te hace sentir orgulloso",
+      "hi": "अपने आप पर गर्व करो"
     },
     "message": {
       "fr": "Avoir confiance en ce que tu sais faire te permet de ne pas t’arrêter face aux difficultés.",
@@ -143,7 +156,8 @@
       "cn": "对自己能做的事情充满信心可以帮助您克服逆境。",
       "pt": "Ter confiança no que você pode fazer ajuda a superar as adversidades.",
       "de": "Wenn Sie Vertrauen in das haben, was Sie tun können, können Sie auch bei Schwierigkeiten nicht aufgeben.",
-      "es": "Tener confianza en lo que puedes hacer te permite no detenerte ante las dificultades."
+      "es": "Tener confianza en lo que puedes hacer te permite no detenerte ante las dificultades.",
+      "hi": "जो तुम कर सकते हो उस पर विश्वास रखना तुम्हें कठिनाइयों से पार पाने में मदद करता है।"
     }
   },
   {
@@ -155,7 +169,8 @@
       "cn": "做一件好事",
       "pt": "Faça uma boa ação",
       "de": "Tue eine gute Tat",
-      "es": "hacer una buena acción"
+      "es": "hacer una buena acción",
+      "hi": "कुछ अच्छा करो"
     },
     "message": {
       "fr": "Penser et aider les autres t'apprend à être altruiste. Il suffit d’un petit mot, d'un petit sourire…",
@@ -164,7 +179,8 @@
       "cn": "思考和帮助他人会教会你利他主义。所需要的只是一句话，一个微笑......",
       "pt": "Pensar e ajudar os outros ensina altruísmo. Basta uma palavrinha, um sorrisinho...",
       "de": "Wenn man an andere denkt und ihnen hilft, lernt man, selbstlos zu sein. Alles, was es braucht, ist ein kleines Wort, ein kleines Lächeln ...",
-      "es": "Pensar y ayudar a los demás te enseña a ser desinteresado. Sólo hace falta una pequeña palabra, una pequeña sonrisa..."
+      "es": "Pensar y ayudar a los demás te enseña a ser desinteresado. Sólo hace falta una pequeña palabra, una pequeña sonrisa...",
+      "hi": "दूसरों के बारे में सोचना और उनकी मदद करना तुम्हें परोपकारी बनना सिखाता है। बस एक छोटा सा शब्द, एक छोटी सी मुस्कान..."
     }
   },
   {
@@ -176,7 +192,8 @@
       "cn": "进行 1 小时的运动",
       "pt": "Faça 1 hora de esporte",
       "de": "Machen Sie 1 Stunde Sport",
-      "es": "Hacer 1 hora de deporte"
+      "es": "Hacer 1 hora de deporte",
+      "hi": "1 घंटे व्यायाम करो"
     },
     "message": {
       "fr": "Faire du sport est essentiel à ton développement. Il faut faire 1 heure d’activité physique par jour !",
@@ -185,7 +202,8 @@
       "cn": "参加体育运动对于您的发展至关重要。每天至少要运动1小时！",
       "pt": "Praticar esportes é essencial para o seu desenvolvimento. Você tem que se exercitar pelo menos 1 hora por dia!",
       "de": "Sport zu treiben ist für Ihre Entwicklung von entscheidender Bedeutung. Sie müssen sich täglich 1 Stunde körperlich betätigen!",
-      "es": "Practicar deporte es fundamental para tu desarrollo. ¡Necesitas hacer 1 hora de actividad física al día!"
+      "es": "Practicar deporte es fundamental para tu desarrollo. ¡Necesitas hacer 1 hora de actividad física al día!",
+      "hi": "खेलकूद करना तुम्हारे विकास के लिए आवश्यक है। तुम्हें प्रतिदिन कम से कम 1 घंटे शारीरिक गतिविधि करनी चाहिए!"
     }
   },
   {
@@ -197,7 +215,8 @@
       "cn": "做一些园艺",
       "pt": "Faça uma jardinagem",
       "de": "Machen Sie etwas Gartenarbeit",
-      "es": "hacer un poco de jardineria"
+      "es": "hacer un poco de jardineria",
+      "hi": "बगीचे में अपने माता-पिता की मदद करो"
     },
     "message": {
       "fr": "Aider à jardiner t'apprends à être responsable et patient, et t'aides aussi à t'organiser.",
@@ -206,7 +225,8 @@
       "cn": "帮助园艺可以教会你如何负责任和耐心，同时也教会你如何保持井井有条。",
       "pt": "Ajudar na jardinagem ensina como ser responsável e paciente, mas também como se manter organizado.",
       "de": "Wenn Sie im Garten mithelfen, lernen Sie, verantwortungsbewusst und geduldig zu sein und sich selbst zu organisieren.",
-      "es": "Ayudar en el jardín te enseña a ser responsable y paciente, y también te ayuda a organizarte."
+      "es": "Ayudar en el jardín te enseña a ser responsable y paciente, y también te ayuda a organizarte.",
+      "hi": "बागवानी में मदद करना तुम्हें जिम्मेदार और धैर्यवान बनना सिखाता है, और व्यवस्थित रहना भी सिखाता है।"
     }
   },
   {
@@ -218,7 +238,8 @@
       "cn": "尝试新事物",
       "pt": "Tente coisas novas",
       "de": "Versuche neue Dinge",
-      "es": "Probar cosas nuevas"
+      "es": "Probar cosas nuevas",
+      "hi": "कुछ नया आज़माओ"
     },
     "message": {
       "fr": "Être curieux te permet de découvrir le monde qui t'entoure. Ne te limite pas à ce que tu connais.",
@@ -227,7 +248,8 @@
       "cn": "好奇心可以让你发现周围的世界。不要局限于你所知道的。",
       "pt": "Ser curioso permite descobrir o mundo ao seu redor. Não se limite ao que você sabe.",
       "de": "Neugier ermöglicht es Ihnen, die Welt um Sie herum zu entdecken. Beschränken Sie sich nicht auf das, was Sie wissen.",
-      "es": "Ser curioso te permite descubrir el mundo que te rodea. No te limites a lo que sabes."
+      "es": "Ser curioso te permite descubrir el mundo que te rodea. No te limites a lo que sabes.",
+      "hi": "जिज्ञासु होना तुम्हें अपने आसपास की दुनिया की खोज करने देता है। जो तुम जानते हो उसी तक सीमित मत रहो।"
     }
   },
   {
@@ -239,7 +261,8 @@
       "cn": "看看你周围的大自然",
       "pt": "Olhe para a natureza ao seu redor",
       "de": "Schauen Sie sich die Natur um Sie herum an",
-      "es": "Mira la naturaleza que te rodea"
+      "es": "Mira la naturaleza que te rodea",
+      "hi": "अपने आसपास की प्रकृति को देखो"
     },
     "message": {
       "fr": "Observer la nature te permet de te relaxer et d'apprécier la beauté de la faune et la flore.  ",
@@ -248,7 +271,8 @@
       "cn": "观察大自然可​​以让您放松并欣赏动植物的美丽。  ",
       "pt": "Observar a natureza permite relaxar e apreciar a beleza da fauna e da flora.  ",
       "de": "Die Beobachtung der Natur ermöglicht es Ihnen, sich zu entspannen und die Schönheit der Flora und Fauna zu genießen.  ",
-      "es": "Observar la naturaleza permite relajarse y apreciar la belleza de la flora y la fauna.  "
+      "es": "Observar la naturaleza permite relajarse y apreciar la belleza de la flora y la fauna.  ",
+      "hi": "प्रकृति का अवलोकन करने से तुम्हें आराम मिलता है और जीव-जंतुओं तथा वनस्पतियों की सुंदरता की सराहना कर सकते हो।"
     }
   }
 ]
