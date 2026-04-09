@@ -829,5 +829,20 @@
       "es": "Respuestas correctas",
       "hi": "सही उत्तर"
     }
+  },
+  {
+    "scoreMnemonic": "completionPercent",
+    "unity": "%",
+    "title": {
+        "fr": "Progression",
+        "us": "Progress",
+        "it": "Progressione",
+        "cn": "进度",
+        "nl": "Voortgang",
+        "pt": "Progresso",
+        "de": "Fortschritt",
+        "es": "Progreso",
+        "hi": "प्रगति"
+    }
   }
 ]

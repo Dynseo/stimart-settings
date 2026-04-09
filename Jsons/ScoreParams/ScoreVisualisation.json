@@ -340,5 +340,13 @@
       "time",
       "nbItemsSkipped"
     ]
+  },
+  {
+    "scoreVisualisationType": "gradeDetail",
+    "game": "CYRANO",
+    "scoreVisualisation": [
+      "completionPercent",
+      "nbClues"
+    ]
   }
 ]

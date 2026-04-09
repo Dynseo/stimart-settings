@@ -302,6 +302,11 @@
   {
     "scoreMnemonic": "nbClues",
     "game": "CYRANO",
+    "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "completionPercent",
+    "game": "CYRANO",
     "scoreColumn": "score1"
   }
 ]

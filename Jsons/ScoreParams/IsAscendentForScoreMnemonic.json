@@ -84,6 +84,12 @@
     "useFeedback": false
   },
   {
+    "scoreMnemonic": "completionPercent",
+    "isAscendent": true,
+    "useAnalyse": true,
+    "useFeedback": false
+  },
+  {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "CARS",
     "isAscendent": false,
