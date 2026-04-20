@@ -112,14 +112,14 @@
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "TANGRAM",
-    "isAscendent": true,
+    "isAscendent": false,
     "useAnalyse": false,
     "useFeedback": false
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "SLIDE_MAZE",
-    "isAscendent": true,
+    "isAscendent": false,
     "useAnalyse": false,
     "useFeedback": false
   },
@@ -133,35 +133,35 @@
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "COOK",
-    "isAscendent": true,
+    "isAscendent": false,
     "useAnalyse": false,
     "useFeedback": false
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "COLORFORM",
-    "isAscendent": true,
+    "isAscendent": false,
     "useAnalyse": false,
     "useFeedback": false
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "RELIBULLE",
-    "isAscendent": true,
+    "isAscendent": false,
     "useAnalyse": false,
     "useFeedback": false
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "HANGMAN",
-    "isAscendent": true,
+    "isAscendent": false,
     "useAnalyse": false,
     "useFeedback": false
   },
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "CATERPILLAR",
-    "isAscendent": true,
+    "isAscendent": false,
     "useAnalyse": false,
     "useFeedback": false
   },
@@ -175,7 +175,7 @@
   {
     "scoreMnemonic": "time",
     "game": "BLOCK_PUZZLE",
-    "mode": "chrono",
+    "mode": "quick",
     "isAscendent": false,
     "useAnalyse": true,
     "useFeedback": true

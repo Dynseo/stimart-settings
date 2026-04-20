@@ -1,0 +1,185 @@
+[
+  {
+    "game": "CALCULUS",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "ANIMALS",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "CARS",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "CASCADE",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "CHESSBOARD",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "COLORFORM",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "COLORFORM",
+    "level": "difficult",
+    "app": "COCO_1",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "COLORFORM",
+    "level": "easy",
+    "app": "COCO_1",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "COLORFORM",
+    "level": "medium",
+    "app": "COCO_1",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "COLORMIND",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "COOK",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "FURIOUS",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "GEO",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "HANGMAN",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "INTRUS",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "LOST_POEM",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "MEMORY",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "NOAHS_ARK",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "PANURGE",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "PROVERB",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "PUZZLE",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "MUSIC",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "QUIZZLE",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "SIMILI",
+    "app": "PAPY",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "SIMILI",
+    "level": "difficult",
+    "app": "COCO_1",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "SIMILI",
+    "level": "easy",
+    "app": "COCO_1",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "SIMILI",
+    "level": "medium",
+    "app": "COCO_1",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "SLIDE_MAZE",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "SNAKE",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "SUDOKU",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "SYLLABUS",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "TIMELINE",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "WALKER",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "SNOWBALL_EFFECT",
+    "mode": "quick",
+    "scoreMnemonic": "nbGoodAnswers"
+  },
+  {
+    "game": "SNOWBALL_EFFECT",
+    "mode": "careful",
+    "scoreMnemonic": "nbChallenges"
+  },
+  {
+    "game": "TANGRAM",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "BLOCK_PUZZLE",
+    "mode": "quick",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "BLOCK_PUZZLE",
+    "mode": "careful",
+    "scoreMnemonic": "nbChallenges"
+  },
+  {
+    "game": "CATERPILLAR",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "WORDLE",
+    "subMode": "line",
+    "scoreMnemonic": "time"
+  },
+  {
+    "game": "WORDLE",
+    "subMode": "free",
+    "scoreMnemonic": "nbGoodAnswersDetails1"
+  }
+]
