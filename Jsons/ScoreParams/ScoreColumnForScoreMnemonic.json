@@ -286,6 +286,10 @@
     "scoreColumn": "duration"
   },
   {
+    "scoreMnemonic": "nbClues",
+    "scoreColumn": "score3"
+  },
+  {
     "scoreMnemonic": "nbResets",
     "game": "SLIDE_MAZE",
     "scoreColumn": "score4"
@@ -297,7 +301,12 @@
   },
   {
     "scoreMnemonic": "nbClues",
-    "game": "WHO_AM_I",
-    "scoreColumn": "score3"
+    "game": "CYRANO",
+    "scoreColumn": "score2"
+  },
+  {
+    "scoreMnemonic": "completionPercent",
+    "game": "CYRANO",
+    "scoreColumn": "score1"
   }
 ]

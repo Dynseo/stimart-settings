@@ -9,7 +9,8 @@
       "BALANCE",
       "ANIMAL_MIME",
       "COCO_SAID"
-    ]
+    ],
+    "title_hi": "शारीरिक गतिविधियाँ"
   },
   {
     "title_fr": "Activités calmes",
@@ -18,6 +19,7 @@
       "EMOTION_MIME",
       "YOGA",
       "QUIET_TIME"
-    ]
+    ],
+    "title_hi": "शांत गतिविधियाँ"
   }
 ]

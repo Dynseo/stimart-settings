@@ -7,7 +7,8 @@
       "it": "Andare a letto",
       "nl": "Naar bed gaan",
       "cn": "去睡觉",
-      "pt": "Para ir para a cama"
+      "pt": "Para ir para a cama",
+      "hi": "सो जाना"
     }
   },
   {
@@ -18,7 +19,8 @@
       "it": "Apparecchiare la tavola",
       "nl": "Dek de tafel",
       "cn": "布置桌面",
-      "pt": "Arrume a mesa"
+      "pt": "Arrume a mesa",
+      "hi": "मेज़ सजाना"
     }
   },
   {
@@ -29,7 +31,8 @@
       "it": "Mangiare",
       "nl": "Eten",
       "cn": "吃",
-      "pt": "Comer"
+      "pt": "Comer",
+      "hi": "खाना"
     }
   },
   {
@@ -40,7 +43,8 @@
       "it": "Vestirsi",
       "nl": "Zich aankleden",
       "cn": "穿上衣服",
-      "pt": "Vestir-se"
+      "pt": "Vestir-se",
+      "hi": "कपड़े पहनना"
     }
   },
   {
@@ -51,7 +55,8 @@
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
-      "pt": "Ir ao banheiro"
+      "pt": "Ir ao banheiro",
+      "hi": "शौचालय जाना"
     }
   },
   {
@@ -62,7 +67,8 @@
       "it": "Lavare i denti",
       "nl": "Poets je tanden",
       "cn": "刷牙",
-      "pt": "Escove seus dentes"
+      "pt": "Escove seus dentes",
+      "hi": "दाँत ब्रश करना"
     }
   },
   {
@@ -73,7 +79,8 @@
       "it": "Lavarsi le mani",
       "nl": "Om handen te wassen",
       "cn": "洗手",
-      "pt": "Para lavar as mãos"
+      "pt": "Para lavar as mãos",
+      "hi": "हाथ धोना"
     }
   }
 ]

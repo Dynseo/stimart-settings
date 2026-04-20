@@ -9,7 +9,8 @@
       "us": "Autism",
       "it": "Autismo",
       "cn": "自闭症",
-      "nl": "Autisme"
+      "nl": "Autisme",
+      "hi": "ऑटिज़्म"
     },
     "games": [
       "COLORFORM",
@@ -36,7 +37,8 @@
       "us": "ADHD",
       "it": "ADHD",
       "cn": "多动症",
-      "nl": "ADHD"
+      "nl": "ADHD",
+      "hi": "एडीएचडी"
     },
     "games": [
       "COLORFORM",
@@ -66,7 +68,8 @@
       "us": "Dyspraxia",
       "it": "Disprassia",
       "cn": "运用障碍",
-      "nl": "Dyspraxie"
+      "nl": "Dyspraxie",
+      "hi": "डिस्प्रैक्सिया"
     },
     "games": [
       "PUZZLE",
@@ -101,7 +104,8 @@
       "us": "Dyscalculia",
       "it": "Discalculia",
       "cn": "计算障碍",
-      "nl": "Dyscalculie"
+      "nl": "Dyscalculie",
+      "hi": "डिस्कैलकुलिया"
     },
     "games": [
       "CALCULUS",
@@ -122,7 +126,8 @@
       "us": "Dyslexia and dysgraphia",
       "it": "Dislessia e disortografia",
       "cn": "诵读困难和拼写障碍",
-      "nl": "Dyslexie en dysorthografie"
+      "nl": "Dyslexie en dysorthografie",
+      "hi": "डिस्लेक्सिया और डिसग्राफिया"
     },
     "games": [
       "SLIDE_MAZE",
@@ -142,7 +147,8 @@
       "us": "Dysphasia",
       "it": "Disfasia",
       "cn": "失语症",
-      "nl": "Dysfasie"
+      "nl": "Dysfasie",
+      "hi": "डिस्फेसिया"
     },
     "games": [
       "INTRUS",
@@ -163,7 +169,8 @@
       "us": "Down syndrome",
       "it": "Trisomia",
       "cn": "三体性",
-      "nl": "Trisomie"
+      "nl": "Trisomie",
+      "hi": "डाउन सिंड्रोम"
     },
     "games": [
       "COLORFORM",
@@ -191,7 +198,8 @@
       "us": "Stroke",
       "it": "Colpo",
       "cn": "中风",
-      "nl": "Hartinfarct"
+      "nl": "Hartinfarct",
+      "hi": "स्ट्रोक"
     },
     "games": [
       "CALCULUS",
@@ -221,7 +229,8 @@
       "us": "Reading",
       "it": "Lettura",
       "cn": "阅读",
-      "nl": "Lectuur"
+      "nl": "Lectuur",
+      "hi": "पठन"
     },
     "games": [
       "PUZZLE",
@@ -245,7 +254,8 @@
       "us": "Spelling",
       "it": "Ortografia",
       "cn": "拼写",
-      "nl": "Spelling"
+      "nl": "Spelling",
+      "hi": "वर्तनी"
     },
     "games": [
       "INTRUS",
@@ -264,7 +274,8 @@
       "us": "Math",
       "it": "Matematica",
       "cn": "数学",
-      "nl": "Wiskunde"
+      "nl": "Wiskunde",
+      "hi": "गणित"
     },
     "games": [
       "COLORFORM",
@@ -283,7 +294,8 @@
     "isForPapy": false,
     "isForCoco": true,
     "title": {
-      "fr": "Anglais"
+      "fr": "Anglais",
+      "hi": "अंग्रेज़ी"
     },
     "games": [
       "PUZZLE",
@@ -305,7 +317,8 @@
       "us": "History",
       "it": "Storia",
       "cn": "历史",
-      "nl": "Geschiedenis"
+      "nl": "Geschiedenis",
+      "hi": "इतिहास"
     },
     "games": [
       "QUIZZLE",
@@ -322,7 +335,8 @@
       "us": "Exploring the World",
       "it": "Interroga il mondo",
       "cn": "质疑世界",
-      "nl": "Stel de wereld in vraag"
+      "nl": "Stel de wereld in vraag",
+      "hi": "दुनिया की खोज"
     },
     "games": [
       "ANIMALS",
@@ -340,7 +354,8 @@
       "us": "Physical activities",
       "it": "Attività fisica",
       "cn": "体力活动",
-      "nl": "Fysieke activiteit"
+      "nl": "Fysieke activiteit",
+      "hi": "शारीरिक गतिविधियाँ"
     },
     "games": [
       "DANCING_MUSIC",
@@ -361,7 +376,8 @@
       "us": "Quiet activities",
       "it": "Attività tranquille",
       "cn": "安静的活动",
-      "nl": "Rustige activiteiten"
+      "nl": "Rustige activiteiten",
+      "hi": "शांत गतिविधियाँ"
     },
     "games": [
       "EMOTION_MIME",
@@ -379,16 +395,19 @@
       "us": "Culture",
       "it": "Cultura",
       "cn": "文化",
-      "nl": "Cultuur"
+      "nl": "Cultuur",
+      "hi": "संस्कृति"
     },
     "description": {
       "fr": "Testez vos connaissances culturelles",
       "cn": "测试你的文化知识",
-      "nl": "Test je culturele kennis"
+      "nl": "Test je culturele kennis",
+      "hi": "अपने सांस्कृतिक ज्ञान का परीक्षण करें"
     },
     "decription": {
       "us": "Test your cultural knowledge",
-      "it": "Metti alla prova la tua cultura generale"
+      "it": "Metti alla prova la tua cultura generale",
+      "hi": "अपने सांस्कृतिक ज्ञान का परीक्षण करें"
     },
     "games": [
       "PUZZLE",
@@ -414,16 +433,19 @@
       "us": "Dexterity ",
       "it": "Destrezza",
       "cn": "灵巧",
-      "nl": "Behendigheid"
+      "nl": "Behendigheid",
+      "hi": "निपुणता"
     },
     "description": {
       "fr": "Travaillez votre dextérité pour mieux contrôler le mouvement de vos mains",
       "cn": "锻炼你的灵活性，更好地控制你的手的运动",
-      "nl": "Werk aan uw behendigheid om de beweging van uw handen beter te controleren"
+      "nl": "Werk aan uw behendigheid om de beweging van uw handen beter te controleren",
+      "hi": "अपने हाथों की गति को बेहतर ढंग से नियंत्रित करने के लिए अपनी निपुणता पर काम करें"
     },
     "decription": {
       "us": "Work on your dexterity to better control your hand movements",
-      "it": "Lavora sulla tua destrezza per controllare meglio il movimento delle tue mani"
+      "it": "Lavora sulla tua destrezza per controllare meglio il movimento delle tue mani",
+      "hi": "अपने हाथों की गति को बेहतर ढंग से नियंत्रित करने के लिए अपनी निपुणता पर काम करें"
     },
     "games": [
       "PUZZLE",
@@ -444,16 +466,19 @@
       "us": "Logic",
       "it": "Logica",
       "cn": "逻辑",
-      "nl": "Logica"
+      "nl": "Logica",
+      "hi": "तर्क"
     },
     "description": {
       "fr": "Travaillez votre logique pour améliorer votre stratégie",
       "cn": "锻炼你的逻辑来改进你的策略",
-      "nl": "Werk aan uw logica om uw strategie te verbeteren"
+      "nl": "Werk aan uw logica om uw strategie te verbeteren",
+      "hi": "अपनी रणनीति को बेहतर बनाने के लिए अपने तर्क पर काम करें"
     },
     "decription": {
       "us": "Work on your logic to improve your strategy",
-      "it": "Lavora sulla logica per migliorare le tue strategie"
+      "it": "Lavora sulla logica per migliorare le tue strategie",
+      "hi": "अपनी रणनीति को बेहतर बनाने के लिए अपने तर्क पर काम करें"
     },
     "games": [
       "SUDOKU",
@@ -475,16 +500,19 @@
       "us": "I'm curious",
       "it": "Sono curioso",
       "cn": "我很好奇",
-      "nl": "Ik ben nieuwsgierig"
+      "nl": "Ik ben nieuwsgierig",
+      "hi": "मैं जिज्ञासु हूँ"
     },
     "description": {
       "fr": "Laissez-nous vous surprendre avec l'un de ces jeux",
       "cn": "让我们通过其中一款游戏给您带来惊喜",
-      "nl": "Laat je verrassen met één van deze spellen"
+      "nl": "Laat je verrassen met één van deze spellen",
+      "hi": "इनमें से किसी एक खेल से हमें आपको आश्चर्यचकित करने दें"
     },
     "decription": {
       "us": "Let us surprise you with one of these games",
-      "it": "Lasciati sorprendere con uno di questi giochi"
+      "it": "Lasciati sorprendere con uno di questi giochi",
+      "hi": "इनमें से किसी एक खेल से हमें आपको आश्चर्यचकित करने दें"
     },
     "games": [
       "COLORMIND",
@@ -507,16 +535,19 @@
       "us": "Group activities",
       "it": "Intrattenimento collettivo",
       "cn": "集体娱乐",
-      "nl": "Collectief vermaak"
+      "nl": "Collectief vermaak",
+      "hi": "सामूहिक गतिविधियाँ"
     },
     "description": {
       "fr": "Idéal pour jouer à plusieurs joueurs sur un seul écran",
       "cn": "非常适合在一个屏幕上与多个玩家一起玩",
-      "nl": "Ideaal om met meerdere spelers op één scherm te spelen"
+      "nl": "Ideaal om met meerdere spelers op één scherm te spelen",
+      "hi": "एक ही स्क्रीन पर कई खिलाड़ियों के साथ खेलने के लिए आदर्श"
     },
     "decription": {
       "us": "Ideal for playing with multiple players on a single screen",
-      "it": "Ideale per giocare con più giocatori su un unico schermo"
+      "it": "Ideale per giocare con più giocatori su un unico schermo",
+      "hi": "एक ही स्क्रीन पर कई खिलाड़ियों के साथ खेलने के लिए आदर्श"
     },
     "games": [
       "QUIZZLE",

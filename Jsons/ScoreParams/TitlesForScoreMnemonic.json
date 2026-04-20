@@ -9,7 +9,8 @@
       "nl": "Juiste antwoorden",
       "pt": "Respostas corretas",
       "de": "Richtige Antworten",
-      "es": "Respuestas correctas"
+      "es": "Respuestas correctas",
+      "hi": "सही उत्तर"
     }
   },
   {
@@ -22,7 +23,8 @@
       "nl": "Foute antwoorden",
       "pt": "Respostas erradas",
       "de": "Falsche Antworten",
-      "es": "Respuestas incorrectas"
+      "es": "Respuestas incorrectas",
+      "hi": "गलत उत्तर"
     }
   },
   {
@@ -35,7 +37,8 @@
       "nl": "Oplossingsweergaven",
       "pt": "Visualizações da solução",
       "de": "Lösungsansichten",
-      "es": "Visualizaciones de la solución"
+      "es": "Visualizaciones de la solución",
+      "hi": "समाधान देखा गया"
     }
   },
   {
@@ -48,7 +51,8 @@
       "nl": "Gebruikte hints",
       "pt": "Dicas utilizadas",
       "de": "Verwendete Hinweise",
-      "es": "Pistas utilizadas"
+      "es": "Pistas utilizadas",
+      "hi": "उपयोग किए गए संकेत"
     }
   },
   {
@@ -61,7 +65,8 @@
       "nl": "Tijd",
       "pt": "Tempo",
       "de": "Zeit",
-      "es": "Tiempo"
+      "es": "Tiempo",
+      "hi": "समय"
     }
   },
   {
@@ -74,7 +79,8 @@
       "nl": "Overgeslagen vragen",
       "pt": "Perguntas puladas",
       "de": "Übersprungene Fragen",
-      "es": "Preguntas omitidas"
+      "es": "Preguntas omitidas",
+      "hi": "छोड़े गए प्रश्न"
     }
   },
   {
@@ -87,7 +93,8 @@
       "nl": "Gemiste objecten",
       "pt": "Objetos perdidos",
       "de": "Verpasste Objekte",
-      "es": "Objetos no vistos"
+      "es": "Objetos no vistos",
+      "hi": "छूटी हुई वस्तुएँ"
     }
   },
   {
@@ -100,7 +107,8 @@
       "nl": "Per ongeluk aangeklikte objecten",
       "pt": "Objetos clicados por engano",
       "de": "Falsch angeklickte Objekte",
-      "es": "Objetos escritos por error"
+      "es": "Objetos escritos por error",
+      "hi": "गलती से क्लिक की गई वस्तुएँ"
     }
   },
   {
@@ -113,7 +121,8 @@
       "nl": "Terug naar start",
       "pt": "Retornos ao início",
       "de": "Zurück zum Start",
-      "es": "Vuelta al inicio"
+      "es": "Vuelta al inicio",
+      "hi": "शुरुआत पर वापसी"
     }
   },
   {
@@ -126,7 +135,8 @@
       "nl": "Verloren levens",
       "pt": "Vidas perdidas",
       "de": "Verlorene Leben",
-      "es": "Vidas perdidas"
+      "es": "Vidas perdidas",
+      "hi": "खोई हुई जानें"
     }
   },
   {
@@ -139,7 +149,8 @@
       "nl": "Minimale verplaatsingen",
       "pt": "Movimentos mínimos",
       "de": "Minimale Züge",
-      "es": "Movimientos mínimos"
+      "es": "Movimientos mínimos",
+      "hi": "न्यूनतम चालें"
     }
   },
   {
@@ -152,7 +163,8 @@
       "nl": "Reactietijd",
       "pt": "Tempo de reação",
       "de": "Reaktionszeit",
-      "es": "Tiempo de reacción"
+      "es": "Tiempo de reacción",
+      "hi": "प्रतिक्रिया समय"
     }
   },
   {
@@ -166,7 +178,8 @@
       "nl": "Uitgevoerde verplaatsingen",
       "pt": "Movimentos realizados",
       "de": "Ausgeführte Züge",
-      "es": "Movimientos realizados"
+      "es": "Movimientos realizados",
+      "hi": "की गई चालें"
     }
   },
   {
@@ -180,7 +193,8 @@
       "nl": "Mijn schapen",
       "pt": "Minhas ovelhas",
       "de": "Meine Schafe",
-      "es": "Mis ovejas"
+      "es": "Mis ovejas",
+      "hi": "मेरी भेड़ें"
     }
   },
   {
@@ -195,7 +209,8 @@
       "nl": "Ingevuld veld",
       "pt": "Campo preenchido",
       "de": "Ausgefülltes Feld",
-      "es": "Campo completado"
+      "es": "Campo completado",
+      "hi": "भरा हुआ क्षेत्र"
     }
   },
   {
@@ -209,7 +224,8 @@
       "nl": "Fouten",
       "pt": "Erros",
       "de": "Fehler",
-      "es": "Errores"
+      "es": "Errores",
+      "hi": "गलतियाँ"
     }
   },
   {
@@ -223,7 +239,8 @@
       "nl": "Uitgevoerde verplaatsingen",
       "pt": "Movimentos realizados",
       "de": "Ausgeführte Züge",
-      "es": "Movimientos realizados"
+      "es": "Movimientos realizados",
+      "hi": "की गई चालें"
     }
   },
   {
@@ -237,7 +254,8 @@
       "nl": "Te vinden lettergrepen",
       "pt": "Sílabas a encontrar",
       "de": "Silben zu finden",
-      "es": "Sílabas por encontrar"
+      "es": "Sílabas por encontrar",
+      "hi": "खोजने के लिए अक्षर"
     }
   },
   {
@@ -251,7 +269,8 @@
       "nl": "Zetten",
       "pt": "Golpes",
       "de": "Züge",
-      "es": "Jugadas"
+      "es": "Jugadas",
+      "hi": "चालें"
     }
   },
   {
@@ -265,7 +284,8 @@
       "nl": "Gevonden paren",
       "pt": "Pares encontradas",
       "de": "Gefundene Paare",
-      "es": "Parejas encontradas"
+      "es": "Parejas encontradas",
+      "hi": "मिले हुए जोड़े"
     }
   },
   {
@@ -279,7 +299,8 @@
       "nl": "Gevonden woorden",
       "pt": "Palavras encontradas",
       "de": "Gefundene Wörter",
-      "es": "Palabras encontradas"
+      "es": "Palabras encontradas",
+      "hi": "मिले हुए शब्द"
     }
   },
   {
@@ -293,7 +314,8 @@
       "nl": "Opgeloste spreekwoorden",
       "pt": "Provérbios resolvidos",
       "de": "Gelöste Sprichwörter",
-      "es": "Proverbios resueltos"
+      "es": "Proverbios resueltos",
+      "hi": "हल की गई कहावतें"
     }
   },
   {
@@ -307,7 +329,8 @@
       "nl": "Overgeslagen spreekwoorden",
       "pt": "Provérbios pulados",
       "de": "Übersprungene Sprichwörter",
-      "es": "Proverbios omitidos"
+      "es": "Proverbios omitidos",
+      "hi": "छोड़ी गई कहावतें"
     }
   },
   {
@@ -321,7 +344,8 @@
       "nl": "Verkeerd geraakte ballonnen",
       "pt": "Balões errados atingidos",
       "de": "Falsch getroffene Ballons",
-      "es": "Globos incorrectos tocados"
+      "es": "Globos incorrectos tocados",
+      "hi": "गलत गुब्बारों पर निशाना"
     }
   },
   {
@@ -335,7 +359,8 @@
       "nl": "Te raken ballonnen",
       "pt": "Balões a acertar",
       "de": "Zu treffende Ballons",
-      "es": "Globos que hay que tocar"
+      "es": "Globos que hay que tocar",
+      "hi": "फोड़ने वाले गुब्बारे"
     }
   },
   {
@@ -349,7 +374,8 @@
       "nl": "Juist geraakte ballonnen",
       "pt": "Balões certos atingidos",
       "de": "Richtig getroffene Ballons",
-      "es": "Globos correctos tocados"
+      "es": "Globos correctos tocados",
+      "hi": "सही गुब्बारों पर निशाना"
     }
   },
   {
@@ -363,7 +389,8 @@
       "nl": "Juiste vormen geraakt",
       "pt": "Formas corretas tocadas",
       "de": "Richtig getroffene Formen",
-      "es": "Figuras correctas tocadas"
+      "es": "Figuras correctas tocadas",
+      "hi": "सही आकृतियों पर निशाना"
     }
   },
   {
@@ -377,7 +404,8 @@
       "nl": "Verkeerd geraakte vormen",
       "pt": "Formas erradas tocadas",
       "de": "Falsch getroffene Formen",
-      "es": "Figuras incorrectas tocadas"
+      "es": "Figuras incorrectas tocadas",
+      "hi": "गलत आकृतियों पर निशाना"
     }
   },
   {
@@ -391,7 +419,8 @@
       "nl": "Gemiste vormen",
       "pt": "Formas perdidas",
       "de": "Verpasste Formen",
-      "es": "Figuras no tocadas"
+      "es": "Figuras no tocadas",
+      "hi": "छूटी हुई आकृतियाँ"
     }
   },
   {
@@ -405,7 +434,8 @@
       "nl": "Geraakte normale mollen",
       "pt": "Toupeiras normais atingidas",
       "de": "Getroffene normale Maulwürfe",
-      "es": "Topos normales tocados"
+      "es": "Topos normales tocados",
+      "hi": "सामान्य छछूंदरों पर निशाना"
     }
   },
   {
@@ -419,7 +449,8 @@
       "nl": "Geraakte mollen met helm",
       "pt": "Toupeiras com capacete atingidas",
       "de": "Getroffene Maulwürfe mit Helm",
-      "es": "Topos con casco tocados"
+      "es": "Topos con casco tocados",
+      "hi": "हेलमेट वाले छछूंदरों पर निशाना"
     }
   },
   {
@@ -433,7 +464,8 @@
       "nl": "Geraakte mollen met bril",
       "pt": "Toupeiras com óculos atingidas",
       "de": "Getroffene Maulwürfe mit Brille",
-      "es": "Topos con gafas tocados"
+      "es": "Topos con gafas tocados",
+      "hi": "चश्मे वाले छछूंदरों पर निशाना"
     }
   },
   {
@@ -447,7 +479,8 @@
       "nl": "Gemiste mollen",
       "pt": "Toupeiras perdidas",
       "de": "Verpasste Maulwürfe",
-      "es": "Topos no tocados"
+      "es": "Topos no tocados",
+      "hi": "छूटे हुए छछूंदर"
     }
   },
   {
@@ -461,7 +494,8 @@
       "nl": "Geactiveerde pijlen",
       "pt": "Flechas acionadas",
       "de": "Ausgelöste Pfeile",
-      "es": "Flechas activadas"
+      "es": "Flechas activadas",
+      "hi": "सक्रिय किए गए तीर"
     }
   },
   {
@@ -475,7 +509,8 @@
       "nl": "Niet-geactiveerde pijlen",
       "pt": "Flechas não acionadas",
       "de": "Nicht ausgelöste Pfeile",
-      "es": "Flechas no activadas"
+      "es": "Flechas no activadas",
+      "hi": "सक्रिय न किए गए तीर"
     }
   },
   {
@@ -489,7 +524,8 @@
       "nl": "Voltooide sneeuwpoppen",
       "pt": "Bonecos de neve completos",
       "de": "Vervollständigte Schneemänner",
-      "es": "Muñecos de nieve completados"
+      "es": "Muñecos de nieve completados",
+      "hi": "पूरे किए गए स्नोमैन"
     }
   },
   {
@@ -503,7 +539,8 @@
       "nl": "Woorden om te vinden",
       "pt": "Palavras para encontrar",
       "de": "Wörter zu finden",
-      "es": "Palabras para encontrar"
+      "es": "Palabras para encontrar",
+      "hi": "खोजने के लिए शब्द"
     }
   },
   {
@@ -517,7 +554,8 @@
       "nl": "Gemiste woorden",
       "pt": "Palavras faltantes",
       "de": "Verpasste Wörter",
-      "es": "Palabras faltantes"
+      "es": "Palabras faltantes",
+      "hi": "छूटे हुए शब्द"
     }
   },
   {
@@ -531,7 +569,8 @@
       "nl": "Gemiste letters",
       "pt": "Letras perdidas",
       "de": "Verpasste Buchstaben",
-      "es": "Letras no encontradas"
+      "es": "Letras no encontradas",
+      "hi": "छूटे हुए अक्षर"
     }
   },
   {
@@ -545,7 +584,8 @@
       "nl": "Gevonden letters",
       "pt": "Letras encontradas",
       "de": "Gefundene Buchstaben",
-      "es": "Letras encontradas"
+      "es": "Letras encontradas",
+      "hi": "मिले हुए अक्षर"
     }
   },
   {
@@ -559,7 +599,8 @@
       "nl": "Opgegeten prooien",
       "pt": "Presas comidas",
       "de": "Gefressene Beute",
-      "es": "Presas comidas"
+      "es": "Presas comidas",
+      "hi": "खाए गए शिकार"
     }
   },
   {
@@ -573,7 +614,8 @@
       "nl": "Gemiste prooien",
       "pt": "Presas perdidas",
       "de": "Verpasste Beute",
-      "es": "Presas perdidas"
+      "es": "Presas perdidas",
+      "hi": "छूटे हुए शिकार"
     }
   },
   {
@@ -587,7 +629,8 @@
       "nl": "Gemiste ballen",
       "pt": "Bolas perdidas",
       "de": "Verpasste Bälle",
-      "es": "Pelotas perdidas"
+      "es": "Pelotas perdidas",
+      "hi": "छूटी हुई गेंदें"
     }
   },
   {
@@ -601,7 +644,8 @@
       "nl": "Geraakte ballen",
       "pt": "Bolas acertadas",
       "de": "Getroffene Bälle",
-      "es": "Pelotas tocadas"
+      "es": "Pelotas tocadas",
+      "hi": "गेंदों पर निशाना"
     }
   },
   {
@@ -615,7 +659,8 @@
       "nl": "Punten",
       "pt": "Pontos",
       "de": "Punkte",
-      "es": "Puntos"
+      "es": "Puntos",
+      "hi": "अंक"
     }
   },
   {
@@ -629,7 +674,8 @@
       "nl": "Voltooide rijen en kolommen",
       "pt": "Linhas e colunas completas",
       "de": "Vervollständigte Reihen und Spalten",
-      "es": "Filas y columnas completadas"
+      "es": "Filas y columnas completadas",
+      "hi": "पूरी की गई पंक्तियाँ और स्तंभ"
     }
   },
   {
@@ -643,7 +689,8 @@
       "nl": "Combos",
       "pt": "Combos",
       "de": "Combos",
-      "es": "Combos"
+      "es": "Combos",
+      "hi": "कॉम्बो"
     }
   },
   {
@@ -657,7 +704,8 @@
       "nl": "Maximum combo",
       "pt": "Combo máximo",
       "de": "Maximaler Combo",
-      "es": "Combo máximo"
+      "es": "Combo máximo",
+      "hi": "अधिकतम कॉम्बो"
     }
   },
   {
@@ -671,7 +719,8 @@
       "nl": "Geredde dieren",
       "pt": "Animais resgatados",
       "de": "Gerettete Tiere",
-      "es": "Animales rescatados"
+      "es": "Animales rescatados",
+      "hi": "बचाए गए जानवर"
     }
   },
   {
@@ -685,7 +734,8 @@
       "nl": "Slechte paren",
       "pt": "Pares ruins",
       "de": "Schlechte Paare",
-      "es": "Malas parejas"
+      "es": "Malas parejas",
+      "hi": "गलत जोड़े"
     }
   },
   {
@@ -699,7 +749,8 @@
       "nl": "Punten",
       "pt": "Pontos",
       "de": "Punkte",
-      "es": "Agujas"
+      "es": "Agujas",
+      "hi": "अंक"
     }
   },
   {
@@ -713,7 +764,8 @@
       "nl": "Te vinden elementen",
       "pt": "Elementos para encontrar",
       "de": "Zu findende Elemente",
-      "es": "Elementos a encontrar"
+      "es": "Elementos a encontrar",
+      "hi": "खोजने के लिए तत्व"
     }
   },
   {
@@ -727,7 +779,8 @@
       "nl": "Te vinden elementen",
       "pt": "Elementos para encontrar",
       "de": "Zu findende Elemente",
-      "es": "Elementos a encontrar"
+      "es": "Elementos a encontrar",
+      "hi": "खोजने के लिए तत्व"
     }
   },
   {
@@ -741,7 +794,8 @@
       "nl": "Te vinden elementen",
       "pt": "Elementos para encontrar",
       "de": "Zu findende Elemente",
-      "es": "Elementos a encontrar"
+      "es": "Elementos a encontrar",
+      "hi": "खोजने के लिए तत्व"
     }
   },
   {
@@ -756,7 +810,8 @@
       "nl": "Aanvullingen die moeten worden gemaakt",
       "pt": "Adições a serem feitas",
       "de": "Zu ergänzende Ergänzungen",
-      "es": "Adiciones que se deben realizar"
+      "es": "Adiciones que se deben realizar",
+      "hi": "करने के लिए जोड़"
     }
   },
   {
@@ -771,7 +826,23 @@
       "nl": "Juiste antwoorden",
       "pt": "Respostas corretas",
       "de": "Richtige Antworten",
-      "es": "Respuestas correctas"
+      "es": "Respuestas correctas",
+      "hi": "सही उत्तर"
+    }
+  },
+  {
+    "scoreMnemonic": "completionPercent",
+    "unity": "%",
+    "title": {
+        "fr": "Progression",
+        "us": "Progress",
+        "it": "Progressione",
+        "cn": "进度",
+        "nl": "Voortgang",
+        "pt": "Progresso",
+        "de": "Fortschritt",
+        "es": "Progreso",
+        "hi": "प्रगति"
     }
   }
 ]
