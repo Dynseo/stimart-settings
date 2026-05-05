@@ -834,15 +834,15 @@
     "scoreMnemonic": "completionPercent",
     "unity": "%",
     "title": {
-        "fr": "Progression",
-        "us": "Progress",
-        "it": "Progressione",
-        "cn": "进度",
-        "nl": "Voortgang",
-        "pt": "Progresso",
-        "de": "Fortschritt",
-        "es": "Progreso",
-        "hi": "प्रगति"
+        "fr": "Texte récité",
+        "us": "Recited text",
+        "it": "Testo recitato",
+        "cn": "朗诵文本",
+        "nl": "Voorgedragen tekst",
+        "pt": "Texto recitado",
+        "de": "Rezitiert Text",
+        "es": "Texto recitado",
+        "hi": "पाठ किया गया पाठ"
     }
   }
 ]
