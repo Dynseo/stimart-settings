@@ -75,13 +75,13 @@
     "minScore": 0,
     "title": {
       "fr": "C'est votre nouveau record !|Vous progressez, nouveau record !|Vous battez votre record !|Nouveau record !|Vous progressez !|Vous progressez bien !|Nouveau meilleur score !|C'est bien !|Vous avez un nouveau record !|Bravo !",
-      "us": "<grade>/10, it's your new record!|You're making progress, new record at <grade>/10!|<grade>/10, you beat your record!|New record at <grade>/10!|<grade>/10, you're making progress!|You're progressing with this <grade>/10!|New best score at <grade>/10!|<grade>/10, that's good!|Your new record is <grade>/10!|<grade>/10, well done!",
-      "it": "<grade>/10, è il tuo nuovo record!|Stai facendo progressi, nuovo record a <grade>/10!|<grade>/10, batti il tuo record!|Nuovo record a <grade>/10!|<grade>/10, stai facendo progressi!|Stai progredendo con questo <grade>/10!|Nuovo punteggio migliore a <grade>/10!|<grade>/10, va bene!|Il tuo nuovo record è di <grade>/10!|<grade>/10, bravo!",
-      "cn": "<grade>/10，这是您的新记录！|您在进步，新记录为<grade>/10！|<grade>/10，您打破了自己的记录！|新记录为<grade>/10！|<grade>/10，您在进步！|您在这个<grade>/10上进步了！|新最佳分数为<grade>/10！|<grade>/10，做得好！|您的新记录是<grade>/10！|<grade>/10，太棒了！",
-      "nl": "<grade>/10, dat is uw nieuwe record!|U maakt vooruitgang, nieuw record van <grade>/10!|<grade>/10, u breekt uw record!|Nieuw record van <grade>/10!|<grade>/10, u maakt vooruitgang!|U maakt vooruitgang met deze <grade>/10!|Nieuw hoogste score van <grade>/10!|<grade>/10, goed gedaan!|Uw nieuwe record is <grade>/10!|<grade>/10, gefeliciteerd!",
-      "es": "<grade>/10, ¡es tu nuevo récord!|¡Estás progresando, nuevo récord de <grade>/10!|<grade>/10, ¡rompes tu récord!|¡Nuevo récord de <grade>/10!|<grade>/10, ¡estás progresando!|¡Estás progresando con este <grade>/10!|¡Nuevo mejor puntaje de <grade>/10!|<grade>/10, ¡está bien!|¡Tu nuevo récord es de <grade>/10!|<grade>/10, ¡bien hecho!",
-      "pt": "<grade>/10, é o seu novo recorde!|Você está progredindo, novo recorde de <grade>/10!|<grade>/10, você bateu seu recorde!|Novo recorde de <grade>/10!|<grade>/10, você está progredindo!|Você está progredindo com esse <grade>/10!|Novo melhor resultado de <grade>/10!|<grade>/10, está bom!|Seu novo recorde é de <grade>/10!|<grade>/10, parabéns!",
-      "de": "<grade>/10, das ist Ihr neuer Rekord!|Sie machen Fortschritte, neuer Rekord bei <grade>/10!|<grade>/10, Sie brechen Ihren Rekord!|Neuer Rekord bei <grade>/10!|<grade>/10, Sie machen Fortschritte!|Sie machen Fortschritte mit diesem <grade>/10!|Neuer Bestwert bei <grade>/10!|<grade>/10, das ist gut!|Ihr neuer Rekord liegt bei <grade>/10!|<grade>/10, bravo!"
+      "us": "It's your new record!|You're making progress, new record!|You're beating your record!|New record!|You're making progress!|You're doing well!|New best score!|That's good!|You have a new record!|Well done!",
+      "it": "È il tuo nuovo record!|Stai facendo progressi, nuovo record!|Stai battendo il tuo record!|Nuovo record!|Stai facendo progressi!|Stai andando bene!|Nuovo punteggio migliore!|Va bene!|Hai un nuovo record!|Bravo!",
+      "cn": "这是你的新纪录！|你在进步，新的纪录！|你打破了自己的纪录！|新纪录！|你在进步！|你做得很好！|新的最佳分数！|很好！|你有了新的纪录！|干得好！",
+      "nl": "Het is je nieuwe record!|Je maakt vooruitgang, nieuw record!|Je breekt je record!|Nieuw record!|Je maakt vooruitgang!|Je doet het goed!|Nieuwe beste score!|Dat is goed!|Je hebt een nieuw record!|Goed gedaan!",
+      "es": "¡Es tu nuevo récord!|¡Estás progresando, nuevo récord!|¡Estás batiendo tu récord!|¡Nuevo récord!|¡Estás progresando!|¡Lo estás haciendo bien!|¡Nueva mejor puntuación!|¡Está bien!|¡Tienes un nuevo récord!|¡Bien hecho!",
+      "pt": "É o seu novo recorde!|Você está progredindo, novo recorde!|Você está batendo seu recorde!|Novo recorde!|Você está progredindo!|Você está indo bem!|Novo melhor resultado!|Isso é bom!|Você tem um novo recorde!|Parabéns!",
+      "de": "Es ist dein neuer Rekord!|Du machst Fortschritte, neuer Rekord!|Du schlägst deinen Rekord!|Neuer Rekord!|Du machst Fortschritte!|Du machst das gut!|Neue Bestpunktzahl!|Das ist gut!|Du hast einen neuen Rekord!|Gut gemacht!"
     }
   },
   {
@@ -92,13 +92,13 @@
     "minScore": 6,
     "title": {
       "fr": "Nouveau record, vous progressez !|Vous progressez bien !|Pas mal, nouveau record !|Vous progressez bien !|Nouveau meilleur score !|Vous progressez !|Nouveau record !|C'est bien !|Vous êtes sur la bonne voie !|Pas mal du tout !",
-      "us": "<grade>/10, new record, you are progressing!|You are progressing with this <grade>/10!|Not bad, new record at <grade>/10!|<grade>/10, you are doing well!|New best score at <grade>/10!|You are progressing, <grade>/10!|<grade>/10, new record!|<grade>/10, that's good!|<grade>/10, you are on the right track!|Not bad this <grade>/10!",
-      "it": "<grade>/10, nuovo record, stai progredendo!|Stai progredendo con questo <grade>/10!|Non male, nuovo record a <grade>/10!|<grade>/10, stai andando bene!|Nuovo miglior punteggio a <grade>/10!|Stai progredendo, <grade>/10!|<grade>/10, nuovo record!|<grade>/10, va bene!|<grade>/10, sei sulla buona strada!|Non male questo <grade>/10!",
-      "cn": "<grade>/10，新的记录，你在进步！|你在这个<grade>/10上进步了！|不错，新的记录是<grade>/10！|<grade>/10，你做得很好！|新的最佳分数是<grade>/10！|你在进步，<grade>/10！|<grade>/10，新的记录！|<grade>/10，挺好的！|<grade>/10，你走在正确的道路上！|这个<grade>/10不错！",
-      "nl": "<grade>/10, nieuw record, je maakt vooruitgang!|Je maakt vooruitgang met deze <grade>/10!|Niet slecht, nieuw record op <grade>/10!|<grade>/10, je doet het goed!|Nieuw beste score op <grade>/10!|Je maakt vooruitgang, <grade>/10!|<grade>/10, nieuw record!|<grade>/10, dat is goed!|<grade>/10, je bent op de goede weg!|Niet slecht deze <grade>/10!",
-      "es": "<grade>/10, nuevo récord, ¡estás progresando!|¡Estás progresando con este <grade>/10!|No está mal, nuevo récord en <grade>/10!|<grade>/10, ¡lo estás haciendo bien!|¡Nuevo mejor puntaje en <grade>/10!|¡Estás progresando, <grade>/10!|<grade>/10, ¡nuevo récord!|<grade>/10, ¡está bien!|<grade>/10, ¡estás en el camino correcto!|¡No está mal este <grade>/10!",
-      "pt": "<grade>/10, novo recorde, você está progredindo!|Você está progredindo com este <grade>/10!|Nada mal, novo recorde em <grade>/10!|<grade>/10, você está indo bem!|Novo melhor resultado em <grade>/10!|Você está progredindo, <grade>/10!|<grade>/10, novo recorde!|<grade>/10, isso é bom!|<grade>/10, você está no caminho certo!|Nada mal este <grade>/10!",
-      "de": "<grade>/10, neuer Rekord, du machst Fortschritte!|Du machst Fortschritte mit diesem <grade>/10!|Nicht schlecht, neuer Rekord bei <grade>/10!|<grade>/10, du machst das gut!|Neuer Bestwert bei <grade>/10!|Du machst Fortschritte, <grade>/10!|<grade>/10, neuer Rekord!|<grade>/10, das ist gut!|<grade>/10, du bist auf dem richtigen Weg!|Nicht schlecht, dieses <grade>/10!"
+      "us": "New record, you're making progress!|You're doing well!|Not bad, new record!|You're doing well!|New high score!|You're making progress!|New record!|That's good!|You're on the right track!|Not bad at all!",
+      "it": "Nuovo record, stai facendo progressi!|Stai andando bene!|Non male, nuovo record!|Stai andando bene!|Nuovo punteggio massimo!|Stai facendo progressi!|Nuovo record!|Va bene!|Sei sulla strada giusta!|Niente male!",
+      "cn": "新纪录，你在进步！|你做得很好！|不错，新纪录！|你做得很好！|新的最高分！|你在进步！|新纪录！|很好！|你在正确的道路上！|一点也不错！",
+      "nl": "Nieuwe record, je maakt vooruitgang!|Je doet het goed!|Niet slecht, nieuw record!|Je doet het goed!|Nieuwe hoogste score!|Je maakt vooruitgang!|Nieuw record!|Dat is goed!|Je bent op de goede weg!|Helemaal niet slecht!",
+      "es": "¡Nuevo récord, estás progresando!|¡Lo estás haciendo bien!|¡No está mal, nuevo récord!|¡Lo estás haciendo bien!|¡Nuevo mejor puntaje!|¡Estás progresando!|¡Nuevo récord!|¡Está bien!|¡Estás en el camino correcto!|¡Nada mal!",
+      "pt": "Novo recorde, você está progredindo!|Você está indo bem!|Nada mal, novo recorde!|Você está indo bem!|Novo recorde de pontos!|Você está progredindo!|Novo recorde!|Isso é bom!|Você está no caminho certo!|Nada mal mesmo!",
+      "de": "Neuer Rekord, du machst Fortschritte!|Du machst das gut!|Nicht schlecht, neuer Rekord!|Du machst das gut!|Neuer Höchstwert!|Du machst Fortschritte!|Neuer Rekord!|Das ist gut!|Du bist auf dem richtigen Weg!|Überhaupt nicht schlecht!"
     }
   },
   {
@@ -109,13 +109,13 @@
     "minScore": 8,
     "title": {
       "fr": "Bravo, vous progressez !|Vous progressez bien !|Vous progressez, nouveau record !|C'est bien !|Nouveau record, bravo !|Belle progression !|Bravo !|Vous progressez !|Vous êtes en forme !|Nouveau record !",
-      "us": "Well done, you are progressing with <grade>/10!|<grade>/10, you are progressing well!|You are progressing, new record at <grade>/10!|<grade>/10, that's good!|New record at <grade>/10, well done!|<grade>/10, nice progress!|Well done, <grade>/10!|You are progressing, <grade>/10!|<grade>/10, you are in good shape!|New record, <grade>/10!",
-      "it": "Bravo, stai progredendo con <grade>/10!|<grade>/10, stai progredendo bene!|Stai progredendo, nuovo record a <grade>/10!|<grade>/10, va bene!|Nuovo record a <grade>/10, bravo!|<grade>/10, bella progressione!|Bravo, <grade>/10!|Stai progredendo, <grade>/10!|<grade>/10, sei in forma!|Nuovo record, <grade>/10!",
-      "cn": "好样的，你的进步是<grade>/10！|<grade>/10，你进步得很好！|你在进步，新的记录是<grade>/10！|<grade>/10，做得不错！|新的记录是<grade>/10，太棒了！|<grade>/10，进步很大！|好样的，<grade>/10！|你在进步，<grade>/10！|<grade>/10，你状态很好！|新记录，<grade>/10！",
-      "nl": "Goed gedaan, je maakt vooruitgang met <grade>/10!|<grade>/10, je maakt goed vooruitgang!|Je maakt vooruitgang, nieuw record op <grade>/10!|<grade>/10, dat is goed!|Nieuw record op <grade>/10, goed gedaan!|<grade>/10, mooie vooruitgang!|Goed gedaan, <grade>/10!|Je maakt vooruitgang, <grade>/10!|<grade>/10, je bent in topvorm!|Nieuw record, <grade>/10!",
-      "es": "¡Bien hecho, estás progresando con <grade>/10!|<grade>/10, ¡estás progresando bien!|¡Estás progresando, nuevo récord en <grade>/10!|<grade>/10, ¡está bien!|¡Nuevo récord en <grade>/10, bien hecho!|<grade>/10, ¡buen progreso!|¡Bien hecho, <grade>/10!|¡Estás progresando, <grade>/10!|<grade>/10, ¡estás en forma!|¡Nuevo récord, <grade>/10!",
-      "pt": "Parabéns, você está progredindo com <grade>/10!|<grade>/10, você está progredindo bem!|Você está progredindo, novo recorde em <grade>/10!|<grade>/10, isso é bom!|Novo recorde em <grade>/10, parabéns!|<grade>/10, bela progressão!|Parabéns, <grade>/10!|Você está progredindo, <grade>/10!|<grade>/10, você está em forma!|Novo recorde, <grade>/10!",
-      "de": "Gut gemacht, du machst Fortschritte mit <grade>/10!|<grade>/10, du machst gute Fortschritte!|Du machst Fortschritte, neuer Rekord bei <grade>/10!|<grade>/10, das ist gut!|Neuer Rekord bei <grade>/10, gut gemacht!|<grade>/10, schöne Fortschritte!|Gut gemacht, <grade>/10!|Du machst Fortschritte, <grade>/10!|<grade>/10, du bist in Form!|Neuer Rekord, <grade>/10!"
+      "us": "Well done, you are making progress!|You are progressing well!|You are making progress, new record!|That's good!|New record, well done!|Nice progress!|Well done!|You are making progress!|You are in shape!|New record!",
+      "it": "Bravo, stai facendo progressi!|Stai progredendo bene!|Stai facendo progressi, nuovo record!|Va bene!|Nuovo record, bravo!|Bella progressione!|Bravo!|Stai facendo progressi!|Sei in forma!|Nuovo record!",
+      "cn": "好样的，你在进步！|你进展得很好！|你在进步，创造新纪录！|很好！|新纪录，干得好！|很好的进步！|好样的！|你在进步！|你状态很好！|新纪录！",
+      "nl": "Goed gedaan, je maakt vooruitgang!|Je vordert goed!|Je maakt vooruitgang, nieuw record!|Dat is goed!|Nieuw record, goed gedaan!|Mooie vooruitgang!|Goed gedaan!|Je maakt vooruitgang!|Je bent in vorm!|Nieuw record!",
+      "es": "¡Bien hecho, estás progresando!|¡Estás progresando bien!|¡Estás progresando, nuevo récord!|¡Está bien!|¡Nuevo récord, bien hecho!|¡Bonito progreso!|¡Bien hecho!|¡Estás progresando!|¡Estás en forma!|¡Nuevo récord!",
+      "pt": "Parabéns, você está progredindo!|Você está progredindo bem!|Você está progredindo, novo recorde!|Isso é bom!|Novo recorde, parabéns!|Bela progressão!|Parabéns!|Você está progredindo!|Você está em forma!|Novo recorde!",
+      "de": "Gut gemacht, du machst Fortschritte!|Du machst gute Fortschritte!|Du machst Fortschritte, neuer Rekord!|Das ist gut!|Neuer Rekord, gut gemacht!|Schöner Fortschritt!|Gut gemacht!|Du machst Fortschritte!|Du bist in Form!|Neuer Rekord!"
     }
   },
   {
@@ -126,13 +126,13 @@
     "minScore": 10,
     "title": {
       "fr": "Parfait !|Félicitations !|Bravo !|Bravo, record parfait !|C'est parfait !|Nouveau record parfait !|Magnifique !|Score parfait !|Excellent !|C'est très bien !",
-      "us": "Perfect, <grade>/10 !|Congratulations, <grade>/10 !|<grade>/10, well done !|Well done, perfect record !|<grade>/10, it's perfect !|New perfect record, <grade>/10 !|<grade>/10, magnificent !|Perfect score !|<grade>/10 !|<grade>/10, that's very good !",
-      "it": "Perfetto, <grade>/10 !|Congratulazioni, <grade>/10 !|<grade>/10, ben fatto !|Bravo, record perfetto !|<grade>/10, è perfetto !|Nuovo record perfetto, <grade>/10 !|<grade>/10, magnifico !|Punteggio perfetto !|<grade>/10 !|<grade>/10, è molto buono !",
-      "cn": "完美，<grade>/10！|恭喜，<grade>/10！|<grade>/10，干得好！|好样的，完美记录！|<grade>/10，太完美了！|新的完美记录，<grade>/10！|<grade>/10，太棒了！|完美分数！|<grade>/10！|<grade>/10，真不错！",
-      "nl": "Perfect, <grade>/10 !|Gefeliciteerd, <grade>/10 !|<grade>/10, goed gedaan !|Goed gedaan, perfect record !|<grade>/10, het is perfect !|Nieuwe perfecte record, <grade>/10 !|<grade>/10, prachtig !|Perfecte score !|<grade>/10 !|<grade>/10, dat is heel goed !",
-      "es": "¡Perfecto, <grade>/10!|¡Felicidades, <grade>/10!|¡<grade>/10, bien hecho!|¡Bien hecho, récord perfecto!|¡<grade>/10, es perfecto!|¡Nuevo récord perfecto, <grade>/10!|¡<grade>/10, magnífico!|¡Puntuación perfecta!|¡<grade>/10!|¡<grade>/10, está muy bien!",
-      "pt": "Perfeito, <grade>/10 !|Parabéns, <grade>/10 !|<grade>/10, bem feito !|Bem feito, recorde perfeito !|<grade>/10, é perfeito !|Novo recorde perfeito, <grade>/10 !|<grade>/10, magnífico !|Pontuação perfeita !|<grade>/10 !|<grade>/10, está muito bom !",
-      "de": "Perfekt, <grade>/10 !|Herzlichen Glückwunsch, <grade>/10 !|<grade>/10, gut gemacht !|Gut gemacht, perfekter Rekord !|<grade>/10, es ist perfekt !|Neuer perfekter Rekord, <grade>/10 !|<grade>/10, großartig !|Perfekte Punktzahl !|<grade>/10 !|<grade>/10, das ist sehr gut !"
+      "us": "Perfect!|Congratulations!|Well done!|Well done, perfect score!|It's perfect!|New perfect score!|Magnificent!|Perfect score!|Excellent!|It's very good!",
+      "it": "Perfetto!|Congratulazioni!|Bravo!|Bravo, punteggio perfetto!|È perfetto!|Nuovo punteggio perfetto!|Magnifico!|Punteggio perfetto!|Eccellente!|È molto buono!",
+      "cn": "完美！|恭喜！|干得好！|干得好，完美分数！|这太完美了！|新的完美分数！|壮观！|完美分数！|优秀！|非常好！",
+      "nl": "Perfect!|Gefeliciteerd!|Goed gedaan!|Goed gedaan, perfecte score!|Het is perfect!|Nieuwe perfecte score!|Magnifiek!|Perfecte score!|Uitstekend!|Het is heel goed!",
+      "es": "¡Perfecto!|¡Felicidades!|¡Bien hecho!|¡Bien hecho, puntuación perfecta!|¡Es perfecto!|¡Nuevo récord perfecto!|¡Magnífico!|¡Puntuación perfecta!|¡Excelente!|¡Es muy bueno!",
+      "pt": "Perfeito!|Parabéns!|Bom trabalho!|Bom trabalho, pontuação perfeita!|Está perfeito!|Novo recorde perfeito!|Magnífico!|Pontuação perfeita!|Excelente!|É muito bom!",
+      "de": "Perfekt!|Herzlichen Glückwunsch!|Gut gemacht!|Gut gemacht, perfekte Punktzahl!|Es ist perfekt!|Neuer perfekter Punktestand!|Wundervoll!|Perfekte Punktzahl!|Ausgezeichnet!|Es ist sehr gut!"
     }
   },
   {
@@ -279,13 +279,13 @@
     "minScore": 0,
     "title": {
       "fr": "Vous égalez votre meilleur score !|Vous maintenez votre niveau !|C'est votre meilleur score !|Vous refaites un super score !|Vous confirmez !|Meilleur score égalé !|C'est bien !|Vous refaites votre meilleur score !|Vous maintenez !|Vous restez à votre meilleur !",
-      "us": "<grade>/10, you equal your best score!|You maintain your level at <grade>/10!|<grade>/10, it's your best score!|You redo <grade>/10!|<grade>/10, you confirm!|Best score matched at <grade>/10!|<grade>/10, that's good!|You redo your best score, <grade>/10!|<grade>/10, you maintain!|<grade>/10, you stay at your best!",
-      "it": "<grade>/10, eguagli il tuo punteggio migliore!|Mantieni il tuo livello a <grade>/10!|<grade>/10, è il tuo punteggio migliore!|Rifai <grade>/10!|<grade>/10, confermi!|Miglior punteggio eguagliato a <grade>/10!|<grade>/10, va bene!|Rifai il tuo punteggio migliore, <grade>/10!|<grade>/10, mantieni!|<grade>/10, rimani al tuo meglio!",
-      "cn": "<grade>/10，您达到了最佳分数！|您保持在<grade>/10的水平！|<grade>/10，这是您的最佳分数！|您重新获得<grade>/10！|<grade>/10，您确认！|最佳分数达到<grade>/10！|<grade>/10，做得好！|您重新获得最佳分数，<grade>/10！|<grade>/10，您保持！|<grade>/10，您保持在最佳状态！",
-      "nl": "<grade>/10, je evenaart je beste score!|Je houdt je niveau op <grade>/10!|<grade>/10, dat is je beste score!|Je haalt opnieuw <grade>/10!|<grade>/10, je bevestigt!|Beste score geëvenaard op <grade>/10!|<grade>/10, dat is goed!|Je haalt je beste score opnieuw, <grade>/10!|<grade>/10, je houdt vol!|<grade>/10, je blijft op je best!",
-      "es": "<grade>/10, ¡igualas tu mejor puntuación!|¡Mantienes tu nivel en <grade>/10!|<grade>/10, ¡es tu mejor puntuación!|¡Vuelves a hacer <grade>/10!|<grade>/10, ¡confirmas!|¡Mejor puntuación igualada a <grade>/10!|<grade>/10, ¡está bien!|¡Vuelves a hacer tu mejor puntuación, <grade>/10!|<grade>/10, ¡mantienes!|<grade>/10, ¡te mantienes en tu mejor nivel!",
-      "pt": "<grade>/10, você iguala sua melhor pontuação!|Você mantém seu nível em <grade>/10!|<grade>/10, é sua melhor pontuação!|Você refaz <grade>/10!|<grade>/10, você confirma!|Melhor pontuação igualada a <grade>/10!|<grade>/10, está bom!|Você refaz sua melhor pontuação, <grade>/10!|<grade>/10, você mantém!|<grade>/10, você permanece no seu melhor!",
-      "de": "<grade>/10, du erreichst deine beste Punktzahl!|Du hältst dein Niveau bei <grade>/10!|<grade>/10, das ist deine beste Punktzahl!|Du machst <grade>/10 erneut!|<grade>/10, du bestätigst!|Beste Punktzahl erreicht bei <grade>/10!|<grade>/10, das ist gut!|Du erreichst deine beste Punktzahl erneut, <grade>/10!|<grade>/10, du hältst durch!|<grade>/10, du bleibst auf deinem Besten!"
+      "us": "You equal your best score!|You maintain your level!|This is your best score!|You achieve a great score again!|You confirm!|Best score matched!|That's good!|You achieve your best score again!|You maintain!|You stay at your best!",
+      "it": "Eguagli il tuo punteggio migliore!|Mantieni il tuo livello!|Questo è il tuo punteggio migliore!|Fai di nuovo un ottimo punteggio!|Confermi!|Punteggio migliore eguagliato!|Va bene!|Fai di nuovo il tuo punteggio migliore!|Mantieni!|Rimani al tuo meglio!",
+      "cn": "您达到了您的最佳分数！|您保持了您的水平！|这是您的最佳分数！|您再次取得了出色的分数！|您确认！|最佳分数相等！|很好！|您再次达到了您的最佳分数！|您保持！|您保持在最佳状态！",
+      "nl": "Je evenaart je beste score!|Je houdt je niveau vast!|Dit is je beste score!|Je haalt opnieuw een geweldige score!|Je bevestigt!|Beste score geëvenaard!|Dat is goed!|Je haalt opnieuw je beste score!|Je houdt vol!|Je blijft op je best!",
+      "es": "¡Igualas tu mejor puntuación!|¡Mantienes tu nivel!|¡Esta es tu mejor puntuación!|¡Vuelves a hacer una gran puntuación!|¡Confirmas!|¡Mejor puntuación igualada!|¡Está bien!|¡Vuelves a hacer tu mejor puntuación!|¡Mantienes!|¡Te mantienes en tu mejor nivel!",
+      "pt": "Você iguala sua melhor pontuação!|Você mantém seu nível!|Esta é sua melhor pontuação!|Você faz uma ótima pontuação novamente!|Você confirma!|Melhor pontuação igualada!|Isso é bom!|Você faz sua melhor pontuação novamente!|Você mantém!|Você permanece no seu melhor!",
+      "de": "Sie erreichen Ihre beste Punktzahl!|Sie halten Ihr Niveau!|Das ist Ihre beste Punktzahl!|Sie erzielen erneut eine großartige Punktzahl!|Sie bestätigen!|Beste Punktzahl erreicht!|Das ist gut!|Sie erreichen erneut Ihre beste Punktzahl!|Sie halten durch!|Sie bleiben auf Ihrem Besten!"
     }
   },
   {
@@ -296,13 +296,13 @@
     "minScore": 6,
     "title": {
       "fr": "Vous égalez votre meilleur score !|Vous maintenez votre niveau !|Pas mal, vous refaites un beau score !|Vous confirmez !|C'est bien !|Meilleur score égalé !|Pas mal du tout !|Vous refaites votre meilleur score !|Vous maintenez !|Pas mal ce score !",
-      "us": "<grade>/10, you equal your best score!|You maintain your level at <grade>/10!|Not bad, you score <grade>/10 again!|<grade>/10, you confirm!|<grade>/10, that's good!|Best score matched at <grade>/10!|<grade>/10, not bad!|You match your best score, <grade>/10!|<grade>/10, you maintain!|Not bad this <grade>/10!",
-      "it": "<grade>/10, eguagli il tuo punteggio migliore!|Mantieni il tuo livello a <grade>/10!|Non male, rifai <grade>/10!|<grade>/10, confermi!|<grade>/10, va bene!|Miglior punteggio eguagliato a <grade>/10!|<grade>/10, non male!|Rifai il tuo punteggio migliore, <grade>/10!|<grade>/10, mantieni!|Non male questo <grade>/10!",
-      "cn": "<grade>/10，你达到了你的最佳分数！|你保持在<grade>/10的水平！|不错，你再次得分<grade>/10！|<grade>/10，你确认！|<grade>/10，挺好！|最佳分数达到<grade>/10！|<grade>/10，不错！|你再次达到了你的最佳分数，<grade>/10！|<grade>/10，你保持！|这个<grade>/10不错！",
-      "nl": "<grade>/10, je evenaart je beste score!|Je houdt je niveau op <grade>/10!|Niet slecht, je haalt opnieuw <grade>/10!|<grade>/10, je bevestigt!|<grade>/10, dat is goed!|Beste score geëvenaard op <grade>/10!|<grade>/10, niet slecht!|Je evenaart je beste score, <grade>/10!|<grade>/10, je houdt vol!|Niet slecht deze <grade>/10!",
-      "es": "<grade>/10, ¡igualas tu mejor puntuación!|¡Mantienes tu nivel en <grade>/10!|¡No está mal, vuelves a hacer <grade>/10!|<grade>/10, ¡confirmas!|<grade>/10, ¡está bien!|¡Mejor puntuación igualada a <grade>/10!|<grade>/10, ¡no está mal!|¡Igualas tu mejor puntuación, <grade>/10!|<grade>/10, ¡mantienes!|¡No está mal este <grade>/10!",
-      "pt": "<grade>/10, você iguala sua melhor pontuação!|Você mantém seu nível em <grade>/10!|Nada mal, você faz <grade>/10 novamente!|<grade>/10, você confirma!|<grade>/10, isso é bom!|Melhor pontuação igualada a <grade>/10!|<grade>/10, nada mal!|Você iguala sua melhor pontuação, <grade>/10!|<grade>/10, você mantém!|Nada mal este <grade>/10!",
-      "de": "<grade>/10, du erreichst deine beste Punktzahl!|Du hältst dein Niveau bei <grade>/10!|Nicht schlecht, du machst erneut <grade>/10!|<grade>/10, du bestätigst!|<grade>/10, das ist gut!|Beste Punktzahl erreicht bei <grade>/10!|<grade>/10, nicht schlecht!|Du erreichst deine beste Punktzahl, <grade>/10!|<grade>/10, du hältst durch!|Nicht schlecht dieses <grade>/10!"
+      "us": "You equal your best score!|You maintain your level!|Not bad, you achieve a nice score again!|You confirm!|That's good!|Best score matched!|Not bad at all!|You achieve your best score again!|You maintain!|Not a bad score!",
+      "it": "Eguagli il tuo punteggio migliore!|Mantieni il tuo livello!|Non male, rifai un bel punteggio!|Confermi!|Va bene!|Punteggio migliore eguagliato!|Niente male!|Rifai il tuo punteggio migliore!|Mantieni!|Non è male questo punteggio!",
+      "cn": "你达到了你的最佳分数！|你保持了你的水平！|不错，你又取得了一个好分数！|你确认了！|很好！|最佳分数相等！|一点也不错！|你再次达到了你的最佳分数！|你保持住了！|这个分数不错！",
+      "nl": "Je evenaart je beste score!|Je houdt je niveau vast!|Niet slecht, je haalt weer een mooie score!|Je bevestigt!|Dat is goed!|Beste score geëvenaard!|Helemaal niet slecht!|Je haalt je beste score opnieuw!|Je houdt vol!|Niet slecht deze score!",
+      "es": "¡Igualas tu mejor puntuación!|¡Mantienes tu nivel!|¡No está mal, vuelves a hacer una buena puntuación!|¡Confirmas!|¡Está bien!|¡Mejor puntuación igualada!|¡No está nada mal!|¡Vuelves a hacer tu mejor puntuación!|¡Mantienes!|¡No está mal esta puntuación!",
+      "pt": "Você iguala sua melhor pontuação!|Você mantém seu nível!|Nada mal, você faz uma boa pontuação novamente!|Você confirma!|Está bom!|Melhor pontuação igualada!|Nada mal mesmo!|Você faz sua melhor pontuação novamente!|Você mantém!|Nada mal essa pontuação!",
+      "de": "Du erreichst dein bestes Ergebnis!|Du hältst dein Niveau!|Nicht schlecht, du erzielst wieder ein schönes Ergebnis!|Du bestätigst!|Das ist gut!|Bestes Ergebnis erreicht!|Überhaupt nicht schlecht!|Du erzielst dein bestes Ergebnis erneut!|Du hältst durch!|Nicht schlecht, dieses Ergebnis!"
     }
   },
   {
@@ -313,13 +313,13 @@
     "minScore": 8,
     "title": {
       "fr": "Vous égalez votre meilleur score, bravo !|Vous maintenez votre niveau !|Bravo !|Bravo, vous refaites un super score !|C'est bien !|Meilleur score égalé !|Vous confirmez !|Vous refaites un beau score !|Vous êtes régulier !|Bravo !",
-      "us": "<grade>/10, you equal your best score, well done!|You maintain your level at <grade>/10!|<grade>/10, well done!|Well done, you scored <grade>/10 again!|<grade>/10, that's good!|Best score matched at <grade>/10!|<grade>/10, you confirm!|You scored <grade>/10 again!|<grade>/10, you are consistent!|Well done, <grade>/10!",
-      "it": "<grade>/10, eguagli il tuo punteggio migliore, bravo!|Mantieni il tuo livello a <grade>/10!|<grade>/10, bravo!|Bravo, hai rifatto <grade>/10!|<grade>/10, va bene!|Miglior punteggio eguagliato a <grade>/10!|<grade>/10, confermi!|Hai rifatto <grade>/10!|<grade>/10, sei costante!|Bravo, <grade>/10!",
-      "cn": "<grade>/10，您达到了最佳分数，干得好！|您保持在<grade>/10的水平！|<grade>/10，干得好！|干得好，您再次得分<grade>/10！|<grade>/10，挺好的！|最佳分数达到<grade>/10！|<grade>/10，您确认！|您再次得分<grade>/10！|<grade>/10，您很稳定！|干得好，<grade>/10！",
-      "nl": "<grade>/10, je evenaart je beste score, goed gedaan!|Je houdt je niveau vast op <grade>/10!|<grade>/10, goed gedaan!|Goed gedaan, je hebt weer <grade>/10 gehaald!|<grade>/10, dat is goed!|Beste score geëvenaard op <grade>/10!|<grade>/10, je bevestigt!|Je hebt weer <grade>/10 gehaald!|<grade>/10, je bent consistent!|Goed gedaan, <grade>/10!",
-      "es": "<grade>/10, igualas tu mejor puntuación, ¡bien hecho!|¡Mantienes tu nivel en <grade>/10!|<grade>/10, ¡bien hecho!|¡Bien hecho, has vuelto a hacer <grade>/10!|<grade>/10, ¡está bien!|¡Mejor puntuación igualada a <grade>/10!|<grade>/10, ¡confirmas!|¡Has vuelto a hacer <grade>/10!|<grade>/10, ¡eres constante!|¡Bien hecho, <grade>/10!",
-      "pt": "<grade>/10, você iguala sua melhor pontuação, parabéns!|Você mantém seu nível em <grade>/10!|<grade>/10, parabéns!|Parabéns, você fez <grade>/10 novamente!|<grade>/10, isso é bom!|Melhor pontuação igualada a <grade>/10!|<grade>/10, você confirma!|Você fez <grade>/10 novamente!|<grade>/10, você é consistente!|Parabéns, <grade>/10!",
-      "de": "<grade>/10, du erreichst deine beste Punktzahl, gut gemacht!|Du hältst dein Niveau bei <grade>/10!|<grade>/10, gut gemacht!|Gut gemacht, du hast wieder <grade>/10 erreicht!|<grade>/10, das ist gut!|Beste Punktzahl erreicht bei <grade>/10!|<grade>/10, du bestätigst!|Du hast wieder <grade>/10 erreicht!|<grade>/10, du bist konstant!|Gut gemacht, <grade>/10!"
+      "us": "You equal your best score, well done!|You maintain your level!|Well done!|Well done, you achieve a great score again!|That's good!|Best score equaled!|You confirm!|You achieve a nice score again!|You are consistent!|Well done!",
+      "it": "Eguagli il tuo punteggio migliore, bravo!|Mantieni il tuo livello!|Bravo!|Bravo, fai di nuovo un ottimo punteggio!|Va bene!|Punteggio migliore eguagliato!|Confermi!|Fai di nuovo un bel punteggio!|Sei costante!|Bravo!",
+      "cn": "你达到了你的最佳分数，干得好！|你保持了你的水平！|干得好！|干得好，你再次取得了一个好分数！|很好！|最佳分数相等！|你确认了！|你再次取得了一个好分数！|你很稳定！|干得好！",
+      "nl": "Je evenaart je beste score, goed gedaan!|Je houdt je niveau vast!|Goed gedaan!|Goed gedaan, je haalt weer een geweldige score!|Dat is goed!|Beste score geëvenaard!|Je bevestigt!|Je haalt weer een mooie score!|Je bent consistent!|Goed gedaan!",
+      "es": "Igualas tu mejor puntuación, ¡bien hecho!|¡Mantienes tu nivel!|¡Bien hecho!|¡Bien hecho, vuelves a hacer una gran puntuación!|¡Está bien!|¡Mejor puntuación igualada!|¡Confirmas!|¡Vuelves a hacer una buena puntuación!|¡Eres constante!|¡Bien hecho!",
+      "pt": "Você iguala sua melhor pontuação, parabéns!|Você mantém seu nível!|Parabéns!|Parabéns, você faz uma ótima pontuação novamente!|Isso é bom!|Melhor pontuação igualada!|Você confirma!|Você faz uma boa pontuação novamente!|Você é consistente!|Parabéns!",
+      "de": "Du erreichst dein bestes Ergebnis, gut gemacht!|Du hältst dein Niveau!|Gut gemacht!|Gut gemacht, du erzielst erneut eine tolle Punktzahl!|Das ist gut!|Bestes Ergebnis erreicht!|Du bestätigst!|Du erzielst erneut eine schöne Punktzahl!|Du bist konstant!|Gut gemacht!"
     }
   },
   {
@@ -330,13 +330,13 @@
     "minScore": 10,
     "title": {
       "fr": "Vous égalez votre score parfait !|Encore un excellent score, bravo !|Bravo !|Vous confirmez votre score parfait !|C'est parfait !|Bravo, encore une réussite !|Magnifique !|Vous refaites un score parfait !|Parfait !|Score parfait !",
-      "us": "<grade>/10, you equal your perfect score!|Another <grade>/10, well done!|<grade>/10, well done!|You confirm your perfect score!|<grade>/10, it's perfect!|Bravo, another <grade>/10!|<grade>/10, magnificent!|You redo <grade>/10!|<grade>/10, perfect!|Perfect score, <grade>/10!",
-      "it": "<grade>/10, eguagli il tuo punteggio perfetto!|Ancora <grade>/10, bravo!|<grade>/10, bravo!|Confermi il tuo punteggio perfetto!|<grade>/10, è perfetto!|Bravo, ancora un <grade>/10!|<grade>/10, magnifico!|Rifai <grade>/10!|<grade>/10, perfetto!|Punteggio perfetto, <grade>/10!",
-      "cn": "<grade>/10，您达到了完美分数！|再来一个<grade>/10，干得好！|<grade>/10，干得好！|您确认了您的完美分数！|<grade>/10，太完美了！|太棒了，再来一个<grade>/10！|<grade>/10，太棒了！|您重新做了<grade>/10！|<grade>/10，完美！|完美分数，<grade>/10！",
-      "nl": "<grade>/10, je evenaart je perfecte score!|Nog een <grade>/10, goed gedaan!|<grade>/10, goed gedaan!|Je bevestigt je perfecte score!|<grade>/10, het is perfect!|Bravo, nog een <grade>/10!|<grade>/10, prachtig!|Je doet <grade>/10 opnieuw!|<grade>/10, perfect!|Perfecte score, <grade>/10!",
-      "es": "<grade>/10, ¡igualas tu puntuación perfecta!|¡Otro <grade>/10, bien hecho!|<grade>/10, ¡bien hecho!|¡Confirma tu puntuación perfecta!|<grade>/10, ¡es perfecto!|¡Bravo, otro <grade>/10!|<grade>/10, ¡magnífico!|¡Rehaces <grade>/10!|<grade>/10, ¡perfecto!|¡Puntuación perfecta, <grade>/10!",
-      "pt": "<grade>/10, você iguala sua pontuação perfeita!|Mais um <grade>/10, bem feito!|<grade>/10, bem feito!|Você confirma sua pontuação perfeita!|<grade>/10, está perfeito!|Parabéns, mais um <grade>/10!|<grade>/10, magnífico!|Você refaz <grade>/10!|<grade>/10, perfeito!|Pontuação perfeita, <grade>/10!",
-      "de": "<grade>/10, Sie erreichen Ihre perfekte Punktzahl!|Noch ein <grade>/10, gut gemacht!|<grade>/10, gut gemacht!|Sie bestätigen Ihre perfekte Punktzahl!|<grade>/10, es ist perfekt!|Bravo, noch ein <grade>/10!|<grade>/10, großartig!|Sie machen <grade>/10 erneut!|<grade>/10, perfekt!|Perfekte Punktzahl, <grade>/10!"
+      "us": "You equal your perfect score!|Another excellent score, well done!|Well done!|You confirm your perfect score!|It's perfect!|Well done, another success!|Magnificent!|You achieve a perfect score again!|Perfect!|Perfect score!",
+      "it": "Eguagli il tuo punteggio perfetto!|Un altro punteggio eccellente, bravo!|Bravo!|Confermi il tuo punteggio perfetto!|È perfetto!|Bravo, un altro successo!|Magnifico!|Rifai un punteggio perfetto!|Perfetto!|Punteggio perfetto!",
+      "cn": "你达到了完美的分数！|又一个优秀的分数，干得好！|干得好！|你确认了你的完美分数！|太完美了！|干得好，又一次成功！|太棒了！|你再次取得完美的分数！|完美！|完美的分数！",
+      "nl": "Je evenaart je perfecte score!|Weer een uitstekende score, goed gedaan!|Goed gedaan!|Je bevestigt je perfecte score!|Het is perfect!|Goed gedaan, weer een succes!|Magnifiek!|Je haalt opnieuw een perfecte score!|Perfect!|Perfecte score!",
+      "es": "¡Igualas tu puntuación perfecta!|¡Otra excelente puntuación, bien hecho!|¡Bien hecho!|¡Confirma tu puntuación perfecta!|¡Es perfecto!|¡Bien hecho, otro éxito!|¡Magnífico!|¡Vuelves a obtener una puntuación perfecta!|¡Perfecto!|¡Puntuación perfecta!",
+      "pt": "Você iguala sua pontuação perfeita!|Mais uma excelente pontuação, parabéns!|Parabéns!|Você confirma sua pontuação perfeita!|Está perfeito!|Parabéns, mais um sucesso!|Magnífico!|Você faz uma pontuação perfeita novamente!|Perfeito!|Pontuação perfeita!",
+      "de": "Du erreichst dein perfektes Ergebnis!|Noch ein hervorragendes Ergebnis, gut gemacht!|Gut gemacht!|Du bestätigst dein perfektes Ergebnis!|Es ist perfekt!|Gut gemacht, noch ein Erfolg!|Wundervoll!|Du erzielst erneut ein perfektes Ergebnis!|Perfekt!|Perfektes Ergebnis!"
     }
   },
   {
@@ -483,13 +483,13 @@
     "minScore": 0,
     "title": {
       "fr": "Bravo, vous êtes en forme !|Belle performance !|C'est un beau résultat !|Vous jouez très bien !|Quelle belle réussite !|Bravo, continuez comme ça !|C'est bien joué !|Vous êtes très concentré !|Beau score !|Bravo !",
-      "us": "<grade>/10, better than your average, you are making progress!|You are making progress with <grade>/10!|<grade>/10, above your average!|You are making progress with <grade>/10!|<grade>/10, you are making progress!|Better than your average with <grade>/10!|<grade>/10, that's good!|Above your average with <grade>/10!|<grade>/10, that's better!|You are making progress, <grade>/10!",
-      "it": "<grade>/10, meglio della tua media, stai facendo progressi!|Stai facendo progressi con <grade>/10!|<grade>/10, sopra la tua media!|Stai facendo progressi con <grade>/10!|<grade>/10, stai facendo progressi!|Meglio della tua media con <grade>/10!|<grade>/10, va bene!|Sopra la tua media con <grade>/10!|<grade>/10, è meglio!|Stai facendo progressi, <grade>/10!",
-      "cn": "<grade>/10，比你的平均水平更好，你在进步！|你在<grade>/10上进步了！|<grade>/10，超过你的平均水平！|你在<grade>/10上进步了！|<grade>/10，你在进步！|比你的平均水平更好，<grade>/10！|<grade>/10，挺好！|超过你的平均水平，<grade>/10！|<grade>/10，更好！|你在进步，<grade>/10！",
-      "nl": "<grade>/10, beter dan je gemiddelde, je maakt vooruitgang!|Je maakt vooruitgang met <grade>/10!|<grade>/10, boven je gemiddelde!|Je maakt vooruitgang met <grade>/10!|<grade>/10, je maakt vooruitgang!|Beter dan je gemiddelde met <grade>/10!|<grade>/10, dat is goed!|Boven je gemiddelde met <grade>/10!|<grade>/10, dat is beter!|Je maakt vooruitgang, <grade>/10!",
-      "es": "<grade>/10, mejor que tu media, ¡estás progresando!|¡Estás progresando con <grade>/10!|<grade>/10, por encima de tu media!|¡Estás progresando con <grade>/10!|<grade>/10, ¡estás progresando!|¡Mejor que tu media con <grade>/10!|<grade>/10, ¡está bien!|Por encima de tu media con <grade>/10!|<grade>/10, ¡es mejor!|¡Estás progresando, <grade>/10!",
-      "pt": "<grade>/10, melhor que a sua média, você está progredindo!|Você está progredindo com <grade>/10!|<grade>/10, acima da sua média!|Você está progredindo com <grade>/10!|<grade>/10, você está progredindo!|Melhor que a sua média com <grade>/10!|<grade>/10, isso é bom!|Acima da sua média com <grade>/10!|<grade>/10, isso é melhor!|Você está progredindo, <grade>/10!",
-      "de": "<grade>/10, besser als dein Durchschnitt, du machst Fortschritte!|Du machst Fortschritte mit <grade>/10!|<grade>/10, über deinem Durchschnitt!|Du machst Fortschritte mit <grade>/10!|<grade>/10, du machst Fortschritte!|Besser als dein Durchschnitt mit <grade>/10!|<grade>/10, das ist gut!|Über deinem Durchschnitt mit <grade>/10!|<grade>/10, das ist besser!|Du machst Fortschritte, <grade>/10!"
+      "us": "Well done, you are in shape!|Great performance!|That's a nice result!|You are playing very well!|What a beautiful success!|Well done, keep it up!|That was well played!|You are very focused!|Nice score!|Bravo!",
+      "it": "Bravo, sei in forma!|Ottima performance!|È un bel risultato!|Stai giocando molto bene!|Che bel successo!|Bravo, continua così!|È stato ben giocato!|Sei molto concentrato!|Bel punteggio!|Bravo!",
+      "cn": "好样的，你状态很好！|精彩的表现！|这是一个好结果！|你打得很好！|多么美好的成功！|好样的，继续保持！|打得很好！|你非常专注！|好分数！|太棒了！",
+      "nl": "Goed gedaan, je bent in vorm!|Mooie prestatie!|Dat is een mooi resultaat!|Je speelt heel goed!|Wat een mooie prestatie!|Goed gedaan, ga zo door!|Dat was goed gespeeld!|Je bent erg gefocust!|Mooie score!|Bravo!",
+      "es": "¡Bien hecho, estás en forma!|¡Gran actuación!|¡Es un buen resultado!|¡Estás jugando muy bien!|¡Qué hermoso éxito!|¡Bien hecho, sigue así!|¡Eso fue bien jugado!|¡Estás muy concentrado!|¡Buena puntuación!|¡Bravo!",
+      "pt": "Parabéns, você está em forma!|Ótima performance!|É um bom resultado!|Você está jogando muito bem!|Que belo sucesso!|Parabéns, continue assim!|Foi bem jogado!|Você está muito concentrado!|Boa pontuação!|Bravo!",
+      "de": "Gut gemacht, du bist in Form!|Tolle Leistung!|Das ist ein schönes Ergebnis!|Du spielst sehr gut!|Was für ein schöner Erfolg!|Gut gemacht, mach weiter so!|Das war gut gespielt!|Du bist sehr konzentriert!|Schöner Punktestand!|Bravo!"
     }
   },
   {
@@ -500,13 +500,13 @@
     "minScore": 6,
     "title": {
       "fr": "Bravo, belle partie !|Vous êtes en pleine forme !|C'est un joli résultat !|Vous jouez vraiment bien !|Belle réussite !|Bravo, c'est encourageant !|Joli score !|Vous êtes très en forme !|Pas mal du tout !|Bravo !",
-      "us": "<grade>/10, better than your average, you are making progress!|You are making progress with <grade>/10!|<grade>/10, above your average!|<grade>/10, you are making progress!|<grade>/10, that's good!|Better than usual with <grade>/10!|<grade>/10, nice progress!|Above your average with <grade>/10!|<grade>/10, not bad!|Not bad this <grade>/10!",
-      "it": "<grade>/10, meglio della tua media, stai facendo progressi!|Stai facendo progressi con <grade>/10!|<grade>/10, sopra la tua media!|<grade>/10, stai facendo progressi!|<grade>/10, va bene!|Meglio del solito con <grade>/10!|<grade>/10, bella progressione!|Sopra la tua media con <grade>/10!|<grade>/10, non male!|Non male questo <grade>/10!",
-      "cn": "<grade>/10，比你的平均水平更好，你在进步！|你在<grade>/10上进步了！|<grade>/10，超过你的平均水平！|<grade>/10，你在进步！|<grade>/10，挺好！|比平时更好，<grade>/10！|<grade>/10，进步很大！|超过你的平均水平，<grade>/10！|<grade>/10，不错！|这个<grade>/10还不错！",
-      "nl": "<grade>/10, beter dan je gemiddelde, je maakt vooruitgang!|Je maakt vooruitgang met <grade>/10!|<grade>/10, boven je gemiddelde!|<grade>/10, je maakt vooruitgang!|<grade>/10, dat is goed!|Beter dan normaal met <grade>/10!|<grade>/10, mooie vooruitgang!|Boven je gemiddelde met <grade>/10!|<grade>/10, niet slecht!|Niet slecht deze <grade>/10!",
-      "es": "<grade>/10, mejor que tu media, ¡estás progresando!|¡Estás progresando con <grade>/10!|<grade>/10, por encima de tu media!|<grade>/10, ¡estás progresando!|<grade>/10, ¡está bien!|¡Mejor que de costumbre con <grade>/10!|<grade>/10, ¡buen progreso!|Por encima de tu media con <grade>/10!|<grade>/10, ¡no está mal!|¡No está mal este <grade>/10!",
-      "pt": "<grade>/10, melhor que a sua média, você está progredindo!|Você está progredindo com <grade>/10!|<grade>/10, acima da sua média!|<grade>/10, você está progredindo!|<grade>/10, isso é bom!|Melhor que o habitual com <grade>/10!|<grade>/10, bela progressão!|Acima da sua média com <grade>/10!|<grade>/10, nada mal!|Nada mal este <grade>/10!",
-      "de": "<grade>/10, besser als dein Durchschnitt, du machst Fortschritte!|Du machst Fortschritte mit <grade>/10!|<grade>/10, über deinem Durchschnitt!|<grade>/10, du machst Fortschritte!|<grade>/10, das ist gut!|Besser als gewöhnlich mit <grade>/10!|<grade>/10, schöne Fortschritte!|Über deinem Durchschnitt mit <grade>/10!|<grade>/10, nicht schlecht!|Nicht schlecht dieses <grade>/10!"
+      "us": "Well done, great game!|You are in great shape!|That's a nice result!|You are really playing well!|Great success!|Well done, that's encouraging!|Nice score!|You are very fit!|Not bad at all!|Bravo!",
+      "it": "Bravo, bella partita!|Sei in ottima forma!|È un bel risultato!|Stai giocando davvero bene!|Ottimo successo!|Bravo, è incoraggiante!|Bel punteggio!|Sei molto in forma!|Non male affatto!|Bravo!",
+      "cn": "好样的，精彩的比赛！|你状态很好！|这是一个不错的结果！|你真的打得很好！|很棒的成功！|好样的，这很鼓舞人心！|不错的分数！|你非常健康！|一点也不差！|好样的！",
+      "nl": "Goed gedaan, mooie partij!|Je bent in topvorm!|Dat is een mooi resultaat!|Je speelt echt goed!|Mooie prestatie!|Goed gedaan, dat is bemoedigend!|Mooie score!|Je bent zeer fit!|Helemaal niet slecht!|Bravo!",
+      "es": "¡Bien hecho, gran partido!|¡Estás en plena forma!|¡Es un buen resultado!|¡Realmente estás jugando bien!|¡Gran éxito!|¡Bien hecho, es alentador!|¡Bonita puntuación!|¡Estás muy en forma!|¡Nada mal en absoluto!|¡Bravo!",
+      "pt": "Parabéns, bela partida!|Você está em ótima forma!|É um bom resultado!|Você está jogando muito bem!|Ótimo sucesso!|Parabéns, isso é encorajador!|Bela pontuação!|Você está muito em forma!|Nada mal mesmo!|Bravo!",
+      "de": "Gut gemacht, tolles Spiel!|Du bist in Topform!|Das ist ein schönes Ergebnis!|Du spielst wirklich gut!|Großer Erfolg!|Gut gemacht, das ist ermutigend!|Schöner Punktestand!|Du bist sehr fit!|Nicht schlecht!|Bravo!"
     }
   },
   {
@@ -517,13 +517,13 @@
     "minScore": 8,
     "title": {
       "fr": "Bravo, vous êtes en forme !|Belle performance, continuez !|Très belle progression !|C'est très bien joué !|Bravo, beau résultat !|Vous jouez de mieux en mieux !|Vous êtes en grande forme !|Excellent !|C'est très bien !|Bravo !",
-      "us": "<grade>/10, you are progressing well!|Well done, <grade>/10, you are making progress!|<grade>/10, great progress!|<grade>/10, that's good!|<grade>/10, well done!|You are progressing with <grade>/10!|<grade>/10, you are in good shape!|Better than your average with <grade>/10!|<grade>/10, that's very good!|Well done, <grade>/10!",
-      "it": "<grade>/10, stai progredendo bene!|Bravo, <grade>/10, stai facendo progressi!|<grade>/10, ottimo progresso!|<grade>/10, va bene!|<grade>/10, bravo!|Stai progredendo con <grade>/10!|<grade>/10, sei in forma!|Meglio della tua media con <grade>/10!|<grade>/10, molto bene!|Bravo, <grade>/10!",
-      "cn": "<grade>/10，你进步得很好！|好样的，<grade>/10，你在进步！|<grade>/10，进步很大！|<grade>/10，做得好！|<grade>/10，太棒了！|你在<grade>/10中进步了！|<grade>/10，你状态很好！|比你的平均水平好，<grade>/10！|<grade>/10，非常好！|好样的，<grade>/10！",
-      "nl": "<grade>/10, je maakt goede vorderingen!|Goed gedaan, <grade>/10, je maakt vooruitgang!|<grade>/10, mooie vooruitgang!|<grade>/10, dat is goed!|<grade>/10, goed gedaan!|Je maakt vorderingen met <grade>/10!|<grade>/10, je bent in topvorm!|Beter dan je gemiddelde met <grade>/10!|<grade>/10, dat is heel goed!|Goed gedaan, <grade>/10!",
-      "es": "<grade>/10, ¡estás progresando bien!|¡Bien hecho, <grade>/10, estás progresando!|<grade>/10, ¡gran progreso!|<grade>/10, ¡está bien!|<grade>/10, ¡bien hecho!|¡Estás progresando con <grade>/10!|<grade>/10, ¡estás en forma!|¡Mejor que tu promedio con <grade>/10!|<grade>/10, ¡muy bien!|¡Bien hecho, <grade>/10!",
-      "pt": "<grade>/10, você está progredindo bem!|Parabéns, <grade>/10, você está progredindo!|<grade>/10, ótima progressão!|<grade>/10, isso é bom!|<grade>/10, parabéns!|Você está progredindo com <grade>/10!|<grade>/10, você está em forma!|Melhor que sua média com <grade>/10!|<grade>/10, isso é muito bom!|Parabéns, <grade>/10!",
-      "de": "<grade>/10, du machst gute Fortschritte!|Gut gemacht, <grade>/10, du machst Fortschritte!|<grade>/10, tolle Fortschritte!|<grade>/10, das ist gut!|<grade>/10, gut gemacht!|Du machst Fortschritte mit <grade>/10!|<grade>/10, du bist in Form!|Besser als dein Durchschnitt mit <grade>/10!|<grade>/10, das ist sehr gut!|Gut gemacht, <grade>/10!"
+      "us": "Well done, you are in shape!|Great performance, keep it up!|Very nice progress!|That was very well played!|Well done, great result!|You are playing better and better!|You are in great shape!|Excellent!|That's very good!|Bravo!",
+      "it": "Bravo, sei in forma!|Ottima performance, continua così!|Ottimo progresso!|È stato giocato molto bene!|Bravo, bel risultato!|Stai giocando sempre meglio!|Sei in grande forma!|Eccellente!|È molto buono!|Bravo!",
+      "cn": "好样的，你状态很好！|表现出色，继续加油！|进步很大！|打得很好！|好样的，结果不错！|你打得越来越好了！|你状态很好！|优秀！|非常好！|好样的！",
+      "nl": "Goed gedaan, je bent in vorm!|Mooie prestatie, ga zo door!|Zeer mooie vooruitgang!|Dat was heel goed gespeeld!|Goed gedaan, mooi resultaat!|Je speelt steeds beter!|Je bent in topvorm!|Uitstekend!|Dat is heel goed!|Bravo!",
+      "es": "¡Bien hecho, estás en forma!|¡Gran actuación, sigue así!|¡Muy buen progreso!|¡Eso fue muy bien jugado!|¡Bien hecho, gran resultado!|¡Estás jugando cada vez mejor!|¡Estás en gran forma!|¡Excelente!|¡Eso es muy bueno!|¡Bravo!",
+      "pt": "Parabéns, você está em forma!|Ótima performance, continue assim!|Muito bom progresso!|Foi muito bem jogado!|Parabéns, ótimo resultado!|Você está jogando cada vez melhor!|Você está em ótima forma!|Excelente!|Isso é muito bom!|Bravo!",
+      "de": "Gut gemacht, du bist in Form!|Tolle Leistung, mach weiter so!|Sehr schöne Fortschritte!|Das war sehr gut gespielt!|Gut gemacht, tolles Ergebnis!|Du spielst immer besser!|Du bist in großartiger Form!|Ausgezeichnet!|Das ist sehr gut!|Bravo!"
     }
   },
   {
@@ -534,13 +534,13 @@
     "minScore": 10,
     "title": {
       "fr": "Parfait, bravo !|Score parfait, félicitations !|Magnifique !|Félicitations, c'est parfait !|Quelle belle réussite !|Quel score, bravo !|Magnifique performance !|Quelle réussite !|Parfait !|Excellent !",
-      "us": "<grade>/10, perfect!|Well done, perfect score!|<grade>/10, well done!|Congratulations, <grade>/10!|<grade>/10, it's perfect!|What a score, <grade>/10!|<grade>/10, magnificent!|<grade>/10, what a success!|Perfect!|<grade>/10!",
-      "it": "<grade>/10, perfetto!|Bravo, punteggio perfetto!|<grade>/10, bravo!|Congratulazioni, <grade>/10!|<grade>/10, è perfetto!|Che punteggio, <grade>/10!|<grade>/10, magnifico!|<grade>/10, che successo!|Perfetto!|<grade>/10!",
-      "cn": "<grade>/10，完美！|干得好，完美的分数！|<grade>/10，干得好！|恭喜，<grade>/10！|<grade>/10，太完美了！|多么高的分数，<grade>/10！|<grade>/10，太棒了！|<grade>/10，真是成功！|完美！|<grade>/10！",
-      "nl": "<grade>/10, perfect!|Goed gedaan, perfecte score!|<grade>/10, goed gedaan!|Gefeliciteerd, <grade>/10!|<grade>/10, het is perfect!|Wat een score, <grade>/10!|<grade>/10, prachtig!|<grade>/10, wat een succes!|Perfect!|<grade>/10!",
-      "es": "<grade>/10, ¡perfecto!|¡Bien hecho, puntuación perfecta!|<grade>/10, ¡bien hecho!|¡Felicidades, <grade>/10!|<grade>/10, ¡es perfecto!|¡Qué puntuación, <grade>/10!|<grade>/10, ¡magnífico!|<grade>/10, ¡qué éxito!|¡Perfecto!|<grade>/10!",
-      "pt": "<grade>/10, perfeito!|Parabéns, pontuação perfeita!|<grade>/10, bem feito!|Parabéns, <grade>/10!|<grade>/10, é perfeito!|Que pontuação, <grade>/10!|<grade>/10, magnífico!|<grade>/10, que sucesso!|Perfeito!|<grade>/10!",
-      "de": "<grade>/10, perfekt!|Gut gemacht, perfekte Punktzahl!|<grade>/10, gut gemacht!|Herzlichen Glückwunsch, <grade>/10!|<grade>/10, es ist perfekt!|Was für eine Punktzahl, <grade>/10!|<grade>/10, großartig!|<grade>/10, was für ein Erfolg!|Perfekt!|<grade>/10!"
+      "us": "Perfect, well done!|Perfect score, congratulations!|Magnificent!|Congratulations, it's perfect!|What a beautiful achievement!|What a score, well done!|Magnificent performance!|What a success!|Perfect!|Excellent!",
+      "it": "Perfetto, ben fatto!|Punteggio perfetto, congratulazioni!|Magnifico!|Congratulazioni, è perfetto!|Che bel traguardo!|Che punteggio, ben fatto!|Magnifica performance!|Che successo!|Perfetto!|Eccellente!",
+      "cn": "完美，干得好！|完美的分数，恭喜！|壮观！|恭喜，你做得很好！|多么美好的成就！|多么高的分数，干得好！|精彩的表现！|多么成功！|完美！|优秀！",
+      "nl": "Perfect, goed gedaan!|Perfecte score, gefeliciteerd!|Magnifiek!|Gefeliciteerd, het is perfect!|Wat een mooie prestatie!|Wat een score, goed gedaan!|Magnifieke prestatie!|Wat een succes!|Perfect!|Uitstekend!",
+      "es": "¡Perfecto, bien hecho!|¡Puntuación perfecta, felicitaciones!|¡Magnífico!|¡Felicidades, es perfecto!|¡Qué hermoso logro!|¡Qué puntuación, bien hecho!|¡Magnífica actuación!|¡Qué éxito!|¡Perfecto!|¡Excelente!",
+      "pt": "Perfeito, bem feito!|Pontuação perfeita, parabéns!|Magnífico!|Parabéns, está perfeito!|Que bela conquista!|Que pontuação, bem feito!|Magnífica performance!|Que sucesso!|Perfeito!|Excelente!",
+      "de": "Perfekt, gut gemacht!|Perfekte Punktzahl, herzlichen Glückwunsch!|Magnifik!|Herzlichen Glückwunsch, es ist perfekt!|Was für eine schöne Leistung!|Was für ein Punktestand, gut gemacht!|Magnifische Leistung!|Was für ein Erfolg!|Perfekt!|Ausgezeichnet!"
     }
   },
   {
@@ -687,13 +687,13 @@
     "minScore": 0,
     "title": {
       "fr": "C'est un bon début, persévérez !|Continuez sur cette lancée !|Pas mal du tout, on continue !|C'est bien, restez sur cette voie !|Continuez vos efforts !|C'est encourageant !|Bien joué, on continue !|Pas mal, persévérez !",
-      "us": "<grade>/10, you will progress!|<grade>/10, progress will come!|<grade>/10, keep it up!|<grade>/10, continue your efforts!|<grade>/10, this is just the beginning!|<grade>/10, you will make it!|<grade>/10, every part counts!|<grade>/10, it will come!|<grade>/10, that's good!|<grade>/10, it's a start!",
-      "it": "<grade>/10, progredirai!|<grade>/10, il progresso arriverà!|<grade>/10, coraggio!|<grade>/10, continua i tuoi sforzi!|<grade>/10, questo è solo l'inizio!|<grade>/10, ce la farai!|<grade>/10, ogni parte conta!|<grade>/10, arriverà!|<grade>/10, va bene!|<grade>/10, è un inizio!",
-      "cn": "<grade>/10，你会进步的！|<grade>/10，进步会到来！|<grade>/10，加油！|<grade>/10，继续努力！|<grade>/10，这只是个开始！|<grade>/10，你会成功的！|<grade>/10，每一部分都很重要！|<grade>/10，会来的！|<grade>/10，做得好！|<grade>/10，这是一个开始！",
-      "nl": "<grade>/10, je zult vooruitgang boeken!|<grade>/10, de vooruitgang komt eraan!|<grade>/10, houd vol!|<grade>/10, blijf je inspanningen volhouden!|<grade>/10, dit is pas het begin!|<grade>/10, je gaat het maken!|<grade>/10, elk onderdeel telt!|<grade>/10, het komt goed!|<grade>/10, dat is goed!|<grade>/10, het is een begin!",
-      "es": "<grade>/10, ¡vas a progresar!|<grade>/10, ¡el progreso vendrá!|<grade>/10, ¡ánimo!|<grade>/10, ¡continúa con tus esfuerzos!|<grade>/10, ¡esto es solo el comienzo!|<grade>/10, ¡lo lograrás!|<grade>/10, ¡cada parte cuenta!|<grade>/10, ¡vendrá!|<grade>/10, ¡está bien!|<grade>/10, ¡es un comienzo!",
-      "pt": "<grade>/10, você vai progredir!|<grade>/10, o progresso virá!|<grade>/10, coragem!|<grade>/10, continue seus esforços!|<grade>/10, isso é apenas o começo!|<grade>/10, você vai conseguir!|<grade>/10, cada parte conta!|<grade>/10, vai chegar!|<grade>/10, isso é bom!|<grade>/10, é um começo!",
-      "de": "<grade>/10, du wirst Fortschritte machen!|<grade>/10, der Fortschritt wird kommen!|<grade>/10, Kopf hoch!|<grade>/10, mach weiter so!|<grade>/10, das ist erst der Anfang!|<grade>/10, du wirst es schaffen!|<grade>/10, jeder Teil zählt!|<grade>/10, es wird kommen!|<grade>/10, das ist gut!|<grade>/10, das ist ein Anfang!"
+      "us": "It's a good start, keep it up!|Keep going with this momentum!|Not bad at all, let's continue!|That's good, stay on this path!|Keep up your efforts!|It's encouraging!|Well done, let's keep going!|Not bad, persevere!",
+      "it": "È un buon inizio, persevera!|Continua su questa strada!|Non male affatto, continuiamo!|Va bene, rimani su questa via!|Continua i tuoi sforzi!|È incoraggiante!|Ben fatto, continuiamo!|Non male, persevera!",
+      "cn": "这是一个好的开始，继续努力！|继续保持这个势头！|一点也不差，我们继续！|很好，保持在这条路上！|继续你的努力！|这很鼓舞人心！|干得好，我们继续！|不错，继续坚持！",
+      "nl": "Het is een goede start, volhouden!|Ga door op deze lijn!|Helemaal niet slecht, we gaan door!|Goed zo, blijf op deze weg!|Blijf je inspanningen volhouden!|Het is bemoedigend!|Goed gedaan, we gaan door!|Niet slecht, volhouden!",
+      "es": "Es un buen comienzo, ¡persiste!|¡Sigue con este impulso!|No está nada mal, ¡continuemos!|Está bien, ¡mantente en este camino!|¡Sigue con tus esfuerzos!|¡Es alentador!|¡Bien hecho, sigamos!|No está mal, ¡persiste!",
+      "pt": "É um bom começo, persevere!|Continue com esse impulso!|Nada mal, vamos continuar!|Está bem, mantenha-se nesse caminho!|Continue seus esforços!|É encorajador!|Bom trabalho, vamos continuar!|Nada mal, persevere!",
+      "de": "Es ist ein guter Anfang, machen Sie weiter!|Machen Sie mit diesem Schwung weiter!|Nicht schlecht, wir machen weiter!|Das ist gut, bleiben Sie auf diesem Weg!|Setzen Sie Ihre Anstrengungen fort!|Es ist ermutigend!|Gut gemacht, wir machen weiter!|Nicht schlecht, halten Sie durch!"
     }
   },
   {
@@ -704,13 +704,13 @@
     "minScore": 6,
     "title": {
       "fr": "Bien joué, on continue comme ça !|C'est encourageant, persévérez !|Continuez sur cette lancée !|Pas mal du tout !|C'est bien, on continue !|Belle régularité !|Continuez comme ça !|Pas mal, bravo !|Bien essayé, on continue !",
-      "us": "<grade>/10, you can improve!|<grade>/10, keep up the effort!|<grade>/10, you will progress!|<grade>/10, every training counts!|<grade>/10, progress will come!|<grade>/10, persevere!|<grade>/10, not bad!|<grade>/10, courage!|<grade>/10, not bad!|<grade>/10, keep it up!",
-      "it": "<grade>/10, puoi migliorare!|<grade>/10, continua così!|<grade>/10, progredirai!|<grade>/10, ogni allenamento conta!|<grade>/10, la progressione arriverà!|<grade>/10, persevera!|<grade>/10, non male!|<grade>/10, coraggio!|<grade>/10, non male!|<grade>/10, continua così!",
-      "cn": "<grade>/10，你可以进步！|<grade>/10，继续努力！|<grade>/10，你会进步的！|<grade>/10，每次训练都很重要！|<grade>/10，进步会到来！|<grade>/10，坚持下去！|<grade>/10，不错！|<grade>/10，加油！|<grade>/10，不错！|<grade>/10，继续这样！",
-      "nl": "<grade>/10, je kunt verbeteren!|<grade>/10, houd de inspanning vol!|<grade>/10, je zult vooruitgang boeken!|<grade>/10, elke training telt!|<grade>/10, de vooruitgang komt!|<grade>/10, volhouden!|<grade>/10, niet slecht!|<grade>/10, moed!|<grade>/10, niet slecht!|<grade>/10, ga zo door!",
-      "es": "<grade>/10, ¡puedes mejorar!|<grade>/10, ¡sigue esforzándote!|<grade>/10, ¡vas a progresar!|<grade>/10, ¡cada entrenamiento cuenta!|<grade>/10, ¡la progresión llegará!|<grade>/10, ¡persevera!|<grade>/10, ¡no está mal!|<grade>/10, ¡ánimo!|<grade>/10, ¡no está mal!|<grade>/10, ¡sigue así!",
-      "pt": "<grade>/10, você pode melhorar!|<grade>/10, continue se esforçando!|<grade>/10, você vai progredir!|<grade>/10, cada treino conta!|<grade>/10, o progresso virá!|<grade>/10, persevere!|<grade>/10, não está mal!|<grade>/10, coragem!|<grade>/10, não está mal!|<grade>/10, continue assim!",
-      "de": "<grade>/10, du kannst dich verbessern!|<grade>/10, mach weiter so!|<grade>/10, du wirst Fortschritte machen!|<grade>/10, jedes Training zählt!|<grade>/10, der Fortschritt wird kommen!|<grade>/10, halte durch!|<grade>/10, nicht schlecht!|<grade>/10, Mut!|<grade>/10, nicht schlecht!|<grade>/10, mach weiter so!"
+      "us": "Well done, let's keep it up!|It's encouraging, persevere!|Keep up the momentum!|Not bad at all!|That's good, let's continue!|Nice consistency!|Keep it up!|Not bad, well done!|Good try, let's keep going!",
+      "it": "Ben fatto, continuiamo così!|È incoraggiante, persevera!|Continua su questa strada!|Non male affatto!|Va bene, continuiamo!|Bella costanza!|Continua così!|Non male, bravo!|Buon tentativo, continuiamo!",
+      "cn": "干得好，我们继续这样！|这很鼓舞人心，坚持下去！|继续保持这种势头！|一点也不差！|很好，我们继续！|很好的稳定性！|继续这样！|不错，干得好！|好尝试，我们继续！",
+      "nl": "Goed gedaan, laten we zo doorgaan!|Het is bemoedigend, volhouden!|Blijf op deze weg!|Helemaal niet slecht!|Dat is goed, laten we doorgaan!|Mooie consistentie!|Blijf zo doorgaan!|Niet slecht, goed gedaan!|Goed geprobeerd, laten we doorgaan!",
+      "es": "¡Bien hecho, sigamos así!|Es alentador, ¡persiste!|¡Sigue con este impulso!|¡No está nada mal!|¡Está bien, continuemos!|¡Bonita consistencia!|¡Sigue así!|¡No está mal, bien hecho!|¡Buen intento, sigamos!",
+      "pt": "Bem feito, vamos continuar assim!|É encorajador, persevere!|Continue com esse impulso!|Nada mal!|Está bem, vamos continuar!|Bela consistência!|Continue assim!|Nada mal, parabéns!|Boa tentativa, vamos continuar!",
+      "de": "Gut gemacht, machen wir so weiter!|Es ist ermutigend, halten Sie durch!|Bleiben Sie auf diesem Kurs!|Nicht schlecht!|Das ist gut, machen wir weiter!|Schöne Konstanz!|Machen Sie so weiter!|Nicht schlecht, gut gemacht!|Guter Versuch, machen wir weiter!"
     }
   },
   {
@@ -721,13 +721,13 @@
     "minScore": 8,
     "title": {
       "fr": "C'est bien, continuez comme ça !|Bien joué, vous êtes sur la bonne voie !|C'est encourageant, persévérez !|Joli, continuez !|C'est bien, on continue !|Belle constance !|Bravo, continuez !|Pas mal du tout !|C'est bien joué !|Bien, continuez comme ça !",
-      "us": "<grade>/10, that's a good score!|Well done with <grade>/10!|<grade>/10, that's good!|<grade>/10, well done!|<grade>/10, good job!|<grade>/10, you're progressing!|<grade>/10, nice progress!|Good score of <grade>/10!|<grade>/10, that's well played!|<grade>/10!",
-      "it": "<grade>/10, è un buon punteggio!|Ben fatto con <grade>/10!|<grade>/10, va bene!|<grade>/10, bravo!|<grade>/10, bel lavoro!|<grade>/10, stai progredendo!|<grade>/10, bella progressione!|Buon punteggio di <grade>/10!|<grade>/10, è ben giocato!|<grade>/10!",
-      "cn": "<grade>/10，这是一个好分数！|<grade>/10，干得好！|<grade>/10，挺好的！|<grade>/10，太棒了！|<grade>/10，做得好！|<grade>/10，你在进步！|<grade>/10，进步很大！|<grade>/10，好的分数！|<grade>/10，玩得不错！|<grade>/10！",
-      "nl": "<grade>/10, dat is een goede score!|Goed gedaan met <grade>/10!|<grade>/10, dat is goed!|<grade>/10, goed gedaan!|<grade>/10, goed werk!|<grade>/10, je maakt vooruitgang!|<grade>/10, mooie vooruitgang!|Goede score van <grade>/10!|<grade>/10, dat is goed gespeeld!|<grade>/10!",
-      "es": "<grade>/10, ¡es una buena puntuación!|¡Bien hecho con <grade>/10!|<grade>/10, ¡está bien!|<grade>/10, ¡bien hecho!|<grade>/10, ¡buen trabajo!|<grade>/10, ¡estás progresando!|<grade>/10, ¡buen progreso!|¡Buena puntuación de <grade>/10!|<grade>/10, ¡bien jugado!|<grade>/10!",
-      "pt": "<grade>/10, é uma boa pontuação!|Bom trabalho com <grade>/10!|<grade>/10, está bom!|<grade>/10, parabéns!|<grade>/10, bom trabalho!|<grade>/10, você está progredindo!|<grade>/10, bela progressão!|Boa pontuação de <grade>/10!|<grade>/10, isso foi bem jogado!|<grade>/10!",
-      "de": "<grade>/10, das ist eine gute Punktzahl!|Gut gemacht mit <grade>/10!|<grade>/10, das ist gut!|<grade>/10, gut gemacht!|<grade>/10, gute Arbeit!|<grade>/10, du machst Fortschritte!|<grade>/10, schöne Fortschritte!|Gute Punktzahl von <grade>/10!|<grade>/10, das ist gut gespielt!|<grade>/10!"
+      "us": "That's good, keep it up!|Well done, you're on the right track!|That's encouraging, persevere!|Nice, keep going!|That's good, let's continue!|Beautiful consistency!|Bravo, keep it up!|Not bad at all!|Well played!|Good, keep it up!",
+      "it": "Va bene, continua così!|Ben fatto, sei sulla strada giusta!|È incoraggiante, persevera!|Bello, continua!|Va bene, continuiamo!|Bella costanza!|Bravo, continua!|Non male affatto!|Ben giocato!|Bene, continua così!",
+      "cn": "很好，继续加油！|干得好，你走在正确的道路上！|这很鼓舞人心，坚持下去！|不错，继续！|很好，我们继续！|美丽的坚持！|太棒了，继续！|一点也不错！|打得好！|好，继续这样！",
+      "nl": "Dat is goed, ga zo door!|Goed gedaan, je bent op de goede weg!|Dat is bemoedigend, volhard!|Mooi, ga door!|Dat is goed, laten we doorgaan!|Mooie consistentie!|Bravo, ga door!|Helemaal niet slecht!|Goed gespeeld!|Goed, ga zo door!",
+      "es": "¡Está bien, sigue así!|¡Bien hecho, estás en el camino correcto!|¡Es alentador, persevera!|¡Bonito, sigue!|¡Está bien, continuemos!|¡Bella constancia!|¡Bravo, sigue!|¡No está nada mal!|¡Bien jugado!|¡Bien, sigue así!",
+      "pt": "Está bem, continue assim!|Bom trabalho, você está no caminho certo!|É encorajador, persevere!|Bonito, continue!|Está bem, vamos continuar!|Bela consistência!|Bravo, continue!|Nada mal!|Bem jogado!|Bom, continue assim!",
+      "de": "Das ist gut, mach weiter so!|Gut gemacht, du bist auf dem richtigen Weg!|Das ist ermutigend, halte durch!|Schön, mach weiter!|Das ist gut, lass uns weitermachen!|Schöne Beständigkeit!|Bravo, mach weiter!|Nicht schlecht!|Gut gespielt!|Gut, mach weiter so!"
     }
   },
   {
@@ -738,13 +738,13 @@
     "minScore": 10,
     "title": {
       "fr": "Parfait, bravo !|Bravo, score parfait !|Magnifique !|Félicitations !|C'est parfait !|Quel beau résultat !|Quelle réussite !|Parfait, bravo !|Excellent !|Score parfait !",
-      "us": "<grade>/10, perfect!|Bravo, perfect score!|<grade>/10, magnificent!|Congratulations, <grade>/10!|<grade>/10, it's perfect!|What a score, <grade>/10!|<grade>/10, what a success!|Perfect, well done!|<grade>/10!|Perfect score!",
-      "it": "<grade>/10, perfetto!|Bravo, punteggio perfetto!|<grade>/10, magnifico!|Congratulazioni, <grade>/10!|<grade>/10, è perfetto!|Che punteggio, <grade>/10!|<grade>/10, che successo!|Perfetto, ben fatto!|<grade>/10!|Punteggio perfetto!",
-      "cn": "<grade>/10，完美！|太棒了，完美的分数！|<grade>/10，壮观！|恭喜，<grade>/10！|<grade>/10，太完美了！|多么高的分数，<grade>/10！|<grade>/10，真是成功！|完美，干得好！|<grade>/10！|完美的分数！",
-      "nl": "<grade>/10, perfect!|Bravo, perfecte score!|<grade>/10, prachtig!|Gefeliciteerd, <grade>/10!|<grade>/10, het is perfect!|Wat een score, <grade>/10!|<grade>/10, wat een succes!|Perfect, goed gedaan!|<grade>/10!|Perfecte score!",
-      "es": "<grade>/10, ¡perfecto!|¡Bravo, puntuación perfecta!|<grade>/10, ¡magnífico!|¡Felicidades, <grade>/10!|<grade>/10, ¡es perfecto!|¡Qué puntuación, <grade>/10!|<grade>/10, ¡qué éxito!|¡Perfecto, bien hecho!|<grade>/10!|¡Puntuación perfecta!",
-      "pt": "<grade>/10, perfeito!|Bravo, pontuação perfeita!|<grade>/10, magnífico!|Parabéns, <grade>/10!|<grade>/10, é perfeito!|Que pontuação, <grade>/10!|<grade>/10, que sucesso!|Perfeito, bem feito!|<grade>/10!|Pontuação perfeita!",
-      "de": "<grade>/10, perfekt!|Bravo, perfekte Punktzahl!|<grade>/10, großartig!|Herzlichen Glückwunsch, <grade>/10!|<grade>/10, es ist perfekt!|Was für eine Punktzahl, <grade>/10!|<grade>/10, was für ein Erfolg!|Perfekt, gut gemacht!|<grade>/10!|Perfekte Punktzahl!"
+      "us": "Perfect, well done!|Well done, perfect score!|Magnificent!|Congratulations!|It's perfect!|What a beautiful result!|What a success!|Perfect, well done!|Excellent!|Perfect score!",
+      "it": "Perfetto, ben fatto!|Bravo, punteggio perfetto!|Magnifico!|Congratulazioni!|È perfetto!|Che bel risultato!|Che successo!|Perfetto, ben fatto!|Eccellente!|Punteggio perfetto!",
+      "cn": "完美，干得好！|干得好，完美的分数！|壮观！|恭喜！|这太完美了！|多么美丽的结果！|多么成功！|完美，干得好！|优秀！|完美的分数！",
+      "nl": "Perfect, goed gedaan!|Goed gedaan, perfecte score!|Magnifiek!|Gefeliciteerd!|Het is perfect!|Wat een mooi resultaat!|Wat een succes!|Perfect, goed gedaan!|Uitstekend!|Perfecte score!",
+      "es": "¡Perfecto, bien hecho!|¡Bien hecho, puntuación perfecta!|¡Magnífico!|¡Felicidades!|¡Es perfecto!|¡Qué bonito resultado!|¡Qué éxito!|¡Perfecto, bien hecho!|¡Excelente!|¡Puntuación perfecta!",
+      "pt": "Perfeito, bem feito!|Bem feito, pontuação perfeita!|Magnífico!|Parabéns!|Está perfeito!|Que belo resultado!|Que sucesso!|Perfeito, bem feito!|Excelente!|Pontuação perfeita!",
+      "de": "Perfekt, gut gemacht!|Gut gemacht, perfekte Punktzahl!|Magnifk!|Herzlichen Glückwunsch!|Es ist perfekt!|Was für ein schönes Ergebnis!|Was für ein Erfolg!|Perfekt, gut gemacht!|Ausgezeichnet!|Perfekte Punktzahl!"
     }
   },
   {
@@ -1813,8 +1813,7 @@
   {
     "game": "CHESSBOARD",
     "apps": [
-      "PAPY",
-      "EHPAD"
+      "PAPY"
     ],
     "minScore": 8,
     "title": {
@@ -1953,8 +1952,7 @@
   {
     "game": "COLORFORM",
     "apps": [
-      "PAPY",
-      "EHPAD"
+      "PAPY"
     ],
     "minScore": 8,
     "title": {
@@ -2561,7 +2559,6 @@
   {
     "game": "GEO",
     "apps": [
-      "PAPY",
       "PAPY"
     ],
     "minScore": 8,
@@ -7321,6 +7318,7 @@
     "apps": [
       "COCO_1"
     ],
+    "minScore": 0,
     "title": {
       "fr": "Bravo ! Tu as dansé avec moi avec tellement d'énergie, c'était génial ! Bouger en musique, c'est super pour avoir un corps en pleine forme ! On s'entraîne ensemble ? | Quel rythme ! Tu as suivi la musique comme un champion, j'étais impressionné ! Danser et faire du sport, c'est important pour rester en pleine santé ! On continue ? | Tu as inventé de super pas de danse, tu as vraiment le sens du rythme ! Bouger souvent, c'est aussi donner plein de force à ton cœur et à ton cerveau ! On rejoue ? | Tu as dansé comme si toute la salle t'applaudissait, quel bonheur ! Faire du sport tous les jours te rend plus fort et plein d'énergie ! On retente ? | Tu as mis une super ambiance, j'ai adoré danser avec toi ! Faire des pauses pour bouger, c'est parfait pour mieux se concentrer ensuite ! On continue ensemble ?",
       "us": "In <GameTitle>, you are dancing better and better! Your sense of rhythm is improving, your efforts are paying off. Shall we continue? | Not bad in <GameTitle>! Your movements are becoming more and more fluid. You are improving! Shall we play again? | You are getting better in <GameTitle>! Your coordination is sharpening, it's encouraging. Shall we train some more? | In <GameTitle>, you show a great sense of rhythm! Keep that energy, you are on the right track. Shall we try again? | The dance of <GameTitle> is working out better and better for you! Your body expresses itself with joy. Shall we continue together?",
