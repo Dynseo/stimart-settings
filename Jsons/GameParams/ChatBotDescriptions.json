@@ -36,6 +36,10 @@
     "description": "Cooking Game challenges players to identify recipe ingredients or quantities. In ingredient mode (levels 1-2), players identify which ingredients belong to a recipe from a grid of options. In recipe mode (level 3), players read cooking instructions and fill in missing ingredients or quantities. No timer - play at your own pace. Scoring: score1 = correct answers, score2 = wrong answers, score3 = hints used. This game trains memory, vocabulary, and attention to detail. Tips: Study the ingredients list carefully, use clues to identify ingredient categories."
   },
   {
+    "game": "CYRANO",
+    "description": "Cyrano is a speech-based recitation game where players read a literary text aloud while the app uses speech recognition to track their progress line by line. If the player hesitates, the app progressively reveals clues by hiding fewer words; using too many clues ends the game. Players can pick a preset text or add their own custom text. Scoring: score1 = completion percent (progress through the text), score2 = number of clues used. This game trains reading fluency, verbal memory, articulation, and confidence in oral expression. Tips: Read at a steady pace, articulate clearly so speech recognition picks up the words, and try to recall lines from memory before relying on clues."
+  },
+  {
     "game": "FURIOUS",
     "description": "Furious is a visual sequence memory game. Players observe a sequence of images displayed in order, then must arrange shuffled cards back into the correct sequential order by dragging them. Intruder cards may be mixed in to increase difficulty. Scoring: score1 = rounds completed correctly, score2 = times 'show answer' was used, score3 = times model was reviewed, score4 = total moves made, score5 = total images across all rounds. This game trains visual memory, sequencing, and attention. Tips: Focus on memorizing the order before cards shuffle, use the review button sparingly, identify and ignore intruder cards."
   },
