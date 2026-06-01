@@ -532,15 +532,15 @@
     "scoreMnemonic": "nbGoodAnswers",
     "game": "HANGMAN",
     "title": {
-      "fr": "Mots à trouver",
-      "us": "Words to find",
-      "it": "Parole da trovare",
-      "cn": "需要查找的单词",
-      "nl": "Woorden om te vinden",
-      "pt": "Palavras para encontrar",
-      "de": "Wörter zu finden",
-      "es": "Palabras para encontrar",
-      "hi": "खोजने के लिए शब्द"
+        "fr": "Mots trouvés",
+        "us": "Words found",
+        "it": "Parole trovate",
+        "cn": "找到的单词",
+        "nl": "Gevonden woorden",
+        "pt": "Palavras encontradas",
+        "de": "Gefundene Wörter",
+        "es": "Palabras encontradas",
+        "hi": "मिले हुए शब्द"
     }
   },
   {
