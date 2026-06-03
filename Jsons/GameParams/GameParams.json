@@ -1,70 +1,22 @@
 {
   "globalSettings": {
-    "scoreMnemonics": {
-      "nbGoodAnswers": {
-        "isAscendent": true,
-        "useAnalyse": true,
-        "scoreColumn": "score1"
-      },
-      "nbBadAnswers": {
-        "isAscendent": false,
-        "useAnalyse": true,
-        "scoreColumn": "score2"
-      },
-      "nbSolutionsViewed": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "nbClues": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "nbItemsSkipped": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "nbItemsForgotten": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "nbItemsClickedByMistakes": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "nbResets": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "nbDeaths": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "nbChallenges": {
-        "isAscendent": true,
-        "useAnalyse": true
-      },
-      "nbGoodAnswersDetails1": {
-        "isAscendent": true,
-        "useAnalyse": true
-      },
-      "nbGoodAnswersDetails2": {
-        "isAscendent": true,
-        "useAnalyse": true
-      },
-      "nbGoodAnswersDetails3": {
-        "isAscendent": true,
-        "useAnalyse": true
-      },
-      "reactionTime": {
-        "isAscendent": false,
-        "useAnalyse": true
-      },
-      "time": {
-        "isAscendent": false,
-        "useAnalyse": true,
-        "scoreColumn": "duration"
-      }
-    },
+    "scoreMnemonics": [
+      { "scoreMnemonic": "nbGoodAnswers", "isAscendent": true, "useAnalyse": true, "scoreColumn": "score1" },
+      { "scoreMnemonic": "nbBadAnswers", "isAscendent": false, "useAnalyse": true, "scoreColumn": "score2" },
+      { "scoreMnemonic": "nbSolutionsViewed", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbClues", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbItemsSkipped", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbItemsForgotten", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbItemsClickedByMistakes", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbResets", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbDeaths", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbChallenges", "isAscendent": true, "useAnalyse": true },
+      { "scoreMnemonic": "nbGoodAnswersDetails1", "isAscendent": true, "useAnalyse": true },
+      { "scoreMnemonic": "nbGoodAnswersDetails2", "isAscendent": true, "useAnalyse": true },
+      { "scoreMnemonic": "nbGoodAnswersDetails3", "isAscendent": true, "useAnalyse": true },
+      { "scoreMnemonic": "reactionTime", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "time", "isAscendent": false, "useAnalyse": true, "scoreColumn": "duration" }
+    ],
     "scoreVisualisation": [
       {
         "type": "gradeDetail",
@@ -84,6 +36,14 @@
     ]
   },
   "games": {
+    "BALL": {
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
+        }
+      ]
+    },
     "ANIMALS": {
       "improvementCriteria": [
         {
@@ -107,6 +67,16 @@
         {
           "scoreMnemonic": "nbChallenges",
           "scoreColumn": "score1"
+        },
+        {
+          "scoreMnemonic": "time",
+          "mode": "quick",
+          "useFeedback": true
+        },
+        {
+          "scoreMnemonic": "nbChallenges",
+          "mode": "careful",
+          "useFeedback": true
         },
         {
           "scoreMnemonic": "nbGoodAnswersDetails1",
@@ -138,6 +108,12 @@
       "improvementCriteria": [
         {
           "scoreMnemonic": "time"
+        }
+      ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Calculus is a math training game presenting arithmetic problems (addition, subtraction, multiplication, division). Players see an equation and must select the correct answer from multiple choices. Scoring: score1 = correct answers, score2 = wrong answers. This game trains mental calculation, numerical reasoning, and working memory. Tips: For addition, group numbers that sum to 10; for multiplication, memorize common tables; break complex problems into simpler steps."
@@ -231,6 +207,10 @@
         {
           "scoreMnemonic": "reactionTime",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -261,6 +241,10 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -306,7 +290,8 @@
         {
           "scoreMnemonic": "nbGoodAnswers",
           "isAscendent": true,
-          "useAnalyse": false
+          "useAnalyse": false,
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "ColorForm is a visual discrimination game where players must quickly identify and tap the shape that matches both a target color AND form simultaneously. A grid of colored shapes is displayed, and players must find the one matching both criteria. Scoring: score1 = correct selections, score2 = wrong selections. This game trains visual discrimination, attention, and cognitive flexibility. Tips: Focus on one attribute first (color or shape), then verify the second; develop systematic scanning patterns."
@@ -422,7 +407,8 @@
         },
         {
           "scoreMnemonic": "nbItemsClickedByMistakes",
-          "scoreColumn": "score4"
+          "scoreColumn": "score4",
+          "useFeedback": true
         },
         {
           "scoreMnemonic": "nbGoodAnswersDetails1",
@@ -495,6 +481,12 @@
           "scoreMnemonic": "time"
         }
       ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
+        }
+      ],
       "scoreVisualisation": [
         {
           "type": "gradeDetail",
@@ -526,6 +518,12 @@
           "scoreMnemonic": "nbGoodAnswers"
         }
       ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
+        }
+      ],
       "chatbotDescription": "Noah's Ark is a timed matching game where players drag animal cards into Noah's Ark to pair identical animals. Players must match pairs before the timer ends. When 10 seconds remain, the ark starts moving and waves animate. Scoring: score1 = animals matched (pairs × 2), score2 = failed match attempts. This game trains visual matching, quick recognition, and motor coordination. Tips: Look for identical animals, work quickly but accurately, prioritize easy matches first."
     },
     "PANURGE": {
@@ -540,6 +538,10 @@
           "isAscendent": false,
           "useAnalyse": false,
           "scoreColumn": "score2"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -621,6 +623,10 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -649,6 +655,10 @@
           "scoreMnemonic": "nbGoodAnswers",
           "isAscendent": true,
           "useAnalyse": false
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Relibulle is a number sequencing game where players click numbered bubbles in ascending order (1, 2, 3, etc.). Bubbles are scattered randomly on screen. An eraser button allows undoing wrong clicks. Difficulty scales by bubble count (level × 10 bubbles). Scoring: score1 = bubbles clicked in correct sequence, score2 = incorrect click attempts. This game trains sequential thinking, visual scanning, and attention. Tips: Scan for the next number before clicking, use the eraser if you make mistakes, work systematically."
@@ -675,6 +685,10 @@
         {
           "scoreMnemonic": "nbItemsClickedByMistakes",
           "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -709,6 +723,22 @@
           "level": "medium",
           "app": "COCO_1",
           "scoreMnemonic": "time"
+        }
+      ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
+        },
+        {
+          "scoreMnemonic": "time",
+          "level": "easy",
+          "useFeedback": true
+        },
+        {
+          "scoreMnemonic": "time",
+          "level": "medium",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Simili is a visual search game where players must find the two identical images in a grid of similar-looking pictures. Each round presents a grid where exactly two images are the same. Players tap on one of the matching images to score. Scoring: score1 = correct identifications, score2 = wrong selections. This game trains visual discrimination, attention to detail, and scanning skills. Tips: Systematically compare images, look for subtle differences, scan row by row."
@@ -800,7 +830,8 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbChallenges",
-          "scoreColumn": "score3"
+          "scoreColumn": "score3",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -834,6 +865,12 @@
       "improvementCriteria": [
         {
           "scoreMnemonic": "time"
+        }
+      ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -942,6 +979,10 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score5"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -1025,7 +1066,8 @@
         {
           "subMode": "free",
           "scoreMnemonic": "nbGoodAnswersDetails1",
-          "scoreColumn": "score1"
+          "scoreColumn": "score1",
+          "useFeedback": true
         },
         {
           "subMode": "free",
