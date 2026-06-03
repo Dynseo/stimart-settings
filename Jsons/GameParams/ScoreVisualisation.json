@@ -100,7 +100,7 @@
         { "scoreMnemonic": "nbGoodAnswersDetails2", "scoreColumn": "score3" },
         { "scoreMnemonic": "nbGoodAnswersDetails3", "scoreColumn": "score4" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbChallenges", "nbGoodAnswersDetails1", "nbGoodAnswersDetails2", "nbGoodAnswersDetails3"] }
       ]
     },
@@ -119,7 +119,7 @@
         { "scoreMnemonic": "nbSolutionsViewed", "scoreColumn": "score6" },
         { "scoreMnemonic": "nbMovesMin", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbClues", "nbSolutionsViewed"] },
         { "type": "moreInfo", "columns": ["nbMovesMin", "time"] }
       ]
@@ -132,7 +132,7 @@
         { "scoreMnemonic": "nbItemsForgotten", "scoreColumn": "score6" },
         { "scoreMnemonic": "nbItemsClickedByMistakes", "scoreColumn": "score5" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbItemsForgotten", "nbItemsClickedByMistakes"] }
       ]
     },
@@ -144,7 +144,7 @@
         { "mode": "free", "scoreMnemonic": "nbGoodAnswers", "isAscendent": true, "useAnalyse": false },
         { "scoreMnemonic": "reactionTime", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbBadAnswers"] },
         { "type": "moreInfo", "columns": ["reactionTime", "time"] }
       ]
@@ -156,7 +156,7 @@
       "scoreMnemonics": [
         { "scoreMnemonic": "nbClues", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbBadAnswers", "nbClues"] },
         { "type": "moreInfo", "columns": ["nbGoodAnswers", "time"] }
       ]
@@ -197,7 +197,7 @@
         { "scoreMnemonic": "nbClues", "scoreColumn": "score3" },
         { "scoreMnemonic": "nbItemsSkipped", "scoreColumn": "score2" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbItemsSkipped", "nbClues"] }
       ]
     },
@@ -209,7 +209,7 @@
         { "mode": "placeIt", "scoreMnemonic": "nbClues", "scoreColumn": "score5" },
         { "mode": "placeIt", "scoreMnemonic": "nbItemsSkipped", "scoreColumn": "score4" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "mode": "placeIt", "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbBadAnswers", "nbItemsSkipped", "nbClues"] }
       ]
     },
@@ -223,7 +223,7 @@
         { "scoreMnemonic": "nbItemsClickedByMistakes", "scoreColumn": "score4" },
         { "scoreMnemonic": "nbGoodAnswersDetails1", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbBadAnswers", "nbClues"] },
         { "type": "moreInfo", "columns": ["nbGoodAnswersDetails1", "nbItemsClickedByMistakes", "time"] }
       ]
@@ -254,7 +254,7 @@
       "improvementCriteria": [
         { "scoreMnemonic": "time" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbBadAnswers"] },
         { "type": "moreInfo", "columns": ["nbGoodAnswers", "time"] }
       ]
@@ -276,12 +276,12 @@
       "scoreMnemonics": [
         { "scoreMnemonic": "nbGoodAnswersDetails1", "isAscendent": false, "useAnalyse": false, "scoreColumn": "score2" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbGoodAnswersDetails1"] }
       ]
     },
     "PONG": {
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbBadAnswers"] }
       ]
     },
@@ -290,7 +290,7 @@
         { "scoreMnemonic": "nbMovesMin", "scoreColumn": "score2" },
         { "scoreMnemonic": "nbItemsClickedByMistakes", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbMovesMin", "nbItemsClickedByMistakes"] }
       ]
     },
@@ -301,7 +301,7 @@
       "scoreMnemonics": [
         { "scoreMnemonic": "nbItemsSkipped", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbBadAnswers", "nbItemsSkipped"] }
       ]
     },
@@ -312,7 +312,7 @@
       "scoreMnemonics": [
         { "scoreMnemonic": "nbClues", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["time", "nbClues"] }
       ]
     },
@@ -338,7 +338,7 @@
         { "scoreMnemonic": "nbItemsForgotten", "scoreColumn": "score3" },
         { "scoreMnemonic": "nbItemsClickedByMistakes", "scoreColumn": "score4" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbItemsForgotten", "nbItemsClickedByMistakes"] }
       ]
     },
@@ -361,7 +361,7 @@
         { "scoreMnemonic": "nbDeaths", "scoreColumn": "score5" },
         { "scoreMnemonic": "nbResets", "scoreColumn": "score4" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbMovesMin", "nbGoodAnswers", "nbDeaths", "nbClues"] },
         { "type": "moreInfo", "columns": ["time", "nbResets"] }
       ]
@@ -370,7 +370,7 @@
       "improvementCriteria": [
         { "scoreMnemonic": "time" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswers", "time"] },
         { "type": "moreInfo", "columns": ["nbBadAnswers"] }
       ]
@@ -383,7 +383,7 @@
       "scoreMnemonics": [
         { "scoreMnemonic": "nbChallenges", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "mode": "quick", "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbBadAnswers", "nbChallenges"] },
         { "mode": "careful", "type": "gradeDetail", "columns": ["nbChallenges"] },
         { "type": "moreInfo", "columns": ["time", "nbChallenges"] }
@@ -393,7 +393,7 @@
       "improvementCriteria": [
         { "scoreMnemonic": "time" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["time"] }
       ]
     },
@@ -406,7 +406,7 @@
         { "scoreMnemonic": "nbMovesMin", "scoreColumn": "score1" },
         { "scoreMnemonic": "nbClues", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbMovesMin", "nbGoodAnswers", "nbClues"] }
       ]
     },
@@ -426,7 +426,7 @@
       "scoreMnemonics": [
         { "mode": "chrono", "scoreMnemonic": "nbItemsSkipped", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "mode": "chrono", "type": "gradeDetail", "columns": ["nbBadAnswers", "nbItemsSkipped"] },
         { "mode": "chrono", "type": "moreInfo", "columns": ["nbGoodAnswers", "time"] }
       ]
@@ -438,7 +438,7 @@
       "scoreMnemonics": [
         { "scoreMnemonic": "nbClues", "scoreColumn": "score5" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["time", "nbClues"] }
       ]
     },
@@ -449,7 +449,7 @@
         { "scoreMnemonic": "nbItemsClickedByMistakes", "scoreColumn": "score5" },
         { "scoreMnemonic": "nbItemsForgotten", "scoreColumn": "score6" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbGoodAnswersDetails1", "nbGoodAnswersDetails2", "nbItemsClickedByMistakes", "nbItemsForgotten"] }
       ]
     },
@@ -458,7 +458,7 @@
         { "scoreMnemonic": "nbItemsSkipped", "scoreColumn": "score2" },
         { "scoreMnemonic": "nbClues", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "type": "gradeDetail", "columns": ["nbClues", "time", "nbItemsSkipped"] }
       ]
     },
@@ -475,7 +475,7 @@
         { "subMode": "line", "scoreMnemonic": "nbBadAnswers", "scoreColumn": "score2" },
         { "subMode": "line", "scoreMnemonic": "nbClues", "scoreColumn": "score3" }
       ],
-      "visualisations": [
+      "scoreVisualisation": [
         { "subMode": "free", "type": "gradeDetail", "columns": ["nbGoodAnswersDetails1", "nbClues"] },
         { "subMode": "free", "type": "moreInfo", "columns": ["nbBadAnswers", "time"] },
         { "subMode": "line", "type": "gradeDetail", "columns": ["nbGoodAnswers", "nbBadAnswers", "nbClues"] },
