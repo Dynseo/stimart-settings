@@ -756,6 +756,8 @@
   {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "COLORFORM",
+    "app" : "COCO_1",
+    "level" : "easy",
     "title": {
       "fr": "Élements à trouver",
       "us": "Elements to find",
@@ -766,6 +768,40 @@
       "de": "Zu findende Elemente",
       "es": "Elementos a encontrar",
       "hi": "खोजने के लिए तत्व"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "COLORFORM",
+    "app" : "COCO_1",
+    "level" : "medium",
+    "title": {
+      "fr": "Élements à trouver",
+      "us": "Elements to find",
+      "it": "Elementi da trovare",
+      "cn": "要查找的元素",
+      "nl": "Te vinden elementen",
+      "pt": "Elementos para encontrar",
+      "de": "Zu findende Elemente",
+      "es": "Elementos a encontrar",
+      "hi": "खोजने के लिए तत्व"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "COLORFORM",
+    "app" : "COCO_1",
+    "level" : "hard",
+    "title": {
+      "fr": "Bonnes réponses",
+      "us": "Correct answers",
+      "it": "Risposte esatte",
+      "cn": "正确答案",
+      "nl": "Juiste antwoorden",
+      "pt": "Respostas corretas",
+      "de": "Richtige Antworten",
+      "es": "Respuestas correctas",
+      "hi": "सही उत्तर"
     }
   },
   {

@@ -4,7 +4,7 @@
       { "scoreMnemonic": "nbGoodAnswers", "isAscendent": true, "useAnalyse": true, "scoreColumn": "score1" },
       { "scoreMnemonic": "nbBadAnswers", "isAscendent": false, "useAnalyse": true, "scoreColumn": "score2" },
       { "scoreMnemonic": "nbSolutionsViewed", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "nbClues", "isAscendent": false, "useAnalyse": true },
+      { "scoreMnemonic": "nbClues", "isAscendent": false, "useAnalyse": true, "scoreColumn" : "score3" },
       { "scoreMnemonic": "nbItemsSkipped", "isAscendent": false, "useAnalyse": true },
       { "scoreMnemonic": "nbItemsForgotten", "isAscendent": false, "useAnalyse": true },
       { "scoreMnemonic": "nbItemsClickedByMistakes", "isAscendent": false, "useAnalyse": true },
@@ -74,8 +74,14 @@
           "useFeedback": true
         },
         {
+          "scoreMnemonic": "time",
+          "mode": "careful",
+          "useFeedback": true
+        },
+        {
           "scoreMnemonic": "nbChallenges",
           "mode": "careful",
+          "isAscendent": false,
           "useFeedback": true
         },
         {
@@ -127,8 +133,8 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": false,
-          "useAnalyse": true,
+          "isAscendent" : false,
+          "useAnalyse": false,
           "scoreColumn": "score1"
         },
         {
@@ -199,9 +205,8 @@
       ],
       "scoreMnemonics": [
         {
-          "mode": "free",
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": true,
+          "isAscendent": false,
           "useAnalyse": false
         },
         {
@@ -288,10 +293,31 @@
       ],
       "scoreMnemonics": [
         {
-          "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": true,
-          "useAnalyse": false,
-          "useFeedback": true
+            "scoreMnemonic": "nbGoodAnswers"
+        },
+        {
+            "scoreMnemonic": "time",
+            "level": "easy",
+            "app": "COCO_1"
+        },
+        {
+            "scoreMnemonic": "time",
+            "level": "medium",
+            "app": "COCO_1",
+        },
+        {
+            "scoreMnemonic": "nbGoodAnswers",
+            "level": "easy",
+            "app": "COCO_1",
+            "useAnalyse": false,
+            "useFeedback": false
+        },
+        {
+            "scoreMnemonic": "nbGoodAnswers",
+            "level": "medium",
+            "app": "COCO_1",
+            "useAnalyse": false,
+            "useFeedback": false
         }
       ],
       "chatbotDescription": "ColorForm is a visual discrimination game where players must quickly identify and tap the shape that matches both a target color AND form simultaneously. A grid of colored shapes is displayed, and players must find the one matching both criteria. Scoring: score1 = correct selections, score2 = wrong selections. This game trains visual discrimination, attention, and cognitive flexibility. Tips: Focus on one attribute first (color or shape), then verify the second; develop systematic scanning patterns."
@@ -319,7 +345,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": true,
+          "isAscendent": false,
           "useAnalyse": false
         },
         {
@@ -398,7 +424,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": true,
+          "isAscendent": false,
           "useAnalyse": false
         },
         {
@@ -470,8 +496,24 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbClues",
-          "scoreColumn": "score4"
+          "isAscendent": false,
+          "scoreColumn": "score2"
+        },
+        {
+          "scoreMnemonic": "completionPercent",
+          "isAscendent": true,
+          "useAnalyse": true,
+          "scoreColumn": "score1"
         }
+      ],
+      "scoreVisualisation": [
+          {
+              "type": "gradeDetail",
+              "columns": [
+                  "completionPercent",
+                  "nbClues"
+              ]
+          }
       ],
       "chatbotDescription": "Cyrano is a speech-based recitation game where players read a literary text aloud while the app uses speech recognition to track their progress line by line. If the player hesitates, the app progressively reveals clues by hiding fewer words; using too many clues ends the game. Players can pick a preset text or add their own custom text. Scoring: score1 = completion percent (progress through the text), score2 = number of clues used. This game trains reading fluency, verbal memory, articulation, and confidence in oral expression. Tips: Read at a steady pace, articulate clearly so speech recognition picks up the words, and try to recall lines from memory before relying on clues."
     },
@@ -688,6 +730,7 @@
         },
         {
           "scoreMnemonic": "nbGoodAnswers",
+          "app": "PAPY",
           "useFeedback": true
         }
       ],
@@ -712,7 +755,7 @@
         {
           "level": "difficult",
           "app": "COCO_1",
-          "scoreMnemonic": "nbGoodAnswers"
+          "scoreMnemonic": "nbGoodAnswers",
         },
         {
           "level": "easy",
@@ -728,16 +771,25 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "useFeedback": true
+          "useFeedback": true,
+          "app": "PAPY"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "level": "difficult",
+          "useFeedback": true,
+          "app": "COCO_1"
         },
         {
           "scoreMnemonic": "time",
           "level": "easy",
+          "app": "COCO_1",
           "useFeedback": true
         },
         {
           "scoreMnemonic": "time",
           "level": "medium",
+          "app": "COCO_1",
           "useFeedback": true
         }
       ],
@@ -752,7 +804,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": true,
+          "isAscendent": false,
           "useAnalyse": false,
           "scoreColumn": "score2"
         },
@@ -831,7 +883,12 @@
         {
           "scoreMnemonic": "nbChallenges",
           "scoreColumn": "score3",
+          "app": "PAPY",
           "useFeedback": true
+        },
+        {
+          "scoreMnemonic": "nbChallenges",
+          "scoreColumn": "score3"
         }
       ],
       "scoreVisualisation": [
@@ -892,7 +949,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": true,
+          "isAscendent": false,
           "useAnalyse": false,
           "scoreColumn": "score2"
         },
