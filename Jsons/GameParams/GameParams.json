@@ -680,7 +680,7 @@
           ]
         }
       ],
-      "chatbotDescription": "Jigsaw Puzzle challenges players to assemble image pieces into a complete picture by dragging pieces to their correct positions. Pieces snap into place when positioned correctly. Scoring: score1 = pieces placed correctly, score2 = placement attempts, score3 = time to complete. This game trains visual-spatial skills, pattern recognition, and patience. Tips: Sort edge pieces first, group by color or pattern, build the frame before filling the interior."
+      "chatbotDescription": "Jigsaw Puzzle challenges players to assemble image pieces into a complete picture by dragging pieces to their correct positions. Scoring: score1 = pieces placed correctly, score2 = placement attempts, score3 = time to complete. This game trains visual-spatial skills, pattern recognition, and patience."
     },
     "QUIZZLE": {
       "compareMode": false,
