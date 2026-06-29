@@ -42,7 +42,8 @@
           "scoreMnemonic": "time",
           "useFeedback": true
         }
-      ]
+      ],
+      "chatbotDescription": "Ball is a reaction and visual-tracking game. A ball moves continuously around the screen and the player must tap it to catch it before it gets away. Each catch plays a sound and the ball reappears at a new position after a short pause; catching 10 balls ends and wins the game. The ball moves faster at higher levels, leaving less time to react, and tapping near the ball but missing it counts as a wrong tap. The aim is to catch all 10 balls as quickly as possible, so the completion time is the main performance measure (it drives the feedback). A split-screen two-player mode pits two players, each catching their own ball, side by side. Scoring: score1 = balls caught (out of 10), score2 = wrong taps (near-misses around the ball). This game trains visual tracking, hand-eye coordination, reaction speed, and motor precision. Tips: anticipate where the ball is heading rather than chasing where it currently is, tap precisely on the ball since near-misses count against you, and stay relaxed to keep your reactions quick as the ball speeds up at higher levels."
     },
     "ANIMALS": {
       "improvementCriteria": [
