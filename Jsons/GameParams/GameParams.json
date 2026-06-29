@@ -1,22 +1,75 @@
 {
   "globalSettings": {
-    "scoreMnemonics": [
-      { "scoreMnemonic": "nbGoodAnswers", "isAscendent": true, "useAnalyse": true, "scoreColumn": "score1" },
-      { "scoreMnemonic": "nbBadAnswers", "isAscendent": false, "useAnalyse": true, "scoreColumn": "score2" },
-      { "scoreMnemonic": "nbSolutionsViewed", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "nbClues", "isAscendent": false, "useAnalyse": true, "scoreColumn" : "score3" },
-      { "scoreMnemonic": "nbItemsSkipped", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "nbItemsForgotten", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "nbItemsClickedByMistakes", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "nbResets", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "nbDeaths", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "nbChallenges", "isAscendent": true, "useAnalyse": true },
-      { "scoreMnemonic": "nbGoodAnswersDetails1", "isAscendent": true, "useAnalyse": true },
-      { "scoreMnemonic": "nbGoodAnswersDetails2", "isAscendent": true, "useAnalyse": true },
-      { "scoreMnemonic": "nbGoodAnswersDetails3", "isAscendent": true, "useAnalyse": true },
-      { "scoreMnemonic": "reactionTime", "isAscendent": false, "useAnalyse": true },
-      { "scoreMnemonic": "time", "isAscendent": false, "useAnalyse": true, "scoreColumn": "duration" }
-    ],
+    "scoreMnemonics": {
+      "nbGoodAnswers": {
+        "isAscendent": true,
+        "useAnalyse": true,
+        "scoreColumn": "score1"
+      },
+      "completionPercent": {
+        "isAscendent": true,
+        "useAnalyse": true,
+        "scoreColumn": "score1"
+      },
+      "nbBadAnswers": {
+        "isAscendent": false,
+        "useAnalyse": true,
+        "scoreColumn": "score2"
+      },
+      "nbSolutionsViewed": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "nbClues": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "nbItemsSkipped": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "nbItemsForgotten": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "nbItemsClickedByMistakes": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "nbResets": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "nbDeaths": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "nbChallenges": {
+        "isAscendent": true,
+        "useAnalyse": true
+      },
+      "nbGoodAnswersDetails1": {
+        "isAscendent": true,
+        "useAnalyse": true
+      },
+      "nbGoodAnswersDetails2": {
+        "isAscendent": true,
+        "useAnalyse": true
+      },
+      "nbGoodAnswersDetails3": {
+        "isAscendent": true,
+        "useAnalyse": true
+      },
+      "reactionTime": {
+        "isAscendent": false,
+        "useAnalyse": true
+      },
+      "time": {
+        "isAscendent": false,
+        "useAnalyse": true,
+        "scoreColumn": "duration"
+      }
+    },
     "scoreVisualisation": [
       {
         "type": "gradeDetail",
@@ -36,21 +89,13 @@
     ]
   },
   "games": {
-    "BALL": {
-      "scoreMnemonics": [
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
-        }
-      ]
-    },
     "ANIMALS": {
       "improvementCriteria": [
         {
           "scoreMnemonic": "time"
         }
       ],
-      "chatbotDescription": "Carnival of the Animals (Animals) is a habitat-matching game played over 10 rounds. Each round shows an image of an animal, and players must tap the environment where that animal lives. At level 1 (easy), there are 3 broad habitats to choose from: sky, earth, and water. At higher levels, there are 8 more specific habitats: farm, sky, domestic, savannah, forest, river, sea ice (floe), and sea. A timer may limit the response time per round; running out of time counts as a wrong answer. Scoring: score1 = correct habitat matches, score2 = wrong matches (including timeouts). This game trains semantic categorization, knowledge of animal habitats, and quick decision-making. Tips: think about where the animal naturally lives day-to-day rather than everywhere it could survive, and for ambiguous animals pick its most iconic or commonly depicted environment."
+      "chatbotDescription": "Animal Quiz is a cognitive game where players identify animals from photos or silhouettes. Players must recognize the animal and select or type the correct name. This game trains visual recognition, semantic memory, and vocabulary. Scoring: score1 = correct answers, score2 = wrong answers. Tips: Focus on distinctive features like shape, size, and unique characteristics. For silhouettes, pay attention to the outline and proportions."
     },
     "BLOCK_PUZZLE": {
       "improvementCriteria": [
@@ -67,22 +112,6 @@
         {
           "scoreMnemonic": "nbChallenges",
           "scoreColumn": "score1"
-        },
-        {
-          "scoreMnemonic": "time",
-          "mode": "quick",
-          "useFeedback": true
-        },
-        {
-          "scoreMnemonic": "time",
-          "mode": "careful",
-          "useFeedback": true
-        },
-        {
-          "scoreMnemonic": "nbChallenges",
-          "mode": "careful",
-          "isAscendent": false,
-          "useFeedback": true
         },
         {
           "scoreMnemonic": "nbGoodAnswersDetails1",
@@ -116,12 +145,6 @@
           "scoreMnemonic": "time"
         }
       ],
-      "scoreMnemonics": [
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
-        }
-      ],
       "chatbotDescription": "Calculus is a math training game presenting arithmetic problems (addition, subtraction, multiplication, division). Players see an equation and must select the correct answer from multiple choices. Scoring: score1 = correct answers, score2 = wrong answers. This game trains mental calculation, numerical reasoning, and working memory. Tips: For addition, group numbers that sum to 10; for multiplication, memorize common tables; break complex problems into simpler steps."
     },
     "CARS": {
@@ -133,8 +156,8 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent" : false,
-          "useAnalyse": false,
+          "isAscendent": false,
+          "useAnalyse": true,
           "scoreColumn": "score1"
         },
         {
@@ -195,7 +218,7 @@
           ]
         }
       ],
-      "chatbotDescription": "Crazy Waterfall (Cascade) is a spot-the-difference game. Two columns of symbols scroll down together: the left column shows a reference 'model' row, and the right column shows matching buttons where some symbols have been secretly swapped for a different one. Players must tap only the buttons in the right column whose symbol differs from its counterpart on the left, leaving identical symbols untouched. New rows appear automatically on a timer (or via a next-row button if untimed). Each mistake - tapping a symbol that is actually identical, or letting a different symbol pass without tapping it - lights another segment of a fuse on a bomb; too many mistakes makes the bomb explode and ends the game. The game also ends after a fixed number of rows, or after 2 minutes if timed. Scoring: score1 = good answers (differences correctly found plus identical symbols correctly left alone), score2 = bad answers (wrong taps plus differences missed), score3 = differences found, score4 = identical symbols correctly ignored, score5 = wrong taps, score6 = differences missed. This game trains visual discrimination, sustained attention, and impulse control. Tips: compare each symbol in the right column to its counterpart on the left before deciding, work through rows methodically, and avoid tapping out of doubt since both a wrong tap and a missed difference count as mistakes."
+      "chatbotDescription": "Cascade is a falling blocks pattern-matching game. Players tap groups of matching colored elements to remove them before they fill the screen. When blocks are removed, blocks above cascade down. Longer chains score more points. Scoring: score1 = blocks removed, score2 = chains created, score3 = game duration. This game trains visual perception, pattern recognition, and quick decision-making. Tips: Look for chain reactions, plan connections that create multiple matches, and clear from the bottom to trigger cascades."
     },
     "CATERPILLAR": {
       "improvementCriteria": [
@@ -205,17 +228,14 @@
       ],
       "scoreMnemonics": [
         {
+          "mode": "free",
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": false,
+          "isAscendent": true,
           "useAnalyse": false
         },
         {
           "scoreMnemonic": "reactionTime",
           "scoreColumn": "score3"
-        },
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -234,7 +254,7 @@
           ]
         }
       ],
-      "chatbotDescription": "Operation Caterpillar (Caterpillar) is a math game where players steer a caterpillar's head around the screen - by tilting the device or tapping a target location - to eat food items, each labeled with an arithmetic operation (e.g. +3, -2, x2, /5). It has two modes. In Free (Question) mode, an instruction strip shows a sequence of target values; the caterpillar's tail currently holds a value, and players must eat the one food item whose operation turns that value into the next target in the sequence. A correct choice grows the caterpillar by a segment and reveals the next target; a wrong choice just resets the food options. In Reach 100 mode, the caterpillar's length represents its current value, and players repeatedly pick operations from the food items to bring that value to exactly 100, with the correct food revealed as a hint after enough correct answers. Scoring: score1 = correct choices, score2 = incorrect choices, score3 = average reaction time in milliseconds. This game trains mental arithmetic, planning, and motor control. Tips: work out the result of an operation before steering toward that food, and in Reach 100 mode favor operations that bring the total closer to 100 without overshooting."
+      "chatbotDescription": "Caterpillar is a path-following game where players guide a caterpillar through a sequence by connecting segments. Players tap positions to extend the caterpillar's path. Scoring: score1 = segments correctly placed, score2 = wrong moves. This game trains sequential thinking, pattern following, and motor control. Tips: Plan the path ahead, avoid trapping yourself, move methodically."
     },
     "CHESSBOARD": {
       "improvementCriteria": [
@@ -246,10 +266,6 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
-        },
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -268,7 +284,7 @@
           ]
         }
       ],
-      "chatbotDescription": "Crazy Chessboard (Chessboard) is a visual memory game. At the start of each grid, a set of squares briefly flips over to reveal a highlighted pattern, then flips back to hide it. Players must then tap the squares they remember being highlighted. A 'show model' button lets players replay the pattern again, at the cost of using a hint. The game has multiple grids (rounds), with the grid size and number of squares to find increasing with difficulty. Scoring: score1 = correctly identified squares, score2 = incorrectly identified squares, score3 = number of times the model was reviewed (hints used). This game trains visual-spatial memory and concentration. Tips: group the highlighted squares into a shape or pattern to memorize them more easily, and use the 'show model' hint sparingly since reviewing it again is tracked as a hint."
+      "chatbotDescription": "Chessboard Challenge tests visual-spatial counting skills. Players view a chessboard with some squares highlighted and must count the number of highlighted squares quickly. The challenge is to accurately count while the pattern may be complex. Scoring: score1 = correct counts, score2 = wrong counts. This game trains visual-spatial attention, counting skills, and concentration. Tips: Systematically scan rows or columns, group squares mentally, and double-check your count before answering."
     },
     "COLORFORM": {
       "improvementCriteria": [
@@ -293,31 +309,9 @@
       ],
       "scoreMnemonics": [
         {
-            "scoreMnemonic": "nbGoodAnswers"
-        },
-        {
-            "scoreMnemonic": "time",
-            "level": "easy",
-            "app": "COCO_1"
-        },
-        {
-            "scoreMnemonic": "time",
-            "level": "medium",
-            "app": "COCO_1",
-        },
-        {
-            "scoreMnemonic": "nbGoodAnswers",
-            "level": "easy",
-            "app": "COCO_1",
-            "useAnalyse": false,
-            "useFeedback": false
-        },
-        {
-            "scoreMnemonic": "nbGoodAnswers",
-            "level": "medium",
-            "app": "COCO_1",
-            "useAnalyse": false,
-            "useFeedback": false
+          "scoreMnemonic": "nbGoodAnswers",
+          "isAscendent": true,
+          "useAnalyse": false
         }
       ],
       "chatbotDescription": "ColorForm is a visual discrimination game where players must quickly identify and tap the shape that matches both a target color AND form simultaneously. A grid of colored shapes is displayed, and players must find the one matching both criteria. Scoring: score1 = correct selections, score2 = wrong selections. This game trains visual discrimination, attention, and cognitive flexibility. Tips: Focus on one attribute first (color or shape), then verify the second; develop systematic scanning patterns."
@@ -345,7 +339,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": false,
+          "isAscendent": true,
           "useAnalyse": false
         },
         {
@@ -424,7 +418,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": false,
+          "isAscendent": true,
           "useAnalyse": false
         },
         {
@@ -433,8 +427,7 @@
         },
         {
           "scoreMnemonic": "nbItemsClickedByMistakes",
-          "scoreColumn": "score4",
-          "useFeedback": true
+          "scoreColumn": "score4"
         },
         {
           "scoreMnemonic": "nbGoodAnswersDetails1",
@@ -495,25 +488,25 @@
       ],
       "scoreMnemonics": [
         {
-          "scoreMnemonic": "nbClues",
-          "isAscendent": false,
-          "scoreColumn": "score2"
+          "scoreMnemonic": "completionPercent",
+          "scoreColumn": "score1"
         },
         {
-          "scoreMnemonic": "completionPercent",
-          "isAscendent": true,
-          "useAnalyse": true,
-          "scoreColumn": "score1"
+          "scoreMnemonic": "nbClues",
+          "scoreColumn": "score2"
         }
       ],
       "scoreVisualisation": [
-          {
-              "type": "gradeDetail",
-              "columns": [
-                  "completionPercent",
-                  "nbClues"
-              ]
-          }
+        {
+          "type": "gradeDetail",
+          "columns": [
+            "nbClues","completionPercent"
+          ]
+        },
+        {
+          "type": "moreInfo",
+          "columns": []
+        }
       ],
       "chatbotDescription": "Cyrano is a speech-based recitation game where players read a literary text aloud while the app uses speech recognition to track their progress line by line. If the player hesitates, the app progressively reveals clues by hiding fewer words; using too many clues ends the game. Players can pick a preset text or add their own custom text. Scoring: score1 = completion percent (progress through the text), score2 = number of clues used. This game trains reading fluency, verbal memory, articulation, and confidence in oral expression. Tips: Read at a steady pace, articulate clearly so speech recognition picks up the words, and try to recall lines from memory before relying on clues."
     },
@@ -521,12 +514,6 @@
       "improvementCriteria": [
         {
           "scoreMnemonic": "time"
-        }
-      ],
-      "scoreMnemonics": [
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -560,12 +547,6 @@
           "scoreMnemonic": "nbGoodAnswers"
         }
       ],
-      "scoreMnemonics": [
-        {
-          "scoreMnemonic": "nbGoodAnswers",
-          "useFeedback": true
-        }
-      ],
       "chatbotDescription": "Noah's Ark is a timed matching game where players drag animal cards into Noah's Ark to pair identical animals. Players must match pairs before the timer ends. When 10 seconds remain, the ark starts moving and waves animate. Scoring: score1 = animals matched (pairs × 2), score2 = failed match attempts. This game trains visual matching, quick recognition, and motor coordination. Tips: Look for identical animals, work quickly but accurately, prioritize easy matches first."
     },
     "PANURGE": {
@@ -580,10 +561,6 @@
           "isAscendent": false,
           "useAnalyse": false,
           "scoreColumn": "score2"
-        },
-        {
-          "scoreMnemonic": "nbGoodAnswers",
-          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -596,9 +573,6 @@
         }
       ],
       "chatbotDescription": "Panurge's Sheep is a defensive game where players protect bouncing sheep by drawing horizontal or vertical containment lines. The goal is to contain as much area as possible without letting sheep touch the lines (which costs lives). Reaching 80% containment adds a new sheep. Scoring: score1 = final sheep count (difficulty reached), score2 = containment percentage at game end. Lives: 3 starting, bonus life every 4 level-ups. This game trains spatial planning, timing, and strategic thinking. Tips: Draw lines away from sheep, create smaller regions to trap sheep, watch sheep movement patterns before acting."
-    },
-    "POEME": {
-      "chatbotDescription": "A Poem A Day (Poem) is a daily reading activity rather than a scored game. Each day the app presents a new poem along with its title, author (with birth/death dates when available), origin, translation, and a short author biography. Players read the poem on screen, can use zoom in/out controls to adjust the text size, and can tap a speaker button to have the poem read aloud via text-to-speech. This activity supports reading comprehension, vocabulary, appreciation of language and rhythm, and general culture. There is no score, time limit, or right/wrong answer - it's a calm, self-paced cultural break. Tips: try reading along while the text-to-speech narrates, and use the resume/biography section to learn more about the author."
     },
     "PONG": {
       "scoreVisualisation": [
@@ -668,10 +642,6 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
-        },
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -683,7 +653,7 @@
           ]
         }
       ],
-      "chatbotDescription": "Jigsaw Puzzle challenges players to assemble image pieces into a complete picture by dragging pieces to their correct positions. Scoring: score1 = pieces placed correctly, score2 = placement attempts, score3 = time to complete. This game trains visual-spatial skills, pattern recognition, and patience."
+      "chatbotDescription": "Jigsaw Puzzle challenges players to assemble image pieces into a complete picture by dragging pieces to their correct positions. Pieces snap into place when positioned correctly. Scoring: score1 = pieces placed correctly, score2 = placement attempts, score3 = time to complete. This game trains visual-spatial skills, pattern recognition, and patience. Tips: Sort edge pieces first, group by color or pattern, build the frame before filling the interior."
     },
     "QUIZZLE": {
       "compareMode": false,
@@ -700,16 +670,9 @@
           "scoreMnemonic": "nbGoodAnswers",
           "isAscendent": true,
           "useAnalyse": false
-        },
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
         }
       ],
       "chatbotDescription": "Relibulle is a number sequencing game where players click numbered bubbles in ascending order (1, 2, 3, etc.). Bubbles are scattered randomly on screen. An eraser button allows undoing wrong clicks. Difficulty scales by bubble count (level × 10 bubbles). Scoring: score1 = bubbles clicked in correct sequence, score2 = incorrect click attempts. This game trains sequential thinking, visual scanning, and attention. Tips: Scan for the next number before clicking, use the eraser if you make mistakes, work systematically."
-    },
-    "SCROLLANDCATCH": {
-      "chatbotDescription": "Flying Balloons (ScrollAndCatch) is a selective attention game. At the start of each round, the app shows one or two target colors (displayed as colored balloon icons in the instructions). Then a batch of colored balloons flies across the screen in animated motion from various directions. Once all balloons have passed, players must select, for each target color, the correct count of balloons of that color from a row of multiple-choice number buttons. A game consists of 3 to 5 rounds. Scoring: score1 = points earned (2 points per target color answered with no mistakes, 1 point if one mistake was made on that color), score2 = wrong button selections, score3 = number of target colors per round, score4 = rounds completed. This game trains selective attention, visual tracking, and counting under distraction. Tips: keep a running mental count only for the target color(s) shown, ignore balloons of other colors, and if tracking two colors at once, count them separately rather than together."
     },
     "SEQUENCE": {
       "scoreMnemonics": [
@@ -733,11 +696,6 @@
         {
           "scoreMnemonic": "nbItemsClickedByMistakes",
           "scoreColumn": "score4"
-        },
-        {
-          "scoreMnemonic": "nbGoodAnswers",
-          "app": "PAPY",
-          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -761,7 +719,7 @@
         {
           "level": "difficult",
           "app": "COCO_1",
-          "scoreMnemonic": "nbGoodAnswers",
+          "scoreMnemonic": "nbGoodAnswers"
         },
         {
           "level": "easy",
@@ -772,31 +730,6 @@
           "level": "medium",
           "app": "COCO_1",
           "scoreMnemonic": "time"
-        }
-      ],
-      "scoreMnemonics": [
-        {
-          "scoreMnemonic": "nbGoodAnswers",
-          "useFeedback": true,
-          "app": "PAPY"
-        },
-        {
-          "scoreMnemonic": "nbGoodAnswers",
-          "level": "difficult",
-          "useFeedback": true,
-          "app": "COCO_1"
-        },
-        {
-          "scoreMnemonic": "time",
-          "level": "easy",
-          "app": "COCO_1",
-          "useFeedback": true
-        },
-        {
-          "scoreMnemonic": "time",
-          "level": "medium",
-          "app": "COCO_1",
-          "useFeedback": true
         }
       ],
       "chatbotDescription": "Simili is a visual search game where players must find the two identical images in a grid of similar-looking pictures. Each round presents a grid where exactly two images are the same. Players tap on one of the matching images to score. Scoring: score1 = correct identifications, score2 = wrong selections. This game trains visual discrimination, attention to detail, and scanning skills. Tips: Systematically compare images, look for subtle differences, scan row by row."
@@ -810,7 +743,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": false,
+          "isAscendent": true,
           "useAnalyse": false,
           "scoreColumn": "score2"
         },
@@ -888,12 +821,6 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbChallenges",
-          "scoreColumn": "score3",
-          "app": "PAPY",
-          "useFeedback": true
-        },
-        {
-          "scoreMnemonic": "nbChallenges",
           "scoreColumn": "score3"
         }
       ],
@@ -930,12 +857,6 @@
           "scoreMnemonic": "time"
         }
       ],
-      "scoreMnemonics": [
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
-        }
-      ],
       "scoreVisualisation": [
         {
           "type": "gradeDetail",
@@ -947,6 +868,7 @@
       "chatbotDescription": "Sudoku is the number-placement puzzle where players fill a 9x9 grid so each row, column, and 3x3 box contains digits 1-9 without repetition. Players tap cells to place numbers. Scoring: score1 = cells filled correctly, score2 = mistakes made, score3 = hints used. This game trains logical reasoning, pattern recognition, and concentration. Tips: Start with rows/columns with most filled numbers, use elimination, look for naked singles and hidden singles."
     },
     "SYLLABUS": {
+      "compareMode": false,
       "improvementCriteria": [
         {
           "scoreMnemonic": "time"
@@ -955,7 +877,7 @@
       "scoreMnemonics": [
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "isAscendent": false,
+          "isAscendent": true,
           "useAnalyse": false,
           "scoreColumn": "score2"
         },
@@ -998,9 +920,6 @@
         }
       ],
       "chatbotDescription": "Tangram is the ancient Chinese puzzle using seven geometric pieces (tans) to form specific target shapes. Players drag and rotate pieces to match a silhouette exactly. Scoring: score1 = puzzles completed, score2 = time taken, score3 = hints used. This game trains spatial reasoning, rotation skills, and geometric thinking. Tips: Identify large shapes first, use trial and error systematically, notice how pieces can combine to form familiar shapes."
-    },
-    "TEXT": {
-      "chatbotDescription": "A Text A Day (Text) is a daily reading activity rather than a scored game. Each day the app presents a new short extract of literature (a story or article) along with its title, author (with birth/death dates when available), publication date, category/subcategory, and a short author biography. Players read the text on screen, can use zoom in/out controls to adjust the text size, and can tap a speaker button to have the text read aloud via text-to-speech. This activity supports reading comprehension, vocabulary, and general culture, and the adjustable font size and narration make it accessible for users with visual or reading difficulties. There is no score, time limit, or right/wrong answer - it's a calm, self-paced reading break. Tips: try following along while the text-to-speech narrates, and use the resume/biography section to learn more about the author or work."
     },
     "TIMELINE": {
       "improvementCriteria": [
@@ -1045,10 +964,6 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score5"
-        },
-        {
-          "scoreMnemonic": "time",
-          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -1132,8 +1047,7 @@
         {
           "subMode": "free",
           "scoreMnemonic": "nbGoodAnswersDetails1",
-          "scoreColumn": "score1",
-          "useFeedback": true
+          "scoreColumn": "score1"
         },
         {
           "subMode": "free",
