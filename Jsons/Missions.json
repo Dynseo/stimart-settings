@@ -1,0 +1,1525 @@
+[
+  {
+    "id": "shareApp",
+    "title": {
+      "fr": "Ambassadeur",
+      "us": "Ambassador",
+      "it": "Ambasciatore",
+      "cn": "大使",
+      "pt": "Embaixador",
+      "es": "Embajador",
+      "de": "Botschafter",
+      "nl": "Ambassadeur",
+      "hi": "राजदूत"
+    },
+    "instruction": {
+      "fr": "Partager l’application avec un ami",
+      "us": "Share the app with a friend",
+      "it": "Condividere l'app con un amico",
+      "cn": "与朋友分享该应用",
+      "pt": "Partilhar a aplicação com um amigo",
+      "es": "Compartir la aplicación con un amigo",
+      "de": "Die App mit einem Freund teilen",
+      "nl": "Deel de app met een vriend",
+      "hi": "ऐप को किसी दोस्त के साथ साझा करें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": true,
+    "criterion": {
+      "appAction": {
+        "action": {
+          "share": {}
+        },
+        "count": 1
+      }
+    },
+    "sfSymbol": "square.and.arrow.up"
+  },
+  {
+    "id": "rateApp",
+    "title": {
+      "fr": "Ton avis compte",
+      "us": "Your Opinion",
+      "it": "La tua opinione",
+      "cn": "你的意见",
+      "pt": "A tua opinião",
+      "es": "Tu opinión",
+      "de": "Deine Meinung",
+      "nl": "Jouw mening",
+      "hi": "आपकी राय"
+    },
+    "instruction": {
+      "fr": "Noter l’application sur l’App Store",
+      "us": "Rate the app on the App Store",
+      "it": "Valutare l'app sull'App Store",
+      "cn": "在App Store给应用评分",
+      "pt": "Avaliar a aplicação na App Store",
+      "es": "Valorar la aplicación en el App Store",
+      "de": "Die App im App Store bewerten",
+      "nl": "Beoordeel de app in de App Store",
+      "hi": "App Store पर ऐप को रेट करें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": true,
+    "criterion": {
+      "appAction": {
+        "action": {
+          "rate": {}
+        },
+        "count": 1
+      }
+    },
+    "sfSymbol": "star.fill"
+  },
+  {
+    "id": "finishTwoPlayerGame",
+    "title": {
+      "fr": "En duo",
+      "us": "In Pairs",
+      "it": "In coppia",
+      "cn": "双人",
+      "pt": "A dois",
+      "es": "En pareja",
+      "de": "Zu zweit",
+      "nl": "Met z'n tweeën",
+      "hi": "जोड़ी में"
+    },
+    "instruction": {
+      "fr": "Terminer une partie à 2 joueurs",
+      "us": "Finish a 2-player game",
+      "it": "Finire una partita a 2 giocatori",
+      "cn": "完成一局双人游戏",
+      "pt": "Terminar uma partida a 2 jogadores",
+      "es": "Terminar una partida a 2 jugadores",
+      "de": "Ein Spiel mit 2 Spielern beenden",
+      "nl": "Een potje met 2 spelers uitspelen",
+      "hi": "2 खिलाड़ियों वाला गेम पूरा करें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "multiplayerMode": "SplitScreen"
+        }
+      }
+    },
+    "sfSymbol": "person.2.fill"
+  },
+  {
+    "id": "finishSharePlayGame",
+    "title": {
+      "fr": "À distance",
+      "us": "From Afar",
+      "it": "A distanza",
+      "cn": "远程",
+      "pt": "À distância",
+      "es": "A distancia",
+      "de": "Aus der Ferne",
+      "nl": "Op afstand",
+      "hi": "दूर से"
+    },
+    "instruction": {
+      "fr": "Terminer une partie en SharePlay avec un ami",
+      "us": "Finish a game in SharePlay with a friend",
+      "it": "Finire una partita in SharePlay con un amico",
+      "cn": "与朋友一起完成一局SharePlay游戏",
+      "pt": "Terminar uma partida em SharePlay com um amigo",
+      "es": "Terminar una partida en SharePlay con un amigo",
+      "de": "Ein SharePlay-Spiel mit einem Freund beenden",
+      "nl": "Een SharePlay-potje met een vriend uitspelen",
+      "hi": "किसी दोस्त के साथ SharePlay में एक गेम पूरा करें"
+    },
+    "points": 40,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "multiplayerMode": "SharePlay"
+        }
+      }
+    },
+    "sfSymbol": "shareplay"
+  },
+  {
+    "id": "createTrainingProgram",
+    "title": {
+      "fr": "Coach en herbe",
+      "us": "Budding Coach",
+      "it": "Coach in erba",
+      "cn": "准教练",
+      "pt": "Treinador em ascensão",
+      "es": "Entrenador en ciernes",
+      "de": "Angehender Coach",
+      "nl": "Coach in wording",
+      "hi": "उभरता कोच"
+    },
+    "instruction": {
+      "fr": "Créer un programme d’entraînement",
+      "us": "Create a training program",
+      "it": "Creare un programma di allenamento",
+      "cn": "创建一个训练计划",
+      "pt": "Criar um programa de treino",
+      "es": "Crear un programa de entrenamiento",
+      "de": "Ein Trainingsprogramm erstellen",
+      "nl": "Een trainingsprogramma maken",
+      "hi": "प्रशिक्षण कार्यक्रम बनाएं"
+    },
+    "points": 40,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "appAction": {
+        "action": {
+          "createTrainingProgram": {}
+        },
+        "count": 1
+      }
+    },
+    "sfSymbol": "list.bullet.rectangle"
+  },
+  {
+    "id": "readHealthTips",
+    "title": {
+      "fr": "Bien-être",
+      "us": "Wellness",
+      "it": "Benessere",
+      "cn": "健康",
+      "pt": "Bem-estar",
+      "es": "Bienestar",
+      "de": "Wohlbefinden",
+      "nl": "Welzijn",
+      "hi": "सेहत"
+    },
+    "instruction": {
+      "fr": "Lire 5 astuces santé différentes",
+      "us": "Read 5 different health tips",
+      "it": "Leggere 5 consigli sulla salute diversi",
+      "cn": "阅读5条不同的健康小贴士",
+      "pt": "Ler 5 dicas de saúde diferentes",
+      "es": "Leer 5 consejos de salud diferentes",
+      "de": "5 verschiedene Gesundheitstipps lesen",
+      "nl": "Lees 5 verschillende gezondheidstips",
+      "hi": "5 अलग-अलग स्वास्थ्य सुझाव पढ़ें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": true,
+    "criterion": {
+      "appAction": {
+        "action": {
+          "readHealthTip": {}
+        },
+        "count": 5
+      }
+    },
+    "sfSymbol": "heart.text.square"
+  },
+  {
+    "id": "doCognitiveTest",
+    "title": {
+      "fr": "Bilan cognitif",
+      "us": "Cognitive Check",
+      "it": "Test cognitivo",
+      "cn": "认知测评",
+      "pt": "Avaliação cognitiva",
+      "es": "Chequeo cognitivo",
+      "de": "Kognitiver Check",
+      "nl": "Cognitieve check",
+      "hi": "संज्ञानात्मक जांच"
+    },
+    "instruction": {
+      "fr": "Faire un bilan cognitif",
+      "us": "Do a cognitive assessment",
+      "it": "Fare una valutazione cognitiva",
+      "cn": "进行一次认知评估",
+      "pt": "Fazer uma avaliação cognitiva",
+      "es": "Hacer una evaluación cognitiva",
+      "de": "Einen kognitiven Test machen",
+      "nl": "Een cognitieve test doen",
+      "hi": "संज्ञानात्मक मूल्यांकन करें"
+    },
+    "points": 40,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "appAction": {
+        "action": {
+          "doCognitiveTest": {}
+        },
+        "count": 1
+      }
+    },
+    "sfSymbol": "brain.head.profile"
+  },
+  {
+    "id": "askCoachFavoriteGame",
+    "title": {
+      "fr": "Petite curiosité",
+      "us": "Just Curious",
+      "it": "Curiosità",
+      "cn": "好奇心",
+      "pt": "Curiosidade",
+      "es": "Curiosidad",
+      "de": "Neugierig",
+      "nl": "Nieuwsgierig",
+      "hi": "जिज्ञासा"
+    },
+    "instruction": {
+      "fr": "Demander à votre coach IA quel est votre jeu favori",
+      "us": "Ask your AI coach what your favorite game is",
+      "it": "Chiedere al tuo coach IA qual è il tuo gioco preferito",
+      "cn": "询问你的AI教练你最喜欢的游戏是什么",
+      "pt": "Perguntar ao seu coach de IA qual é o seu jogo favorito",
+      "es": "Preguntar a tu coach de IA cuál es tu juego favorito",
+      "de": "Deinen KI-Coach nach deinem Lieblingsspiel fragen",
+      "nl": "Vraag je AI-coach wat je favoriete spel is",
+      "hi": "अपने AI कोच से पूछें कि आपका पसंदीदा गेम कौन सा है"
+    },
+    "points": 20,
+    "difficulty": "easy",
+    "isUnique": true,
+    "criterion": {
+      "appAction": {
+        "action": {
+          "askCoachFavoriteGame": {}
+        },
+        "count": 1
+      }
+    },
+    "sfSymbol": "bubble.left.and.bubble.right.fill"
+  },
+  {
+    "id": "playMaxAdaptiveLevel",
+    "title": {
+      "fr": "Au sommet",
+      "us": "At the Top",
+      "it": "In cima",
+      "cn": "登顶",
+      "pt": "No topo",
+      "es": "En la cima",
+      "de": "Ganz oben",
+      "nl": "Aan de top",
+      "hi": "शिखर पर"
+    },
+    "instruction": {
+      "fr": "Jouer une partie au niveau maximum dans un jeu à difficulté adaptative",
+      "us": "Play a game at the maximum level in an adaptive-difficulty game",
+      "it": "Giocare una partita al livello massimo in un gioco a difficoltà adattiva",
+      "cn": "在自适应难度游戏中以最高等级玩一局",
+      "pt": "Jogar uma partida no nível máximo num jogo de dificuldade adaptativa",
+      "es": "Jugar una partida al nivel máximo en un juego de dificultad adaptativa",
+      "de": "Ein Spiel auf der höchsten Stufe in einem Spiel mit adaptiver Schwierigkeit spielen",
+      "nl": "Speel een potje op het hoogste niveau in een spel met aanpasbare moeilijkheid",
+      "hi": "अनुकूली-कठिनाई वाले गेम में अधिकतम स्तर पर एक गेम खेलें"
+    },
+    "points": 60,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": true
+        }
+      }
+    },
+    "sfSymbol": "chart.line.uptrend.xyaxis"
+  },
+  {
+    "id": "saveAnimalsHitMolesAndSheepNoError",
+    "title": {
+      "fr": "Attraper les tous !",
+      "us": "Catch Them All!",
+      "it": "Acchiappali tutti!",
+      "cn": "全部抓住！",
+      "pt": "Apanha-os todos!",
+      "es": "¡Atrápalos a todos!",
+      "de": "Schnapp sie alle!",
+      "nl": "Vang ze allemaal!",
+      "hi": "सबको पकड़ो!"
+    },
+    "instruction": {
+      "fr": "Sauver 100 animaux dans L'Arche de  Noé, taper 100 taupes dans L'invasion des Taupes et gagner 10 moutons dans Panurge sans faire d’erreur",
+      "us": "Save 100 animals in Noah's Ark, whack 100 moles in Moles Invasion and win 10 sheep in Panurge without making a mistake",
+      "it": "Salvare 100 animali in Arca di Noé, colpire 100 talpe in L'Invasione delle Talpe e vincere 10 pecore in Panurge senza fare errori",
+      "cn": "在诺亚方舟中拯救100只动物，在鼹鼠大进攻中敲打100只鼹鼠，并在专业牧羊人中无失误地赢得10只绵羊",
+      "pt": "Salvar 100 animais em Arca de noé, acertar 100 toupeiras em A invasão da toupeira e ganhar 10 ovelhas em Panurgo sem cometer nenhum erro",
+      "es": "Salvar 100 animales en El Arca de Noé, golpear 100 topos en Atrapa Topitos y ganar 10 ovejas en El Rebaño sin cometer ningún error",
+      "de": "100 Tiere in Die Arche Noah retten, 100 Maulwürfe in Die Invasion der Maulwürfe treffen und 10 Schafe in Panurge gewinnen, ohne einen Fehler zu machen",
+      "nl": "Red 100 dieren in De ark van Noach, tik 100 mollen in De Mol-Invasie en win 10 schapen in Panurge zonder een fout te maken",
+      "hi": "नूह का जहाज़ में 100 जानवर बचाएं, छछूंदर आक्रमण में 100 छछूंदरों को मारें और पनूर्ज में बिना कोई गलती किए 10 भेड़ें जीतें"
+    },
+    "points": 150,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "compound": {
+        "_0": [
+          {
+            "inGameProgress": {
+              "_0": {
+                "count": 100,
+                "resetAtGameOver": false,
+                "scoreMnemoProgress": "nbGoodAnswers",
+                "scoreMnemoReset": [
+                  "nbBadAnswers"
+                ],
+                "gameMnemonic": "NOAHS_ARK"
+              }
+            }
+          },
+          {
+            "inGameProgress": {
+              "_0": {
+                "count": 100,
+                "resetAtGameOver": false,
+                "scoreMnemoProgress": "nbGoodAnswers",
+                "scoreMnemoReset": [
+                  "nbBadAnswers"
+                ],
+                "gameMnemonic": "WHACKAMOLE"
+              }
+            }
+          },
+          {
+            "inGameProgress": {
+              "_0": {
+                "count": 10,
+                "resetAtGameOver": true,
+                "scoreMnemoProgress": "nbGoodAnswers",
+                "scoreMnemoReset": [],
+                "gameMnemonic": "PANURGE"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "sfSymbol": "trophy.fill"
+  },
+  {
+    "id": "getAnimalsNoError",
+    "title": {
+      "fr": "Sans faute",
+      "us": "Flawless",
+      "it": "Senza errori",
+      "cn": "零失误",
+      "pt": "Sem falhas",
+      "es": "Sin fallos",
+      "de": "Fehlerfrei",
+      "nl": "Foutloos",
+      "hi": "बेदाग"
+    },
+    "instruction": {
+      "fr": "Sauver 300 animaux sans faire d’erreur",
+      "us": "Save 300 animals without making a mistake",
+      "it": "Salvare 300 animali senza fare errori",
+      "cn": "拯救300只动物且不犯任何错误",
+      "pt": "Salvar 300 animais sem cometer nenhum erro",
+      "es": "Salvar 300 animales sin cometer ningún error",
+      "de": "300 Tiere retten, ohne einen Fehler zu machen",
+      "nl": "Red 300 dieren zonder een fout te maken",
+      "hi": "बिना कोई गलती किए 300 जानवर बचाएं"
+    },
+    "points": 120,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 300,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "NOAHS_ARK"
+        }
+      }
+    }
+  },
+  {
+    "id": "popThreeBalloonsOneShot",
+    "title": {
+      "fr": "Tir groupé",
+      "us": "Grouped Shot",
+      "it": "Tiro raggruppato",
+      "cn": "集中命中",
+      "pt": "Tiro agrupado",
+      "es": "Tiro agrupado",
+      "de": "Gruppenschuss",
+      "nl": "Gegroepeerd schot",
+      "hi": "समूह निशाना"
+    },
+    "instruction": {
+      "fr": "Éclater 3 bons ballons avec une seule balle",
+      "us": "Pop 3 right balloons with a single ball",
+      "it": "Scoppiare 3 palloncini giusti con una sola palla",
+      "cn": "用一颗球戳破3个正确的气球",
+      "pt": "Estourar 3 balões certos com uma única bola",
+      "es": "Explotar 3 globos buenos con una sola bola",
+      "de": "3 richtige Luftballons mit einem einzigen Ball zerplatzen",
+      "nl": "Knal 3 goede ballonnen met één enkele bal",
+      "hi": "एक ही गेंद से 3 सही गुब्बारे फोड़ें"
+    },
+    "points": 50,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 1,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "POPBALLOON"
+        }
+      }
+    }
+  },
+  {
+    "id": "quizzleStreakUnderMinute",
+    "title": {
+      "fr": "Éclair de génie",
+      "us": "Bolt of Genius",
+      "it": "Lampo di genio",
+      "cn": "灵光一闪",
+      "pt": "Rasgo de génio",
+      "es": "Golpe de genio",
+      "de": "Geistesblitz",
+      "nl": "Geniale flits",
+      "hi": "प्रतिभा की चमक"
+    },
+    "instruction": {
+      "fr": "Faire 16 bonnes réponses d’affilée en moins d’une minute",
+      "us": "Get 16 correct answers in a row in under a minute",
+      "it": "Dare 16 risposte corrette di fila in meno di un minuto",
+      "cn": "在一分钟内连续答对16题",
+      "pt": "Dar 16 respostas corretas seguidas em menos de um minuto",
+      "es": "Dar 16 respuestas correctas seguidas en menos de un minuto",
+      "de": "16 richtige Antworten hintereinander in weniger als einer Minute geben",
+      "nl": "Geef 16 goede antwoorden op rij in minder dan een minuut",
+      "hi": "एक मिनट से कम में लगातार 16 सही जवाब दें"
+    },
+    "points": 60,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 16,
+          "resetAtGameOver": true,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "QUIZZLE",
+          "timeLimitSeconds": 60
+        }
+      }
+    }
+  },
+  {
+    "id": "reachTwelveSheep",
+    "title": {
+      "fr": "Grand troupeau",
+      "us": "Big Flock",
+      "it": "Grande gregge",
+      "cn": "大羊群",
+      "pt": "Grande rebanho",
+      "es": "Gran rebaño",
+      "de": "Große Herde",
+      "nl": "Grote kudde",
+      "hi": "बड़ा झुंड"
+    },
+    "instruction": {
+      "fr": "Atteindre 12 moutons en une partie de Panurge",
+      "us": "Reach 12 sheep in a single game of Panurge",
+      "it": "Raggiungere 12 pecore in una partita di Panurge",
+      "cn": "在一局Panurge中达到12只绵羊",
+      "pt": "Alcançar 12 ovelhas numa partida de Panurge",
+      "es": "Alcanzar 12 ovejas en una partida de Panurge",
+      "de": "12 Schafe in einer Partie Panurge erreichen",
+      "nl": "Bereik 12 schapen in één potje Panurge",
+      "hi": "Panurge के एक गेम में 12 भेड़ों तक पहुंचें"
+    },
+    "points": 60,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 12,
+          "resetAtGameOver": true,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "PANURGE"
+        }
+      }
+    }
+  },
+  {
+    "id": "sudokuHardPerfect",
+    "title": {
+      "fr": "Grille parfaite",
+      "us": "Perfect Grid",
+      "it": "Griglia perfetta",
+      "cn": "完美棋盘",
+      "pt": "Grelha perfeita",
+      "es": "Cuadrícula perfecta",
+      "de": "Perfektes Gitter",
+      "nl": "Perfect rooster",
+      "hi": "परफेक्ट ग्रिड"
+    },
+    "instruction": {
+      "fr": "Réaliser une partie de Sudoku en mode difficile sans faire d'erreur",
+      "us": "Complete a game of Sudoku on hard mode without making a mistake",
+      "it": "Completare una partita di Sudoku in modalità difficile senza fare errori",
+      "cn": "在困难模式下无失误地完成一局数独",
+      "pt": "Concluir uma partida de Sudoku no modo difícil sem cometer nenhum erro",
+      "es": "Completar una partida de Sudoku en modo difícil sin cometer ningún error",
+      "de": "Eine Sudoku-Partie im schweren Modus ohne Fehler abschließen",
+      "nl": "Voltooi een potje Sudoku op moeilijk zonder een fout te maken",
+      "hi": "कठिन मोड में बिना कोई गलती किए एक सुडोकू गेम पूरा करें"
+    },
+    "points": 80,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "gameMnemonic": "SUDOKU",
+          "difficulty": "HARD",
+          "successRateMin": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "similiFortyHardNoError",
+    "title": {
+      "fr": "Œil de lynx",
+      "us": "Eagle Eye",
+      "it": "Occhio di lince",
+      "cn": "火眼金睛",
+      "pt": "Olho de lince",
+      "es": "Ojo de lince",
+      "de": "Adlerauge",
+      "nl": "Arendsoog",
+      "hi": "बाज़ की नज़र"
+    },
+    "instruction": {
+      "fr": "Trouver 40 similis sans faire d'erreur en mode difficile",
+      "us": "Find 40 similis without making a mistake on hard mode",
+      "it": "Trovare 40 simili senza fare errori in modalità difficile",
+      "cn": "在困难模式下无失误地找到40个相似项",
+      "pt": "Encontrar 40 similis sem cometer nenhum erro no modo difícil",
+      "es": "Encontrar 40 similis sin cometer ningún error en modo difícil",
+      "de": "40 Similis im schweren Modus ohne Fehler finden",
+      "nl": "Vind 40 similis zonder een fout te maken op moeilijk",
+      "hi": "कठिन मोड में बिना कोई गलती किए 40 मिलते-जुलते खोजें"
+    },
+    "points": 100,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 40,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "SIMILI",
+          "difficulty": "HARD"
+        }
+      }
+    }
+  },
+  {
+    "id": "pongFourMinutesHardNoError",
+    "title": {
+      "fr": "Sans faille",
+      "us": "Flawless",
+      "it": "Impeccabile",
+      "cn": "零失误",
+      "pt": "Impecável",
+      "es": "Impecable",
+      "de": "Makellos",
+      "nl": "Foutloos",
+      "hi": "बेदाग"
+    },
+    "instruction": {
+      "fr": "Jouer à Roland pendant 4 minutes sans faire d'erreur en mode difficile",
+      "us": "Play Roland for 4 minutes without making a mistake on hard mode",
+      "it": "Giocare a Roland per 4 minuti senza fare errori in modalità difficile",
+      "cn": "在困难模式下无失误地玩Roland 4分钟",
+      "pt": "Jogar Roland durante 4 minutos sem cometer nenhum erro no modo difícil",
+      "es": "Jugar a Roland durante 4 minutos sin cometer ningún error en modo difícil",
+      "de": "Roland 4 Minuten lang im schweren Modus ohne Fehler spielen",
+      "nl": "Speel 4 minuten Roland zonder een fout te maken op moeilijk",
+      "hi": "कठिन मोड में बिना कोई गलती किए 4 मिनट तक Roland खेलें"
+    },
+    "points": 100,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 240,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "time",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "PONG",
+          "difficulty": "HARD"
+        }
+      }
+    }
+  },
+  {
+    "id": "colorformHundredHardNoError",
+    "title": {
+      "fr": "Sans-faute",
+      "us": "No Mistakes",
+      "it": "Senza errori",
+      "cn": "毫无差错",
+      "pt": "Sem falhas",
+      "es": "Sin fallos",
+      "de": "Fehlerfrei",
+      "nl": "Zonder fouten",
+      "hi": "कोई गलती नहीं"
+    },
+    "instruction": {
+      "fr": "Donner 100 bonnes réponses sans faire d'erreur dans Colorform en mode difficile",
+      "us": "Give 100 correct answers without a mistake in Colorform on hard mode",
+      "it": "Dare 100 risposte corrette senza errori in Colorform in modalità difficile",
+      "cn": "在困难模式下于Colorform中无失误答对100题",
+      "pt": "Dar 100 respostas certas sem erros no Colorform no modo difícil",
+      "es": "Dar 100 respuestas correctas sin errores en Colorform en modo difícil",
+      "de": "100 richtige Antworten ohne Fehler in Colorform im schweren Modus geben",
+      "nl": "Geef 100 goede antwoorden zonder fout in Colorform op moeilijk",
+      "hi": "कठिन मोड में Colorform में बिना गलती 100 सही जवाब दें"
+    },
+    "points": 100,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 100,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "COLORFORM",
+          "difficulty": "HARD"
+        }
+      }
+    }
+  },
+  {
+    "id": "blockPuzzleFiveThousandPoints",
+    "title": {
+      "fr": "Score canon",
+      "us": "Big Score",
+      "it": "Gran punteggio",
+      "cn": "高分达人",
+      "pt": "Grande pontuação",
+      "es": "Gran puntuación",
+      "de": "Top-Score",
+      "nl": "Topscore",
+      "hi": "बड़ा स्कोर"
+    },
+    "instruction": {
+      "fr": "Atteindre 5000 points en une partie de Block Puzzle",
+      "us": "Reach 5000 points in a single game of Block Puzzle",
+      "it": "Raggiungere 5000 punti in una partita di Block Puzzle",
+      "cn": "在一局Block Puzzle中达到5000分",
+      "pt": "Alcançar 5000 pontos numa partida de Block Puzzle",
+      "es": "Alcanzar 5000 puntos en una partida de Block Puzzle",
+      "de": "5000 Punkte in einer Partie Block Puzzle erreichen",
+      "nl": "Bereik 5000 punten in één potje Block Puzzle",
+      "hi": "Block Puzzle के एक गेम में 5000 अंक तक पहुंचें"
+    },
+    "points": 70,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 5000,
+          "resetAtGameOver": true,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "BLOCK_PUZZLE"
+        }
+      }
+    }
+  },
+  {
+    "id": "snowballFifteenSnowmen",
+    "title": {
+      "fr": "Grand hiver",
+      "us": "Deep Winter",
+      "it": "Pieno inverno",
+      "cn": "深冬",
+      "pt": "Pleno inverno",
+      "es": "Pleno invierno",
+      "de": "Tiefer Winter",
+      "nl": "Diepe winter",
+      "hi": "गहरी सर्दी"
+    },
+    "instruction": {
+      "fr": "Atteindre 15 bonhommes de neige en une partie dans Effet boule de neige",
+      "us": "Reach 15 snowmen in a single game of Snowball Effect",
+      "it": "Raggiungere 15 pupazzi di neve in una partita di Effetto valanga",
+      "cn": "在一局滚雪球中达到15个雪人",
+      "pt": "Alcançar 15 bonecos de neve numa partida de Efeito bola de neve",
+      "es": "Alcanzar 15 muñecos de nieve en una partida de Efecto bola de nieve",
+      "de": "15 Schneemänner in einer Partie Schneeball-Effekt erreichen",
+      "nl": "Bereik 15 sneeuwpoppen in één potje Sneeuwbaleffect",
+      "hi": "स्नोबॉल इफेक्ट के एक गेम में 15 हिममानव तक पहुंचें"
+    },
+    "points": 60,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 15,
+          "resetAtGameOver": true,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "SNOWBALL_EFFECT"
+        }
+      }
+    }
+  },
+  {
+    "id": "calculusHardPerfect",
+    "title": {
+      "fr": "Calcul parfait",
+      "us": "Flawless Figures",
+      "it": "Calcolo perfetto",
+      "cn": "完美计算",
+      "pt": "Cálculo perfeito",
+      "es": "Cálculo perfecto",
+      "de": "Perfekte Rechnung",
+      "nl": "Perfecte rekensom",
+      "hi": "उत्तम गणना"
+    },
+    "instruction": {
+      "fr": "Réaliser une partie de Calcul mental en mode difficile sans faire d’erreur",
+      "us": "Complete a Mental Calculation game on hard mode without a mistake",
+      "it": "Completare una partita di Calcolo mentale in modalità difficile senza commettere errori",
+      "cn": "以困难模式完成一局心算且不出任何错误",
+      "pt": "Realizar uma partida de Cálculo mental no modo difícil sem cometer nenhum erro",
+      "es": "Completar una partida de Cálculo mental en modo difícil sin cometer ningún error",
+      "de": "Eine Partie Kopfrechnen im schweren Modus ohne Fehler abschließen",
+      "nl": "Voltooi een potje Hoofdrekenen op de moeilijke modus zonder fouten",
+      "hi": "मानसिक गणना का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+    },
+    "points": 70,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "gameMnemonic": "CALCULUS",
+          "difficulty": "HARD",
+          "successRateMin": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "calculusThirtyNoError",
+    "title": {
+      "fr": "Sans fausse note",
+      "us": "No Slip-ups",
+      "it": "Senza una nota stonata",
+      "cn": "毫无差错",
+      "pt": "Sem nota errada",
+      "es": "Sin una nota en falso",
+      "de": "Ohne Fehltritt",
+      "nl": "Zonder misstap",
+      "hi": "बिना किसी चूक के"
+    },
+    "instruction": {
+      "fr": "Résoudre 15 calculs sans faire une seule erreur",
+      "us": "Solve 15 calculations without a single mistake",
+      "it": "Risolvere 15 calcoli senza commettere un solo errore",
+      "cn": "解答15道计算题且不出一个错误",
+      "pt": "Resolver 15 cálculos sem cometer um único erro",
+      "es": "Resolver 15 cálculos sin cometer ni un solo error",
+      "de": "15 Rechnungen ohne einen einzigen Fehler lösen",
+      "nl": "Los 15 berekeningen op zonder één enkele fout",
+      "hi": "15 गणनाएँ बिना एक भी गलती किए हल करें"
+    },
+    "points": 50,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 15,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "CALCULUS"
+        }
+      }
+    }
+  },
+  {
+    "id": "calculusHundred",
+    "title": {
+      "fr": "Marathon des chiffres",
+      "us": "Number Marathon",
+      "it": "Maratona dei numeri",
+      "cn": "数字马拉松",
+      "pt": "Maratona dos números",
+      "es": "Maratón de cifras",
+      "de": "Zahlen-Marathon",
+      "nl": "Cijfermarathon",
+      "hi": "अंकों की मैराथन"
+    },
+    "instruction": {
+      "fr": "Résoudre 30 calculs au total",
+      "us": "Solve 30 calculations in total",
+      "it": "Risolvere 30 calcoli in totale",
+      "cn": "累计解答30道计算题",
+      "pt": "Resolver 30 cálculos no total",
+      "es": "Resolver 30 cálculos en total",
+      "de": "Insgesamt 30 Rechnungen lösen",
+      "nl": "Los in totaal 30 berekeningen op",
+      "hi": "कुल 30 गणनाएँ हल करें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 30,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "CALCULUS"
+        }
+      }
+    }
+  },
+  {
+    "id": "hangmanTenNoClue",
+    "title": {
+      "fr": "Sans indice",
+      "us": "No Cheating",
+      "it": "Senza indizio",
+      "cn": "不用提示",
+      "pt": "Sem dica",
+      "es": "Sin pista",
+      "de": "Ohne Hinweis",
+      "nl": "Zonder aanwijzing",
+      "hi": "बिना संकेत के"
+    },
+    "instruction": {
+      "fr": "Trouver 6 mots sans utiliser d’indice",
+      "us": "Find 6 words without using a clue",
+      "it": "Trovare 6 parole senza usare alcun indizio",
+      "cn": "不使用提示找出6个单词",
+      "pt": "Encontrar 6 palavras sem usar nenhuma dica",
+      "es": "Encontrar 6 palabras sin usar ninguna pista",
+      "de": "6 Wörter ohne Hinweis finden",
+      "nl": "Vind 6 woorden zonder een aanwijzing te gebruiken",
+      "hi": "बिना किसी संकेत का उपयोग किए 6 शब्द खोजें"
+    },
+    "points": 50,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 6,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbClues"
+          ],
+          "gameMnemonic": "HANGMAN"
+        }
+      }
+    }
+  },
+  {
+    "id": "hangmanHardPerfect",
+    "title": {
+      "fr": "Mot pour mot",
+      "us": "Word Perfect",
+      "it": "Parola per parola",
+      "cn": "字字精准",
+      "pt": "Palavra por palavra",
+      "es": "Palabra por palabra",
+      "de": "Wort für Wort",
+      "nl": "Woord voor woord",
+      "hi": "शब्द दर शब्द"
+    },
+    "instruction": {
+      "fr": "Réaliser une partie du Pendu en mode difficile sans échouer sur un mot",
+      "us": "Complete a Hangman game on hard mode without failing a word",
+      "it": "Completare una partita dell'Impiccato in modalità difficile senza sbagliare una parola",
+      "cn": "以困难模式完成一局猜单词且没有一个单词失败",
+      "pt": "Realizar uma partida da Forca no modo difícil sem errar nenhuma palavra",
+      "es": "Completar una partida del Ahorcado en modo difícil sin fallar ninguna palabra",
+      "de": "Eine Partie Galgenmännchen im schweren Modus abschließen, ohne an einem Wort zu scheitern",
+      "nl": "Voltooi een potje Galgje op de moeilijke modus zonder een woord te missen",
+      "hi": "फाँसी का एक गेम कठिन मोड में बिना किसी शब्द में असफल हुए पूरा करें"
+    },
+    "points": 80,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "gameMnemonic": "HANGMAN",
+          "difficulty": "HARD",
+          "successRateMin": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "hangmanFiftyWords",
+    "title": {
+      "fr": "Chasseur de mots",
+      "us": "Word Hunter",
+      "it": "Cacciatore di parole",
+      "cn": "单词猎手",
+      "pt": "Caçador de palavras",
+      "es": "Cazador de palabras",
+      "de": "Wörterjäger",
+      "nl": "Woordenjager",
+      "hi": "शब्दों का शिकारी"
+    },
+    "instruction": {
+      "fr": "Deviner 20 mots au total",
+      "us": "Guess 20 words in total",
+      "it": "Indovinare 20 parole in totale",
+      "cn": "累计猜出20个单词",
+      "pt": "Adivinhar 20 palavras no total",
+      "es": "Adivinar 20 palabras en total",
+      "de": "Insgesamt 20 Wörter erraten",
+      "nl": "Raad in totaal 20 woorden",
+      "hi": "कुल 20 शब्द पहचानें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 20,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "HANGMAN"
+        }
+      }
+    }
+  },
+  {
+    "id": "intrusHardPerfect",
+    "title": {
+      "fr": "Œil de faucon",
+      "us": "Hawk Eye",
+      "it": "Occhio di falco",
+      "cn": "鹰眼",
+      "pt": "Olho de águia",
+      "es": "Ojo de halcón",
+      "de": "Falkenauge",
+      "nl": "Havikoog",
+      "hi": "बाज़ की नज़र"
+    },
+    "instruction": {
+      "fr": "Réaliser une partie d’Intrus en mode difficile sans faire d’erreur",
+      "us": "Complete an Intruder game on hard mode without a mistake",
+      "it": "Completare una partita di Intruso in modalità difficile senza commettere errori",
+      "cn": "以困难模式完成一局找不同项且不出任何错误",
+      "pt": "Realizar uma partida de Intruso no modo difícil sem cometer nenhum erro",
+      "es": "Completar una partida de Intruso en modo difícil sin cometer ningún error",
+      "de": "Eine Partie Eindringling im schweren Modus ohne Fehler abschließen",
+      "nl": "Voltooi een potje Indringer op de moeilijke modus zonder fouten",
+      "hi": "घुसपैठिया का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+    },
+    "points": 70,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "gameMnemonic": "INTRUS",
+          "difficulty": "HARD",
+          "successRateMin": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "intrusTwentyNoError",
+    "title": {
+      "fr": "Rien ne t’échappe",
+      "us": "Nothing Escapes You",
+      "it": "Non ti sfugge nulla",
+      "cn": "无所遁形",
+      "pt": "Nada te escapa",
+      "es": "Nada se te escapa",
+      "de": "Dir entgeht nichts",
+      "nl": "Niets ontsnapt je",
+      "hi": "कुछ भी आपसे नहीं बचता"
+    },
+    "instruction": {
+      "fr": "Trouver 10 intrus sans faire une seule erreur",
+      "us": "Spot 10 intruders without a single mistake",
+      "it": "Trovare 10 intrusi senza commettere un solo errore",
+      "cn": "找出10个不同项且不出一个错误",
+      "pt": "Encontrar 10 intrusos sem cometer um único erro",
+      "es": "Encontrar 10 intrusos sin cometer ni un solo error",
+      "de": "10 Eindringlinge ohne einen einzigen Fehler finden",
+      "nl": "Vind 10 indringers zonder één enkele fout",
+      "hi": "10 घुसपैठियों को बिना एक भी गलती किए खोजें"
+    },
+    "points": 50,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 10,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "INTRUS"
+        }
+      }
+    }
+  },
+  {
+    "id": "intrusEighty",
+    "title": {
+      "fr": "Détecteur d’intrus",
+      "us": "Intruder Radar",
+      "it": "Rilevatore di intrusi",
+      "cn": "异项探测器",
+      "pt": "Detector de intrusos",
+      "es": "Detector de intrusos",
+      "de": "Eindringlings-Radar",
+      "nl": "Indringerradar",
+      "hi": "घुसपैठिया रडार"
+    },
+    "instruction": {
+      "fr": "Démasquer 30 intrus au total",
+      "us": "Unmask 30 intruders in total",
+      "it": "Smascherare 30 intrusi in totale",
+      "cn": "累计揭穿30个不同项",
+      "pt": "Desmascarar 30 intrusos no total",
+      "es": "Desenmascarar 30 intrusos en total",
+      "de": "Insgesamt 30 Eindringlinge entlarven",
+      "nl": "Ontmasker in totaal 30 indringers",
+      "hi": "कुल 30 घुसपैठियों का पर्दाफाश करें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 30,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "INTRUS"
+        }
+      }
+    }
+  },
+  {
+    "id": "syllabusHardPerfect",
+    "title": {
+      "fr": "Assemblage parfait",
+      "us": "Perfect Assembly",
+      "it": "Assemblaggio perfetto",
+      "cn": "完美拼合",
+      "pt": "Montagem perfeita",
+      "es": "Ensamblaje perfecto",
+      "de": "Perfekter Zusammenbau",
+      "nl": "Perfecte montage",
+      "hi": "उत्तम संयोजन"
+    },
+    "instruction": {
+      "fr": "Réaliser une partie de Syllabes en mode difficile sans faire d’erreur",
+      "us": "Complete a Syllables game on hard mode without a mistake",
+      "it": "Completare una partita di Sillabe in modalità difficile senza commettere errori",
+      "cn": "以困难模式完成一局音节且不出任何错误",
+      "pt": "Realizar uma partida de Sílabas no modo difícil sem cometer nenhum erro",
+      "es": "Completar una partida de Sílabas en modo difícil sin cometer ningún error",
+      "de": "Eine Partie Silben im schweren Modus ohne Fehler abschließen",
+      "nl": "Voltooi een potje Lettergrepen op de moeilijke modus zonder fouten",
+      "hi": "अक्षरों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+    },
+    "points": 70,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "gameMnemonic": "SYLLABUS",
+          "difficulty": "HARD",
+          "successRateMin": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "syllabusSixtyWords",
+    "title": {
+      "fr": "Maçon des syllabes",
+      "us": "Syllable Mason",
+      "it": "Muratore delle sillabe",
+      "cn": "音节泥瓦匠",
+      "pt": "Pedreiro das sílabas",
+      "es": "Albañil de las sílabas",
+      "de": "Silben-Maurer",
+      "nl": "Lettergrepenmetselaar",
+      "hi": "अक्षरों का राजमिस्त्री"
+    },
+    "instruction": {
+      "fr": "Reconstituer 25 mots au total",
+      "us": "Rebuild 25 words in total",
+      "it": "Ricostruire 25 parole in totale",
+      "cn": "累计拼出25个单词",
+      "pt": "Reconstituir 25 palavras no total",
+      "es": "Reconstruir 25 palabras en total",
+      "de": "Insgesamt 25 Wörter zusammensetzen",
+      "nl": "Stel in totaal 25 woorden samen",
+      "hi": "कुल 25 शब्द फिर से बनाएँ"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 25,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "SYLLABUS"
+        }
+      }
+    }
+  },
+  {
+    "id": "syllabusTwentyNoError",
+    "title": {
+      "fr": "Sans la gomme",
+      "us": "No Eraser",
+      "it": "Senza la gomma",
+      "cn": "不用橡皮",
+      "pt": "Sem a borracha",
+      "es": "Sin la goma",
+      "de": "Ohne Radiergummi",
+      "nl": "Zonder de gum",
+      "hi": "बिना रबड़ के"
+    },
+    "instruction": {
+      "fr": "Reconstituer 10 mots sans jamais utiliser la gomme",
+      "us": "Rebuild 10 words without ever using the eraser",
+      "it": "Ricostruire 10 parole senza mai usare la gomma",
+      "cn": "拼出10个单词且从不使用橡皮",
+      "pt": "Reconstituir 10 palavras sem nunca usar a borracha",
+      "es": "Reconstruir 10 palabras sin usar nunca la goma",
+      "de": "10 Wörter zusammensetzen, ohne je den Radiergummi zu benutzen",
+      "nl": "Stel 10 woorden samen zonder ooit de gum te gebruiken",
+      "hi": "बिना कभी रबड़ का उपयोग किए 10 शब्द फिर से बनाएँ"
+    },
+    "points": 50,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 10,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbBadAnswers"
+          ],
+          "gameMnemonic": "SYLLABUS"
+        }
+      }
+    }
+  },
+  {
+    "id": "proverbTenNoSkip",
+    "title": {
+      "fr": "Sans passer son tour",
+      "us": "No Skips",
+      "it": "Senza saltare il turno",
+      "cn": "不跳过一题",
+      "pt": "Sem passar a vez",
+      "es": "Sin pasar turno",
+      "de": "Ohne auszusetzen",
+      "nl": "Zonder een beurt over te slaan",
+      "hi": "बिना बारी छोड़े"
+    },
+    "instruction": {
+      "fr": "Reconstituer 6 proverbes sans en passer aucun",
+      "us": "Assemble 6 proverbs without skipping any",
+      "it": "Ricostruire 6 proverbi senza saltarne nessuno",
+      "cn": "拼出6条谚语且不跳过任何一条",
+      "pt": "Reconstituir 6 provérbios sem pular nenhum",
+      "es": "Reconstruir 6 proverbios sin saltarse ninguno",
+      "de": "6 Sprichwörter zusammensetzen, ohne eines auszulassen",
+      "nl": "Stel 6 spreekwoorden samen zonder er een over te slaan",
+      "hi": "6 कहावतें बिना किसी को छोड़े फिर से बनाएँ"
+    },
+    "points": 50,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 6,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbItemsSkipped"
+          ],
+          "gameMnemonic": "PROVERB"
+        }
+      }
+    }
+  },
+  {
+    "id": "proverbHardPerfect",
+    "title": {
+      "fr": "Sagesse parfaite",
+      "us": "Perfect Wisdom",
+      "it": "Saggezza perfetta",
+      "cn": "完美智慧",
+      "pt": "Sabedoria perfeita",
+      "es": "Sabiduría perfecta",
+      "de": "Perfekte Weisheit",
+      "nl": "Perfecte wijsheid",
+      "hi": "उत्तम ज्ञान"
+    },
+    "instruction": {
+      "fr": "Réaliser une partie de Proverbes en mode difficile sans faire d’erreur",
+      "us": "Complete a Proverbs game on hard mode without a mistake",
+      "it": "Completare una partita di Proverbi in modalità difficile senza commettere errori",
+      "cn": "以困难模式完成一局谚语且不出任何错误",
+      "pt": "Realizar uma partida de Provérbios no modo difícil sem cometer nenhum erro",
+      "es": "Completar una partida de Proverbios en modo difícil sin cometer ningún error",
+      "de": "Eine Partie Sprichwörter im schweren Modus ohne Fehler abschließen",
+      "nl": "Voltooi een potje Spreekwoorden op de moeilijke modus zonder fouten",
+      "hi": "कहावतों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+    },
+    "points": 70,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": false,
+          "gameMnemonic": "PROVERB",
+          "difficulty": "HARD",
+          "successRateMin": 100
+        }
+      }
+    }
+  },
+  {
+    "id": "proverbFifty",
+    "title": {
+      "fr": "Conteur infatigable",
+      "us": "Tireless Teller",
+      "it": "Narratore instancabile",
+      "cn": "不知疲倦的讲述者",
+      "pt": "Contador incansável",
+      "es": "Narrador incansable",
+      "de": "Unermüdlicher Erzähler",
+      "nl": "Onvermoeibare verteller",
+      "hi": "अथक कथावाचक"
+    },
+    "instruction": {
+      "fr": "Reconstituer 20 proverbes au total",
+      "us": "Reconstruct 20 proverbs in total",
+      "it": "Ricostruire 20 proverbi in totale",
+      "cn": "累计拼出20条谚语",
+      "pt": "Reconstituir 20 provérbios no total",
+      "es": "Reconstruir 20 proverbios en total",
+      "de": "Insgesamt 20 Sprichwörter zusammensetzen",
+      "nl": "Stel in totaal 20 spreekwoorden samen",
+      "hi": "कुल 20 कहावतें फिर से बनाएँ"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 20,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "PROVERB"
+        }
+      }
+    }
+  },
+  {
+    "id": "walkerMaxAdaptive",
+    "title": {
+      "fr": "Maître du labyrinthe",
+      "us": "Maze Master",
+      "it": "Maestro del labirinto",
+      "cn": "迷宫大师",
+      "pt": "Mestre do labirinto",
+      "es": "Maestro del laberinto",
+      "de": "Meister des Labyrinths",
+      "nl": "Meester van het doolhof",
+      "hi": "भूलभुलैया का माहिर"
+    },
+    "instruction": {
+      "fr": "Terminer un labyrinthe au niveau adaptatif maximal",
+      "us": "Complete a maze at the maximum adaptive level",
+      "it": "Completare un labirinto al livello adattivo massimo",
+      "cn": "在最高自适应难度下完成一个迷宫",
+      "pt": "Terminar um labirinto no nível adaptativo máximo",
+      "es": "Terminar un laberinto en el nivel adaptativo máximo",
+      "de": "Ein Labyrinth auf der höchsten adaptiven Stufe abschließen",
+      "nl": "Voltooi een doolhof op het maximale adaptieve niveau",
+      "hi": "अधिकतम अनुकूली स्तर पर एक भूलभुलैया पूरी करें"
+    },
+    "points": 80,
+    "difficulty": "hard",
+    "isUnique": false,
+    "criterion": {
+      "finishGames": {
+        "_0": {
+          "count": 1,
+          "requiresMaxAdaptiveLvl": true,
+          "gameMnemonic": "WALKER"
+        }
+      }
+    }
+  },
+  {
+    "id": "walkerFiveNoHint",
+    "title": {
+      "fr": "Sans aucun indice",
+      "us": "No Hints",
+      "it": "Senza alcun indizio",
+      "cn": "毫无提示",
+      "pt": "Sem nenhuma dica",
+      "es": "Sin ninguna pista",
+      "de": "Ganz ohne Hinweis",
+      "nl": "Zonder enige aanwijzing",
+      "hi": "बिना किसी संकेत के"
+    },
+    "instruction": {
+      "fr": "Résoudre 3 labyrinthes sans utiliser d’indice",
+      "us": "Solve 3 mazes without using a hint",
+      "it": "Risolvere 3 labirinti senza usare alcun indizio",
+      "cn": "不使用提示解开3个迷宫",
+      "pt": "Resolver 3 labirintos sem usar nenhuma dica",
+      "es": "Resolver 3 laberintos sin usar ninguna pista",
+      "de": "3 Labyrinthe ohne Hinweis lösen",
+      "nl": "Los 3 doolhoven op zonder een aanwijzing te gebruiken",
+      "hi": "बिना किसी संकेत का उपयोग किए 3 भूलभुलैया हल करें"
+    },
+    "points": 50,
+    "difficulty": "medium",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 3,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [
+            "nbClues"
+          ],
+          "gameMnemonic": "WALKER"
+        }
+      }
+    }
+  },
+  {
+    "id": "walkerTwentyFive",
+    "title": {
+      "fr": "Grand explorateur",
+      "us": "Great Explorer",
+      "it": "Grande esploratore",
+      "cn": "伟大探险家",
+      "pt": "Grande explorador",
+      "es": "Gran explorador",
+      "de": "Großer Entdecker",
+      "nl": "Grote ontdekkingsreiziger",
+      "hi": "महान खोजकर्ता"
+    },
+    "instruction": {
+      "fr": "Terminer 10 labyrinthes au total",
+      "us": "Complete 10 mazes in total",
+      "it": "Completare 10 labirinti in totale",
+      "cn": "累计完成10个迷宫",
+      "pt": "Terminar 10 labirintos no total",
+      "es": "Terminar 10 laberintos en total",
+      "de": "Insgesamt 10 Labyrinthe abschließen",
+      "nl": "Voltooi in totaal 10 doolhoven",
+      "hi": "कुल 10 भूलभुलैया पूरी करें"
+    },
+    "points": 30,
+    "difficulty": "easy",
+    "isUnique": false,
+    "criterion": {
+      "inGameProgress": {
+        "_0": {
+          "count": 10,
+          "resetAtGameOver": false,
+          "scoreMnemoProgress": "nbGoodAnswers",
+          "scoreMnemoReset": [],
+          "gameMnemonic": "WALKER"
+        }
+      }
+    }
+  }
+]
