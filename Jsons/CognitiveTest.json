@@ -1,0 +1,1532 @@
+{
+  "fr": [
+    [
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Chien",
+          "Chein",
+          "Chiene",
+          "Chiun"
+        ]
+      },
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Fenêtre",
+          "Fenetre",
+          "Fennêtre",
+          "Fenèttre"
+        ]
+      },
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Accueil",
+          "Acceuil",
+          "Aceuil",
+          "Accueille"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de rapide",
+        "answers": [
+          "Vite",
+          "Lent",
+          "Calme",
+          "Lourd"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de commencer",
+        "answers": [
+          "Débuter",
+          "Finir",
+          "Dormir",
+          "Perdre"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de calme",
+        "answers": [
+          "Paisible",
+          "Bruyant",
+          "Rapide",
+          "Pointu"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Pharmacie",
+          "Farmacie",
+          "Pharmasie",
+          "Fharmacie"
+        ]
+      },
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Anniversaire",
+          "Aniversaire",
+          "Annivairsaire",
+          "Anniverssaire"
+        ]
+      },
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Rythme",
+          "Rhythme",
+          "Rytme",
+          "Rithme"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de grand",
+        "answers": [
+          "Immense",
+          "Petit",
+          "Froid",
+          "Léger"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de joli",
+        "answers": [
+          "Beau",
+          "Sale",
+          "Dur",
+          "Vide"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de parler",
+        "answers": [
+          "Discuter",
+          "Dormir",
+          "Courir",
+          "Fermer"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Développement",
+          "Dévelopement",
+          "Développpement",
+          "Dévellopement"
+        ]
+      },
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Parallèle",
+          "Paralèle",
+          "Parrallèle",
+          "Parallèl"
+        ]
+      },
+      {
+        "question": "Trouvez le mot correctement orthographié",
+        "answers": [
+          "Nourriture",
+          "Nouriture",
+          "Nourritture",
+          "Nouritture"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de content",
+        "answers": [
+          "Heureux",
+          "Fâché",
+          "Lourd",
+          "Sec"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de finir",
+        "answers": [
+          "Terminer",
+          "Commencer",
+          "Tomber",
+          "Ouvrir"
+        ]
+      },
+      {
+        "question": "Trouvez le synonyme de regarder",
+        "answers": [
+          "Observer",
+          "Ignorer",
+          "Dormir",
+          "Oublier"
+        ]
+      }
+    ]
+  ],
+  "us": [
+    [
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Separate",
+          "Seperate",
+          "Separrate",
+          "Separete"
+        ]
+      },
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Beautiful",
+          "Beautifull",
+          "Beutiful",
+          "Beautifal"
+        ]
+      },
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Necessary",
+          "Neccessary",
+          "Necesary",
+          "Necassary"
+        ]
+      },
+      {
+        "question": "Find the synonym of happy",
+        "answers": [
+          "Glad",
+          "Angry",
+          "Heavy",
+          "Quiet"
+        ]
+      },
+      {
+        "question": "Find the synonym of begin",
+        "answers": [
+          "Start",
+          "Finish",
+          "Sleep",
+          "Forget"
+        ]
+      },
+      {
+        "question": "Find the synonym of small",
+        "answers": [
+          "Tiny",
+          "Large",
+          "Bright",
+          "Deep"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Pharmacy",
+          "Farmacy",
+          "Pharmecy",
+          "Pharmasy"
+        ]
+      },
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Anniversary",
+          "Aniversary",
+          "Anniversery",
+          "Annivarsary"
+        ]
+      },
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Rhythm",
+          "Rythm",
+          "Rhythum",
+          "Rithm"
+        ]
+      },
+      {
+        "question": "Find the synonym of big",
+        "answers": [
+          "Huge",
+          "Small",
+          "Cold",
+          "Late"
+        ]
+      },
+      {
+        "question": "Find the synonym of pretty",
+        "answers": [
+          "Lovely",
+          "Dirty",
+          "Hard",
+          "Empty"
+        ]
+      },
+      {
+        "question": "Find the synonym of speak",
+        "answers": [
+          "Talk",
+          "Sleep",
+          "Run",
+          "Close"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Development",
+          "Developement",
+          "Develpment",
+          "Developpment"
+        ]
+      },
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Parallel",
+          "Paralel",
+          "Parrallel",
+          "Parallell"
+        ]
+      },
+      {
+        "question": "Find the correctly spelled word",
+        "answers": [
+          "Restaurant",
+          "Restarant",
+          "Restaurantt",
+          "Resterant"
+        ]
+      },
+      {
+        "question": "Find the synonym of glad",
+        "answers": [
+          "Happy",
+          "Angry",
+          "Heavy",
+          "Dry"
+        ]
+      },
+      {
+        "question": "Find the synonym of finish",
+        "answers": [
+          "Complete",
+          "Begin",
+          "Fall",
+          "Open"
+        ]
+      },
+      {
+        "question": "Find the synonym of look",
+        "answers": [
+          "Observe",
+          "Ignore",
+          "Sleep",
+          "Forget"
+        ]
+      }
+    ]
+  ],
+  "it": [
+    [
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Biblioteca",
+          "Bibilioteca",
+          "Bibliotheca",
+          "Bibloteca"
+        ]
+      },
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Ospedale",
+          "Ospeddale",
+          "Ospedalle",
+          "Ospe dale"
+        ]
+      },
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Aeroporto",
+          "Aereoporto",
+          "Aero portto",
+          "Aeroportto"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di felice",
+        "answers": [
+          "Contento",
+          "Triste",
+          "Lento",
+          "Vuoto"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di iniziare",
+        "answers": [
+          "Cominciare",
+          "Finire",
+          "Dormire",
+          "Nascondere"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di piccolo",
+        "answers": [
+          "Minuscolo",
+          "Grande",
+          "Lungo",
+          "Rumoroso"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Farmacia",
+          "Pharmacia",
+          "Farmacca",
+          "Farmacìa"
+        ]
+      },
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Compleanno",
+          "Complean no",
+          "Compleannoo",
+          "Comleanno"
+        ]
+      },
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Ritmo",
+          "Rhitmo",
+          "Rittmo",
+          "Ritimo"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di grande",
+        "answers": [
+          "Enorme",
+          "Piccolo",
+          "Freddo",
+          "Vuoto"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di bello",
+        "answers": [
+          "Grazioso",
+          "Sporco",
+          "Duro",
+          "Triste"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di parlare",
+        "answers": [
+          "Conversare",
+          "Dormire",
+          "Correre",
+          "Chiudere"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Sviluppo",
+          "Svilupo",
+          "Svilluppo",
+          "Svilupoo"
+        ]
+      },
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Parallelo",
+          "Paralello",
+          "Parrallelo",
+          "Paralelelo"
+        ]
+      },
+      {
+        "question": "Trova la parola scritta correttamente",
+        "answers": [
+          "Ristorante",
+          "Ristorrante",
+          "Ristorente",
+          "Risttorante"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di contento",
+        "answers": [
+          "Felice",
+          "Arrabbiato",
+          "Pesante",
+          "Secco"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di finire",
+        "answers": [
+          "Terminare",
+          "Iniziare",
+          "Cadere",
+          "Aprire"
+        ]
+      },
+      {
+        "question": "Trova il sinonimo di guardare",
+        "answers": [
+          "Osservare",
+          "Ignorare",
+          "Dormire",
+          "Dimenticare"
+        ]
+      }
+    ]
+  ],
+  "cn": [
+    [
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "朋友",
+          "朋有",
+          "月友",
+          "朋又"
+        ]
+      },
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "学校",
+          "学较",
+          "斈校",
+          "学挍"
+        ]
+      },
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "医生",
+          "医笙",
+          "矢生",
+          "医生生"
+        ]
+      },
+      {
+        "question": "找出高兴的近义词",
+        "answers": [
+          "开心",
+          "安静",
+          "寒冷",
+          "缓慢"
+        ]
+      },
+      {
+        "question": "找出开始的近义词",
+        "answers": [
+          "启动",
+          "结束",
+          "忘记",
+          "停下"
+        ]
+      },
+      {
+        "question": "找出小的近义词",
+        "answers": [
+          "微小",
+          "巨大",
+          "明亮",
+          "粗糙"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "药店",
+          "约店",
+          "药甸",
+          "葯店"
+        ]
+      },
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "生日",
+          "生曰",
+          "笙日",
+          "生日日"
+        ]
+      },
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "节奏",
+          "节揍",
+          "莭奏",
+          "节奏奏"
+        ]
+      },
+      {
+        "question": "找出大的近义词",
+        "answers": [
+          "巨大",
+          "微小",
+          "寒冷",
+          "空白"
+        ]
+      },
+      {
+        "question": "找出漂亮的近义词",
+        "answers": [
+          "美丽",
+          "肮脏",
+          "坚硬",
+          "空的"
+        ]
+      },
+      {
+        "question": "找出说话的近义词",
+        "answers": [
+          "交谈",
+          "睡觉",
+          "奔跑",
+          "关闭"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "发展",
+          "发詹",
+          "發展展",
+          "髮展"
+        ]
+      },
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "平行",
+          "苹行",
+          "平衍",
+          "平行行"
+        ]
+      },
+      {
+        "question": "找出拼写正确的词语",
+        "answers": [
+          "餐厅",
+          "歺厅",
+          "餐庁",
+          "餐厅厅"
+        ]
+      },
+      {
+        "question": "找出高兴的近义词",
+        "answers": [
+          "快乐",
+          "生气",
+          "沉重",
+          "干燥"
+        ]
+      },
+      {
+        "question": "找出结束的近义词",
+        "answers": [
+          "完成",
+          "开始",
+          "跌倒",
+          "打开"
+        ]
+      },
+      {
+        "question": "找出看的近义词",
+        "answers": [
+          "观察",
+          "忽略",
+          "睡觉",
+          "忘记"
+        ]
+      }
+    ]
+  ],
+  "nl": [
+    [
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Vakantie",
+          "Vackantie",
+          "Vakansie",
+          "Vacantie"
+        ]
+      },
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Moeilijk",
+          "Moeiljik",
+          "Moeijlijk",
+          "Moeilik"
+        ]
+      },
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Bibliotheek",
+          "Biblioteek",
+          "Bibliootheek",
+          "Bibliotehk"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van snel",
+        "answers": [
+          "Vlott",
+          "Langzaam",
+          "Donker",
+          "Dik"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van beginnen",
+        "answers": [
+          "Starten",
+          "Stoppen",
+          "Slapen",
+          "Vergeten"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van klein",
+        "answers": [
+          "Mini",
+          "Groot",
+          "Luid",
+          "Breed"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Apotheek",
+          "Apoteek",
+          "Apotheeck",
+          "Apootheek"
+        ]
+      },
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Verjaardag",
+          "Verjardag",
+          "Verjaar dag",
+          "Verjaardagh"
+        ]
+      },
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Ritme",
+          "Rhitme",
+          "Rittme",
+          "Ritmme"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van groot",
+        "answers": [
+          "Enorm",
+          "Klein",
+          "Koud",
+          "Leeg"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van mooi",
+        "answers": [
+          "Fraai",
+          "Vies",
+          "Hard",
+          "Triest"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van spreken",
+        "answers": [
+          "Praten",
+          "Slapen",
+          "Rennen",
+          "Sluiten"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Ontwikkeling",
+          "Ontwikeling",
+          "Ontwikkkeling",
+          "Ontwikkelng"
+        ]
+      },
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Parallel",
+          "Paralel",
+          "Parrallel",
+          "Parallell"
+        ]
+      },
+      {
+        "question": "Zoek het correct gespelde woord",
+        "answers": [
+          "Restaurant",
+          "Restarant",
+          "Restaurant",
+          "Restaurannt"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van blij",
+        "answers": [
+          "Gelukkig",
+          "Boos",
+          "Zwaar",
+          "Droog"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van eindigen",
+        "answers": [
+          "Afronden",
+          "Beginnen",
+          "Vallen",
+          "Openen"
+        ]
+      },
+      {
+        "question": "Zoek het synoniem van kijken",
+        "answers": [
+          "Observeren",
+          "Negeren",
+          "Slapen",
+          "Vergeten"
+        ]
+      }
+    ]
+  ],
+  "pt": [
+    [
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Coração",
+          "Coraçao",
+          "Coraçãoo",
+          "Corassão"
+        ]
+      },
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Janela",
+          "Jannela",
+          "Janella",
+          "Ganela"
+        ]
+      },
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Família",
+          "Familiaa",
+          "Fammília",
+          "Famílha"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de feliz",
+        "answers": [
+          "Contente",
+          "Triste",
+          "Lento",
+          "Frio"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de começar",
+        "answers": [
+          "Iniciar",
+          "Terminar",
+          "Dormir",
+          "Esquecer"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de pequeno",
+        "answers": [
+          "Miúdo",
+          "Grande",
+          "Barulhento",
+          "Pesado"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Farmácia",
+          "Farmacia",
+          "Pharmácia",
+          "Farmáçia"
+        ]
+      },
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Aniversário",
+          "Aniverçário",
+          "Aniverssário",
+          "Aniversarioo"
+        ]
+      },
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Ritmo",
+          "Rítimo",
+          "Ritimo",
+          "Rithmo"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de grande",
+        "answers": [
+          "Enorme",
+          "Pequeno",
+          "Frio",
+          "Vazio"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de bonito",
+        "answers": [
+          "Belo",
+          "Sujo",
+          "Duro",
+          "Triste"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de falar",
+        "answers": [
+          "Conversar",
+          "Dormir",
+          "Correr",
+          "Fechar"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Desenvolvimento",
+          "Desenvolvi mento",
+          "Desinvolvimento",
+          "Desenvolvimentto"
+        ]
+      },
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Paralelo",
+          "Parallelo",
+          "Paralello",
+          "Paralélo"
+        ]
+      },
+      {
+        "question": "Encontre a palavra escrita corretamente",
+        "answers": [
+          "Restaurante",
+          "Restauranti",
+          "Restaurannte",
+          "Restorante"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de contente",
+        "answers": [
+          "Feliz",
+          "Bravo",
+          "Pesado",
+          "Seco"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de terminar",
+        "answers": [
+          "Concluir",
+          "Começar",
+          "Cair",
+          "Abrir"
+        ]
+      },
+      {
+        "question": "Encontre o sinônimo de olhar",
+        "answers": [
+          "Observar",
+          "Ignorar",
+          "Dormir",
+          "Esquecer"
+        ]
+      }
+    ]
+  ],
+  "es": [
+    [
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Ventana",
+          "Bentana",
+          "Ventanna",
+          "Venttana"
+        ]
+      },
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Murciélago",
+          "Murcielago",
+          "Murciellago",
+          "Murciélagoo"
+        ]
+      },
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Desayuno",
+          "Desalluno",
+          "Desayno",
+          "Dezayuno"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de rápido",
+        "answers": [
+          "Veloz",
+          "Lento",
+          "Débil",
+          "Lejano"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de comenzar",
+        "answers": [
+          "Empezar",
+          "Terminar",
+          "Dormir",
+          "Olvidar"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de pequeño",
+        "answers": [
+          "Minúsculo",
+          "Grande",
+          "Ruidoso",
+          "Largo"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Farmacia",
+          "Pharmacia",
+          "Fharmacia",
+          "Farmácia"
+        ]
+      },
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Aniversario",
+          "Anibersario",
+          "Aniverssario",
+          "Aniversairo"
+        ]
+      },
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Ritmo",
+          "Rithmo",
+          "Ritimo",
+          "Ryttmo"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de grande",
+        "answers": [
+          "Enorme",
+          "Pequeño",
+          "Frío",
+          "Vacío"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de bonito",
+        "answers": [
+          "Hermoso",
+          "Sucio",
+          "Duro",
+          "Triste"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de hablar",
+        "answers": [
+          "Conversar",
+          "Dormir",
+          "Correr",
+          "Cerrar"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Desarrollo",
+          "Desarollo",
+          "Desarrolllo",
+          "Desarroyo"
+        ]
+      },
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Paralelo",
+          "Paralello",
+          "Parrale lo",
+          "Paralélo"
+        ]
+      },
+      {
+        "question": "Encuentra la palabra correctamente escrita",
+        "answers": [
+          "Restaurante",
+          "Restorante",
+          "Restaurannte",
+          "Restaurantee"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de contento",
+        "answers": [
+          "Feliz",
+          "Enojado",
+          "Pesado",
+          "Seco"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de terminar",
+        "answers": [
+          "Concluir",
+          "Empezar",
+          "Caer",
+          "Abrir"
+        ]
+      },
+      {
+        "question": "Encuentra el sinónimo de mirar",
+        "answers": [
+          "Observar",
+          "Ignorar",
+          "Dormir",
+          "Olvidar"
+        ]
+      }
+    ]
+  ],
+  "de": [
+    [
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Geburtstag",
+          "Geburstag",
+          "Gebursttag",
+          "Geburtstak"
+        ]
+      },
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Schokolade",
+          "Schokkolade",
+          "Schokoladde",
+          "Chokolade"
+        ]
+      },
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Freundschaft",
+          "Freuntschaft",
+          "Freundshaft",
+          "Freuntschaft"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von schnell",
+        "answers": [
+          "Rasch",
+          "Langsam",
+          "Klein",
+          "Leer"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von beginnen",
+        "answers": [
+          "Anfangen",
+          "Beenden",
+          "Schlafen",
+          "Vergessen"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von klein",
+        "answers": [
+          "Winzig",
+          "Groß",
+          "Laut",
+          "Lang"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Apotheke",
+          "Apoteke",
+          "Apothekke",
+          "Aphotheke"
+        ]
+      },
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Geburtstag",
+          "Geburtsag",
+          "Geburtstagg",
+          "Geburts tag"
+        ]
+      },
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Rhythmus",
+          "Rythmus",
+          "Rhytmus",
+          "Ritmus"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von groß",
+        "answers": [
+          "Enorm",
+          "Klein",
+          "Kalt",
+          "Leer"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von schön",
+        "answers": [
+          "Hübsch",
+          "Schmutzig",
+          "Hart",
+          "Traurig"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von sprechen",
+        "answers": [
+          "Reden",
+          "Schlafen",
+          "Laufen",
+          "Schließen"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Entwicklung",
+          "Entwiklung",
+          "Entwikklung",
+          "Entwikklung"
+        ]
+      },
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Parallel",
+          "Paralell",
+          "Parrallel",
+          "Parallell"
+        ]
+      },
+      {
+        "question": "Finde das richtig geschriebene Wort",
+        "answers": [
+          "Restaurant",
+          "Restorant",
+          "Restaurannt",
+          "Restaurant"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von zufrieden",
+        "answers": [
+          "Glücklich",
+          "Wütend",
+          "Schwer",
+          "Trocken"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von beenden",
+        "answers": [
+          "Abschließen",
+          "Beginnen",
+          "Fallen",
+          "Öffnen"
+        ]
+      },
+      {
+        "question": "Finde das Synonym von schauen",
+        "answers": [
+          "Beobachten",
+          "Ignorieren",
+          "Schlafen",
+          "Vergessen"
+        ]
+      }
+    ]
+  ],
+  "hi": [
+    [
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "किताब",
+          "कताब",
+          "किताबा",
+          "कीताब"
+        ]
+      },
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "विद्यालय",
+          "विदयालय",
+          "विधालय",
+          "विद्द्यालय"
+        ]
+      },
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "परिवार",
+          "परीवार",
+          "परिवर",
+          "पारिवार"
+        ]
+      },
+      {
+        "question": "तेज़ का समानार्थी चुनें",
+        "answers": [
+          "शीघ्र",
+          "धीमा",
+          "भारी",
+          "शांत"
+        ]
+      },
+      {
+        "question": "शुरू का समानार्थी चुनें",
+        "answers": [
+          "आरंभ",
+          "समाप्त",
+          "भूलना",
+          "रुकना"
+        ]
+      },
+      {
+        "question": "छोटा का समानार्थी चुनें",
+        "answers": [
+          "नन्हा",
+          "बड़ा",
+          "शोरगुल",
+          "लंबा"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "दवाखाना",
+          "दवखाना",
+          "दवाखाणा",
+          "दवाखान"
+        ]
+      },
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "जन्मदिन",
+          "जनमदिन",
+          "जन्मदीन",
+          "जन्म दिन"
+        ]
+      },
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "लय",
+          "लैया",
+          "लयय",
+          "लइ"
+        ]
+      },
+      {
+        "question": "बड़ा का समानार्थी चुनें",
+        "answers": [
+          "विशाल",
+          "छोटा",
+          "ठंडा",
+          "खाली"
+        ]
+      },
+      {
+        "question": "सुंदर का समानार्थी चुनें",
+        "answers": [
+          "खूबसूरत",
+          "गंदा",
+          "कठोर",
+          "उदास"
+        ]
+      },
+      {
+        "question": "बोलना का समानार्थी चुनें",
+        "answers": [
+          "कहना",
+          "सोना",
+          "दौड़ना",
+          "बंद करना"
+        ]
+      }
+    ],
+    [
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "विकास",
+          "विकाश",
+          "विकासस",
+          "वकास"
+        ]
+      },
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "समानांतर",
+          "समानान्तर",
+          "समानांतरर",
+          "समनांतर"
+        ]
+      },
+      {
+        "question": "सही वर्तनी वाला शब्द चुनें",
+        "answers": [
+          "रेस्तरां",
+          "रेस्टरां",
+          "रेस्तराँं",
+          "रेसतरां"
+        ]
+      },
+      {
+        "question": "खुश का समानार्थी चुनें",
+        "answers": [
+          "प्रसन्न",
+          "क्रोधित",
+          "भारी",
+          "सूखा"
+        ]
+      },
+      {
+        "question": "समाप्त का समानार्थी चुनें",
+        "answers": [
+          "पूरा करना",
+          "शुरू करना",
+          "गिरना",
+          "खोलना"
+        ]
+      },
+      {
+        "question": "देखना का समानार्थी चुनें",
+        "answers": [
+          "निरीक्षण करना",
+          "अनदेखा करना",
+          "सोना",
+          "भूलना"
+        ]
+      }
+    ]
+  ]
+}
