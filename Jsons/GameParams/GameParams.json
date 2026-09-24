@@ -133,6 +133,14 @@
       ],
       "scoreMnemonics": [
         {
+          "scoreMnemonic": "nbMoves",
+          "scoreColumn": "score2"
+        },
+        {
+          "scoreMnemonic": "nbResets",
+          "scoreColumn": "score4"
+        },
+        {
           "scoreMnemonic": "nbGoodAnswers",
           "isAscendent" : false,
           "useAnalyse": false,
@@ -177,6 +185,14 @@
         }
       ],
       "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbGoodAnswersDetails1",
+          "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswersDetails2",
+          "scoreColumn": "score4"
+        },
         {
           "scoreMnemonic": "nbItemsForgotten",
           "scoreColumn": "score6"
@@ -364,6 +380,14 @@
       ],
       "scoreMnemonics": [
         {
+          "scoreMnemonic": "nbMoves",
+          "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "nbItemsTotal",
+          "scoreColumn": "score5"
+        },
+        {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
         },
@@ -391,6 +415,11 @@
         }
       ],
       "scoreMnemonics": [
+        {
+          "mode": "placeIt",
+          "scoreMnemonic": "nbTries",
+          "scoreColumn": "score3"
+        },
         {
           "mode": "placeIt",
           "scoreMnemonic": "nbClues",
@@ -602,6 +631,12 @@
       "chatbotDescription": "A Poem A Day (Poem) is a daily reading activity rather than a scored game. Each day the app presents a new poem along with its title, author (with birth/death dates when available), origin, translation, and a short author biography. Players read the poem on screen, can use zoom in/out controls to adjust the text size, and can tap a speaker button to have the poem read aloud via text-to-speech. This activity supports reading comprehension, vocabulary, appreciation of language and rhythm, and general culture. There is no score, time limit, or right/wrong answer - it's a calm, self-paced cultural break. Tips: try reading along while the text-to-speech narrates, and use the resume/biography section to learn more about the author."
     },
     "PONG": {
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "playTime",
+          "scoreColumn": "score3"
+        }
+      ],
       "scoreVisualisation": [
         {
           "type": "gradeDetail",
@@ -614,6 +649,10 @@
     },
     "POPBALLOON": {
       "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbDistractors",
+          "scoreColumn": "score4"
+        },
         {
           "scoreMnemonic": "nbMovesMin",
           "scoreColumn": "score2"
@@ -687,6 +726,16 @@
       "chatbotDescription": "Jigsaw Puzzle challenges players to assemble image pieces into a complete picture by dragging pieces to their correct positions. Scoring: score1 = pieces placed correctly, score2 = placement attempts, score3 = time to complete. This game trains visual-spatial skills, pattern recognition, and patience."
     },
     "QUIZZLE": {
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbTries",
+          "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "nbBonus",
+          "scoreColumn": "score4"
+        }
+      ],
       "compareMode": false,
       "improvementCriteria": [
         {
@@ -710,6 +759,16 @@
       "chatbotDescription": "Relibulle is a number sequencing game where players click numbered bubbles in ascending order (1, 2, 3, etc.). Bubbles are scattered randomly on screen. An eraser button allows undoing wrong clicks. Difficulty scales by bubble count (level × 10 bubbles). Scoring: score1 = bubbles clicked in correct sequence, score2 = incorrect click attempts. This game trains sequential thinking, visual scanning, and attention. Tips: Scan for the next number before clicking, use the eraser if you make mistakes, work systematically."
     },
     "SCROLLANDCATCH": {
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbObjectives",
+          "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "nbRounds",
+          "scoreColumn": "score4"
+        }
+      ],
       "chatbotDescription": "Flying Balloons (ScrollAndCatch) is a selective attention game. At the start of each round, the app shows one or two target colors (displayed as colored balloon icons in the instructions). Then a batch of colored balloons flies across the screen in animated motion from various directions. Once all balloons have passed, players must select, for each target color, the correct count of balloons of that color from a row of multiple-choice number buttons. A game consists of 3 to 5 rounds. Scoring: score1 = points earned (2 points per target color answered with no mistakes, 1 point if one mistake was made on that color), score2 = wrong button selections, score3 = number of target colors per round, score4 = rounds completed. This game trains selective attention, visual tracking, and counting under distraction. Tips: keep a running mental count only for the target color(s) shown, ignore balloons of other colors, and if tracking two colors at once, count them separately rather than together."
     },
     "SEQUENCE": {
@@ -809,6 +868,10 @@
         }
       ],
       "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbMovesLastRound",
+          "scoreColumn": "score1"
+        },
         {
           "scoreMnemonic": "nbGoodAnswers",
           "isAscendent": false,
@@ -988,6 +1051,18 @@
         }
       ],
       "scoreMnemonics": [
+        {
+          "scoreMnemonic": "timeToFirstAnswer",
+          "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "nbMoves",
+          "scoreColumn": "score5"
+        },
+        {
+          "scoreMnemonic": "nbItemsForgotten",
+          "scoreColumn": "score6"
+        },
         {
           "scoreMnemonic": "nbGoodAnswers",
           "isAscendent": true,
