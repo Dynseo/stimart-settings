@@ -702,5 +702,37 @@
       "PROVERB",
       "WORDLE"
     ]
+  },
+  {
+    "id": "voice",
+    "category": "themes",
+    "isForPapy": true,
+    "isForCoco": true,
+    "title": {
+      "fr": "Avec la voix",
+      "us": "With your voice",
+      "it": "Con la voce",
+      "cn": "用声音",
+      "nl": "Met je stem",
+      "pt": "Com a voz",
+      "es": "Con la voz",
+      "de": "Mit der Stimme",
+      "hi": "आवाज़ के साथ"
+    },
+    "description": {
+      "fr": "Jouez avec votre voix",
+      "us": "Play using your voice",
+      "it": "Gioca con la tua voce",
+      "cn": "用你的声音来玩",
+      "nl": "Speel met je stem",
+      "pt": "Jogue com a sua voz",
+      "es": "Juega con tu voz",
+      "de": "Spielen Sie mit Ihrer Stimme",
+      "hi": "अपनी आवाज़ से खेलें"
+    },
+    "games": [
+      "CYRANO",
+      "WHO_AM_I"
+    ]
   }
 ]
