@@ -23,7 +23,7 @@
       "nl": "Deel de app met een vriend",
       "hi": "ऐप को किसी दोस्त के साथ साझा करें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": true,
     "criterion": {
@@ -60,7 +60,7 @@
       "nl": "Beoordeel de app in de App Store",
       "hi": "App Store पर ऐप को रेट करें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": true,
     "criterion": {
@@ -97,7 +97,7 @@
       "nl": "Een potje met 2 spelers uitspelen",
       "hi": "2 खिलाड़ियों वाला गेम पूरा करें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": false,
     "criterion": {
@@ -135,7 +135,7 @@
       "nl": "Een SharePlay-potje met een vriend uitspelen",
       "hi": "किसी दोस्त के साथ SharePlay में एक गेम पूरा करें"
     },
-    "points": 40,
+    "points": 200,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -173,7 +173,7 @@
       "nl": "Een trainingsprogramma maken",
       "hi": "प्रशिक्षण कार्यक्रम बनाएं"
     },
-    "points": 40,
+    "points": 200,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -210,7 +210,7 @@
       "nl": "Lees 5 verschillende gezondheidstips",
       "hi": "5 अलग-अलग स्वास्थ्य सुझाव पढ़ें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": true,
     "criterion": {
@@ -247,7 +247,7 @@
       "nl": "Een cognitieve test doen",
       "hi": "संज्ञानात्मक मूल्यांकन करें"
     },
-    "points": 40,
+    "points": 200,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -284,7 +284,7 @@
       "nl": "Vraag je AI-coach wat je favoriete spel is",
       "hi": "अपने AI कोच से पूछें कि आपका पसंदीदा गेम कौन सा है"
     },
-    "points": 20,
+    "points": 100,
     "difficulty": "easy",
     "isUnique": true,
     "criterion": {
@@ -321,7 +321,7 @@
       "nl": "Speel een potje op het hoogste niveau in een spel met aanpasbare moeilijkheid",
       "hi": "अनुकूली-कठिनाई वाले गेम में अधिकतम स्तर पर एक गेम खेलें"
     },
-    "points": 60,
+    "points": 300,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -358,7 +358,7 @@
       "nl": "Red 100 dieren in De ark van Noach, tik 100 mollen in De Mol-Invasie en win 10 schapen in Panurge zonder een fout te maken",
       "hi": "नूह का जहाज़ में 100 जानवर बचाएं, छछूंदर आक्रमण में 100 छछूंदरों को मारें और पनूर्ज में बिना कोई गलती किए 10 भेड़ें जीतें"
     },
-    "points": 150,
+    "points": 750,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -430,7 +430,7 @@
       "nl": "Red 300 dieren zonder een fout te maken",
       "hi": "बिना कोई गलती किए 300 जानवर बचाएं"
     },
-    "points": 120,
+    "points": 600,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -471,7 +471,7 @@
       "nl": "Knal 3 goede ballonnen met één enkele bal",
       "hi": "एक ही गेंद से 3 सही गुब्बारे फोड़ें"
     },
-    "points": 50,
+    "points": 250,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -510,7 +510,7 @@
       "nl": "Geef 16 goede antwoorden op rij in minder dan een minuut",
       "hi": "एक मिनट से कम में लगातार 16 सही जवाब दें"
     },
-    "points": 60,
+    "points": 300,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -552,7 +552,7 @@
       "nl": "Bereik 12 schapen in één potje Panurge",
       "hi": "Panurge के एक गेम में 12 भेड़ों तक पहुंचें"
     },
-    "points": 60,
+    "points": 300,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -591,7 +591,7 @@
       "nl": "Voltooi een potje Sudoku op moeilijk zonder een fout te maken",
       "hi": "कठिन मोड में बिना कोई गलती किए एक सुडोकू गेम पूरा करें"
     },
-    "points": 80,
+    "points": 400,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -630,7 +630,7 @@
       "nl": "Vind 40 similis zonder een fout te maken op moeilijk",
       "hi": "कठिन मोड में बिना कोई गलती किए 40 मिलते-जुलते खोजें"
     },
-    "points": 100,
+    "points": 500,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -672,7 +672,7 @@
       "nl": "Speel 4 minuten Roland zonder een fout te maken op moeilijk",
       "hi": "कठिन मोड में बिना कोई गलती किए 4 मिनट तक Roland खेलें"
     },
-    "points": 100,
+    "points": 500,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -714,7 +714,7 @@
       "nl": "Geef 100 goede antwoorden zonder fout in Colorform op moeilijk",
       "hi": "कठिन मोड में Colorform में बिना गलती 100 सही जवाब दें"
     },
-    "points": 100,
+    "points": 500,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -756,7 +756,7 @@
       "nl": "Bereik 5000 punten in één potje Block Puzzle",
       "hi": "Block Puzzle के एक गेम में 5000 अंक तक पहुंचें"
     },
-    "points": 70,
+    "points": 350,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -795,7 +795,7 @@
       "nl": "Bereik 15 sneeuwpoppen in één potje Sneeuwbaleffect",
       "hi": "स्नोबॉल इफेक्ट के एक गेम में 15 हिममानव तक पहुंचें"
     },
-    "points": 60,
+    "points": 300,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -834,7 +834,7 @@
       "nl": "Voltooi een potje Hoofdrekenen op de moeilijke modus zonder fouten",
       "hi": "मानसिक गणना का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
     },
-    "points": 70,
+    "points": 350,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -873,7 +873,7 @@
       "nl": "Los 15 berekeningen op zonder één enkele fout",
       "hi": "15 गणनाएँ बिना एक भी गलती किए हल करें"
     },
-    "points": 50,
+    "points": 250,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -914,7 +914,7 @@
       "nl": "Los in totaal 30 berekeningen op",
       "hi": "कुल 30 गणनाएँ हल करें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": false,
     "criterion": {
@@ -953,7 +953,7 @@
       "nl": "Vind 6 woorden zonder een aanwijzing te gebruiken",
       "hi": "बिना किसी संकेत का उपयोग किए 6 शब्द खोजें"
     },
-    "points": 50,
+    "points": 250,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -994,7 +994,7 @@
       "nl": "Voltooi een potje Galgje op de moeilijke modus zonder een woord te missen",
       "hi": "फाँसी का एक गेम कठिन मोड में बिना किसी शब्द में असफल हुए पूरा करें"
     },
-    "points": 80,
+    "points": 400,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -1033,7 +1033,7 @@
       "nl": "Raad in totaal 20 woorden",
       "hi": "कुल 20 शब्द पहचानें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": false,
     "criterion": {
@@ -1072,7 +1072,7 @@
       "nl": "Voltooi een potje Indringer op de moeilijke modus zonder fouten",
       "hi": "घुसपैठिया का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
     },
-    "points": 70,
+    "points": 350,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -1111,7 +1111,7 @@
       "nl": "Vind 10 indringers zonder één enkele fout",
       "hi": "10 घुसपैठियों को बिना एक भी गलती किए खोजें"
     },
-    "points": 50,
+    "points": 250,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -1152,7 +1152,7 @@
       "nl": "Ontmasker in totaal 30 indringers",
       "hi": "कुल 30 घुसपैठियों का पर्दाफाश करें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": false,
     "criterion": {
@@ -1191,7 +1191,7 @@
       "nl": "Voltooi een potje Lettergrepen op de moeilijke modus zonder fouten",
       "hi": "अक्षरों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
     },
-    "points": 70,
+    "points": 350,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -1230,7 +1230,7 @@
       "nl": "Stel in totaal 25 woorden samen",
       "hi": "कुल 25 शब्द फिर से बनाएँ"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": false,
     "criterion": {
@@ -1269,7 +1269,7 @@
       "nl": "Stel 10 woorden samen zonder ooit de gum te gebruiken",
       "hi": "बिना कभी रबड़ का उपयोग किए 10 शब्द फिर से बनाएँ"
     },
-    "points": 50,
+    "points": 250,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -1310,7 +1310,7 @@
       "nl": "Stel 6 spreekwoorden samen zonder er een over te slaan",
       "hi": "6 कहावतें बिना किसी को छोड़े फिर से बनाएँ"
     },
-    "points": 50,
+    "points": 250,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -1351,7 +1351,7 @@
       "nl": "Voltooi een potje Spreekwoorden op de moeilijke modus zonder fouten",
       "hi": "कहावतों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
     },
-    "points": 70,
+    "points": 350,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -1390,7 +1390,7 @@
       "nl": "Stel in totaal 20 spreekwoorden samen",
       "hi": "कुल 20 कहावतें फिर से बनाएँ"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": false,
     "criterion": {
@@ -1429,7 +1429,7 @@
       "nl": "Voltooi een doolhof op het maximale adaptieve niveau",
       "hi": "अधिकतम अनुकूली स्तर पर एक भूलभुलैया पूरी करें"
     },
-    "points": 80,
+    "points": 400,
     "difficulty": "hard",
     "isUnique": false,
     "criterion": {
@@ -1466,7 +1466,7 @@
       "nl": "Los 3 doolhoven op zonder een aanwijzing te gebruiken",
       "hi": "बिना किसी संकेत का उपयोग किए 3 भूलभुलैया हल करें"
     },
-    "points": 50,
+    "points": 250,
     "difficulty": "medium",
     "isUnique": false,
     "criterion": {
@@ -1507,7 +1507,7 @@
       "nl": "Voltooi in totaal 10 doolhoven",
       "hi": "कुल 10 भूलभुलैया पूरी करें"
     },
-    "points": 30,
+    "points": 150,
     "difficulty": "easy",
     "isUnique": false,
     "criterion": {
