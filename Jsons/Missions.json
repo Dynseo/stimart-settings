@@ -1246,47 +1246,6 @@
     }
   },
   {
-    "id": "syllabusTwentyNoError",
-    "title": {
-      "fr": "Sans la gomme",
-      "us": "No Eraser",
-      "it": "Senza la gomma",
-      "cn": "不用橡皮",
-      "pt": "Sem a borracha",
-      "es": "Sin la goma",
-      "de": "Ohne Radiergummi",
-      "nl": "Zonder de gum",
-      "hi": "बिना रबड़ के"
-    },
-    "instruction": {
-      "fr": "Reconstituer 10 mots sans jamais utiliser la gomme",
-      "us": "Rebuild 10 words without ever using the eraser",
-      "it": "Ricostruire 10 parole senza mai usare la gomma",
-      "cn": "拼出10个单词且从不使用橡皮",
-      "pt": "Reconstituir 10 palavras sem nunca usar a borracha",
-      "es": "Reconstruir 10 palabras sin usar nunca la goma",
-      "de": "10 Wörter zusammensetzen, ohne je den Radiergummi zu benutzen",
-      "nl": "Stel 10 woorden samen zonder ooit de gum te gebruiken",
-      "hi": "बिना कभी रबड़ का उपयोग किए 10 शब्द फिर से बनाएँ"
-    },
-    "points": 250,
-    "difficulty": "medium",
-    "isUnique": false,
-    "criterion": {
-      "inGameProgress": {
-        "_0": {
-          "count": 10,
-          "resetAtGameOver": false,
-          "scoreMnemoProgress": "nbGoodAnswers",
-          "scoreMnemoReset": [
-            "nbBadAnswers"
-          ],
-          "gameMnemonic": "SYLLABUS"
-        }
-      }
-    }
-  },
-  {
     "id": "proverbTenNoSkip",
     "title": {
       "fr": "Sans passer son tour",
