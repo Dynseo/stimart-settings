@@ -39,13 +39,13 @@
   {
     "id": "rateApp",
     "title": {
-      "fr": "Ton avis compte",
+      "fr": "Un avis qui compte",
       "us": "Your Opinion",
       "it": "La tua opinione",
-      "cn": "你的意见",
-      "pt": "A tua opinião",
+      "cn": "宝贵意见",
+      "pt": "Uma opinião que conta",
       "es": "Tu opinión",
-      "de": "Deine Meinung",
+      "de": "Eine Meinung, die zählt",
       "nl": "Jouw mening",
       "hi": "आपकी राय"
     },
@@ -274,13 +274,13 @@
       "hi": "जिज्ञासा"
     },
     "instruction": {
-      "fr": "Demander à votre coach IA quel est votre jeu favori",
+      "fr": "Demander au coach IA : « Quel est mon jeu favori ? »",
       "us": "Ask your AI coach what your favorite game is",
       "it": "Chiedere al tuo coach IA qual è il tuo gioco preferito",
-      "cn": "询问你的AI教练你最喜欢的游戏是什么",
-      "pt": "Perguntar ao seu coach de IA qual é o seu jogo favorito",
+      "cn": "问AI教练：“我最喜欢的游戏是什么？”",
+      "pt": "Perguntar ao coach de IA: «Qual é o meu jogo favorito?»",
       "es": "Preguntar a tu coach de IA cuál es tu juego favorito",
-      "de": "Deinen KI-Coach nach deinem Lieblingsspiel fragen",
+      "de": "Den KI-Coach fragen: „Was ist mein Lieblingsspiel?“",
       "nl": "Vraag je AI-coach wat je favoriete spel is",
       "hi": "अपने AI कोच से पूछें कि आपका पसंदीदा गेम कौन सा है"
     },
@@ -341,18 +341,18 @@
       "us": "Catch Them All!",
       "it": "Acchiappali tutti!",
       "cn": "全部抓住！",
-      "pt": "Apanha-os todos!",
+      "pt": "Apanhá-los todos!",
       "es": "¡Atrápalos a todos!",
-      "de": "Schnapp sie alle!",
+      "de": "Alle schnappen!",
       "nl": "Vang ze allemaal!",
       "hi": "सबको पकड़ो!"
     },
     "instruction": {
-      "fr": "Sauver 100 animaux dans L'Arche de  Noé, taper 100 taupes dans L'invasion des Taupes et gagner 10 moutons dans Panurge sans faire d’erreur",
+      "fr": "Sauver 100 animaux dans L'Arche de Noé, taper 100 taupes dans L'invasion des Taupes et gagner 10 moutons dans Panurge sans faire d’erreur",
       "us": "Save 100 animals in Noah's Ark, whack 100 moles in Moles Invasion and win 10 sheep in Panurge without making a mistake",
       "it": "Salvare 100 animali in Arca di Noé, colpire 100 talpe in L'Invasione delle Talpe e vincere 10 pecore in Panurge senza fare errori",
       "cn": "在诺亚方舟中拯救100只动物，在鼹鼠大进攻中敲打100只鼹鼠，并在专业牧羊人中无失误地赢得10只绵羊",
-      "pt": "Salvar 100 animais em Arca de noé, acertar 100 toupeiras em A invasão da toupeira e ganhar 10 ovelhas em Panurgo sem cometer nenhum erro",
+      "pt": "Salvar 100 animais em Arca de Noé, acertar 100 toupeiras em A invasão da toupeira e ganhar 10 ovelhas em Panurgo sem cometer nenhum erro",
       "es": "Salvar 100 animales en El Arca de Noé, golpear 100 topos en Atrapa Topitos y ganar 10 ovejas en El Rebaño sin cometer ningún error",
       "de": "100 Tiere in Die Arche Noah retten, 100 Maulwürfe in Die Invasion der Maulwürfe treffen und 10 Schafe in Panurge gewinnen, ohne einen Fehler zu machen",
       "nl": "Red 100 dieren in De ark van Noach, tik 100 mollen in De Mol-Invasie en win 10 schapen in Panurge zonder een fout te maken",
@@ -1090,13 +1090,13 @@
   {
     "id": "intrusTwentyNoError",
     "title": {
-      "fr": "Rien ne t’échappe",
+      "fr": "Vigilance absolue",
       "us": "Nothing Escapes You",
       "it": "Non ti sfugge nulla",
       "cn": "无所遁形",
-      "pt": "Nada te escapa",
+      "pt": "Atenção total",
       "es": "Nada se te escapa",
-      "de": "Dir entgeht nichts",
+      "de": "Volle Wachsamkeit",
       "nl": "Niets ontsnapt je",
       "hi": "कुछ भी आपसे नहीं बचता"
     },
