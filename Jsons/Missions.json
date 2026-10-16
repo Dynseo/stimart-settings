@@ -1010,45 +1010,6 @@
     }
   },
   {
-    "id": "hangmanFiftyWords",
-    "title": {
-      "fr": "Chasseur de mots",
-      "us": "Word Hunter",
-      "it": "Cacciatore di parole",
-      "cn": "单词猎手",
-      "pt": "Caçador de palavras",
-      "es": "Cazador de palabras",
-      "de": "Wörterjäger",
-      "nl": "Woordenjager",
-      "hi": "शब्दों का शिकारी"
-    },
-    "instruction": {
-      "fr": "Deviner 20 mots au total",
-      "us": "Guess 20 words in total",
-      "it": "Indovinare 20 parole in totale",
-      "cn": "累计猜出20个单词",
-      "pt": "Adivinhar 20 palavras no total",
-      "es": "Adivinar 20 palabras en total",
-      "de": "Insgesamt 20 Wörter erraten",
-      "nl": "Raad in totaal 20 woorden",
-      "hi": "कुल 20 शब्द पहचानें"
-    },
-    "points": 150,
-    "difficulty": "easy",
-    "isUnique": false,
-    "criterion": {
-      "inGameProgress": {
-        "_0": {
-          "count": 20,
-          "resetAtGameOver": false,
-          "scoreMnemoProgress": "nbGoodAnswers",
-          "scoreMnemoReset": [],
-          "gameMnemonic": "HANGMAN"
-        }
-      }
-    }
-  },
-  {
     "id": "intrusHardPerfect",
     "title": {
       "fr": "Œil de faucon",
@@ -1202,45 +1163,6 @@
           "gameMnemonic": "SYLLABUS",
           "difficulty": "HARD",
           "successRateMin": 100
-        }
-      }
-    }
-  },
-  {
-    "id": "syllabusSixtyWords",
-    "title": {
-      "fr": "Maçon des syllabes",
-      "us": "Syllable Mason",
-      "it": "Muratore delle sillabe",
-      "cn": "音节泥瓦匠",
-      "pt": "Pedreiro das sílabas",
-      "es": "Albañil de las sílabas",
-      "de": "Silben-Maurer",
-      "nl": "Lettergrepenmetselaar",
-      "hi": "अक्षरों का राजमिस्त्री"
-    },
-    "instruction": {
-      "fr": "Reconstituer 25 mots au total",
-      "us": "Rebuild 25 words in total",
-      "it": "Ricostruire 25 parole in totale",
-      "cn": "累计拼出25个单词",
-      "pt": "Reconstituir 25 palavras no total",
-      "es": "Reconstruir 25 palabras en total",
-      "de": "Insgesamt 25 Wörter zusammensetzen",
-      "nl": "Stel in totaal 25 woorden samen",
-      "hi": "कुल 25 शब्द फिर से बनाएँ"
-    },
-    "points": 150,
-    "difficulty": "easy",
-    "isUnique": false,
-    "criterion": {
-      "inGameProgress": {
-        "_0": {
-          "count": 25,
-          "resetAtGameOver": false,
-          "scoreMnemoProgress": "nbGoodAnswers",
-          "scoreMnemoReset": [],
-          "gameMnemonic": "SYLLABUS"
         }
       }
     }
