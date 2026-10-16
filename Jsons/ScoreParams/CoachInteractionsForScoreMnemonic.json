@@ -7713,5 +7713,170 @@
       "pt": "Você é um verdadeiro Cyrano em <GameTitle>! O texto foi recitado de memória com perfeição, que memória! Parabéns! | Pontuação perfeita em <GameTitle>! Sua memorização é excepcional e sua dicção impecável. Parabéns! | Incrível em <GameTitle>! Nenhuma palavra esquecida, tudo recitado de memória com precisão notável. Que maestria! | <GameTitle> não tem mais segredos para sua memória! Você recorda o texto perfeitamente. Bravo! | Parabéns, pontuação perfeita em <GameTitle>! Você memoriza e recita como um verdadeiro artista. Magistral!",
       "de": "Du bist ein wahrer Cyrano in <GameTitle>! Der Text wurde auswendig perfekt vorgetragen, was für ein Gedächtnis! Bravo! | Perfekte Punktzahl in <GameTitle>! Deine Merkfähigkeit ist außergewöhnlich und deine Aussprache tadellos. Herzlichen Glückwunsch! | Unglaublich in <GameTitle>! Kein Wort vergessen, alles auswendig mit bemerkenswerter Präzision vorgetragen. Was für eine Meisterschaft! | <GameTitle> hat keine Geheimnisse mehr für dein Gedächtnis! Du gibst den Text perfekt wieder. Chapeau! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du merkst dir Texte und trägst vor wie ein wahrer Künstler. Meisterhaft!"
     }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "minScore": 0,
+    "title": {
+      "fr": "Dans <GameTitle>, le plus simple est souvent de décrire à quoi sert la chose, où on la trouve ou ce qu'elle évoque. Contournez les mots interdits avec une image du quotidien ! On s'entraîne ensemble ? | Dans <GameTitle>, si un indice ne suffit pas, essayez un tout autre angle : une couleur, un lieu, une situation. Le coach adore les exemples concrets ! On retente ? | Dans <GameTitle>, faire deviner un mot sans les mots les plus évidents demande de l'imagination. Prenez le temps de chercher une autre façon de le dire ! On rejoue ?",
+      "us": "In <GameTitle>, the easiest way is often to describe what the thing is used for, where you find it, or what it reminds you of. Get around the forbidden words with an everyday image! Shall we practice together? | In <GameTitle>, if one clue isn't enough, try a completely different angle: a color, a place, a situation. The coach loves concrete examples! Shall we try again? | In <GameTitle>, getting a word guessed without the most obvious words takes imagination. Take your time to find another way to say it! Shall we play again?",
+      "it": "In <GameTitle>, spesso la cosa più semplice è descrivere a cosa serve l'oggetto, dove si trova o cosa le ricorda. Aggiri le parole vietate con un'immagine di tutti i giorni! Ci alleniamo insieme? | In <GameTitle>, se un indizio non basta, provi un punto di vista completamente diverso: un colore, un luogo, una situazione. Il coach adora gli esempi concreti! Riproviamo? | In <GameTitle>, far indovinare una parola senza le parole più ovvie richiede fantasia. Si prenda il tempo di trovare un altro modo per dirla! Giochiamo ancora?",
+      "cn": "在<GameTitle>中，最简单的方法往往是描述这个东西的用途、在哪里能找到它，或者它让您想到什么。用日常生活中的画面绕开禁用词吧！我们一起练习吗？ | 在<GameTitle>中，如果一个提示不够，试试完全不同的角度：颜色、地点或某个场景。教练最喜欢具体的例子！我们再试一次吗？ | 在<GameTitle>中，不用最明显的词让别人猜出一个词需要想象力。慢慢来，找找另一种说法吧！我们再玩一次吗？",
+      "nl": "In <GameTitle> is het vaak het makkelijkst om te beschrijven waarvoor iets dient, waar u het vindt of waar het u aan doet denken. Omzeil de verboden woorden met een beeld uit het dagelijks leven! Zullen we samen oefenen? | In <GameTitle>: als één hint niet genoeg is, probeer dan een heel andere invalshoek: een kleur, een plek, een situatie. De coach houdt van concrete voorbeelden! Zullen we het opnieuw proberen? | In <GameTitle> vraagt het creativiteit om een woord te laten raden zonder de meest voor de hand liggende woorden. Neem de tijd om een andere manier te vinden om het te zeggen! Zullen we nog eens spelen?",
+      "es": "En <GameTitle>, lo más sencillo suele ser describir para qué sirve la cosa, dónde se encuentra o qué le recuerda. ¡Esquive las palabras prohibidas con una imagen de la vida diaria! ¿Practicamos juntos? | En <GameTitle>, si una pista no basta, pruebe un ángulo totalmente distinto: un color, un lugar, una situación. ¡Al coach le encantan los ejemplos concretos! ¿Lo intentamos de nuevo? | En <GameTitle>, hacer adivinar una palabra sin las palabras más evidentes requiere imaginación. ¡Tómese su tiempo para encontrar otra forma de decirlo! ¿Jugamos otra vez?",
+      "pt": "Em <GameTitle>, o mais simples costuma ser descrever para que serve a coisa, onde ela se encontra ou o que ela lembra. Contorne as palavras proibidas com uma imagem do dia a dia! Vamos treinar juntos? | Em <GameTitle>, se uma dica não bastar, tente um ângulo completamente diferente: uma cor, um lugar, uma situação. O coach adora exemplos concretos! Vamos tentar de novo? | Em <GameTitle>, fazer adivinhar uma palavra sem as palavras mais óbvias exige imaginação. Reserve um tempo para encontrar outra forma de dizer! Vamos jogar de novo?",
+      "de": "In <GameTitle> ist es oft am einfachsten zu beschreiben, wozu etwas dient, wo man es findet oder woran es Sie erinnert. Umgehen Sie die verbotenen Wörter mit einem Bild aus dem Alltag! Sollen wir zusammen üben? | In <GameTitle> gilt: Wenn ein Hinweis nicht reicht, versuchen Sie einen ganz anderen Blickwinkel – eine Farbe, einen Ort, eine Situation. Der Coach liebt konkrete Beispiele! Versuchen wir es noch einmal? | In <GameTitle> braucht es Fantasie, ein Wort ohne die naheliegendsten Begriffe erraten zu lassen. Nehmen Sie sich Zeit, eine andere Umschreibung zu finden! Spielen wir noch eine Runde?",
+      "hi": "<GameTitle> में अक्सर सबसे आसान तरीका यह बताना है कि वह चीज़ किस काम आती है, कहाँ मिलती है या आपको किस बात की याद दिलाती है। रोज़मर्रा की किसी तस्वीर से वर्जित शब्दों से बचिए! क्या हम साथ में अभ्यास करें? | <GameTitle> में अगर एक संकेत काफ़ी न हो, तो बिल्कुल अलग नज़रिया आज़माइए: कोई रंग, कोई जगह, कोई स्थिति। कोच को ठोस उदाहरण बहुत पसंद हैं! क्या फिर से कोशिश करें? | <GameTitle> में सबसे स्पष्ट शब्दों के बिना किसी शब्द का अनुमान लगवाने के लिए कल्पना चाहिए। उसे कहने का कोई दूसरा तरीका ढूँढने के लिए समय लीजिए! क्या फिर से खेलें?"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "minScore": 6,
+    "title": {
+      "fr": "Dans <GameTitle>, vos indices sont de plus en plus parlants : le coach vous comprend de mieux en mieux ! On continue ? | Pas mal dans <GameTitle> ! Vous trouvez de bonnes façons de contourner les mots interdits. On rejoue ? | Vous progressez dans <GameTitle> ! Encore un peu de précision dans vos indices et le coach trouvera tout. On s'entraîne encore ?",
+      "us": "In <GameTitle>, your clues are getting clearer and clearer: the coach understands you better and better! Shall we keep going? | Not bad in <GameTitle>! You're finding good ways around the forbidden words. Shall we play again? | You're improving in <GameTitle>! A little more precision in your clues and the coach will guess them all. Shall we practice some more?",
+      "it": "In <GameTitle>, i suoi indizi sono sempre più chiari: il coach la capisce sempre meglio! Continuiamo? | Niente male in <GameTitle>! Sta trovando buoni modi per aggirare le parole vietate. Giochiamo ancora? | Sta migliorando in <GameTitle>! Ancora un po' di precisione negli indizi e il coach indovinerà tutto. Ci alleniamo ancora?",
+      "cn": "在<GameTitle>中，您的提示越来越清楚了：教练越来越懂您！我们继续吗？ | 在<GameTitle>中表现不错！您找到了绕开禁用词的好办法。我们再玩一次吗？ | 您在<GameTitle>中进步了！提示再精确一点，教练就能全部猜中。我们再练习一下吗？",
+      "nl": "In <GameTitle> worden uw hints steeds duidelijker: de coach begrijpt u steeds beter! Zullen we doorgaan? | Niet slecht in <GameTitle>! U vindt goede manieren om de verboden woorden te omzeilen. Zullen we nog eens spelen? | U gaat vooruit in <GameTitle>! Nog wat preciezere hints en de coach raadt alles. Zullen we nog wat oefenen?",
+      "es": "En <GameTitle>, ¡sus pistas son cada vez más claras: el coach le entiende cada vez mejor! ¿Seguimos? | ¡Nada mal en <GameTitle>! Encuentra buenas formas de esquivar las palabras prohibidas. ¿Jugamos otra vez? | ¡Está progresando en <GameTitle>! Un poco más de precisión en sus pistas y el coach lo adivinará todo. ¿Seguimos practicando?",
+      "pt": "Em <GameTitle>, suas dicas estão cada vez mais claras: o coach entende você cada vez melhor! Vamos continuar? | Nada mal em <GameTitle>! Você está encontrando boas formas de contornar as palavras proibidas. Vamos jogar de novo? | Você está progredindo em <GameTitle>! Um pouco mais de precisão nas dicas e o coach vai adivinhar tudo. Vamos treinar mais?",
+      "de": "In <GameTitle> werden Ihre Hinweise immer treffender: Der Coach versteht Sie immer besser! Machen wir weiter? | Nicht schlecht in <GameTitle>! Sie finden gute Wege, die verbotenen Wörter zu umgehen. Spielen wir noch einmal? | Sie machen Fortschritte in <GameTitle>! Noch etwas genauere Hinweise, und der Coach errät alles. Üben wir weiter?",
+      "hi": "<GameTitle> में आपके संकेत और भी साफ़ होते जा रहे हैं: कोच आपको और बेहतर समझ रहा है! क्या हम जारी रखें? | <GameTitle> में बढ़िया! आप वर्जित शब्दों से बचने के अच्छे तरीके ढूँढ रहे हैं। क्या फिर से खेलें? | <GameTitle> में आप प्रगति कर रहे हैं! संकेतों में थोड़ी और सटीकता, और कोच सब कुछ बूझ लेगा। क्या और अभ्यास करें?"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "PAPY"
+    ],
+    "minScore": 8,
+    "title": {
+      "fr": "Bravo dans <GameTitle> ! Vos indices sont précis et le coach trouve presque à chaque fois. On vise le 10 ? | Dans <GameTitle>, vous maniez les mots avec talent : les mots interdits ne vous arrêtent plus ! On tente le 10 ? | Excellent dans <GameTitle> ! Vous savez dire les choses autrement, c'est tout l'art du jeu. On vise le score parfait ?",
+      "us": "Well done in <GameTitle>! Your clues are precise and the coach guesses almost every time. Shall we aim for 10? | In <GameTitle>, you handle words with talent: the forbidden words no longer stop you! Shall we go for 10? | Excellent in <GameTitle>! You know how to say things differently, which is the whole art of the game. Shall we aim for a perfect score?",
+      "it": "Bravo in <GameTitle>! I suoi indizi sono precisi e il coach indovina quasi ogni volta. Puntiamo al 10? | In <GameTitle> usa le parole con talento: le parole vietate non la fermano più! Tentiamo il 10? | Eccellente in <GameTitle>! Sa dire le cose in un altro modo, ed è tutta l'arte del gioco. Puntiamo al punteggio perfetto?",
+      "cn": "在<GameTitle>中太棒了！您的提示很精确，教练几乎每次都能猜中。我们争取满分10分吗？ | 在<GameTitle>中，您运用词语很有天赋：禁用词再也难不倒您！我们挑战10分吗？ | 在<GameTitle>中表现出色！您懂得换一种方式表达，这正是这个游戏的精髓。我们争取满分吗？",
+      "nl": "Bravo in <GameTitle>! Uw hints zijn precies en de coach raadt het bijna elke keer. Gaan we voor de 10? | In <GameTitle> gaat u met talent om met woorden: de verboden woorden houden u niet meer tegen! Proberen we de 10? | Uitstekend in <GameTitle>! U weet dingen anders te zeggen, en dat is precies de kunst van het spel. Gaan we voor de perfecte score?",
+      "es": "¡Bravo en <GameTitle>! Sus pistas son precisas y el coach acierta casi siempre. ¿Vamos a por el 10? | En <GameTitle>, maneja las palabras con talento: ¡las palabras prohibidas ya no le detienen! ¿Intentamos el 10? | ¡Excelente en <GameTitle>! Sabe decir las cosas de otra manera, y ese es todo el arte del juego. ¿Vamos a por la puntuación perfecta?",
+      "pt": "Parabéns em <GameTitle>! Suas dicas são precisas e o coach acerta quase sempre. Vamos buscar o 10? | Em <GameTitle>, você usa as palavras com talento: as palavras proibidas já não te param! Vamos tentar o 10? | Excelente em <GameTitle>! Você sabe dizer as coisas de outro jeito, e essa é toda a arte do jogo. Vamos buscar a pontuação perfeita?",
+      "de": "Bravo in <GameTitle>! Ihre Hinweise sind präzise, und der Coach errät es fast jedes Mal. Wollen wir die 10 anpeilen? | In <GameTitle> gehen Sie talentiert mit Wörtern um: Die verbotenen Wörter halten Sie nicht mehr auf! Versuchen wir die 10? | Ausgezeichnet in <GameTitle>! Sie können Dinge anders ausdrücken – genau darin liegt die Kunst des Spiels. Peilen wir die volle Punktzahl an?",
+      "hi": "<GameTitle> में शाबाश! आपके संकेत सटीक हैं और कोच लगभग हर बार सही अनुमान लगाता है। क्या 10 का लक्ष्य रखें? | <GameTitle> में आप शब्दों का कुशलता से इस्तेमाल करते हैं: अब वर्जित शब्द आपको नहीं रोक पाते! क्या 10 की कोशिश करें? | <GameTitle> में शानदार! आप बातों को दूसरे ढंग से कहना जानते हैं, यही इस खेल की असली कला है। क्या पूरे अंकों का लक्ष्य रखें?"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "EHPAD"
+    ],
+    "minScore": 8,
+    "title": {
+      "fr": "Bravo dans <GameTitle> ! Vos indices sont précis et le coach trouve presque à chaque fois. Continuez comme ça ! | Dans <GameTitle>, vous maniez les mots avec talent : les mots interdits ne vous arrêtent plus ! | Excellent dans <GameTitle> ! Vous savez dire les choses autrement, c'est tout l'art du jeu.",
+      "us": "Well done in <GameTitle>! Your clues are precise and the coach guesses almost every time. Keep it up! | In <GameTitle>, you handle words with talent: the forbidden words no longer stop you! | Excellent in <GameTitle>! You know how to say things differently, which is the whole art of the game.",
+      "it": "Bravo in <GameTitle>! I suoi indizi sono precisi e il coach indovina quasi ogni volta. Continui così! | In <GameTitle> usa le parole con talento: le parole vietate non la fermano più! | Eccellente in <GameTitle>! Sa dire le cose in un altro modo, ed è tutta l'arte del gioco.",
+      "cn": "在<GameTitle>中太棒了！您的提示很精确，教练几乎每次都能猜中。继续保持！ | 在<GameTitle>中，您运用词语很有天赋：禁用词再也难不倒您！ | 在<GameTitle>中表现出色！您懂得换一种方式表达，这正是这个游戏的精髓。",
+      "nl": "Bravo in <GameTitle>! Uw hints zijn precies en de coach raadt het bijna elke keer. Ga zo door! | In <GameTitle> gaat u met talent om met woorden: de verboden woorden houden u niet meer tegen! | Uitstekend in <GameTitle>! U weet dingen anders te zeggen, en dat is precies de kunst van het spel.",
+      "es": "¡Bravo en <GameTitle>! Sus pistas son precisas y el coach acierta casi siempre. ¡Siga así! | En <GameTitle>, maneja las palabras con talento: ¡las palabras prohibidas ya no le detienen! | ¡Excelente en <GameTitle>! Sabe decir las cosas de otra manera, y ese es todo el arte del juego.",
+      "pt": "Parabéns em <GameTitle>! Suas dicas são precisas e o coach acerta quase sempre. Continue assim! | Em <GameTitle>, você usa as palavras com talento: as palavras proibidas já não te param! | Excelente em <GameTitle>! Você sabe dizer as coisas de outro jeito, e essa é toda a arte do jogo.",
+      "de": "Bravo in <GameTitle>! Ihre Hinweise sind präzise, und der Coach errät es fast jedes Mal. Weiter so! | In <GameTitle> gehen Sie talentiert mit Wörtern um: Die verbotenen Wörter halten Sie nicht mehr auf! | Ausgezeichnet in <GameTitle>! Sie können Dinge anders ausdrücken – genau darin liegt die Kunst des Spiels.",
+      "hi": "<GameTitle> में शाबाश! आपके संकेत सटीक हैं और कोच लगभग हर बार सही अनुमान लगाता है। ऐसे ही जारी रखिए! | <GameTitle> में आप शब्दों का कुशलता से इस्तेमाल करते हैं: अब वर्जित शब्द आपको नहीं रोक पाते! | <GameTitle> में शानदार! आप बातों को दूसरे ढंग से कहना जानते हैं, यही इस खेल की असली कला है।"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "PAPY",
+      "EHPAD"
+    ],
+    "minScore": 10,
+    "title": {
+      "fr": "Parfait dans <GameTitle> ! Le coach a deviné tous vos mots, vos indices étaient limpides. Félicitations ! | Score parfait dans <GameTitle> ! Pas un seul mot interdit ne vous a fait trébucher. Quelle maîtrise, bravo ! | Bravo, sans faute dans <GameTitle> ! Vous et le coach formez une sacrée équipe.",
+      "us": "Perfect in <GameTitle>! The coach guessed every one of your words, your clues were crystal clear. Congratulations! | Perfect score in <GameTitle>! Not a single forbidden word tripped you up. What mastery, well done! | Well done, a flawless game of <GameTitle>! You and the coach make a great team.",
+      "it": "Perfetto in <GameTitle>! Il coach ha indovinato tutte le sue parole, i suoi indizi erano chiarissimi. Congratulazioni! | Punteggio perfetto in <GameTitle>! Nessuna parola vietata le ha creato difficoltà. Che padronanza, complimenti! | Complimenti, nessun errore in <GameTitle>! Lei e il coach formate proprio una bella squadra.",
+      "cn": "在<GameTitle>中完美！教练猜中了您所有的词，您的提示清晰明了。恭喜您！ | 在<GameTitle>中获得满分！没有一个禁用词能难倒您。真是高手，太棒了！ | 太棒了，<GameTitle>零失误！您和教练真是绝佳搭档。",
+      "nl": "Perfect in <GameTitle>! De coach heeft al uw woorden geraden, uw hints waren glashelder. Gefeliciteerd! | Perfecte score in <GameTitle>! Geen enkel verboden woord heeft u laten struikelen. Wat een beheersing, bravo! | Bravo, foutloos in <GameTitle>! U en de coach vormen een geweldig team.",
+      "es": "¡Perfecto en <GameTitle>! El coach adivinó todas sus palabras, sus pistas eran clarísimas. ¡Felicidades! | ¡Puntuación perfecta en <GameTitle>! Ninguna palabra prohibida le hizo tropezar. ¡Qué dominio, bravo! | ¡Bravo, sin fallos en <GameTitle>! Usted y el coach forman un gran equipo.",
+      "pt": "Perfeito em <GameTitle>! O coach adivinhou todas as suas palavras, suas dicas foram claríssimas. Parabéns! | Pontuação perfeita em <GameTitle>! Nenhuma palavra proibida te pegou. Que domínio, parabéns! | Muito bem, nenhum erro em <GameTitle>! Você e o coach formam uma ótima equipe.",
+      "de": "Perfekt in <GameTitle>! Der Coach hat alle Ihre Wörter erraten, Ihre Hinweise waren glasklar. Herzlichen Glückwunsch! | Volle Punktzahl in <GameTitle>! Kein einziges verbotenes Wort hat Sie aus dem Konzept gebracht. Meisterhaft, bravo! | Bravo, fehlerfrei in <GameTitle>! Sie und der Coach sind ein tolles Team.",
+      "hi": "<GameTitle> में बेहतरीन! कोच ने आपके सभी शब्द बूझ लिए, आपके संकेत बिल्कुल साफ़ थे। बधाई हो! | <GameTitle> में पूरे अंक! एक भी वर्जित शब्द आपको उलझा नहीं पाया। क्या महारत है, शाबाश! | शाबाश, <GameTitle> में एक भी गलती नहीं! आप और कोच मिलकर एक शानदार टीम हैं।"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "COCO_1"
+    ],
+    "minScore": 0,
+    "title": {
+      "fr": "Dans <GameTitle>, le plus simple est souvent de dire à quoi sert la chose, où on la trouve ou à quoi elle te fait penser. Contourne les mots interdits avec une image de tous les jours ! On s'entraîne ensemble ? | Dans <GameTitle>, si un indice ne suffit pas, essaie un tout autre angle : une couleur, un lieu, une situation. Le coach adore les exemples concrets ! On retente ? | Dans <GameTitle>, faire deviner un mot sans les mots les plus évidents, ça demande de l'imagination. Prends ton temps pour trouver une autre façon de le dire ! On rejoue ?",
+      "us": "In <GameTitle>, the easiest way is often to describe what the thing is used for, where you find it, or what it reminds you of. Get around the forbidden words with an everyday image! Shall we practice together? | In <GameTitle>, if one clue isn't enough, try a completely different angle: a color, a place, a situation. The coach loves concrete examples! Shall we try again? | In <GameTitle>, getting a word guessed without the most obvious words takes imagination. Take your time to find another way to say it! Shall we play again?",
+      "it": "In <GameTitle>, spesso la cosa più semplice è descrivere a cosa serve l'oggetto, dove si trova o cosa ti ricorda. Aggira le parole vietate con un'immagine di tutti i giorni! Ci alleniamo insieme? | In <GameTitle>, se un indizio non basta, prova un punto di vista completamente diverso: un colore, un luogo, una situazione. Il coach adora gli esempi concreti! Riproviamo? | In <GameTitle>, far indovinare una parola senza le parole più ovvie richiede fantasia. Prenditi il tempo di trovare un altro modo per dirla! Giochiamo ancora?",
+      "cn": "在<GameTitle>中，最简单的方法往往是描述这个东西的用途、在哪里能找到它，或者它让你想到什么。用日常生活中的画面绕开禁用词吧！我们一起练习吗？ | 在<GameTitle>中，如果一个提示不够，试试完全不同的角度：颜色、地点或某个场景。教练最喜欢具体的例子！我们再试一次吗？ | 在<GameTitle>中，不用最明显的词让别人猜出一个词需要想象力。慢慢来，找找另一种说法吧！我们再玩一次吗？",
+      "nl": "In <GameTitle> is het vaak het makkelijkst om te beschrijven waarvoor iets dient, waar je het vindt of waar het je aan doet denken. Omzeil de verboden woorden met een beeld uit het dagelijks leven! Zullen we samen oefenen? | In <GameTitle>: als één hint niet genoeg is, probeer dan een heel andere invalshoek: een kleur, een plek, een situatie. De coach houdt van concrete voorbeelden! Zullen we het opnieuw proberen? | In <GameTitle> vraagt het creativiteit om een woord te laten raden zonder de meest voor de hand liggende woorden. Neem de tijd om een andere manier te vinden om het te zeggen! Zullen we nog eens spelen?",
+      "es": "En <GameTitle>, lo más sencillo suele ser describir para qué sirve la cosa, dónde se encuentra o qué te recuerda. ¡Esquiva las palabras prohibidas con una imagen de la vida diaria! ¿Practicamos juntos? | En <GameTitle>, si una pista no basta, prueba un ángulo totalmente distinto: un color, un lugar, una situación. ¡Al coach le encantan los ejemplos concretos! ¿Lo intentamos de nuevo? | En <GameTitle>, hacer adivinar una palabra sin las palabras más evidentes requiere imaginación. ¡Tómate tu tiempo para encontrar otra forma de decirlo! ¿Jugamos otra vez?",
+      "pt": "Em <GameTitle>, o mais simples costuma ser descrever para que serve a coisa, onde ela se encontra ou o que ela lembra. Contorne as palavras proibidas com uma imagem do dia a dia! Vamos treinar juntos? | Em <GameTitle>, se uma dica não bastar, tente um ângulo completamente diferente: uma cor, um lugar, uma situação. O coach adora exemplos concretos! Vamos tentar de novo? | Em <GameTitle>, fazer adivinhar uma palavra sem as palavras mais óbvias exige imaginação. Reserve um tempo para encontrar outra forma de dizer! Vamos jogar de novo?",
+      "de": "In <GameTitle> ist es oft am einfachsten zu beschreiben, wozu etwas dient, wo man es findet oder woran es dich erinnert. Umgehe die verbotenen Wörter mit einem Bild aus dem Alltag! Sollen wir zusammen üben? | In <GameTitle> gilt: Wenn ein Hinweis nicht reicht, versuch einen ganz anderen Blickwinkel – eine Farbe, einen Ort, eine Situation. Der Coach liebt konkrete Beispiele! Versuchen wir es noch einmal? | In <GameTitle> braucht es Fantasie, ein Wort ohne die naheliegendsten Begriffe erraten zu lassen. Nimm dir Zeit, eine andere Umschreibung zu finden! Spielen wir noch eine Runde?",
+      "hi": "<GameTitle> में अक्सर सबसे आसान तरीका यह बताना है कि वह चीज़ किस काम आती है, कहाँ मिलती है या तुम्हें किस बात की याद दिलाती है। रोज़मर्रा की किसी तस्वीर से वर्जित शब्दों से बचो! क्या हम साथ में अभ्यास करें? | <GameTitle> में अगर एक संकेत काफ़ी न हो, तो बिल्कुल अलग नज़रिया आज़माओ: कोई रंग, कोई जगह, कोई स्थिति। कोच को ठोस उदाहरण बहुत पसंद हैं! क्या फिर से कोशिश करें? | <GameTitle> में सबसे स्पष्ट शब्दों के बिना किसी शब्द का अनुमान लगवाने के लिए कल्पना चाहिए। उसे कहने का कोई दूसरा तरीका ढूँढने के लिए समय लो! क्या फिर से खेलें?"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "COCO_1"
+    ],
+    "minScore": 6,
+    "title": {
+      "fr": "Dans <GameTitle>, tes indices sont de plus en plus parlants : le coach te comprend de mieux en mieux ! On continue ? | Pas mal dans <GameTitle> ! Tu trouves de bonnes façons de contourner les mots interdits. On rejoue ? | Tu progresses dans <GameTitle> ! Encore un peu de précision dans tes indices et le coach trouvera tout. On s'entraîne encore ?",
+      "us": "In <GameTitle>, your clues are getting clearer and clearer: the coach understands you better and better! Shall we keep going? | Not bad in <GameTitle>! You're finding good ways around the forbidden words. Shall we play again? | You're improving in <GameTitle>! A little more precision in your clues and the coach will guess them all. Shall we practice some more?",
+      "it": "In <GameTitle>, i tuoi indizi sono sempre più chiari: il coach ti capisce sempre meglio! Continuiamo? | Niente male in <GameTitle>! Stai trovando buoni modi per aggirare le parole vietate. Giochiamo ancora? | Stai migliorando in <GameTitle>! Ancora un po' di precisione negli indizi e il coach indovinerà tutto. Ci alleniamo ancora?",
+      "cn": "在<GameTitle>中，你的提示越来越清楚了：教练越来越懂你！我们继续吗？ | 在<GameTitle>中表现不错！你找到了绕开禁用词的好办法。我们再玩一次吗？ | 你在<GameTitle>中进步了！提示再精确一点，教练就能全部猜中。我们再练习一下吗？",
+      "nl": "In <GameTitle> worden je hints steeds duidelijker: de coach begrijpt je steeds beter! Gaan we door? | Niet slecht in <GameTitle>! Je vindt goede manieren om de verboden woorden te omzeilen. Zullen we nog eens spelen? | Je gaat vooruit in <GameTitle>! Nog wat preciezere hints en de coach raadt alles. Zullen we nog wat oefenen?",
+      "es": "En <GameTitle>, ¡tus pistas son cada vez más claras: el coach te entiende cada vez mejor! ¿Seguimos? | ¡Nada mal en <GameTitle>! Encuentras buenas formas de esquivar las palabras prohibidas. ¿Jugamos otra vez? | ¡Estás progresando en <GameTitle>! Un poco más de precisión en tus pistas y el coach lo adivinará todo. ¿Seguimos practicando?",
+      "pt": "Em <GameTitle>, suas dicas estão cada vez mais claras: o coach entende você cada vez melhor! Vamos continuar? | Nada mal em <GameTitle>! Você está encontrando boas formas de contornar as palavras proibidas. Vamos jogar de novo? | Você está progredindo em <GameTitle>! Um pouco mais de precisão nas dicas e o coach vai adivinhar tudo. Vamos treinar mais?",
+      "de": "In <GameTitle> werden deine Hinweise immer treffender: Der Coach versteht dich immer besser! Machen wir weiter? | Nicht schlecht in <GameTitle>! Du findest gute Wege, die verbotenen Wörter zu umgehen. Spielen wir noch einmal? | Du machst Fortschritte in <GameTitle>! Noch etwas genauere Hinweise, und der Coach errät alles. Üben wir weiter?",
+      "hi": "<GameTitle> में तुम्हारे संकेत और भी साफ़ होते जा रहे हैं: कोच तुम्हें और बेहतर समझ रहा है! क्या हम जारी रखें? | <GameTitle> में बढ़िया! तुम वर्जित शब्दों से बचने के अच्छे तरीके ढूँढ रहे हो। क्या फिर से खेलें? | <GameTitle> में तुम प्रगति कर रहे हो! संकेतों में थोड़ी और सटीकता, और कोच सब कुछ बूझ लेगा। क्या और अभ्यास करें?"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "COCO_1"
+    ],
+    "minScore": 8,
+    "title": {
+      "fr": "Bravo dans <GameTitle> ! Tes indices sont précis et le coach trouve presque à chaque fois. On vise le 10 ? | Dans <GameTitle>, tu jongles avec les mots comme un champion : les mots interdits ne t'arrêtent plus ! On tente le 10 ? | Excellent dans <GameTitle> ! Tu sais dire les choses autrement, c'est tout l'art du jeu. On vise le score parfait ?",
+      "us": "Well done in <GameTitle>! Your clues are precise and the coach guesses almost every time. Shall we aim for 10? | In <GameTitle>, you juggle words like a champion: the forbidden words no longer stop you! Shall we go for 10? | Excellent in <GameTitle>! You know how to say things differently, which is the whole art of the game. Shall we aim for a perfect score?",
+      "it": "Bravo in <GameTitle>! I tuoi indizi sono precisi e il coach indovina quasi ogni volta. Puntiamo al 10? | In <GameTitle> giochi con le parole come un campione: le parole vietate non ti fermano più! Tentiamo il 10? | Eccellente in <GameTitle>! Sai dire le cose in un altro modo, ed è tutta l'arte del gioco. Puntiamo al punteggio perfetto?",
+      "cn": "在<GameTitle>中太棒了！你的提示很精确，教练几乎每次都能猜中。我们争取满分10分吗？ | 在<GameTitle>中，你玩转词语就像个冠军：禁用词再也难不倒你！我们挑战10分吗？ | 在<GameTitle>中表现出色！你懂得换一种方式表达，这正是这个游戏的精髓。我们争取满分吗？",
+      "nl": "Bravo in <GameTitle>! Je hints zijn precies en de coach raadt het bijna elke keer. Gaan we voor de 10? | In <GameTitle> jongleer je met woorden als een kampioen: de verboden woorden houden je niet meer tegen! Proberen we de 10? | Uitstekend in <GameTitle>! Je weet dingen anders te zeggen, en dat is precies de kunst van het spel. Gaan we voor de perfecte score?",
+      "es": "¡Bravo en <GameTitle>! Tus pistas son precisas y el coach acierta casi siempre. ¿Vamos a por el 10? | En <GameTitle>, juegas con las palabras como un campeón: ¡las palabras prohibidas ya no te detienen! ¿Intentamos el 10? | ¡Excelente en <GameTitle>! Sabes decir las cosas de otra manera, y ese es todo el arte del juego. ¿Vamos a por la puntuación perfecta?",
+      "pt": "Parabéns em <GameTitle>! Suas dicas são precisas e o coach acerta quase sempre. Vamos buscar o 10? | Em <GameTitle>, você brinca com as palavras como um campeão: as palavras proibidas já não te param! Vamos tentar o 10? | Excelente em <GameTitle>! Você sabe dizer as coisas de outro jeito, e essa é toda a arte do jogo. Vamos buscar a pontuação perfeita?",
+      "de": "Bravo in <GameTitle>! Deine Hinweise sind präzise, und der Coach errät es fast jedes Mal. Wollen wir die 10 anpeilen? | In <GameTitle> jonglierst du mit Wörtern wie ein Champion: Die verbotenen Wörter halten dich nicht mehr auf! Versuchen wir die 10? | Ausgezeichnet in <GameTitle>! Du kannst Dinge anders ausdrücken – genau darin liegt die Kunst des Spiels. Peilen wir die volle Punktzahl an?",
+      "hi": "<GameTitle> में शाबाश! तुम्हारे संकेत सटीक हैं और कोच लगभग हर बार सही अनुमान लगाता है। क्या 10 का लक्ष्य रखें? | <GameTitle> में तुम चैंपियन की तरह शब्दों से खेलते हो: अब वर्जित शब्द तुम्हें नहीं रोक पाते! क्या 10 की कोशिश करें? | <GameTitle> में शानदार! तुम बातों को दूसरे ढंग से कहना जानते हो, यही इस खेल की असली कला है। क्या पूरे अंकों का लक्ष्य रखें?"
+    }
+  },
+  {
+    "game": "TABOO",
+    "apps": [
+      "COCO_1"
+    ],
+    "minScore": 10,
+    "title": {
+      "fr": "Parfait dans <GameTitle> ! Le coach a deviné tous tes mots, tes indices étaient super clairs. Bravo ! | Score parfait dans <GameTitle> ! Aucun mot interdit ne t'a fait trébucher. Trop fort ! | Sans faute dans <GameTitle> ! Toi et le coach, vous formez une super équipe.",
+      "us": "Perfect in <GameTitle>! The coach guessed every one of your words, your clues were super clear. Well done! | Perfect score in <GameTitle>! Not a single forbidden word tripped you up. Awesome! | A flawless game of <GameTitle>! You and the coach make a super team.",
+      "it": "Perfetto in <GameTitle>! Il coach ha indovinato tutte le tue parole, i tuoi indizi erano chiarissimi. Complimenti! | Punteggio perfetto in <GameTitle>! Nessuna parola vietata ti ha fatto inciampare. Fantastico! | Nessun errore in <GameTitle>! Tu e il coach siete una super squadra.",
+      "cn": "在<GameTitle>中完美！教练猜中了你所有的词，你的提示超级清楚。太棒了！ | 在<GameTitle>中获得满分！没有一个禁用词能难倒你。真厉害！ | <GameTitle>零失误！你和教练是超级搭档。",
+      "nl": "Perfect in <GameTitle>! De coach heeft al je woorden geraden, je hints waren superduidelijk. Bravo! | Perfecte score in <GameTitle>! Geen enkel verboden woord heeft je laten struikelen. Supergoed! | Foutloos in <GameTitle>! Jij en de coach vormen een superteam.",
+      "es": "¡Perfecto en <GameTitle>! El coach adivinó todas tus palabras, tus pistas eran súper claras. ¡Bravo! | ¡Puntuación perfecta en <GameTitle>! Ninguna palabra prohibida te hizo tropezar. ¡Genial! | ¡Sin fallos en <GameTitle>! Tú y el coach formáis un súper equipo.",
+      "pt": "Perfeito em <GameTitle>! O coach adivinhou todas as suas palavras, suas dicas foram superclaras. Parabéns! | Pontuação perfeita em <GameTitle>! Nenhuma palavra proibida te pegou. Incrível! | Nenhum erro em <GameTitle>! Você e o coach formam uma superequipe.",
+      "de": "Perfekt in <GameTitle>! Der Coach hat alle deine Wörter erraten, deine Hinweise waren superklar. Bravo! | Volle Punktzahl in <GameTitle>! Kein einziges verbotenes Wort hat dich aus dem Konzept gebracht. Super! | Fehlerfrei in <GameTitle>! Du und der Coach seid ein super Team.",
+      "hi": "<GameTitle> में बेहतरीन! कोच ने तुम्हारे सभी शब्द बूझ लिए, तुम्हारे संकेत एकदम साफ़ थे। शाबाश! | <GameTitle> में पूरे अंक! एक भी वर्जित शब्द तुम्हें उलझा नहीं पाया। कमाल है! | <GameTitle> में एक भी गलती नहीं! तुम और कोच एक सुपर टीम हो।"
+    }
   }
 ]

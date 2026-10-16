@@ -24,7 +24,8 @@
       "SHAPEBOX",
       "NOAHS_ARK",
       "COOK",
-      "TANGRAM"
+      "TANGRAM",
+      "WHO_AM_I"
     ]
   },
   {
@@ -55,7 +56,8 @@
       "SNAKE",
       "BLOCK_PUZZLE",
       "PANURGE",
-      "CATERPILLAR"
+      "CATERPILLAR",
+      "WHO_AM_I"
     ]
   },
   {
@@ -134,7 +136,8 @@
       "SYLLABUS",
       "LOST_POEM",
       "HANGMAN",
-      "PROVERB"
+      "PROVERB",
+      "CYRANO"
     ]
   },
   {
@@ -156,7 +159,8 @@
       "SYLLABUS",
       "LOST_POEM",
       "PROVERB",
-      "COOK"
+      "COOK",
+      "WHO_AM_I"
     ]
   },
   {
@@ -185,7 +189,8 @@
       "ANIMALS",
       "POPBALLOON",
       "SHAPEBOX",
-      "NOAHS_ARK"
+      "NOAHS_ARK",
+      "WHO_AM_I"
     ]
   },
   {
@@ -216,7 +221,9 @@
       "MUSIC",
       "SLIDE_MAZE",
       "SYLLABUS",
-      "WHACKAMOLE"
+      "WHACKAMOLE",
+      "CYRANO",
+      "WHO_AM_I"
     ]
   },
   {
@@ -241,7 +248,8 @@
       "SYLLABUS",
       "TIMELINE",
       "HANGMAN",
-      "PROVERB"
+      "PROVERB",
+      "CYRANO"
     ]
   },
   {
@@ -341,7 +349,8 @@
     "games": [
       "ANIMALS",
       "QUIZZLE",
-      "TIMELINE"
+      "TIMELINE",
+      "WHO_AM_I"
     ]
   },
   {
@@ -420,7 +429,8 @@
       "POEME",
       "LOST_POEM",
       "SYLLABUS",
-      "MUSIC"
+      "MUSIC",
+      "CYRANO"
     ]
   },
   {
@@ -487,7 +497,8 @@
       "SLIDE_MAZE",
       "CARS",
       "SNOWBALL_EFFECT",
-      "PANURGE"
+      "PANURGE",
+      "WHO_AM_I"
     ]
   },
   {
@@ -522,7 +533,9 @@
       "SCROLLANDCATCH",
       "SEQUENCE",
       "HANGMAN",
-      "MUSIC"
+      "MUSIC",
+      "CYRANO",
+      "WHO_AM_I"
     ]
   },
   {
