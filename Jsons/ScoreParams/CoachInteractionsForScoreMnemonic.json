@@ -882,6 +882,23 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "COLORFORM",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as trouvé toutes les formes en <score>.|Formes repérées en <score>.|Temps de recherche : <score>.|Il t'a fallu <score> pour trouver les bonnes formes.|<score> pour reconnaître chaque forme.",
+      "us": "You found all the shapes in <score>.|Shapes spotted in <score>.|Search time: <score>.|It took you <score> to find the right shapes.|<score> to recognize each shape.",
+      "it": "Hai trovato tutte le forme in <score>.|Forme individuate in <score>.|Tempo di ricerca: <score>.|Ti sono serviti <score> per trovare le forme giuste.|<score> per riconoscere ogni forma.",
+      "cn": "你用<score>找到了所有形状。|<score>内找到了形状。|搜索用时：<score>。|你用了<score>找到正确的形状。|<score>认出每个形状。",
+      "nl": "Je hebt alle vormen in <score> gevonden.|Vormen gevonden in <score>.|Zoektijd: <score>.|Je had <score> nodig om de juiste vormen te vinden.|<score> om elke vorm te herkennen.",
+      "es": "Has encontrado todas las formas en <score>.|Formas localizadas en <score>.|Tiempo de búsqueda: <score>.|Te ha llevado <score> encontrar las formas correctas.|<score> para reconocer cada forma.",
+      "pt": "Você encontrou todas as formas em <score>.|Formas localizadas em <score>.|Tempo de busca: <score>.|Você levou <score> para encontrar as formas certas.|<score> para reconhecer cada forma.",
+      "de": "Du hast alle Formen in <score> gefunden.|Formen entdeckt in <score>.|Suchzeit: <score>.|Du hast <score> gebraucht, um die richtigen Formen zu finden.|<score>, um jede Form zu erkennen."
+    }
+  },
+  {
     "scoreMnemonic": "nbGoodAnswers",
     "game": "COLORFORM",
     "apps": [
@@ -1089,6 +1106,23 @@
     "scoreMnemonic": "nbChallenges",
     "game": "SNOWBALL_EFFECT",
     "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as complété <score> bonhommes de neige.|<score> bonhommes de neige terminés.|Bonhommes complétés : <score>.|<score> bonhommes de neige.|Tu as fait <score> bonhommes.",
+      "us": "You completed <score> snowmen.|<score> snowmen finished.|Snowmen completed: <score>.|<score> snowmen.|You made <score> snowmen.",
+      "it": "Hai completato <score> pupazzi di neve.|<score> pupazzi di neve finiti.|Pupazzi completati: <score>.|<score> pupazzi di neve.|Hai fatto <score> pupazzi.",
+      "cn": "你完成了<score>个雪人。|<score>个雪人已完成。|已完成的雪人：<score>。|<score>个雪人。|你做了<score>个雪人。",
+      "nl": "Je hebt <score> sneeuwpoppen voltooid.|<score> sneeuwpoppen afgemaakt.|Voltooide sneeuwpoppen: <score>.|<score> sneeuwpoppen.|Je hebt <score> sneeuwpoppen gemaakt.",
+      "es": "Has completado <score> muñecos de nieve.|<score> muñecos de nieve terminados.|Muñecos completados: <score>.|<score> muñecos de nieve.|Has hecho <score> muñecos.",
+      "pt": "Você completou <score> bonecos de neve.|<score> bonecos de neve finalizados.|Bonecos completados: <score>.|<score> bonecos de neve.|Você fez <score> bonecos.",
+      "de": "Du hast <score> Schneemänner abgeschlossen.|<score> Schneemänner fertiggestellt.|Abgeschlossene Schneemänner: <score>.|<score> Schneemänner.|Du hast <score> Schneemänner gemacht."
+    }
+  },
+  {
+    "scoreMnemonic": "nbChallenges",
+    "game": "SNOWBALL_EFFECT",
+    "apps": [
       "PAPY"
     ],
     "title": {
@@ -1100,6 +1134,23 @@
       "es": "Has completado <score> muñecos de nieve.|<score> muñecos de nieve terminados.|Muñecos completados: <score>.|<score> muñecos de nieve.|Has hecho <score> muñecos.",
       "pt": "Você completou <score> bonecos de neve.|<score> bonecos de neve finalizados.|Bonecos completados: <score>.|<score> bonecos de neve.|Você fez <score> bonecos.",
       "de": "Sie haben <score> Schneemänner abgeschlossen.|<score> Schneemänner fertiggestellt.|Abgeschlossene Schneemänner: <score>.|<score> Schneemänner.|Sie haben <score> Schneemänner gemacht."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "ANIMALS",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as trouvé la maison de chaque animal en <score>.|Tous les animaux sont chez eux en <score>.|Temps du carnaval : <score>.|Il t'a fallu <score> pour ranger tous les animaux.|<score> pour retrouver chaque habitat.",
+      "us": "You found every animal's home in <score>.|All the animals are home in <score>.|Carnival time: <score>.|It took you <score> to place every animal.|<score> to find each habitat.",
+      "it": "Hai trovato la casa di ogni animale in <score>.|Tutti gli animali sono a casa in <score>.|Tempo del carnevale: <score>.|Ti sono serviti <score> per sistemare tutti gli animali.|<score> per ritrovare ogni habitat.",
+      "cn": "你用<score>为每只动物找到了家。|<score>内所有动物都回家了。|狂欢节用时：<score>。|你用了<score>安顿好所有动物。|<score>找到每个栖息地。",
+      "nl": "Je hebt in <score> het huis van elk dier gevonden.|Alle dieren zijn thuis in <score>.|Carnavalstijd: <score>.|Je had <score> nodig om alle dieren te plaatsen.|<score> om elk leefgebied te vinden.",
+      "es": "Has encontrado la casa de cada animal en <score>.|Todos los animales están en casa en <score>.|Tiempo del carnaval: <score>.|Te ha llevado <score> colocar a todos los animales.|<score> para encontrar cada hábitat.",
+      "pt": "Você encontrou a casa de cada animal em <score>.|Todos os animais estão em casa em <score>.|Tempo do carnaval: <score>.|Você levou <score> para colocar todos os animais.|<score> para encontrar cada habitat.",
+      "de": "Du hast in <score> das Zuhause jedes Tieres gefunden.|Alle Tiere sind in <score> zu Hause.|Karnevalszeit: <score>.|Du hast <score> gebraucht, um alle Tiere zuzuordnen.|<score>, um jeden Lebensraum zu finden."
     }
   },
   {
@@ -1463,6 +1514,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "CARS",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez libéré la voiture en <score>.|Parking dégagé en <score>.|Temps de sortie : <score>.|Il vous a fallu <score> pour libérer le passage.|<score> pour sortir du parking.",
+      "us": "You freed the car in <score>.|Parking lot cleared in <score>.|Exit time: <score>.|It took you <score> to clear the way.|<score> to get out of the parking lot.",
+      "it": "Hai liberato l'auto in <score>.|Parcheggio sgomberato in <score>.|Tempo di uscita: <score>.|Ti sono serviti <score> per liberare il passaggio.|<score> per uscire dal parcheggio.",
+      "cn": "您用<score>解救了汽车。|<score>内清空了停车场。|驶出用时：<score>。|您用了<score>打通道路。|<score>驶出停车场。",
+      "nl": "Je hebt de auto in <score> bevrijd.|Parkeerplaats vrijgemaakt in <score>.|Uitrijtijd: <score>.|Je had <score> nodig om de weg vrij te maken.|<score> om de parkeerplaats te verlaten.",
+      "es": "Has liberado el coche en <score>.|Aparcamiento despejado en <score>.|Tiempo de salida: <score>.|Te ha llevado <score> despejar el camino.|<score> para salir del aparcamiento.",
+      "pt": "Você libertou o carro em <score>.|Estacionamento liberado em <score>.|Tempo de saída: <score>.|Você levou <score> para abrir caminho.|<score> para sair do estacionamento.",
+      "de": "Sie haben das Auto in <score> befreit.|Parkplatz geräumt in <score>.|Ausfahrtszeit: <score>.|Sie haben <score> gebraucht, um den Weg freizumachen.|<score>, um den Parkplatz zu verlassen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "CARS",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as libéré la voiture en <score>.|Parking dégagé en <score>.|Temps de sortie : <score>.|Il t'a fallu <score> pour libérer le passage.|<score> pour sortir du parking.",
+      "us": "You freed the car in <score>.|Parking lot cleared in <score>.|Exit time: <score>.|It took you <score> to clear the way.|<score> to get out of the parking lot.",
+      "it": "Hai liberato l'auto in <score>.|Parcheggio sgomberato in <score>.|Tempo di uscita: <score>.|Ti sono serviti <score> per liberare il passaggio.|<score> per uscire dal parcheggio.",
+      "cn": "你用<score>解救了汽车。|<score>内清空了停车场。|驶出用时：<score>。|你用了<score>打通道路。|<score>驶出停车场。",
+      "nl": "Je hebt de auto in <score> bevrijd.|Parkeerplaats vrijgemaakt in <score>.|Uitrijtijd: <score>.|Je had <score> nodig om de weg vrij te maken.|<score> om de parkeerplaats te verlaten.",
+      "es": "Has liberado el coche en <score>.|Aparcamiento despejado en <score>.|Tiempo de salida: <score>.|Te ha llevado <score> despejar el camino.|<score> para salir del aparcamiento.",
+      "pt": "Você libertou o carro em <score>.|Estacionamento liberado em <score>.|Tempo de saída: <score>.|Você levou <score> para abrir caminho.|<score> para sair do estacionamento.",
+      "de": "Du hast das Auto in <score> befreit.|Parkplatz geräumt in <score>.|Ausfahrtszeit: <score>.|Du hast <score> gebraucht, um den Weg freizumachen.|<score>, um den Parkplatz zu verlassen."
+    }
+  },
+  {
     "game": "CARS",
     "apps": [
       "PAPY",
@@ -1616,6 +1701,40 @@
       "es": "¡Eres un experto en estacionamiento en <GameTitle>! ¡No hay un movimiento de más, es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu lógica es increíble. ¡Felicidades, eres genial! | ¡Increíble en <GameTitle>! El estacionamiento está perfectamente organizado, eres un verdadero profesional. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu estrategia es de primera. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as de la organización. ¡Campeón!",
       "pt": "Você é um especialista em estacionamento em <GameTitle>! Nenhum movimento a mais, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Sua lógica é incrível. Parabéns, você arrasa! | Incrível em <GameTitle>! O estacionamento está perfeitamente organizado, você é um verdadeiro profissional. Muito bom! | <GameTitle> não tem mais segredos para você! Sua estratégia é de primeira. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um craque em organização. Campeão!",
       "de": "Du bist ein Parkexperte in <GameTitle>! Kein überflüssiger Zug, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Deine Logik ist unglaublich. Herzlichen Glückwunsch, du rockst! | Unglaublich in <GameTitle>! Das Parken ist perfekt organisiert, du bist ein echter Profi. So stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Deine Strategie ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ass in der Organisation. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "CASCADE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez repéré <score> différences.|<score> différences trouvées.|Différences repérées : <score>.|<score> symboles intrus démasqués.|La cascade vous a livré <score> différences.",
+      "us": "You spotted <score> differences.|<score> differences found.|Differences spotted: <score>.|<score> swapped symbols caught.|The waterfall gave up <score> differences.",
+      "it": "Hai individuato <score> differenze.|<score> differenze trovate.|Differenze individuate: <score>.|<score> simboli scambiati smascherati.|La cascata ti ha svelato <score> differenze.",
+      "cn": "您发现了<score>处不同。|找到<score>处不同。|发现的不同：<score>。|识破了<score>个被调换的符号。|瀑布向您揭示了<score>处不同。",
+      "nl": "Je hebt <score> verschillen gezien.|<score> verschillen gevonden.|Gevonden verschillen: <score>.|<score> verwisselde symbolen ontmaskerd.|De waterval onthulde <score> verschillen.",
+      "es": "Has detectado <score> diferencias.|<score> diferencias encontradas.|Diferencias detectadas: <score>.|<score> símbolos cambiados descubiertos.|La cascada te ha revelado <score> diferencias.",
+      "pt": "Você encontrou <score> diferenças.|<score> diferenças encontradas.|Diferenças encontradas: <score>.|<score> símbolos trocados descobertos.|A cascata revelou <score> diferenças.",
+      "de": "Sie haben <score> Unterschiede entdeckt.|<score> Unterschiede gefunden.|Entdeckte Unterschiede: <score>.|<score> vertauschte Symbole entlarvt.|Der Wasserfall hat <score> Unterschiede verraten."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "CASCADE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as repéré <score> différences.|<score> différences trouvées.|Différences repérées : <score>.|<score> symboles intrus démasqués.|La cascade t'a livré <score> différences.",
+      "us": "You spotted <score> differences.|<score> differences found.|Differences spotted: <score>.|<score> swapped symbols caught.|The waterfall gave up <score> differences.",
+      "it": "Hai individuato <score> differenze.|<score> differenze trovate.|Differenze individuate: <score>.|<score> simboli scambiati smascherati.|La cascata ti ha svelato <score> differenze.",
+      "cn": "你发现了<score>处不同。|找到<score>处不同。|发现的不同：<score>。|识破了<score>个被调换的符号。|瀑布向你揭示了<score>处不同。",
+      "nl": "Je hebt <score> verschillen gezien.|<score> verschillen gevonden.|Gevonden verschillen: <score>.|<score> verwisselde symbolen ontmaskerd.|De waterval onthulde <score> verschillen.",
+      "es": "Has detectado <score> diferencias.|<score> diferencias encontradas.|Diferencias detectadas: <score>.|<score> símbolos cambiados descubiertos.|La cascada te ha revelado <score> diferencias.",
+      "pt": "Você encontrou <score> diferenças.|<score> diferenças encontradas.|Diferenças encontradas: <score>.|<score> símbolos trocados descobertos.|A cascata revelou <score> diferenças.",
+      "de": "Du hast <score> Unterschiede entdeckt.|<score> Unterschiede gefunden.|Entdeckte Unterschiede: <score>.|<score> vertauschte Symbole entlarvt.|Der Wasserfall hat <score> Unterschiede verraten."
     }
   },
   {
@@ -2053,6 +2172,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "COLORMIND",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez reproduit les séquences en <score>.|Couleurs mémorisées en <score>.|Temps de mémorisation : <score>.|Il vous a fallu <score> pour retrouver toutes les couleurs.|<score> pour reproduire chaque séquence.",
+      "us": "You repeated the sequences in <score>.|Colors memorized in <score>.|Memory time: <score>.|It took you <score> to recall every color.|<score> to repeat each sequence.",
+      "it": "Hai riprodotto le sequenze in <score>.|Colori memorizzati in <score>.|Tempo di memorizzazione: <score>.|Ti sono serviti <score> per ritrovare tutti i colori.|<score> per riprodurre ogni sequenza.",
+      "cn": "您用<score>重现了所有序列。|<score>内记住了颜色。|记忆用时：<score>。|您用了<score>找回所有颜色。|<score>重现每个序列。",
+      "nl": "Je hebt de reeksen in <score> nagedaan.|Kleuren onthouden in <score>.|Geheugentijd: <score>.|Je had <score> nodig om alle kleuren terug te vinden.|<score> om elke reeks na te doen.",
+      "es": "Has reproducido las secuencias en <score>.|Colores memorizados en <score>.|Tiempo de memorización: <score>.|Te ha llevado <score> recordar todos los colores.|<score> para reproducir cada secuencia.",
+      "pt": "Você reproduziu as sequências em <score>.|Cores memorizadas em <score>.|Tempo de memorização: <score>.|Você levou <score> para lembrar todas as cores.|<score> para reproduzir cada sequência.",
+      "de": "Sie haben die Sequenzen in <score> nachgespielt.|Farben gemerkt in <score>.|Merkzeit: <score>.|Sie haben <score> gebraucht, um alle Farben wiederzufinden.|<score>, um jede Sequenz nachzuspielen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "COLORMIND",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as reproduit les séquences en <score>.|Couleurs mémorisées en <score>.|Temps de mémorisation : <score>.|Il t'a fallu <score> pour retrouver toutes les couleurs.|<score> pour reproduire chaque séquence.",
+      "us": "You repeated the sequences in <score>.|Colors memorized in <score>.|Memory time: <score>.|It took you <score> to recall every color.|<score> to repeat each sequence.",
+      "it": "Hai riprodotto le sequenze in <score>.|Colori memorizzati in <score>.|Tempo di memorizzazione: <score>.|Ti sono serviti <score> per ritrovare tutti i colori.|<score> per riprodurre ogni sequenza.",
+      "cn": "你用<score>重现了所有序列。|<score>内记住了颜色。|记忆用时：<score>。|你用了<score>找回所有颜色。|<score>重现每个序列。",
+      "nl": "Je hebt de reeksen in <score> nagedaan.|Kleuren onthouden in <score>.|Geheugentijd: <score>.|Je had <score> nodig om alle kleuren terug te vinden.|<score> om elke reeks na te doen.",
+      "es": "Has reproducido las secuencias en <score>.|Colores memorizados en <score>.|Tiempo de memorización: <score>.|Te ha llevado <score> recordar todos los colores.|<score> para reproducir cada secuencia.",
+      "pt": "Você reproduziu as sequências em <score>.|Cores memorizadas em <score>.|Tempo de memorização: <score>.|Você levou <score> para lembrar todas as cores.|<score> para reproduzir cada sequência.",
+      "de": "Du hast die Sequenzen in <score> nachgespielt.|Farben gemerkt in <score>.|Merkzeit: <score>.|Du hast <score> gebraucht, um alle Farben wiederzufinden.|<score>, um jede Sequenz nachzuspielen."
+    }
+  },
+  {
     "game": "COLORMIND",
     "apps": [
       "PAPY",
@@ -2206,6 +2359,40 @@
       "es": "¡Tienes una memoria de campeón en <GameTitle>! Todas las secuencias han sido reproducidas, ¡es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Los colores te obedecen al dedo y al ojo. ¡Felicidades, es increíble! | ¡Increíble en <GameTitle>! Has recordado todo, eres un verdadero artista de los colores. ¡Demasiado fuerte! | ¡<GameTitle> ya no tiene secretos para ti! Tu memoria es de primera. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Tu concentración es imbatible. ¡Campeón!",
       "pt": "Você tem uma memória de campeão em <GameTitle>! Todas as sequências foram reproduzidas, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! As cores obedecem você com precisão. Parabéns, é incrível! | Incrível em <GameTitle>! Você se lembrou de tudo, você é um verdadeiro artista das cores. Muito forte! | <GameTitle> não tem mais segredos para você! Sua memória está no topo. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Sua concentração é imbatível. Campeão!",
       "de": "Du hast ein Gedächtnis wie ein Champion in <GameTitle>! Alle Sequenzen wurden reproduziert, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Die Farben gehorchen dir auf den Finger und das Auge. Herzlichen Glückwunsch, es ist unglaublich! | Unglaublich in <GameTitle>! Du hast alles behalten, du bist ein wahrer Künstler der Farben. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Dein Gedächtnis ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Deine Konzentration ist unschlagbar. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "COOK",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez complété les recettes en <score>.|Recettes réussies en <score>.|Temps en cuisine : <score>.|Il vous a fallu <score> pour réunir tous les ingrédients.|<score> derrière les fourneaux.",
+      "us": "You completed the recipes in <score>.|Recipes done in <score>.|Time in the kitchen: <score>.|It took you <score> to gather all the ingredients.|<score> at the stove.",
+      "it": "Hai completato le ricette in <score>.|Ricette riuscite in <score>.|Tempo in cucina: <score>.|Ti sono serviti <score> per riunire tutti gli ingredienti.|<score> ai fornelli.",
+      "cn": "您用<score>完成了食谱。|<score>内做好了食谱。|厨房用时：<score>。|您用了<score>备齐所有食材。|在灶台前忙了<score>。",
+      "nl": "Je hebt de recepten in <score> voltooid.|Recepten geslaagd in <score>.|Tijd in de keuken: <score>.|Je had <score> nodig om alle ingrediënten te verzamelen.|<score> achter het fornuis.",
+      "es": "Has completado las recetas en <score>.|Recetas logradas en <score>.|Tiempo en la cocina: <score>.|Te ha llevado <score> reunir todos los ingredientes.|<score> entre fogones.",
+      "pt": "Você completou as receitas em <score>.|Receitas concluídas em <score>.|Tempo na cozinha: <score>.|Você levou <score> para reunir todos os ingredientes.|<score> no fogão.",
+      "de": "Sie haben die Rezepte in <score> vervollständigt.|Rezepte gelungen in <score>.|Zeit in der Küche: <score>.|Sie haben <score> gebraucht, um alle Zutaten zu finden.|<score> am Herd."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "COOK",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as complété les recettes en <score>.|Recettes réussies en <score>.|Temps en cuisine : <score>.|Il t'a fallu <score> pour réunir tous les ingrédients.|<score> derrière les fourneaux.",
+      "us": "You completed the recipes in <score>.|Recipes done in <score>.|Time in the kitchen: <score>.|It took you <score> to gather all the ingredients.|<score> at the stove.",
+      "it": "Hai completato le ricette in <score>.|Ricette riuscite in <score>.|Tempo in cucina: <score>.|Ti sono serviti <score> per riunire tutti gli ingredienti.|<score> ai fornelli.",
+      "cn": "你用<score>完成了食谱。|<score>内做好了食谱。|厨房用时：<score>。|你用了<score>备齐所有食材。|在灶台前忙了<score>。",
+      "nl": "Je hebt de recepten in <score> voltooid.|Recepten geslaagd in <score>.|Tijd in de keuken: <score>.|Je had <score> nodig om alle ingrediënten te verzamelen.|<score> achter het fornuis.",
+      "es": "Has completado las recetas en <score>.|Recetas logradas en <score>.|Tiempo en la cocina: <score>.|Te ha llevado <score> reunir todos los ingredientes.|<score> entre fogones.",
+      "pt": "Você completou as receitas em <score>.|Receitas concluídas em <score>.|Tempo na cozinha: <score>.|Você levou <score> para reunir todos os ingredientes.|<score> no fogão.",
+      "de": "Du hast die Rezepte in <score> vervollständigt.|Rezepte gelungen in <score>.|Zeit in der Küche: <score>.|Du hast <score> gebraucht, um alle Zutaten zu finden.|<score> am Herd."
     }
   },
   {
@@ -2365,6 +2552,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "FURIOUS",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez remis les images dans l'ordre en <score>.|Séquence reconstituée en <score>.|Temps de reconstitution : <score>.|Il vous a fallu <score> pour retrouver l'ordre des images.|<score> pour replacer chaque carte.",
+      "us": "You put the pictures back in order in <score>.|Sequence rebuilt in <score>.|Rebuild time: <score>.|It took you <score> to find the order of the pictures.|<score> to put every card back.",
+      "it": "Hai rimesso le immagini in ordine in <score>.|Sequenza ricostruita in <score>.|Tempo di ricostruzione: <score>.|Ti sono serviti <score> per ritrovare l'ordine delle immagini.|<score> per rimettere a posto ogni carta.",
+      "cn": "您用<score>把图片排回了顺序。|<score>内重建了序列。|重建用时：<score>。|您用了<score>找回图片的顺序。|<score>放回每张卡片。",
+      "nl": "Je hebt de afbeeldingen in <score> weer op volgorde gelegd.|Reeks herbouwd in <score>.|Hersteltijd: <score>.|Je had <score> nodig om de volgorde van de afbeeldingen te vinden.|<score> om elke kaart terug te leggen.",
+      "es": "Has vuelto a ordenar las imágenes en <score>.|Secuencia reconstruida en <score>.|Tiempo de reconstrucción: <score>.|Te ha llevado <score> encontrar el orden de las imágenes.|<score> para recolocar cada carta.",
+      "pt": "Você recolocou as imagens em ordem em <score>.|Sequência reconstruída em <score>.|Tempo de reconstrução: <score>.|Você levou <score> para encontrar a ordem das imagens.|<score> para recolocar cada carta.",
+      "de": "Sie haben die Bilder in <score> wieder geordnet.|Reihenfolge wiederhergestellt in <score>.|Zeit für die Reihenfolge: <score>.|Sie haben <score> gebraucht, um die Reihenfolge der Bilder zu finden.|<score>, um jede Karte zurückzulegen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "FURIOUS",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as remis les images dans l'ordre en <score>.|Séquence reconstituée en <score>.|Temps de reconstitution : <score>.|Il t'a fallu <score> pour retrouver l'ordre des images.|<score> pour replacer chaque carte.",
+      "us": "You put the pictures back in order in <score>.|Sequence rebuilt in <score>.|Rebuild time: <score>.|It took you <score> to find the order of the pictures.|<score> to put every card back.",
+      "it": "Hai rimesso le immagini in ordine in <score>.|Sequenza ricostruita in <score>.|Tempo di ricostruzione: <score>.|Ti sono serviti <score> per ritrovare l'ordine delle immagini.|<score> per rimettere a posto ogni carta.",
+      "cn": "你用<score>把图片排回了顺序。|<score>内重建了序列。|重建用时：<score>。|你用了<score>找回图片的顺序。|<score>放回每张卡片。",
+      "nl": "Je hebt de afbeeldingen in <score> weer op volgorde gelegd.|Reeks herbouwd in <score>.|Hersteltijd: <score>.|Je had <score> nodig om de volgorde van de afbeeldingen te vinden.|<score> om elke kaart terug te leggen.",
+      "es": "Has vuelto a ordenar las imágenes en <score>.|Secuencia reconstruida en <score>.|Tiempo de reconstrucción: <score>.|Te ha llevado <score> encontrar el orden de las imágenes.|<score> para recolocar cada carta.",
+      "pt": "Você recolocou as imagens em ordem em <score>.|Sequência reconstruída em <score>.|Tempo de reconstrução: <score>.|Você levou <score> para encontrar a ordem das imagens.|<score> para recolocar cada carta.",
+      "de": "Du hast die Bilder in <score> wieder geordnet.|Reihenfolge wiederhergestellt in <score>.|Zeit für die Reihenfolge: <score>.|Du hast <score> gebraucht, um die Reihenfolge der Bilder zu finden.|<score>, um jede Karte zurückzulegen."
+    }
+  },
+  {
     "game": "FURIOUS",
     "apps": [
       "PAPY",
@@ -2518,6 +2739,40 @@
       "es": "¡Tienes una memoria de campeón en <GameTitle>! ¡Todas las imágenes en el orden correcto, es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Recuerdas todo en orden. ¡Felicidades, es increíble! | ¡Increíble en <GameTitle>! No hay una imagen fuera de lugar, eres un verdadero profesional. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu memoria es de primera. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Tu concentración es imbatible. ¡Campeón!",
       "pt": "Você tem uma memória de campeão em <GameTitle>! Todas as imagens na ordem certa, é perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Você lembra de tudo na ordem. Parabéns, é incrível! | Incrível em <GameTitle>! Nenhuma imagem fora do lugar, você é um verdadeiro profissional. Muito forte! | <GameTitle> não tem mais segredos para você! Sua memória é de primeira. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Sua concentração é imbatível. Campeão!",
       "de": "Du hast ein Gedächtnis wie ein Champion in <GameTitle>! Alle Bilder in der richtigen Reihenfolge, das ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Du erinnerst dich an alles in der richtigen Reihenfolge. Herzlichen Glückwunsch, das ist unglaublich! | Unglaublich in <GameTitle>! Kein Bild ist am falschen Platz, du bist ein echter Profi. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Dein Gedächtnis ist spitzenmäßig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Deine Konzentration ist unschlagbar. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "GEO",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez fait le tour de la carte en <score>.|Carte parcourue en <score>.|Temps d'exploration : <score>.|Il vous a fallu <score> pour situer tous les lieux.|<score> de voyage sur la carte.",
+      "us": "You went around the map in <score>.|Map explored in <score>.|Exploration time: <score>.|It took you <score> to locate every place.|<score> traveling across the map.",
+      "it": "Hai fatto il giro della mappa in <score>.|Mappa esplorata in <score>.|Tempo di esplorazione: <score>.|Ti sono serviti <score> per localizzare tutti i luoghi.|<score> in viaggio sulla mappa.",
+      "cn": "您用<score>环游了地图。|<score>内探索了地图。|探索用时：<score>。|您用了<score>找到所有地点。|在地图上旅行了<score>。",
+      "nl": "Je bent in <score> de kaart rondgegaan.|Kaart verkend in <score>.|Verkenningstijd: <score>.|Je had <score> nodig om alle plaatsen te vinden.|<score> op reis over de kaart.",
+      "es": "Has recorrido el mapa en <score>.|Mapa explorado en <score>.|Tiempo de exploración: <score>.|Te ha llevado <score> situar todos los lugares.|<score> viajando por el mapa.",
+      "pt": "Você percorreu o mapa em <score>.|Mapa explorado em <score>.|Tempo de exploração: <score>.|Você levou <score> para localizar todos os lugares.|<score> viajando pelo mapa.",
+      "de": "Sie haben die Karte in <score> bereist.|Karte erkundet in <score>.|Erkundungszeit: <score>.|Sie haben <score> gebraucht, um alle Orte zu finden.|<score> unterwegs auf der Karte."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "GEO",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as fait le tour de la carte en <score>.|Carte parcourue en <score>.|Temps d'exploration : <score>.|Il t'a fallu <score> pour situer tous les lieux.|<score> de voyage sur la carte.",
+      "us": "You went around the map in <score>.|Map explored in <score>.|Exploration time: <score>.|It took you <score> to locate every place.|<score> traveling across the map.",
+      "it": "Hai fatto il giro della mappa in <score>.|Mappa esplorata in <score>.|Tempo di esplorazione: <score>.|Ti sono serviti <score> per localizzare tutti i luoghi.|<score> in viaggio sulla mappa.",
+      "cn": "你用<score>环游了地图。|<score>内探索了地图。|探索用时：<score>。|你用了<score>找到所有地点。|在地图上旅行了<score>。",
+      "nl": "Je bent in <score> de kaart rondgegaan.|Kaart verkend in <score>.|Verkenningstijd: <score>.|Je had <score> nodig om alle plaatsen te vinden.|<score> op reis over de kaart.",
+      "es": "Has recorrido el mapa en <score>.|Mapa explorado en <score>.|Tiempo de exploración: <score>.|Te ha llevado <score> situar todos los lugares.|<score> viajando por el mapa.",
+      "pt": "Você percorreu o mapa em <score>.|Mapa explorado em <score>.|Tempo de exploração: <score>.|Você levou <score> para localizar todos os lugares.|<score> viajando pelo mapa.",
+      "de": "Du hast die Karte in <score> bereist.|Karte erkundet in <score>.|Erkundungszeit: <score>.|Du hast <score> gebraucht, um alle Orte zu finden.|<score> unterwegs auf der Karte."
     }
   },
   {
@@ -2833,6 +3088,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "INTRUS",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez démasqué les intrus en <score>.|Intrus trouvés en <score>.|Temps de recherche : <score>.|Il vous a fallu <score> pour repérer chaque intrus.|<score> pour débusquer les intrus.",
+      "us": "You unmasked the odd ones out in <score>.|Odd ones out found in <score>.|Search time: <score>.|It took you <score> to spot every odd one out.|<score> to track down the odd ones out.",
+      "it": "Hai smascherato gli intrusi in <score>.|Intrusi trovati in <score>.|Tempo di ricerca: <score>.|Ti sono serviti <score> per individuare ogni intruso.|<score> per scovare gli intrusi.",
+      "cn": "您用<score>揪出了所有异类。|<score>内找到了异类。|搜索用时：<score>。|您用了<score>认出每个异类。|<score>找出异类。",
+      "nl": "Je hebt de indringers in <score> ontmaskerd.|Indringers gevonden in <score>.|Zoektijd: <score>.|Je had <score> nodig om elke indringer te zien.|<score> om de indringers op te sporen.",
+      "es": "Has desenmascarado a los intrusos en <score>.|Intrusos encontrados en <score>.|Tiempo de búsqueda: <score>.|Te ha llevado <score> detectar cada intruso.|<score> para dar con los intrusos.",
+      "pt": "Você desmascarou os intrusos em <score>.|Intrusos encontrados em <score>.|Tempo de busca: <score>.|Você levou <score> para identificar cada intruso.|<score> para descobrir os intrusos.",
+      "de": "Sie haben die Eindringlinge in <score> entlarvt.|Eindringlinge gefunden in <score>.|Suchzeit: <score>.|Sie haben <score> gebraucht, um jeden Eindringling zu entdecken.|<score>, um die Eindringlinge aufzuspüren."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "INTRUS",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as démasqué les intrus en <score>.|Intrus trouvés en <score>.|Temps de recherche : <score>.|Il t'a fallu <score> pour repérer chaque intrus.|<score> pour débusquer les intrus.",
+      "us": "You unmasked the odd ones out in <score>.|Odd ones out found in <score>.|Search time: <score>.|It took you <score> to spot every odd one out.|<score> to track down the odd ones out.",
+      "it": "Hai smascherato gli intrusi in <score>.|Intrusi trovati in <score>.|Tempo di ricerca: <score>.|Ti sono serviti <score> per individuare ogni intruso.|<score> per scovare gli intrusi.",
+      "cn": "你用<score>揪出了所有异类。|<score>内找到了异类。|搜索用时：<score>。|你用了<score>认出每个异类。|<score>找出异类。",
+      "nl": "Je hebt de indringers in <score> ontmaskerd.|Indringers gevonden in <score>.|Zoektijd: <score>.|Je had <score> nodig om elke indringer te zien.|<score> om de indringers op te sporen.",
+      "es": "Has desenmascarado a los intrusos en <score>.|Intrusos encontrados en <score>.|Tiempo de búsqueda: <score>.|Te ha llevado <score> detectar cada intruso.|<score> para dar con los intrusos.",
+      "pt": "Você desmascarou os intrusos em <score>.|Intrusos encontrados em <score>.|Tempo de busca: <score>.|Você levou <score> para identificar cada intruso.|<score> para descobrir os intrusos.",
+      "de": "Du hast die Eindringlinge in <score> entlarvt.|Eindringlinge gefunden in <score>.|Suchzeit: <score>.|Du hast <score> gebraucht, um jeden Eindringling zu entdecken.|<score>, um die Eindringlinge aufzuspüren."
+    }
+  },
+  {
     "game": "INTRUS",
     "apps": [
       "PAPY",
@@ -2986,6 +3275,40 @@
       "es": "¡Eres un campeón de la lógica en <GameTitle>! Todos los intrusos han sido detectados, ¡es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu lógica es increíble. ¡Felicidades, eres genial! | ¡Increíble en <GameTitle>! Ningún intruso se te escapa, eres un verdadero detective. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu razonamiento es de primera. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as en las categorías. ¡Campeón!",
       "pt": "Você é um campeão da lógica em <GameTitle>! Todos os intrusos foram detectados, isso é perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Sua lógica é incrível. Parabéns, você arrasa! | Incrível em <GameTitle>! Nenhum intruso escapa de você, você é um verdadeiro detetive. Muito forte! | <GameTitle> não tem mais segredos para você! Seu raciocínio é de primeira. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um craque nas categorias. Campeão!",
       "de": "Du bist ein Logik-Champion in <GameTitle>! Alle Eindringlinge wurden entdeckt, das ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Deine Logik ist unglaublich. Herzlichen Glückwunsch, du rockst! | Unglaublich in <GameTitle>! Kein Eindringling entkommt dir, du bist ein wahrer Detektiv. So stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Dein Denken ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ass in den Kategorien. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "LOST_POEM",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez retrouvé le poème en <score>.|Poème complété en <score>.|Temps de lecture : <score>.|Il vous a fallu <score> pour retrouver tous les mots.|<score> pour compléter chaque vers.",
+      "us": "You restored the poem in <score>.|Poem completed in <score>.|Reading time: <score>.|It took you <score> to find every missing word.|<score> to complete each line.",
+      "it": "Hai ritrovato la poesia in <score>.|Poesia completata in <score>.|Tempo di lettura: <score>.|Ti sono serviti <score> per ritrovare tutte le parole.|<score> per completare ogni verso.",
+      "cn": "您用<score>找回了这首诗。|<score>内补全了诗歌。|阅读用时：<score>。|您用了<score>找回所有缺失的词。|<score>补全每一行诗。",
+      "nl": "Je hebt het gedicht in <score> teruggevonden.|Gedicht aangevuld in <score>.|Leestijd: <score>.|Je had <score> nodig om alle ontbrekende woorden te vinden.|<score> om elke versregel aan te vullen.",
+      "es": "Has recuperado el poema en <score>.|Poema completado en <score>.|Tiempo de lectura: <score>.|Te ha llevado <score> encontrar todas las palabras.|<score> para completar cada verso.",
+      "pt": "Você recuperou o poema em <score>.|Poema completado em <score>.|Tempo de leitura: <score>.|Você levou <score> para encontrar todas as palavras.|<score> para completar cada verso.",
+      "de": "Sie haben das Gedicht in <score> wiedergefunden.|Gedicht vervollständigt in <score>.|Lesezeit: <score>.|Sie haben <score> gebraucht, um alle fehlenden Wörter zu finden.|<score>, um jeden Vers zu vervollständigen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "LOST_POEM",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as retrouvé le poème en <score>.|Poème complété en <score>.|Temps de lecture : <score>.|Il t'a fallu <score> pour retrouver tous les mots.|<score> pour compléter chaque vers.",
+      "us": "You restored the poem in <score>.|Poem completed in <score>.|Reading time: <score>.|It took you <score> to find every missing word.|<score> to complete each line.",
+      "it": "Hai ritrovato la poesia in <score>.|Poesia completata in <score>.|Tempo di lettura: <score>.|Ti sono serviti <score> per ritrovare tutte le parole.|<score> per completare ogni verso.",
+      "cn": "你用<score>找回了这首诗。|<score>内补全了诗歌。|阅读用时：<score>。|你用了<score>找回所有缺失的词。|<score>补全每一行诗。",
+      "nl": "Je hebt het gedicht in <score> teruggevonden.|Gedicht aangevuld in <score>.|Leestijd: <score>.|Je had <score> nodig om alle ontbrekende woorden te vinden.|<score> om elke versregel aan te vullen.",
+      "es": "Has recuperado el poema en <score>.|Poema completado en <score>.|Tiempo de lectura: <score>.|Te ha llevado <score> encontrar todas las palabras.|<score> para completar cada verso.",
+      "pt": "Você recuperou o poema em <score>.|Poema completado em <score>.|Tempo de leitura: <score>.|Você levou <score> para encontrar todas as palavras.|<score> para completar cada verso.",
+      "de": "Du hast das Gedicht in <score> wiedergefunden.|Gedicht vervollständigt in <score>.|Lesezeit: <score>.|Du hast <score> gebraucht, um alle fehlenden Wörter zu finden.|<score>, um jeden Vers zu vervollständigen."
     }
   },
   {
@@ -3613,6 +3936,23 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "PONG",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez renvoyé la balle pendant <score>.|Échanges terminés en <score>.|Temps de jeu : <score>.|Vous avez tenu la raquette <score>.|<score> de match.",
+      "us": "You returned the ball for <score>.|Rallies finished in <score>.|Playing time: <score>.|You held the paddle for <score>.|<score> of play.",
+      "it": "Hai rimandato la palla per <score>.|Scambi terminati in <score>.|Tempo di gioco: <score>.|Hai tenuto la racchetta per <score>.|<score> di partita.",
+      "cn": "您回击球持续了<score>。|<score>内结束了对打。|游戏用时：<score>。|您握拍坚持了<score>。|比赛进行了<score>。",
+      "nl": "Je hebt de bal <score> lang teruggekaatst.|Rally's afgerond in <score>.|Speeltijd: <score>.|Je hield het batje <score> vast.|<score> spel.",
+      "es": "Has devuelto la pelota durante <score>.|Intercambios terminados en <score>.|Tiempo de juego: <score>.|Has sostenido la pala durante <score>.|<score> de partido.",
+      "pt": "Você rebateu a bola durante <score>.|Trocas concluídas em <score>.|Tempo de jogo: <score>.|Você segurou a raquete por <score>.|<score> de partida.",
+      "de": "Sie haben den Ball <score> lang zurückgespielt.|Ballwechsel beendet in <score>.|Spielzeit: <score>.|Sie haben den Schläger <score> lang gehalten.|<score> Spiel."
+    }
+  },
+  {
     "game": "PONG",
     "apps": [
       "PAPY"
@@ -3678,6 +4018,40 @@
       "es": "¡Perfecto en <GameTitle>! Eres un verdadero campeón de la raqueta. ¡No has perdido ni una sola bola, felicitaciones! | ¡Puntuación perfecta en <GameTitle>! Tus reflejos son excepcionales. ¡Qué actuación, bien hecho! | ¡Bien hecho, devolviste todo en <GameTitle>! Ninguna bola se te escapó. ¡Eso es notable! | ¡<GameTitle> no tiene secretos para ti! Tu coordinación es infalible. ¡Felicitaciones! | ¡Felicitaciones, puntuación perfecta en <GameTitle>! Eres un as del ping-pong. ¡Qué gran trabajo!",
       "pt": "Perfeito em <GameTitle>! Você é um verdadeiro campeão da raquete. Nenhuma bola perdida, parabéns! | Pontuação perfeita em <GameTitle>! Seus reflexos são excepcionais. Que desempenho, bem feito! | Parabéns, você devolveu tudo em <GameTitle>! Nenhuma bola escapou de você. Isso é notável! | <GameTitle> não tem mais segredos para você! Sua coordenação é infalível. Parabéns! | Parabéns, pontuação perfeita em <GameTitle>! Você é um ás do pingue-pongue. Que ótimo trabalho!",
       "de": "Perfekt in <GameTitle>! Du bist ein wahrer Schläger-Champion. Kein Ball verloren, herzlichen Glückwunsch! | Perfekte Punktzahl in <GameTitle>! Deine Reflexe sind außergewöhnlich. Was für eine Leistung, gut gemacht! | Gut gemacht, du hast alles in <GameTitle> zurückgeschlagen! Kein Ball ist dir entkommen. Das ist bemerkenswert! | <GameTitle> hat für dich keine Geheimnisse mehr! Deine Koordination ist makellos. Herzlichen Glückwunsch! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ping-Pong-Ass. Was für eine großartige Arbeit!"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "POPBALLOON",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez éclaté <score> bons ballons.|<score> ballons touchés en plein vol.|Ballons éclatés : <score>.|<score> flèches dans le mille.|Votre arc a crevé <score> ballons.",
+      "us": "You popped <score> right balloons.|<score> balloons hit in mid-air.|Balloons popped: <score>.|<score> arrows right on target.|Your bow burst <score> balloons.",
+      "it": "Hai fatto scoppiare <score> palloncini giusti.|<score> palloncini colpiti in volo.|Palloncini scoppiati: <score>.|<score> frecce a segno.|Il tuo arco ha bucato <score> palloncini.",
+      "cn": "您射破了<score>个正确的气球。|空中击中<score>个气球。|射破的气球：<score>。|<score>支箭正中目标。|您的弓射破了<score>个气球。",
+      "nl": "Je hebt <score> goede ballonnen laten knallen.|<score> ballonnen in de lucht geraakt.|Geknapte ballonnen: <score>.|<score> pijlen in de roos.|Je boog liet <score> ballonnen knappen.",
+      "es": "Has explotado <score> globos correctos.|<score> globos alcanzados en pleno vuelo.|Globos explotados: <score>.|<score> flechas en el blanco.|Tu arco ha reventado <score> globos.",
+      "pt": "Você estourou <score> balões certos.|<score> balões atingidos em pleno voo.|Balões estourados: <score>.|<score> flechas no alvo.|Seu arco estourou <score> balões.",
+      "de": "Sie haben <score> richtige Ballons zerplatzen lassen.|<score> Ballons im Flug getroffen.|Geplatzte Ballons: <score>.|<score> Pfeile ins Schwarze.|Ihr Bogen hat <score> Ballons getroffen."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "POPBALLOON",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as éclaté <score> bons ballons.|<score> ballons touchés en plein vol.|Ballons éclatés : <score>.|<score> flèches dans le mille.|Ton arc a crevé <score> ballons.",
+      "us": "You popped <score> right balloons.|<score> balloons hit in mid-air.|Balloons popped: <score>.|<score> arrows right on target.|Your bow burst <score> balloons.",
+      "it": "Hai fatto scoppiare <score> palloncini giusti.|<score> palloncini colpiti in volo.|Palloncini scoppiati: <score>.|<score> frecce a segno.|Il tuo arco ha bucato <score> palloncini.",
+      "cn": "你射破了<score>个正确的气球。|空中击中<score>个气球。|射破的气球：<score>。|<score>支箭正中目标。|你的弓射破了<score>个气球。",
+      "nl": "Je hebt <score> goede ballonnen laten knallen.|<score> ballonnen in de lucht geraakt.|Geknapte ballonnen: <score>.|<score> pijlen in de roos.|Je boog liet <score> ballonnen knappen.",
+      "es": "Has explotado <score> globos correctos.|<score> globos alcanzados en pleno vuelo.|Globos explotados: <score>.|<score> flechas en el blanco.|Tu arco ha reventado <score> globos.",
+      "pt": "Você estourou <score> balões certos.|<score> balões atingidos em pleno voo.|Balões estourados: <score>.|<score> flechas no alvo.|Seu arco estourou <score> balões.",
+      "de": "Du hast <score> richtige Ballons zerplatzen lassen.|<score> Ballons im Flug getroffen.|Geplatzte Ballons: <score>.|<score> Pfeile ins Schwarze.|Dein Bogen hat <score> Ballons getroffen."
     }
   },
   {
@@ -3834,6 +4208,40 @@
       "es": "¡Eres un verdadero francotirador en <GameTitle>! Todos los buenos globos han sido reventados, ¡es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu precisión es increíble. ¡Felicidades, lo estás haciendo genial! | ¡Increíble en <GameTitle>! No has fallado ni un globo, eres un campeón. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu puntería es excelente. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as del tiro. ¡Campeón!",
       "pt": "Você é um verdadeiro atirador de elite em <GameTitle>! Todos os bons balões foram estourados, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Sua precisão é incrível. Parabéns, você arrasa! | Incrível em <GameTitle>! Nenhum balão perdido, você é um campeão. Muito forte! | <GameTitle> não tem mais segredos para você! Sua mira é excelente. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um ás do tiro. Campeão!",
       "de": "Du bist ein echter Scharfschütze in <GameTitle>! Alle guten Ballons sind geplatzt, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Deine Genauigkeit ist unglaublich. Herzlichen Glückwunsch, du rockst! | Unglaublich in <GameTitle>! Kein Ballon verfehlt, du bist ein Champion. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Dein Zielen ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Schießass. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "PROVERB",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez reconstitué les proverbes en <score>.|Proverbes remis en ordre en <score>.|Temps de reconstitution : <score>.|Il vous a fallu <score> pour remettre chaque mot à sa place.|<score> pour retrouver la sagesse populaire.",
+      "us": "You rebuilt the proverbs in <score>.|Proverbs put back in order in <score>.|Rebuild time: <score>.|It took you <score> to put every word in its place.|<score> to piece together the old sayings.",
+      "it": "Hai ricostruito i proverbi in <score>.|Proverbi rimessi in ordine in <score>.|Tempo di ricostruzione: <score>.|Ti sono serviti <score> per rimettere ogni parola al suo posto.|<score> per ritrovare la saggezza popolare.",
+      "cn": "您用<score>拼好了谚语。|<score>内理顺了谚语。|拼句用时：<score>。|您用了<score>把每个词放回原位。|<score>找回民间智慧。",
+      "nl": "Je hebt de spreekwoorden in <score> opnieuw samengesteld.|Spreekwoorden op volgorde in <score>.|Hersteltijd: <score>.|Je had <score> nodig om elk woord op zijn plaats te zetten.|<score> om de volkswijsheid terug te vinden.",
+      "es": "Has reconstruido los refranes en <score>.|Refranes ordenados en <score>.|Tiempo de reconstrucción: <score>.|Te ha llevado <score> colocar cada palabra en su sitio.|<score> para recuperar la sabiduría popular.",
+      "pt": "Você reconstruiu os provérbios em <score>.|Provérbios ordenados em <score>.|Tempo de reconstrução: <score>.|Você levou <score> para colocar cada palavra no lugar.|<score> para recuperar a sabedoria popular.",
+      "de": "Sie haben die Sprichwörter in <score> zusammengesetzt.|Sprichwörter geordnet in <score>.|Zeit fürs Zusammensetzen: <score>.|Sie haben <score> gebraucht, um jedes Wort an seinen Platz zu bringen.|<score>, um die Volksweisheit wiederzufinden."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "PROVERB",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as reconstitué les proverbes en <score>.|Proverbes remis en ordre en <score>.|Temps de reconstitution : <score>.|Il t'a fallu <score> pour remettre chaque mot à sa place.|<score> pour retrouver la sagesse populaire.",
+      "us": "You rebuilt the proverbs in <score>.|Proverbs put back in order in <score>.|Rebuild time: <score>.|It took you <score> to put every word in its place.|<score> to piece together the old sayings.",
+      "it": "Hai ricostruito i proverbi in <score>.|Proverbi rimessi in ordine in <score>.|Tempo di ricostruzione: <score>.|Ti sono serviti <score> per rimettere ogni parola al suo posto.|<score> per ritrovare la saggezza popolare.",
+      "cn": "你用<score>拼好了谚语。|<score>内理顺了谚语。|拼句用时：<score>。|你用了<score>把每个词放回原位。|<score>找回民间智慧。",
+      "nl": "Je hebt de spreekwoorden in <score> opnieuw samengesteld.|Spreekwoorden op volgorde in <score>.|Hersteltijd: <score>.|Je had <score> nodig om elk woord op zijn plaats te zetten.|<score> om de volkswijsheid terug te vinden.",
+      "es": "Has reconstruido los refranes en <score>.|Refranes ordenados en <score>.|Tiempo de reconstrucción: <score>.|Te ha llevado <score> colocar cada palabra en su sitio.|<score> para recuperar la sabiduría popular.",
+      "pt": "Você reconstruiu os provérbios em <score>.|Provérbios ordenados em <score>.|Tempo de reconstrução: <score>.|Você levou <score> para colocar cada palavra no lugar.|<score> para recuperar a sabedoria popular.",
+      "de": "Du hast die Sprichwörter in <score> zusammengesetzt.|Sprichwörter geordnet in <score>.|Zeit fürs Zusammensetzen: <score>.|Du hast <score> gebraucht, um jedes Wort an seinen Platz zu bringen.|<score>, um die Volksweisheit wiederzufinden."
     }
   },
   {
@@ -4149,6 +4557,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "MUSIC",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez reconnu tous les sons en <score>.|Écoute terminée en <score>.|Temps d'écoute : <score>.|Il vous a fallu <score> pour identifier chaque son.|<score> l'oreille tendue.",
+      "us": "You recognized every sound in <score>.|Listening done in <score>.|Listening time: <score>.|It took you <score> to identify each sound.|<score> with your ears wide open.",
+      "it": "Hai riconosciuto tutti i suoni in <score>.|Ascolto terminato in <score>.|Tempo di ascolto: <score>.|Ti sono serviti <score> per identificare ogni suono.|<score> con le orecchie tese.",
+      "cn": "您用<score>听出了所有声音。|<score>内完成了聆听。|聆听用时：<score>。|您用了<score>辨认每个声音。|竖起耳朵听了<score>。",
+      "nl": "Je hebt alle geluiden in <score> herkend.|Luisteren klaar in <score>.|Luistertijd: <score>.|Je had <score> nodig om elk geluid te herkennen.|<score> met gespitste oren.",
+      "es": "Has reconocido todos los sonidos en <score>.|Escucha terminada en <score>.|Tiempo de escucha: <score>.|Te ha llevado <score> identificar cada sonido.|<score> con el oído atento.",
+      "pt": "Você reconheceu todos os sons em <score>.|Escuta concluída em <score>.|Tempo de escuta: <score>.|Você levou <score> para identificar cada som.|<score> com os ouvidos atentos.",
+      "de": "Sie haben alle Klänge in <score> erkannt.|Zuhören beendet in <score>.|Hörzeit: <score>.|Sie haben <score> gebraucht, um jeden Klang zu erkennen.|<score> mit gespitzten Ohren."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "MUSIC",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as reconnu tous les sons en <score>.|Écoute terminée en <score>.|Temps d'écoute : <score>.|Il t'a fallu <score> pour identifier chaque son.|<score> l'oreille tendue.",
+      "us": "You recognized every sound in <score>.|Listening done in <score>.|Listening time: <score>.|It took you <score> to identify each sound.|<score> with your ears wide open.",
+      "it": "Hai riconosciuto tutti i suoni in <score>.|Ascolto terminato in <score>.|Tempo di ascolto: <score>.|Ti sono serviti <score> per identificare ogni suono.|<score> con le orecchie tese.",
+      "cn": "你用<score>听出了所有声音。|<score>内完成了聆听。|聆听用时：<score>。|你用了<score>辨认每个声音。|竖起耳朵听了<score>。",
+      "nl": "Je hebt alle geluiden in <score> herkend.|Luisteren klaar in <score>.|Luistertijd: <score>.|Je had <score> nodig om elk geluid te herkennen.|<score> met gespitste oren.",
+      "es": "Has reconocido todos los sonidos en <score>.|Escucha terminada en <score>.|Tiempo de escucha: <score>.|Te ha llevado <score> identificar cada sonido.|<score> con el oído atento.",
+      "pt": "Você reconheceu todos os sons em <score>.|Escuta concluída em <score>.|Tempo de escuta: <score>.|Você levou <score> para identificar cada som.|<score> com os ouvidos atentos.",
+      "de": "Du hast alle Klänge in <score> erkannt.|Zuhören beendet in <score>.|Hörzeit: <score>.|Du hast <score> gebraucht, um jeden Klang zu erkennen.|<score> mit gespitzten Ohren."
+    }
+  },
+  {
     "game": "MUSIC",
     "apps": [
       "PAPY",
@@ -4302,6 +4744,40 @@
       "es": "¡Tienes oído absoluto en <GameTitle>! Todos los sonidos han sido reconocidos, ¡es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu memoria auditiva es increíble. ¡Felicidades, lo estás haciendo genial! | ¡Increíble en <GameTitle>! Ningún sonido se te escapa, eres un campeón. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu oído es excepcional. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as de la escucha. ¡Campeón!",
       "pt": "Você tem ouvido absoluto em <GameTitle>! Todos os sons foram reconhecidos, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Sua memória auditiva é incrível. Parabéns, você está arrasando! | Incrível em <GameTitle>! Nenhum som escapa de você, você é um campeão. Muito forte! | <GameTitle> não tem mais segredos para você! Seu ouvido é de primeira. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um ás da escuta. Campeão!",
       "de": "Du hast ein absolutes Gehör in <GameTitle>! Alle Klänge wurden erkannt, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Dein auditives Gedächtnis ist unglaublich. Herzlichen Glückwunsch, du machst das großartig! | Unglaublich in <GameTitle>! Kein Ton entgeht dir, du bist ein Champion. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Dein Gehör ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ass im Zuhören. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "QUIZZLE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez répondu à toutes les questions en <score>.|Quiz bouclé en <score>.|Temps de réflexion : <score>.|Il vous a fallu <score> pour venir à bout du quiz.|<score> de culture générale.",
+      "us": "You answered every question in <score>.|Quiz wrapped up in <score>.|Thinking time: <score>.|It took you <score> to get through the quiz.|<score> of general knowledge.",
+      "it": "Hai risposto a tutte le domande in <score>.|Quiz concluso in <score>.|Tempo di riflessione: <score>.|Ti sono serviti <score> per completare il quiz.|<score> di cultura generale.",
+      "cn": "您用<score>答完了所有问题。|<score>内完成了问答。|思考用时：<score>。|您用了<score>完成问答。|<score>的常识挑战。",
+      "nl": "Je hebt alle vragen in <score> beantwoord.|Quiz afgerond in <score>.|Bedenktijd: <score>.|Je had <score> nodig om de quiz te voltooien.|<score> algemene kennis.",
+      "es": "Has respondido todas las preguntas en <score>.|Quiz terminado en <score>.|Tiempo de reflexión: <score>.|Te ha llevado <score> completar el quiz.|<score> de cultura general.",
+      "pt": "Você respondeu a todas as perguntas em <score>.|Quiz concluído em <score>.|Tempo de reflexão: <score>.|Você levou <score> para concluir o quiz.|<score> de cultura geral.",
+      "de": "Sie haben alle Fragen in <score> beantwortet.|Quiz abgeschlossen in <score>.|Bedenkzeit: <score>.|Sie haben <score> gebraucht, um das Quiz zu meistern.|<score> Allgemeinwissen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "QUIZZLE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as répondu à toutes les questions en <score>.|Quiz bouclé en <score>.|Temps de réflexion : <score>.|Il t'a fallu <score> pour venir à bout du quiz.|<score> de culture générale.",
+      "us": "You answered every question in <score>.|Quiz wrapped up in <score>.|Thinking time: <score>.|It took you <score> to get through the quiz.|<score> of general knowledge.",
+      "it": "Hai risposto a tutte le domande in <score>.|Quiz concluso in <score>.|Tempo di riflessione: <score>.|Ti sono serviti <score> per completare il quiz.|<score> di cultura generale.",
+      "cn": "你用<score>答完了所有问题。|<score>内完成了问答。|思考用时：<score>。|你用了<score>完成问答。|<score>的常识挑战。",
+      "nl": "Je hebt alle vragen in <score> beantwoord.|Quiz afgerond in <score>.|Bedenktijd: <score>.|Je had <score> nodig om de quiz te voltooien.|<score> algemene kennis.",
+      "es": "Has respondido todas las preguntas en <score>.|Quiz terminado en <score>.|Tiempo de reflexión: <score>.|Te ha llevado <score> completar el quiz.|<score> de cultura general.",
+      "pt": "Você respondeu a todas as perguntas em <score>.|Quiz concluído em <score>.|Tempo de reflexão: <score>.|Você levou <score> para concluir o quiz.|<score> de cultura geral.",
+      "de": "Du hast alle Fragen in <score> beantwortet.|Quiz abgeschlossen in <score>.|Bedenkzeit: <score>.|Du hast <score> gebraucht, um das Quiz zu meistern.|<score> Allgemeinwissen."
     }
   },
   {
@@ -4597,6 +5073,40 @@
     }
   },
   {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "SCROLLANDCATCH",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez attrapé <score> ballons.|<score> ballons de la bonne couleur.|Ballons attrapés : <score>.|<score> ballons saisis au vol.|Vous avez repéré <score> bons ballons.",
+      "us": "You caught <score> balloons.|<score> balloons of the right color.|Balloons caught: <score>.|<score> balloons snatched in flight.|You spotted <score> right balloons.",
+      "it": "Hai preso <score> palloncini.|<score> palloncini del colore giusto.|Palloncini presi: <score>.|<score> palloncini acchiappati al volo.|Hai individuato <score> palloncini giusti.",
+      "cn": "您抓住了<score>个气球。|<score>个颜色正确的气球。|抓住的气球：<score>。|空中抓住<score>个气球。|您认出了<score>个正确的气球。",
+      "nl": "Je hebt <score> ballonnen gevangen.|<score> ballonnen in de juiste kleur.|Gevangen ballonnen: <score>.|<score> ballonnen in de vlucht gegrepen.|Je hebt <score> goede ballonnen gezien.",
+      "es": "Has atrapado <score> globos.|<score> globos del color correcto.|Globos atrapados: <score>.|<score> globos cazados al vuelo.|Has localizado <score> globos correctos.",
+      "pt": "Você pegou <score> balões.|<score> balões da cor certa.|Balões pegos: <score>.|<score> balões agarrados no ar.|Você encontrou <score> balões certos.",
+      "de": "Sie haben <score> Ballons gefangen.|<score> Ballons in der richtigen Farbe.|Gefangene Ballons: <score>.|<score> Ballons im Flug geschnappt.|Sie haben <score> richtige Ballons entdeckt."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "SCROLLANDCATCH",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as attrapé <score> ballons.|<score> ballons de la bonne couleur.|Ballons attrapés : <score>.|<score> ballons saisis au vol.|Tu as repéré <score> bons ballons.",
+      "us": "You caught <score> balloons.|<score> balloons of the right color.|Balloons caught: <score>.|<score> balloons snatched in flight.|You spotted <score> right balloons.",
+      "it": "Hai preso <score> palloncini.|<score> palloncini del colore giusto.|Palloncini presi: <score>.|<score> palloncini acchiappati al volo.|Hai individuato <score> palloncini giusti.",
+      "cn": "你抓住了<score>个气球。|<score>个颜色正确的气球。|抓住的气球：<score>。|空中抓住<score>个气球。|你认出了<score>个正确的气球。",
+      "nl": "Je hebt <score> ballonnen gevangen.|<score> ballonnen in de juiste kleur.|Gevangen ballonnen: <score>.|<score> ballonnen in de vlucht gegrepen.|Je hebt <score> goede ballonnen gezien.",
+      "es": "Has atrapado <score> globos.|<score> globos del color correcto.|Globos atrapados: <score>.|<score> globos cazados al vuelo.|Has localizado <score> globos correctos.",
+      "pt": "Você pegou <score> balões.|<score> balões da cor certa.|Balões pegos: <score>.|<score> balões agarrados no ar.|Você encontrou <score> balões certos.",
+      "de": "Du hast <score> Ballons gefangen.|<score> Ballons in der richtigen Farbe.|Gefangene Ballons: <score>.|<score> Ballons im Flug geschnappt.|Du hast <score> richtige Ballons entdeckt."
+    }
+  },
+  {
     "game": "SCROLLANDCATCH",
     "apps": [
       "PAPY",
@@ -4750,6 +5260,40 @@
       "es": "¡Tienes un ojo infalible en <GameTitle>! Todos los buenos globos han sido detectados, ¡es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu concentración es increíble. ¡Felicidades, lo estás manejando! | ¡Increíble en <GameTitle>! No hay un solo error, eres un campeón. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu atención es de primera. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as de la atención. ¡Campeón!",
       "pt": "Você tem um olho infalível em <GameTitle>! Todos os bons balões foram avistados, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Sua concentração é incrível. Parabéns, você está arrasando! | Incrível em <GameTitle>! Nenhum erro, você é um campeão. Muito forte! | <GameTitle> não tem mais segredos para você! Sua atenção está no topo. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um ás da atenção. Campeão!",
       "de": "Du hast ein unfehlbares Auge in <GameTitle>! Alle guten Ballons wurden entdeckt, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Deine Konzentration ist unglaublich. Herzlichen Glückwunsch, du machst das großartig! | Unglaublich in <GameTitle>! Kein einziger Fehler, du bist ein Champion. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Deine Aufmerksamkeit ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ass der Aufmerksamkeit. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "SEQUENCE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez complété <score> suites.|<score> suites résolues.|Suites trouvées : <score>.|<score> logiques percées à jour.|Vous avez deviné la suite <score> fois.",
+      "us": "You completed <score> sequences.|<score> sequences solved.|Sequences found: <score>.|<score> patterns cracked.|You guessed what comes next <score> times.",
+      "it": "Hai completato <score> sequenze.|<score> sequenze risolte.|Sequenze trovate: <score>.|<score> logiche svelate.|Hai indovinato il seguito <score> volte.",
+      "cn": "您完成了<score>个序列。|解出<score>个序列。|找到的序列：<score>。|破解了<score>个规律。|您<score>次猜中了下一项。",
+      "nl": "Je hebt <score> reeksen aangevuld.|<score> reeksen opgelost.|Gevonden reeksen: <score>.|<score> patronen ontrafeld.|Je hebt <score> keer geraden wat er volgt.",
+      "es": "Has completado <score> secuencias.|<score> secuencias resueltas.|Secuencias encontradas: <score>.|<score> lógicas descifradas.|Has adivinado la continuación <score> veces.",
+      "pt": "Você completou <score> sequências.|<score> sequências resolvidas.|Sequências encontradas: <score>.|<score> lógicas desvendadas.|Você adivinhou a continuação <score> vezes.",
+      "de": "Sie haben <score> Folgen vervollständigt.|<score> Folgen gelöst.|Gefundene Folgen: <score>.|<score> Muster durchschaut.|Sie haben <score>-mal erraten, was folgt."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "SEQUENCE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as complété <score> suites.|<score> suites résolues.|Suites trouvées : <score>.|<score> logiques percées à jour.|Tu as deviné la suite <score> fois.",
+      "us": "You completed <score> sequences.|<score> sequences solved.|Sequences found: <score>.|<score> patterns cracked.|You guessed what comes next <score> times.",
+      "it": "Hai completato <score> sequenze.|<score> sequenze risolte.|Sequenze trovate: <score>.|<score> logiche svelate.|Hai indovinato il seguito <score> volte.",
+      "cn": "你完成了<score>个序列。|解出<score>个序列。|找到的序列：<score>。|破解了<score>个规律。|你<score>次猜中了下一项。",
+      "nl": "Je hebt <score> reeksen aangevuld.|<score> reeksen opgelost.|Gevonden reeksen: <score>.|<score> patronen ontrafeld.|Je hebt <score> keer geraden wat er volgt.",
+      "es": "Has completado <score> secuencias.|<score> secuencias resueltas.|Secuencias encontradas: <score>.|<score> lógicas descifradas.|Has adivinado la continuación <score> veces.",
+      "pt": "Você completou <score> sequências.|<score> sequências resolvidas.|Sequências encontradas: <score>.|<score> lógicas desvendadas.|Você adivinhou a continuação <score> vezes.",
+      "de": "Du hast <score> Folgen vervollständigt.|<score> Folgen gelöst.|Gefundene Folgen: <score>.|<score> Muster durchschaut.|Du hast <score>-mal erraten, was folgt."
     }
   },
   {
@@ -5221,6 +5765,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "SLIDE_MAZE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez atteint l'arrivée en <score>.|Labyrinthe traversé en <score>.|Temps de parcours : <score>.|Il vous a fallu <score> pour sortir du labyrinthe.|<score> de glissades jusqu'au but.",
+      "us": "You reached the finish in <score>.|Maze crossed in <score>.|Route time: <score>.|It took you <score> to get out of the maze.|<score> of sliding to the goal.",
+      "it": "Hai raggiunto l'arrivo in <score>.|Labirinto attraversato in <score>.|Tempo di percorso: <score>.|Ti sono serviti <score> per uscire dal labirinto.|<score> di scivolate fino al traguardo.",
+      "cn": "您用<score>到达了终点。|<score>内穿过了迷宫。|路线用时：<score>。|您用了<score>走出迷宫。|滑行<score>抵达终点。",
+      "nl": "Je hebt de finish in <score> bereikt.|Doolhof doorkruist in <score>.|Routetijd: <score>.|Je had <score> nodig om uit het doolhof te komen.|<score> glijden tot aan het doel.",
+      "es": "Has llegado a la meta en <score>.|Laberinto recorrido en <score>.|Tiempo de recorrido: <score>.|Te ha llevado <score> salir del laberinto.|<score> deslizándote hasta la meta.",
+      "pt": "Você chegou ao final em <score>.|Labirinto atravessado em <score>.|Tempo de percurso: <score>.|Você levou <score> para sair do labirinto.|<score> deslizando até o objetivo.",
+      "de": "Sie haben das Ziel in <score> erreicht.|Labyrinth durchquert in <score>.|Wegzeit: <score>.|Sie haben <score> gebraucht, um aus dem Labyrinth zu finden.|<score> Rutschpartie bis zum Ziel."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "SLIDE_MAZE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as atteint l'arrivée en <score>.|Labyrinthe traversé en <score>.|Temps de parcours : <score>.|Il t'a fallu <score> pour sortir du labyrinthe.|<score> de glissades jusqu'au but.",
+      "us": "You reached the finish in <score>.|Maze crossed in <score>.|Route time: <score>.|It took you <score> to get out of the maze.|<score> of sliding to the goal.",
+      "it": "Hai raggiunto l'arrivo in <score>.|Labirinto attraversato in <score>.|Tempo di percorso: <score>.|Ti sono serviti <score> per uscire dal labirinto.|<score> di scivolate fino al traguardo.",
+      "cn": "你用<score>到达了终点。|<score>内穿过了迷宫。|路线用时：<score>。|你用了<score>走出迷宫。|滑行<score>抵达终点。",
+      "nl": "Je hebt de finish in <score> bereikt.|Doolhof doorkruist in <score>.|Routetijd: <score>.|Je had <score> nodig om uit het doolhof te komen.|<score> glijden tot aan het doel.",
+      "es": "Has llegado a la meta en <score>.|Laberinto recorrido en <score>.|Tiempo de recorrido: <score>.|Te ha llevado <score> salir del laberinto.|<score> deslizándote hasta la meta.",
+      "pt": "Você chegou ao final em <score>.|Labirinto atravessado em <score>.|Tempo de percurso: <score>.|Você levou <score> para sair do labirinto.|<score> deslizando até o objetivo.",
+      "de": "Du hast das Ziel in <score> erreicht.|Labyrinth durchquert in <score>.|Wegzeit: <score>.|Du hast <score> gebraucht, um aus dem Labyrinth zu finden.|<score> Rutschpartie bis zum Ziel."
+    }
+  },
+  {
     "game": "SLIDE_MAZE",
     "apps": [
       "PAPY"
@@ -5582,6 +6160,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "SYLLABUS",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez formé tous les mots en <score>.|Mots reconstitués en <score>.|Temps d'assemblage : <score>.|Il vous a fallu <score> pour relier toutes les syllabes.|<score> pour retrouver chaque mot.",
+      "us": "You built every word in <score>.|Words put together in <score>.|Assembly time: <score>.|It took you <score> to link all the syllables.|<score> to find each word.",
+      "it": "Hai formato tutte le parole in <score>.|Parole ricostruite in <score>.|Tempo di assemblaggio: <score>.|Ti sono serviti <score> per collegare tutte le sillabe.|<score> per ritrovare ogni parola.",
+      "cn": "您用<score>拼出了所有词语。|<score>内拼好了词语。|拼词用时：<score>。|您用了<score>连好所有音节。|<score>找回每个词。",
+      "nl": "Je hebt alle woorden in <score> gevormd.|Woorden samengesteld in <score>.|Bouwtijd: <score>.|Je had <score> nodig om alle lettergrepen te verbinden.|<score> om elk woord te vinden.",
+      "es": "Has formado todas las palabras en <score>.|Palabras reconstruidas en <score>.|Tiempo de montaje: <score>.|Te ha llevado <score> unir todas las sílabas.|<score> para encontrar cada palabra.",
+      "pt": "Você formou todas as palavras em <score>.|Palavras montadas em <score>.|Tempo de montagem: <score>.|Você levou <score> para ligar todas as sílabas.|<score> para encontrar cada palavra.",
+      "de": "Sie haben alle Wörter in <score> gebildet.|Wörter zusammengesetzt in <score>.|Bauzeit: <score>.|Sie haben <score> gebraucht, um alle Silben zu verbinden.|<score>, um jedes Wort zu finden."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "SYLLABUS",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as formé tous les mots en <score>.|Mots reconstitués en <score>.|Temps d'assemblage : <score>.|Il t'a fallu <score> pour relier toutes les syllabes.|<score> pour retrouver chaque mot.",
+      "us": "You built every word in <score>.|Words put together in <score>.|Assembly time: <score>.|It took you <score> to link all the syllables.|<score> to find each word.",
+      "it": "Hai formato tutte le parole in <score>.|Parole ricostruite in <score>.|Tempo di assemblaggio: <score>.|Ti sono serviti <score> per collegare tutte le sillabe.|<score> per ritrovare ogni parola.",
+      "cn": "你用<score>拼出了所有词语。|<score>内拼好了词语。|拼词用时：<score>。|你用了<score>连好所有音节。|<score>找回每个词。",
+      "nl": "Je hebt alle woorden in <score> gevormd.|Woorden samengesteld in <score>.|Bouwtijd: <score>.|Je had <score> nodig om alle lettergrepen te verbinden.|<score> om elk woord te vinden.",
+      "es": "Has formado todas las palabras en <score>.|Palabras reconstruidas en <score>.|Tiempo de montaje: <score>.|Te ha llevado <score> unir todas las sílabas.|<score> para encontrar cada palabra.",
+      "pt": "Você formou todas as palavras em <score>.|Palavras montadas em <score>.|Tempo de montagem: <score>.|Você levou <score> para ligar todas as sílabas.|<score> para encontrar cada palavra.",
+      "de": "Du hast alle Wörter in <score> gebildet.|Wörter zusammengesetzt in <score>.|Bauzeit: <score>.|Du hast <score> gebraucht, um alle Silben zu verbinden.|<score>, um jedes Wort zu finden."
+    }
+  },
+  {
     "game": "SYLLABUS",
     "apps": [
       "PAPY",
@@ -5735,6 +6347,40 @@
       "es": "¡Eres un verdadero mago de las sílabas en <GameTitle>! Todas las palabras han sido reconstruidas, ¡es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu oído es increíble. ¡Felicidades, lo estás haciendo genial! | ¡Increíble en <GameTitle>! No se te escapa ninguna palabra, eres un campeón. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu sentido del sonido es excepcional. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as de las sílabas. ¡Campeón!",
       "pt": "Você é um verdadeiro mágico das sílabas em <GameTitle>! Todas as palavras foram reconstruídas, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Seu ouvido é incrível. Parabéns, você arrasa! | Incrível em <GameTitle>! Nenhuma palavra escapa de você, você é um campeão. Muito forte! | <GameTitle> não tem mais segredos para você! Seu senso de sons é o máximo. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um craque nas sílabas. Campeão!",
       "de": "Du bist ein wahrer Zauberer der Silben in <GameTitle>! Alle Wörter wurden rekonstruiert, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Dein Gehör ist unglaublich. Herzlichen Glückwunsch, du rockst! | Unglaublich in <GameTitle>! Kein Wort entgeht dir, du bist ein Champion. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Dein Gespür für Klänge ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ass der Silben. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "TIMELINE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez remis l'histoire dans l'ordre en <score>.|Frise complétée en <score>.|Voyage dans le temps : <score>.|Il vous a fallu <score> pour placer chaque événement.|<score> pour remonter le fil du temps.",
+      "us": "You put history back in order in <score>.|Timeline completed in <score>.|Time travel: <score>.|It took you <score> to place every event.|<score> to follow the thread of time.",
+      "it": "Hai rimesso in ordine la storia in <score>.|Linea del tempo completata in <score>.|Viaggio nel tempo: <score>.|Ti sono serviti <score> per posizionare ogni evento.|<score> per risalire il filo del tempo.",
+      "cn": "您用<score>理顺了历史顺序。|<score>内完成了时间轴。|时光之旅：<score>。|您用了<score>摆好每个事件。|<score>追溯时间的脉络。",
+      "nl": "Je hebt de geschiedenis in <score> op volgorde gezet.|Tijdlijn voltooid in <score>.|Tijdreis: <score>.|Je had <score> nodig om elke gebeurtenis te plaatsen.|<score> om de draad van de tijd te volgen.",
+      "es": "Has ordenado la historia en <score>.|Línea del tiempo completada en <score>.|Viaje en el tiempo: <score>.|Te ha llevado <score> colocar cada acontecimiento.|<score> para seguir el hilo del tiempo.",
+      "pt": "Você colocou a história em ordem em <score>.|Linha do tempo concluída em <score>.|Viagem no tempo: <score>.|Você levou <score> para posicionar cada acontecimento.|<score> para seguir o fio do tempo.",
+      "de": "Sie haben die Geschichte in <score> geordnet.|Zeitleiste vervollständigt in <score>.|Zeitreise: <score>.|Sie haben <score> gebraucht, um jedes Ereignis einzuordnen.|<score>, um dem Faden der Zeit zu folgen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "TIMELINE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as remis l'histoire dans l'ordre en <score>.|Frise complétée en <score>.|Voyage dans le temps : <score>.|Il t'a fallu <score> pour placer chaque événement.|<score> pour remonter le fil du temps.",
+      "us": "You put history back in order in <score>.|Timeline completed in <score>.|Time travel: <score>.|It took you <score> to place every event.|<score> to follow the thread of time.",
+      "it": "Hai rimesso in ordine la storia in <score>.|Linea del tempo completata in <score>.|Viaggio nel tempo: <score>.|Ti sono serviti <score> per posizionare ogni evento.|<score> per risalire il filo del tempo.",
+      "cn": "你用<score>理顺了历史顺序。|<score>内完成了时间轴。|时光之旅：<score>。|你用了<score>摆好每个事件。|<score>追溯时间的脉络。",
+      "nl": "Je hebt de geschiedenis in <score> op volgorde gezet.|Tijdlijn voltooid in <score>.|Tijdreis: <score>.|Je had <score> nodig om elke gebeurtenis te plaatsen.|<score> om de draad van de tijd te volgen.",
+      "es": "Has ordenado la historia en <score>.|Línea del tiempo completada en <score>.|Viaje en el tiempo: <score>.|Te ha llevado <score> colocar cada acontecimiento.|<score> para seguir el hilo del tiempo.",
+      "pt": "Você colocou a história em ordem em <score>.|Linha do tempo concluída em <score>.|Viagem no tempo: <score>.|Você levou <score> para posicionar cada acontecimento.|<score> para seguir o fio do tempo.",
+      "de": "Du hast die Geschichte in <score> geordnet.|Zeitleiste vervollständigt in <score>.|Zeitreise: <score>.|Du hast <score> gebraucht, um jedes Ereignis einzuordnen.|<score>, um dem Faden der Zeit zu folgen."
     }
   },
   {
@@ -6050,6 +6696,40 @@
     }
   },
   {
+    "scoreMnemonic": "nbGoodAnswersDetails1",
+    "game": "WHACKAMOLE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez tapé <score> taupes.|<score> taupes renvoyées sous terre.|Taupes tapées : <score>.|<score> coups de maillet réussis.|Le jardin compte <score> taupes en moins.",
+      "us": "You whacked <score> moles.|<score> moles sent back underground.|Moles whacked: <score>.|<score> successful hammer hits.|The garden has <score> fewer moles.",
+      "it": "Hai colpito <score> talpe.|<score> talpe rispedite sottoterra.|Talpe colpite: <score>.|<score> colpi di martello riusciti.|Il giardino ha <score> talpe in meno.",
+      "cn": "您打中了<score>只地鼠。|<score>只地鼠被打回地下。|打中的地鼠：<score>。|成功敲击<score>次。|花园里少了<score>只地鼠。",
+      "nl": "Je hebt <score> mollen gemept.|<score> mollen terug onder de grond.|Gemepte mollen: <score>.|<score> geslaagde hamerslagen.|De tuin telt <score> mollen minder.",
+      "es": "Has golpeado <score> topos.|<score> topos devueltos bajo tierra.|Topos golpeados: <score>.|<score> martillazos certeros.|El jardín tiene <score> topos menos.",
+      "pt": "Você acertou <score> toupeiras.|<score> toupeiras mandadas de volta para a toca.|Toupeiras acertadas: <score>.|<score> marteladas certeiras.|O jardim tem <score> toupeiras a menos.",
+      "de": "Sie haben <score> Maulwürfe erwischt.|<score> Maulwürfe zurück unter die Erde.|Erwischte Maulwürfe: <score>.|<score> gelungene Hammerschläge.|Der Garten hat <score> Maulwürfe weniger."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswersDetails1",
+    "game": "WHACKAMOLE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as tapé <score> taupes.|<score> taupes renvoyées sous terre.|Taupes tapées : <score>.|<score> coups de maillet réussis.|Le jardin compte <score> taupes en moins.",
+      "us": "You whacked <score> moles.|<score> moles sent back underground.|Moles whacked: <score>.|<score> successful hammer hits.|The garden has <score> fewer moles.",
+      "it": "Hai colpito <score> talpe.|<score> talpe rispedite sottoterra.|Talpe colpite: <score>.|<score> colpi di martello riusciti.|Il giardino ha <score> talpe in meno.",
+      "cn": "你打中了<score>只地鼠。|<score>只地鼠被打回地下。|打中的地鼠：<score>。|成功敲击<score>次。|花园里少了<score>只地鼠。",
+      "nl": "Je hebt <score> mollen gemept.|<score> mollen terug onder de grond.|Gemepte mollen: <score>.|<score> geslaagde hamerslagen.|De tuin telt <score> mollen minder.",
+      "es": "Has golpeado <score> topos.|<score> topos devueltos bajo tierra.|Topos golpeados: <score>.|<score> martillazos certeros.|El jardín tiene <score> topos menos.",
+      "pt": "Você acertou <score> toupeiras.|<score> toupeiras mandadas de volta para a toca.|Toupeiras acertadas: <score>.|<score> marteladas certeiras.|O jardim tem <score> toupeiras a menos.",
+      "de": "Du hast <score> Maulwürfe erwischt.|<score> Maulwürfe zurück unter die Erde.|Erwischte Maulwürfe: <score>.|<score> gelungene Hammerschläge.|Der Garten hat <score> Maulwürfe weniger."
+    }
+  },
+  {
     "game": "WHACKAMOLE",
     "apps": [
       "PAPY",
@@ -6359,6 +7039,40 @@
       "es": "¡Eres un verdadero experto en el efecto dominó en <GameTitle>! ¡El muñeco de nieve está completo, es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu anticipación es increíble. ¡Felicidades, lo estás manejando! | ¡Increíble en <GameTitle>! No has olvidado una sola flecha, eres un campeón. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu lógica es de primera. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as en reacciones en cadena. ¡Campeón!",
       "pt": "Você é um verdadeiro especialista no efeito dominó em <GameTitle>! O boneco de neve está completo, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Sua antecipação é incrível. Parabéns, você está arrasando! | Incrível em <GameTitle>! Não esqueceu uma única seta, você é um campeão. Muito forte! | <GameTitle> não tem mais segredos para você! Sua lógica é de primeira. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um craque em reações em cadeia. Campeão!",
       "de": "Du bist ein wahrer Experte für den Dominoeffekt in <GameTitle>! Der Schneemann ist fertig, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Deine Antizipation ist unglaublich. Herzlichen Glückwunsch, du meisterst das! | Unglaublich in <GameTitle>! Kein Pfeil vergessen, du bist ein Champion. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Deine Logik ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ass in Kettenreaktionen. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "TANGRAM",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez reconstitué les figures en <score>.|Silhouettes complétées en <score>.|Temps d'assemblage : <score>.|Il vous a fallu <score> pour placer toutes les pièces.|<score> pour assembler les sept pièces.",
+      "us": "You rebuilt the shapes in <score>.|Silhouettes completed in <score>.|Assembly time: <score>.|It took you <score> to place every piece.|<score> to fit the seven pieces together.",
+      "it": "Hai ricomposto le figure in <score>.|Sagome completate in <score>.|Tempo di assemblaggio: <score>.|Ti sono serviti <score> per posizionare tutti i pezzi.|<score> per incastrare i sette pezzi.",
+      "cn": "您用<score>拼出了图形。|<score>内完成了剪影。|拼装用时：<score>。|您用了<score>摆好所有拼块。|<score>拼合七巧板。",
+      "nl": "Je hebt de figuren in <score> nagebouwd.|Silhouetten voltooid in <score>.|Bouwtijd: <score>.|Je had <score> nodig om alle stukken te plaatsen.|<score> om de zeven stukken te passen.",
+      "es": "Has recompuesto las figuras en <score>.|Siluetas completadas en <score>.|Tiempo de montaje: <score>.|Te ha llevado <score> colocar todas las piezas.|<score> para encajar las siete piezas.",
+      "pt": "Você recompôs as figuras em <score>.|Silhuetas completadas em <score>.|Tempo de montagem: <score>.|Você levou <score> para posicionar todas as peças.|<score> para encaixar as sete peças.",
+      "de": "Sie haben die Figuren in <score> nachgelegt.|Silhouetten vervollständigt in <score>.|Legezeit: <score>.|Sie haben <score> gebraucht, um alle Teile zu platzieren.|<score>, um die sieben Teile zusammenzufügen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "TANGRAM",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as reconstitué les figures en <score>.|Silhouettes complétées en <score>.|Temps d'assemblage : <score>.|Il t'a fallu <score> pour placer toutes les pièces.|<score> pour assembler les sept pièces.",
+      "us": "You rebuilt the shapes in <score>.|Silhouettes completed in <score>.|Assembly time: <score>.|It took you <score> to place every piece.|<score> to fit the seven pieces together.",
+      "it": "Hai ricomposto le figure in <score>.|Sagome completate in <score>.|Tempo di assemblaggio: <score>.|Ti sono serviti <score> per posizionare tutti i pezzi.|<score> per incastrare i sette pezzi.",
+      "cn": "你用<score>拼出了图形。|<score>内完成了剪影。|拼装用时：<score>。|你用了<score>摆好所有拼块。|<score>拼合七巧板。",
+      "nl": "Je hebt de figuren in <score> nagebouwd.|Silhouetten voltooid in <score>.|Bouwtijd: <score>.|Je had <score> nodig om alle stukken te plaatsen.|<score> om de zeven stukken te passen.",
+      "es": "Has recompuesto las figuras en <score>.|Siluetas completadas en <score>.|Tiempo de montaje: <score>.|Te ha llevado <score> colocar todas las piezas.|<score> para encajar las siete piezas.",
+      "pt": "Você recompôs as figuras em <score>.|Silhuetas completadas em <score>.|Tempo de montagem: <score>.|Você levou <score> para posicionar todas as peças.|<score> para encaixar as sete peças.",
+      "de": "Du hast die Figuren in <score> nachgelegt.|Silhouetten vervollständigt in <score>.|Legezeit: <score>.|Du hast <score> gebraucht, um alle Teile zu platzieren.|<score>, um die sieben Teile zusammenzufügen."
     }
   },
   {
@@ -6830,6 +7544,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "WORDLE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez trouvé les mots en <score>.|Grilles résolues en <score>.|Temps de recherche : <score>.|Il vous a fallu <score> pour deviner chaque mot.|<score> pour percer les mots mystères.",
+      "us": "You found the words in <score>.|Grids solved in <score>.|Search time: <score>.|It took you <score> to guess each word.|<score> to crack the mystery words.",
+      "it": "Hai trovato le parole in <score>.|Griglie risolte in <score>.|Tempo di ricerca: <score>.|Ti sono serviti <score> per indovinare ogni parola.|<score> per svelare le parole misteriose.",
+      "cn": "您用<score>找到了单词。|<score>内解开了字谜。|搜索用时：<score>。|您用了<score>猜出每个单词。|<score>破解神秘单词。",
+      "nl": "Je hebt de woorden in <score> gevonden.|Roosters opgelost in <score>.|Zoektijd: <score>.|Je had <score> nodig om elk woord te raden.|<score> om de mysteriewoorden te kraken.",
+      "es": "Has encontrado las palabras en <score>.|Cuadrículas resueltas en <score>.|Tiempo de búsqueda: <score>.|Te ha llevado <score> adivinar cada palabra.|<score> para descifrar las palabras misteriosas.",
+      "pt": "Você encontrou as palavras em <score>.|Grades resolvidas em <score>.|Tempo de busca: <score>.|Você levou <score> para adivinhar cada palavra.|<score> para desvendar as palavras misteriosas.",
+      "de": "Sie haben die Wörter in <score> gefunden.|Rätsel gelöst in <score>.|Suchzeit: <score>.|Sie haben <score> gebraucht, um jedes Wort zu erraten.|<score>, um die Geheimwörter zu knacken."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "WORDLE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as trouvé les mots en <score>.|Grilles résolues en <score>.|Temps de recherche : <score>.|Il t'a fallu <score> pour deviner chaque mot.|<score> pour percer les mots mystères.",
+      "us": "You found the words in <score>.|Grids solved in <score>.|Search time: <score>.|It took you <score> to guess each word.|<score> to crack the mystery words.",
+      "it": "Hai trovato le parole in <score>.|Griglie risolte in <score>.|Tempo di ricerca: <score>.|Ti sono serviti <score> per indovinare ogni parola.|<score> per svelare le parole misteriose.",
+      "cn": "你用<score>找到了单词。|<score>内解开了字谜。|搜索用时：<score>。|你用了<score>猜出每个单词。|<score>破解神秘单词。",
+      "nl": "Je hebt de woorden in <score> gevonden.|Roosters opgelost in <score>.|Zoektijd: <score>.|Je had <score> nodig om elk woord te raden.|<score> om de mysteriewoorden te kraken.",
+      "es": "Has encontrado las palabras en <score>.|Cuadrículas resueltas en <score>.|Tiempo de búsqueda: <score>.|Te ha llevado <score> adivinar cada palabra.|<score> para descifrar las palabras misteriosas.",
+      "pt": "Você encontrou as palavras em <score>.|Grades resolvidas em <score>.|Tempo de busca: <score>.|Você levou <score> para adivinhar cada palavra.|<score> para desvendar as palavras misteriosas.",
+      "de": "Du hast die Wörter in <score> gefunden.|Rätsel gelöst in <score>.|Suchzeit: <score>.|Du hast <score> gebraucht, um jedes Wort zu erraten.|<score>, um die Geheimwörter zu knacken."
+    }
+  },
+  {
     "game": "WORDLE",
     "apps": [
       "PAPY",
@@ -6986,6 +7734,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "SNAKE",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Votre serpent a fait son repas en <score>.|Partie de serpent bouclée en <score>.|Temps de chasse : <score>.|Il vous a fallu <score> pour attraper toutes les proies.|<score> à guider le serpent.",
+      "us": "Your snake finished its meal in <score>.|Snake game wrapped up in <score>.|Hunting time: <score>.|It took you <score> to catch all the prey.|<score> guiding the snake.",
+      "it": "Il tuo serpente ha finito il pasto in <score>.|Partita a Snake conclusa in <score>.|Tempo di caccia: <score>.|Ti sono serviti <score> per catturare tutte le prede.|<score> a guidare il serpente.",
+      "cn": "您的蛇用<score>吃完了大餐。|<score>内完成了贪吃蛇。|捕猎用时：<score>。|您用了<score>抓住所有猎物。|引导小蛇<score>。",
+      "nl": "Je slang was in <score> klaar met eten.|Slangenspel afgerond in <score>.|Jachttijd: <score>.|Je had <score> nodig om alle prooien te vangen.|<score> de slang besturen.",
+      "es": "Tu serpiente terminó su comida en <score>.|Partida de serpiente terminada en <score>.|Tiempo de caza: <score>.|Te ha llevado <score> atrapar todas las presas.|<score> guiando a la serpiente.",
+      "pt": "Sua cobra terminou a refeição em <score>.|Partida da cobrinha concluída em <score>.|Tempo de caça: <score>.|Você levou <score> para pegar todas as presas.|<score> guiando a cobra.",
+      "de": "Ihre Schlange hat ihr Mahl in <score> beendet.|Schlangenspiel beendet in <score>.|Jagdzeit: <score>.|Sie haben <score> gebraucht, um alle Beutetiere zu fangen.|<score> am Steuer der Schlange."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "SNAKE",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Ton serpent a fait son repas en <score>.|Partie de serpent bouclée en <score>.|Temps de chasse : <score>.|Il t'a fallu <score> pour attraper toutes les proies.|<score> à guider le serpent.",
+      "us": "Your snake finished its meal in <score>.|Snake game wrapped up in <score>.|Hunting time: <score>.|It took you <score> to catch all the prey.|<score> guiding the snake.",
+      "it": "Il tuo serpente ha finito il pasto in <score>.|Partita a Snake conclusa in <score>.|Tempo di caccia: <score>.|Ti sono serviti <score> per catturare tutte le prede.|<score> a guidare il serpente.",
+      "cn": "你的蛇用<score>吃完了大餐。|<score>内完成了贪吃蛇。|捕猎用时：<score>。|你用了<score>抓住所有猎物。|引导小蛇<score>。",
+      "nl": "Je slang was in <score> klaar met eten.|Slangenspel afgerond in <score>.|Jachttijd: <score>.|Je had <score> nodig om alle prooien te vangen.|<score> de slang besturen.",
+      "es": "Tu serpiente terminó su comida en <score>.|Partida de serpiente terminada en <score>.|Tiempo de caza: <score>.|Te ha llevado <score> atrapar todas las presas.|<score> guiando a la serpiente.",
+      "pt": "Sua cobra terminou a refeição em <score>.|Partida da cobrinha concluída em <score>.|Tempo de caça: <score>.|Você levou <score> para pegar todas as presas.|<score> guiando a cobra.",
+      "de": "Deine Schlange hat ihr Mahl in <score> beendet.|Schlangenspiel beendet in <score>.|Jagdzeit: <score>.|Du hast <score> gebraucht, um alle Beutetiere zu fangen.|<score> am Steuer der Schlange."
+    }
+  },
+  {
     "game": "SNAKE",
     "apps": [
       "PAPY",
@@ -7139,6 +7921,40 @@
       "es": "¡Eres un verdadero maestro de la serpiente en <GameTitle>! Todas las presas han sido devoradas, ¡es perfecto! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu anticipación es increíble. ¡Felicidades, lo estás manejando! | ¡Increíble en <GameTitle>! No has olvidado ninguna presa, eres un campeón. ¡Demasiado fuerte! | ¡<GameTitle> no tiene secretos para ti! Tu estrategia es de primera. ¡Qué maestría! | ¡Felicidades, puntuación perfecta en <GameTitle>! Eres un as de la serpiente. ¡Campeón!",
       "pt": "Você é um verdadeiro mestre da cobra em <GameTitle>! Todas as presas foram devoradas, está perfeito! Parabéns! | Pontuação perfeita em <GameTitle>! Sua antecipação é incrível. Parabéns, você está arrasando! | Incrível em <GameTitle>! Nenhuma presa esquecida, você é um campeão. Muito forte! | <GameTitle> não tem mais segredos para você! Sua estratégia é de primeira. Que maestria! | Parabéns, pontuação perfeita em <GameTitle>! Você é um ás da cobra. Campeão!",
       "de": "Du bist ein wahrer Meister der Schlange in <GameTitle>! Alle Beute wurde verschlungen, es ist perfekt! Gut gemacht! | Perfekte Punktzahl in <GameTitle>! Deine Antizipation ist unglaublich. Herzlichen Glückwunsch, du meisterst das! | Unglaublich in <GameTitle>! Keine Beute vergessen, du bist ein Champion. Zu stark! | <GameTitle> hat für dich keine Geheimnisse mehr! Deine Strategie ist erstklassig. Was für eine Meisterschaft! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du bist ein Ass der Schlange. Champion!"
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "WHO_AM_I",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez percé tous les mystères en <score>.|Identités trouvées en <score>.|Temps d'enquête : <score>.|Il vous a fallu <score> pour deviner qui se cachait.|<score> pour lever le voile.",
+      "us": "You solved every mystery in <score>.|Identities found in <score>.|Investigation time: <score>.|It took you <score> to guess who was hiding.|<score> to lift the veil.",
+      "it": "Hai svelato tutti i misteri in <score>.|Identità trovate in <score>.|Tempo d'indagine: <score>.|Ti sono serviti <score> per indovinare chi si nascondeva.|<score> per sollevare il velo.",
+      "cn": "您用<score>解开了所有谜团。|<score>内找到了身份。|侦查用时：<score>。|您用了<score>猜出隐藏的是谁。|<score>揭开面纱。",
+      "nl": "Je hebt alle raadsels in <score> opgelost.|Identiteiten gevonden in <score>.|Speurtijd: <score>.|Je had <score> nodig om te raden wie zich verstopte.|<score> om de sluier op te lichten.",
+      "es": "Has resuelto todos los misterios en <score>.|Identidades encontradas en <score>.|Tiempo de investigación: <score>.|Te ha llevado <score> adivinar quién se escondía.|<score> para levantar el velo.",
+      "pt": "Você desvendou todos os mistérios em <score>.|Identidades encontradas em <score>.|Tempo de investigação: <score>.|Você levou <score> para adivinhar quem se escondia.|<score> para levantar o véu.",
+      "de": "Sie haben alle Rätsel in <score> gelöst.|Identitäten gefunden in <score>.|Ermittlungszeit: <score>.|Sie haben <score> gebraucht, um zu erraten, wer sich versteckte.|<score>, um den Schleier zu lüften."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "WHO_AM_I",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as percé tous les mystères en <score>.|Identités trouvées en <score>.|Temps d'enquête : <score>.|Il t'a fallu <score> pour deviner qui se cachait.|<score> pour lever le voile.",
+      "us": "You solved every mystery in <score>.|Identities found in <score>.|Investigation time: <score>.|It took you <score> to guess who was hiding.|<score> to lift the veil.",
+      "it": "Hai svelato tutti i misteri in <score>.|Identità trovate in <score>.|Tempo d'indagine: <score>.|Ti sono serviti <score> per indovinare chi si nascondeva.|<score> per sollevare il velo.",
+      "cn": "你用<score>解开了所有谜团。|<score>内找到了身份。|侦查用时：<score>。|你用了<score>猜出隐藏的是谁。|<score>揭开面纱。",
+      "nl": "Je hebt alle raadsels in <score> opgelost.|Identiteiten gevonden in <score>.|Speurtijd: <score>.|Je had <score> nodig om te raden wie zich verstopte.|<score> om de sluier op te lichten.",
+      "es": "Has resuelto todos los misterios en <score>.|Identidades encontradas en <score>.|Tiempo de investigación: <score>.|Te ha llevado <score> adivinar quién se escondía.|<score> para levantar el velo.",
+      "pt": "Você desvendou todos os mistérios em <score>.|Identidades encontradas em <score>.|Tempo de investigação: <score>.|Você levou <score> para adivinhar quem se escondia.|<score> para levantar o véu.",
+      "de": "Du hast alle Rätsel in <score> gelöst.|Identitäten gefunden in <score>.|Ermittlungszeit: <score>.|Du hast <score> gebraucht, um zu erraten, wer sich versteckte.|<score>, um den Schleier zu lüften."
     }
   },
   {
@@ -7485,6 +8301,40 @@
     }
   },
   {
+    "scoreMnemonic": "time",
+    "game": "CYRANO",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Vous avez récité le texte en <score>.|Texte récité en <score>.|Temps de récitation : <score>.|Il vous a fallu <score> pour aller au bout du texte.|<score> pour réciter chaque ligne.",
+      "us": "You recited the text in <score>.|Text recited in <score>.|Recitation time: <score>.|It took you <score> to reach the end of the text.|<score> to recite every line.",
+      "it": "Hai recitato il testo in <score>.|Testo recitato in <score>.|Tempo di recitazione: <score>.|Ti sono serviti <score> per arrivare alla fine del testo.|<score> per recitare ogni riga.",
+      "cn": "您用<score>朗诵完了文本。|<score>内朗诵完文本。|朗诵用时：<score>。|您用了<score>读完整篇文本。|<score>朗诵每一行。",
+      "nl": "Je hebt de tekst in <score> voorgedragen.|Tekst voorgedragen in <score>.|Voordrachtstijd: <score>.|Je had <score> nodig om het einde van de tekst te halen.|<score> om elke regel voor te dragen.",
+      "es": "Has recitado el texto en <score>.|Texto recitado en <score>.|Tiempo de recitación: <score>.|Te ha llevado <score> llegar al final del texto.|<score> para recitar cada línea.",
+      "pt": "Você recitou o texto em <score>.|Texto recitado em <score>.|Tempo de recitação: <score>.|Você levou <score> para chegar ao fim do texto.|<score> para recitar cada linha.",
+      "de": "Sie haben den Text in <score> vorgetragen.|Text vorgetragen in <score>.|Vortragszeit: <score>.|Sie haben <score> gebraucht, um das Ende des Textes zu erreichen.|<score>, um jede Zeile vorzutragen."
+    }
+  },
+  {
+    "scoreMnemonic": "time",
+    "game": "CYRANO",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Tu as récité le texte en <score>.|Texte récité en <score>.|Temps de récitation : <score>.|Il t'a fallu <score> pour aller au bout du texte.|<score> pour réciter chaque ligne.",
+      "us": "You recited the text in <score>.|Text recited in <score>.|Recitation time: <score>.|It took you <score> to reach the end of the text.|<score> to recite every line.",
+      "it": "Hai recitato il testo in <score>.|Testo recitato in <score>.|Tempo di recitazione: <score>.|Ti sono serviti <score> per arrivare alla fine del testo.|<score> per recitare ogni riga.",
+      "cn": "你用<score>朗诵完了文本。|<score>内朗诵完文本。|朗诵用时：<score>。|你用了<score>读完整篇文本。|<score>朗诵每一行。",
+      "nl": "Je hebt de tekst in <score> voorgedragen.|Tekst voorgedragen in <score>.|Voordrachtstijd: <score>.|Je had <score> nodig om het einde van de tekst te halen.|<score> om elke regel voor te dragen.",
+      "es": "Has recitado el texto en <score>.|Texto recitado en <score>.|Tiempo de recitación: <score>.|Te ha llevado <score> llegar al final del texto.|<score> para recitar cada línea.",
+      "pt": "Você recitou o texto em <score>.|Texto recitado em <score>.|Tempo de recitação: <score>.|Você levou <score> para chegar ao fim do texto.|<score> para recitar cada linha.",
+      "de": "Du hast den Text in <score> vorgetragen.|Text vorgetragen in <score>.|Vortragszeit: <score>.|Du hast <score> gebraucht, um das Ende des Textes zu erreichen.|<score>, um jede Zeile vorzutragen."
+    }
+  },
+  {
     "scoreMnemonic": "completionPercent",
     "game": "CYRANO",
     "apps": [
@@ -7712,6 +8562,40 @@
       "es": "¡Eres un verdadero Cyrano en <GameTitle>! El texto fue recitado de memoria a la perfección, ¡qué memoria! ¡Bien hecho! | ¡Puntuación perfecta en <GameTitle>! Tu memorización es excepcional y tu dicción impecable. ¡Felicidades! | ¡Increíble en <GameTitle>! Ni una palabra olvidada, todo recitado de memoria con precisión notable. ¡Qué maestría! | ¡<GameTitle> no tiene más secretos para tu memoria! Recuerdas el texto perfectamente. ¡Bravo! | ¡Felicidades, puntuación perfecta en <GameTitle>! Memorizas y recitas como un verdadero artista. ¡Magistral!",
       "pt": "Você é um verdadeiro Cyrano em <GameTitle>! O texto foi recitado de memória com perfeição, que memória! Parabéns! | Pontuação perfeita em <GameTitle>! Sua memorização é excepcional e sua dicção impecável. Parabéns! | Incrível em <GameTitle>! Nenhuma palavra esquecida, tudo recitado de memória com precisão notável. Que maestria! | <GameTitle> não tem mais segredos para sua memória! Você recorda o texto perfeitamente. Bravo! | Parabéns, pontuação perfeita em <GameTitle>! Você memoriza e recita como um verdadeiro artista. Magistral!",
       "de": "Du bist ein wahrer Cyrano in <GameTitle>! Der Text wurde auswendig perfekt vorgetragen, was für ein Gedächtnis! Bravo! | Perfekte Punktzahl in <GameTitle>! Deine Merkfähigkeit ist außergewöhnlich und deine Aussprache tadellos. Herzlichen Glückwunsch! | Unglaublich in <GameTitle>! Kein Wort vergessen, alles auswendig mit bemerkenswerter Präzision vorgetragen. Was für eine Meisterschaft! | <GameTitle> hat keine Geheimnisse mehr für dein Gedächtnis! Du gibst den Text perfekt wieder. Chapeau! | Herzlichen Glückwunsch, perfekte Punktzahl in <GameTitle>! Du merkst dir Texte und trägst vor wie ein wahrer Künstler. Meisterhaft!"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "TABOO",
+    "apps": [
+      "PAPY"
+    ],
+    "title": {
+      "fr": "Le coach a deviné <score> mots.|<score> mots devinés grâce à vos indices.|Mots devinés : <score>.|<score> indices qui ont fait mouche.|Vos indices ont fait trouver <score> mots.",
+      "us": "The coach guessed <score> words.|<score> words guessed thanks to your clues.|Words guessed: <score>.|<score> clues that hit the mark.|Your clues led to <score> words.",
+      "it": "Il coach ha indovinato <score> parole.|<score> parole indovinate grazie ai tuoi indizi.|Parole indovinate: <score>.|<score> indizi andati a segno.|I tuoi indizi hanno fatto trovare <score> parole.",
+      "cn": "教练猜中了<score>个词。|凭您的提示猜中了<score>个词。|猜中的词：<score>。|<score>条提示一击即中。|您的提示让教练找到了<score>个词。",
+      "nl": "De coach heeft <score> woorden geraden.|<score> woorden geraden dankzij je hints.|Geraden woorden: <score>.|<score> hints die raak waren.|Je hints leverden <score> woorden op.",
+      "es": "El coach ha adivinado <score> palabras.|<score> palabras adivinadas gracias a tus pistas.|Palabras adivinadas: <score>.|<score> pistas que dieron en el blanco.|Tus pistas han hecho encontrar <score> palabras.",
+      "pt": "O coach adivinhou <score> palavras.|<score> palavras adivinhadas graças às suas dicas.|Palavras adivinhadas: <score>.|<score> dicas certeiras.|Suas dicas levaram a <score> palavras.",
+      "de": "Der Coach hat <score> Wörter erraten.|<score> Wörter dank Ihrer Hinweise erraten.|Erratene Wörter: <score>.|<score> Hinweise, die ins Schwarze trafen.|Ihre Hinweise führten zu <score> Wörtern."
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "TABOO",
+    "apps": [
+      "COCO_1"
+    ],
+    "title": {
+      "fr": "Le coach a deviné <score> mots.|<score> mots devinés grâce à tes indices.|Mots devinés : <score>.|<score> indices qui ont fait mouche.|Tes indices ont fait trouver <score> mots.",
+      "us": "The coach guessed <score> words.|<score> words guessed thanks to your clues.|Words guessed: <score>.|<score> clues that hit the mark.|Your clues led to <score> words.",
+      "it": "Il coach ha indovinato <score> parole.|<score> parole indovinate grazie ai tuoi indizi.|Parole indovinate: <score>.|<score> indizi andati a segno.|I tuoi indizi hanno fatto trovare <score> parole.",
+      "cn": "教练猜中了<score>个词。|凭你的提示猜中了<score>个词。|猜中的词：<score>。|<score>条提示一击即中。|你的提示让教练找到了<score>个词。",
+      "nl": "De coach heeft <score> woorden geraden.|<score> woorden geraden dankzij je hints.|Geraden woorden: <score>.|<score> hints die raak waren.|Je hints leverden <score> woorden op.",
+      "es": "El coach ha adivinado <score> palabras.|<score> palabras adivinadas gracias a tus pistas.|Palabras adivinadas: <score>.|<score> pistas que dieron en el blanco.|Tus pistas han hecho encontrar <score> palabras.",
+      "pt": "O coach adivinhou <score> palavras.|<score> palavras adivinhadas graças às suas dicas.|Palavras adivinhadas: <score>.|<score> dicas certeiras.|Suas dicas levaram a <score> palavras.",
+      "de": "Der Coach hat <score> Wörter erraten.|<score> Wörter dank deiner Hinweise erraten.|Erratene Wörter: <score>.|<score> Hinweise, die ins Schwarze trafen.|Deine Hinweise führten zu <score> Wörtern."
     }
   },
   {

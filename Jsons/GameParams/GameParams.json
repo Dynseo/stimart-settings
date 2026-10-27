@@ -51,6 +51,12 @@
           "scoreMnemonic": "time"
         }
       ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
+        }
+      ],
       "chatbotDescription": "Carnival of the Animals (Animals) is a habitat-matching game played over 10 rounds. Each round shows an image of an animal, and players must tap the environment where that animal lives. At level 1 (easy), there are 3 broad habitats to choose from: sky, earth, and water. At higher levels, there are 8 more specific habitats: farm, sky, domestic, savannah, forest, river, sea ice (floe), and sea. A timer may limit the response time per round; running out of time counts as a wrong answer. Scoring: score1 = correct habitat matches, score2 = wrong matches (including timeouts). This game trains semantic categorization, knowledge of animal habitats, and quick decision-making. Tips: think about where the animal naturally lives day-to-day rather than everywhere it could survive, and for ambiguous animals pick its most iconic or commonly depicted environment."
     },
     "BLOCK_PUZZLE": {
@@ -157,6 +163,10 @@
         {
           "scoreMnemonic": "nbMovesMin",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -200,6 +210,10 @@
         {
           "scoreMnemonic": "nbItemsClickedByMistakes",
           "scoreColumn": "score5"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -315,12 +329,14 @@
         {
             "scoreMnemonic": "time",
             "level": "easy",
-            "app": "COCO_1"
+            "app": "COCO_1",
+            "useFeedback": true
         },
         {
             "scoreMnemonic": "time",
             "level": "medium",
-            "app": "COCO_1"
+            "app": "COCO_1",
+            "useFeedback": true
         },
         {
             "scoreMnemonic": "nbGoodAnswers",
@@ -335,6 +351,10 @@
             "app": "COCO_1",
             "useAnalyse": false,
             "useFeedback": false
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "ColorForm is a visual discrimination game where players must quickly identify and tap the shape that matches both a target color AND form simultaneously. A grid of colored shapes is displayed, and players must find the one matching both criteria. Scoring: score1 = correct selections, score2 = wrong selections. This game trains visual discrimination, attention, and cognitive flexibility. Tips: Focus on one attribute first (color or shape), then verify the second; develop systematic scanning patterns."
@@ -349,6 +369,10 @@
         {
           "scoreMnemonic": "nbSolutionsViewed",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "ColorMind is a color sequence memory game similar to Simon Says. Players observe a sequence of colored canvases lighting up, then must reproduce the sequence by selecting colors in the correct order from left to right. The sequence grows longer with each successful round. Scoring: score1 = sequences completed correctly, score2 = sequences failed. This game trains working memory, sequential recall, and concentration. Tips: Associate colors with positions, verbalize the sequence, chunk colors into groups of 3-4."
@@ -368,6 +392,10 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Cooking Game challenges players to identify recipe ingredients or quantities. In ingredient mode (levels 1-2), players identify which ingredients belong to a recipe from a grid of options. In recipe mode (level 3), players read cooking instructions and fill in missing ingredients or quantities. No timer - play at your own pace. Scoring: score1 = correct answers, score2 = wrong answers, score3 = hints used. This game trains memory, vocabulary, and attention to detail. Tips: Study the ingredients list carefully, use clues to identify ingredient categories."
@@ -394,6 +422,10 @@
         {
           "scoreMnemonic": "nbItemsSkipped",
           "scoreColumn": "score2"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -429,6 +461,10 @@
           "mode": "placeIt",
           "scoreMnemonic": "nbItemsSkipped",
           "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -497,6 +533,12 @@
           "scoreMnemonic": "time"
         }
       ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
+        }
+      ],
       "chatbotDescription": "Odd One Out (Intrus) presents a grid of items where players must identify the one item that doesn't belong to the same category as the others. The intruder differs semantically from the rest (different category, type, or attribute). Scoring: score1 = correct identifications, score2 = wrong identifications. This game trains categorization, logical reasoning, and semantic knowledge. Tips: Identify the common theme first, consider multiple possible categories, look for subtle differences."
     },
     "LOST_POEM": {
@@ -513,6 +555,10 @@
         {
           "scoreMnemonic": "nbSolutionsViewed",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Lost Poem is an interactive word puzzle where players fill in missing words in a poem by selecting from 4 multiple-choice options per word. Players can view the complete poem as a hint (limited uses by difficulty) and use 50/50 elimination (levels 1-2 only). No timer - play at your own pace. Scoring: score1 = correct word selections, score2 = wrong selections, score3 = times poem was viewed, score4 = 50/50 hints used. This game trains reading comprehension, vocabulary, and memory. Tips: Read context clues around missing words, use poem visualization sparingly."
@@ -534,6 +580,10 @@
           "isAscendent": true,
           "useAnalyse": true,
           "scoreColumn": "score1"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -580,6 +630,12 @@
       "improvementCriteria": [
         {
           "scoreMnemonic": "time"
+        }
+      ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Music Quiz is an audio identification game with 4 modes: Common Sounds, Animal Sounds, Instruments, and Musical Quiz. Players listen to an audio clip (unlimited replays allowed) and select the correct answer from 4 choices. No timer - self-paced gameplay. Scoring: score1 = correct identifications, score2 = wrong identifications. This game trains auditory recognition, memory, and categorization. Tips: Listen carefully before answering, replay audio if unsure, focus on distinctive sound characteristics."
@@ -635,6 +691,10 @@
         {
           "scoreMnemonic": "playTime",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -660,6 +720,10 @@
         {
           "scoreMnemonic": "nbItemsClickedByMistakes",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -684,6 +748,10 @@
         {
           "scoreMnemonic": "nbItemsSkipped",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -734,6 +802,10 @@
         {
           "scoreMnemonic": "nbBonus",
           "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "compareMode": false,
@@ -767,6 +839,10 @@
         {
           "scoreMnemonic": "nbRounds",
           "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Flying Balloons (ScrollAndCatch) is a selective attention game. At the start of each round, the app shows one or two target colors (displayed as colored balloon icons in the instructions). Then a batch of colored balloons flies across the screen in animated motion from various directions. Once all balloons have passed, players must select, for each target color, the correct count of balloons of that color from a row of multiple-choice number buttons. A game consists of 3 to 5 rounds. Scoring: score1 = points earned (2 points per target color answered with no mistakes, 1 point if one mistake was made on that color), score2 = wrong button selections, score3 = number of target colors per round, score4 = rounds completed. This game trains selective attention, visual tracking, and counting under distraction. Tips: keep a running mental count only for the target color(s) shown, ignore balloons of other colors, and if tracking two colors at once, count them separately rather than together."
@@ -780,6 +856,10 @@
         {
           "scoreMnemonic": "nbItemsForgotten",
           "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Sequence Challenge presents number or pattern sequences that players must continue by selecting the next element. Players analyze the pattern rule and choose the correct continuation. Scoring: score1 = correct sequences, score2 = wrong answers. This game trains logical reasoning, pattern recognition, and mathematical thinking. Tips: Look for arithmetic progressions, identify multiplication patterns, check if differences between terms follow a pattern."
@@ -796,7 +876,6 @@
         },
         {
           "scoreMnemonic": "nbGoodAnswers",
-          "app": "PAPY",
           "useFeedback": true
         }
       ],
@@ -857,6 +936,11 @@
           "level": "medium",
           "app": "COCO_1",
           "useFeedback": true
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "app": "EHPAD",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Simili is a visual search game where players must find the two identical images in a grid of similar-looking pictures. Each round presents a grid where exactly two images are the same. Players tap on one of the matching images to score. Scoring: score1 = correct identifications, score2 = wrong selections. This game trains visual discrimination, attention to detail, and scanning skills. Tips: Systematically compare images, look for subtle differences, scan row by row."
@@ -893,6 +977,10 @@
         {
           "scoreMnemonic": "nbResets",
           "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -936,6 +1024,12 @@
           ]
         }
       ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
+        }
+      ],
       "chatbotDescription": "Snake is the classic game where players guide a growing snake to eat food while avoiding collisions with walls or its own body. The snake grows longer with each food item eaten. Scoring: score1 = food items eaten, score2 = final snake length. This game trains planning, reaction time, and spatial awareness. Tips: Keep the snake in open areas, plan routes to food, avoid trapping yourself in corners."
     },
     "SNOWBALL_EFFECT": {
@@ -953,7 +1047,6 @@
         {
           "scoreMnemonic": "nbChallenges",
           "scoreColumn": "score3",
-          "app": "PAPY",
           "useFeedback": true
         },
         {
@@ -1030,6 +1123,10 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -1045,6 +1142,12 @@
       "chatbotDescription": "Syllabus is a word-building game where players connect syllables from different columns to form words. Syllables are displayed in vertical columns, and players tap syllables from left to right to construct words from the target list. An eraser button allows clearing selections. Scoring: score1 = total syllables used, score2 = total clicks made. Wrong answers = clicks - syllables (excess clicks). Difficulty: level 1 shows words with hint + easy syllables, level 2 hides words + hard syllables, level 3 = mixed categories. This game trains phonological awareness, vocabulary, and language skills. Tips: Sound out words, connect syllables systematically left to right, look for common word patterns."
     },
     "TABOO": {
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbGoodAnswers",
+          "useFeedback": true
+        }
+      ],
       "chatbotDescription": "Taboo is a word game played with the coach (an AI). Each round shows a target word along with a list of forbidden words. The player writes or dictates one clue to make the coach guess the target word, without using the target word itself or any of the forbidden words; a clue containing one of them is refused before it reaches the coach and costs nothing, so the player can simply rephrase. The coach then proposes a single word: if it matches the target word, the round is won. Each word allows 3 attempts; after a wrong guess the player gives another clue on the same word, and the coach remembers the earlier clues and never repeats a guess. The game is played over 3 words. The level sets how many of the card's forbidden words are enforced: 2 at level 1, 4 at level 2, all of them at level 3. The player can also skip a word, or say 'next' or 'stop' to move on or quit. Scoring: score1 = words guessed by the coach, score2 = words not guessed. This game trains verbal fluency, vocabulary, semantic flexibility (finding synonyms and paraphrases) and inhibition (avoiding the most obvious words). Tips: describe what the thing is used for, where you find it or what it looks like, give a concrete example or a well-known expression, and if the coach gets it wrong, change angle instead of repeating the same idea."
     },
     "TANGRAM": {
@@ -1074,6 +1177,10 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score4"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "chatbotDescription": "Tangram is the ancient Chinese puzzle using seven geometric pieces (tans) to form specific target shapes. Players drag and rotate pieces to match a silhouette exactly. Scoring: score1 = puzzles completed, score2 = time taken, score3 = hints used. This game trains spatial reasoning, rotation skills, and geometric thinking. Tips: Identify large shapes first, use trial and error systematically, notice how pieces can combine to form familiar shapes."
@@ -1092,6 +1199,10 @@
           "mode": "chrono",
           "scoreMnemonic": "nbItemsSkipped",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -1158,6 +1269,10 @@
         {
           "scoreMnemonic": "nbItemsForgotten",
           "scoreColumn": "score6"
+        },
+        {
+          "scoreMnemonic": "nbGoodAnswersDetails1",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -1182,6 +1297,10 @@
         {
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
+        },
+        {
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
@@ -1238,6 +1357,11 @@
           "subMode": "line",
           "scoreMnemonic": "nbClues",
           "scoreColumn": "score3"
+        },
+        {
+          "subMode": "line",
+          "scoreMnemonic": "time",
+          "useFeedback": true
         }
       ],
       "scoreVisualisation": [
