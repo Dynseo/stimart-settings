@@ -8,6 +8,8 @@
       "nl": "Volg je routine\n\n",
       "cn": "遵循你的日常习惯\n\n",
       "pt": "Siga sua rotina\n\n",
+      "es": "Seguir una rutina",
+      "de": "Der eigenen Routine folgen",
       "hi": "एक दिनचर्या बनाएं"
     },
     "message": {
@@ -17,6 +19,8 @@
       "nl": "Het creëren van een routine helpt ons onze dag te organiseren en de belangrijke dingen niet te vergeten.",
       "cn": "制定例行公事可以帮助我们安排一天的生活，并且不会忘记重要的事情。",
       "pt": "Criar uma rotina nos ajuda a organizar o nosso dia e a não esquecer as coisas importantes.",
+      "es": "Tener una rutina nos ayuda a organizar el día y a no olvidar las cosas importantes.",
+      "de": "Eine feste Routine hilft uns, unseren Tag zu organisieren und die wichtigen Dinge nicht zu vergessen.",
       "hi": "एक निश्चित दिनचर्या होने से हमें अपने दिन को व्यवस्थित करने और महत्वपूर्ण चीजों को न भूलने में मदद मिलती है।"
     }
   },
@@ -29,6 +33,8 @@
       "nl": "Lees 2 pagina's van de krant",
       "cn": "阅读 2 页报纸",
       "pt": "Leia 2 páginas do jornal",
+      "es": "Leer 2 páginas del periódico",
+      "de": "2 Seiten Zeitung lesen",
       "hi": "अखबार के दो पृष्ठ पढ़ें"
     },
     "message": {
@@ -38,6 +44,8 @@
       "nl": "Lezen is een ontspannende activiteit waarbij u kunt uitrusten terwijl u uw hersenen wakker houdt.\r",
       "cn": "阅读是一项放松的活动，可以让你在保持大脑清醒的同时得到休息。\r",
       "pt": "Ler é uma atividade relaxante que permite descansar enquanto mantém o cérebro acordado.\r",
+      "es": "La lectura es una actividad relajante que permite descansar manteniendo el cerebro despierto.",
+      "de": "Lesen ist eine entspannende Beschäftigung: Man ruht sich aus und hält dabei sein Gehirn wach.",
       "hi": "पढ़ना एक आरामदायक गतिविधि है जो आपके मस्तिष्क को सक्रिय रखते हुए आपको आराम करने देती है।\n"
     }
   },
@@ -50,6 +58,8 @@
       "nl": "Drink 1 liter water",
       "cn": "喝1升水",
       "pt": "Beba 1 litro de água",
+      "es": "Beber 1 litro de agua",
+      "de": "1 Liter Wasser trinken",
       "hi": "1 लीटर पानी पिएं"
     },
     "message": {
@@ -59,6 +69,8 @@
       "nl": "Gehydrateerd blijven is belangrijk voor de fysieke en mentale gezondheid!",
       "cn": "保持水分对身心健康很重要！",
       "pt": "Manter-se hidratado é importante para a saúde física e mental!",
+      "es": "¡Mantenerse hidratado es importante para la salud física y mental!",
+      "de": "Genug zu trinken ist wichtig für die körperliche und geistige Gesundheit!",
       "hi": "हाइड्रेटेड रहना आपके शारीरिक और मानसिक स्वास्थ्य के लिए बहुत महत्वपूर्ण है!"
     }
   },
@@ -71,6 +83,8 @@
       "nl": "Speelkaarten",
       "cn": "打牌",
       "pt": "Jogar cartas",
+      "es": "Jugar a las cartas",
+      "de": "Karten spielen",
       "hi": "ताश खेलें"
     },
     "message": {
@@ -80,6 +94,8 @@
       "nl": "Kaartspellen zijn een populaire manier om je hersenen scherp te houden terwijl je plezier hebt.",
       "cn": "纸牌游戏是一种在享受乐趣的同时保持大脑敏锐的流行方式。",
       "pt": "Os jogos de cartas são uma forma popular de manter o cérebro afiado enquanto se diverte.",
+      "es": "Los juegos de cartas son una forma muy popular de mantener el cerebro despierto mientras te diviertes.",
+      "de": "Kartenspiele sind eine beliebte Art, Ihr Gehirn wach zu halten und dabei Spaß zu haben.",
       "hi": "ताश के खेल मज़े करते हुए अपने मस्तिष्क को सक्रिय रखने का एक प्रसिद्ध तरीका है।"
     }
   },
@@ -92,6 +108,8 @@
       "nl": "kook een maaltijd\r",
       "cn": "做饭\r",
       "pt": "cozinhar uma refeição\r",
+      "es": "Cocinar una comida",
+      "de": "Eine Mahlzeit kochen",
       "hi": "एक भोजन पकाएं"
     },
     "message": {
@@ -101,6 +119,8 @@
       "nl": "Eten staat synoniem voor geluk: een goede maaltijd kan een glimlach terugbrengen.",
       "cn": "吃是幸福的代名词：一顿美餐可以带回笑容。",
       "pt": "Comer é sinônimo de felicidade: uma boa refeição pode trazer um sorriso de volta.",
+      "es": "Comer es sinónimo de felicidad: una buena comida puede devolverte la sonrisa.",
+      "de": "Essen bedeutet Freude: Eine gute Mahlzeit kann Ihnen wieder ein Lächeln schenken.",
       "hi": "खाना बनाना खुशी का पर्याय है। एक अच्छा पका हुआ भोजन आपको मुस्कुरा सकता है।"
     }
   },
@@ -113,6 +133,8 @@
       "nl": "Doe iets waar je van houdt",
       "cn": "做一些你喜欢的事情",
       "pt": "Faça algo que você ama",
+      "es": "Hacer algo que te guste",
+      "de": "Etwas tun, das Ihnen Freude macht",
       "hi": "कुछ ऐसा करें जो आपको पसंद हो"
     },
     "message": {
@@ -122,6 +144,8 @@
       "nl": "Het ontdekken van een nieuwe passie kan uw dag dynamischer maken.",
       "cn": "发现新的热情可以让你的一天更加充满活力。",
       "pt": "Descobrir uma nova paixão pode tornar o seu dia mais dinâmico.",
+      "es": "Descubrir una nueva pasión hace que tus días sean más dinámicos.",
+      "de": "Eine neue Leidenschaft zu entdecken, bringt mehr Schwung in Ihre Tage.",
       "hi": "किसी भी उम्र में एक नया शौक खोजना संभव है, आपके दिन को रोशन करने के लिए कुछ छोटा सा।"
     }
   },
@@ -134,6 +158,8 @@
       "nl": "Bel of schrijf naar uw dierbaren",
       "cn": "给您所爱的人打电话或写信",
       "pt": "Ligue ou escreva para seus entes queridos",
+      "es": "Llamar o escribir a tus seres queridos",
+      "de": "Ihre Lieben anrufen oder ihnen schreiben",
       "hi": "किसी अपने को फोन करें या लिखें"
     },
     "message": {
@@ -143,6 +169,8 @@
       "nl": "Familie en vrienden zijn belangrijke leden van het leven, vergeet ze niet.",
       "cn": "家人和朋友是生活中重要的成员，不要忘记他们。",
       "pt": "Família e amigos são membros importantes da vida, não se esqueça deles.",
+      "es": "La familia y los amigos son una parte importante de la vida, no te olvides de ellos.",
+      "de": "Familie und Freunde sind ein wichtiger Teil des Lebens – vergessen Sie sie nicht.",
       "hi": "परिवार और दोस्त आपके जीवन के महत्वपूर्ण सदस्य हैं, उनकी उपेक्षा न करना महत्वपूर्ण है।"
     }
   },
@@ -155,6 +183,8 @@
       "nl": "Heb een positieve gedachte",
       "cn": "有积极的想法",
       "pt": "Tenha um pensamento positivo",
+      "es": "Tener un pensamiento positivo",
+      "de": "Einen positiven Gedanken haben",
       "hi": "कुछ सकारात्मक सोचें"
     },
     "message": {
@@ -164,6 +194,8 @@
       "nl": "Als je aan een gebeurtenis denkt die je aan het lachen maakte, kun je de goede kanten van het leven zien!",
       "cn": "回想一件让你微笑的事件可以让你看到生活美好的一面！",
       "pt": "Pensar em um acontecimento que te fez sorrir permite que você veja o lado bom da vida!",
+      "es": "¡Pensar en algo que te hizo sonreír te permite ver el lado bueno de la vida!",
+      "de": "Wenn Sie an etwas denken, das Sie zum Lächeln gebracht hat, sehen Sie die schönen Seiten des Lebens!",
       "hi": "आज जिस चीज़ ने आपको मुस्कुराया उसके बारे में सोचें। जीवन की अच्छी चीज़ों पर ध्यान देना बेहतर है!"
     }
   },
@@ -176,6 +208,8 @@
       "nl": "Activeer gedurende 20 minuten",
       "cn": "激活20分钟",
       "pt": "Ative por 20 minutos",
+      "es": "Moverse durante 20 minutos",
+      "de": "Sich 20 Minuten bewegen",
       "hi": "20 मिनट के लिए सक्रिय हों"
     },
     "message": {
@@ -185,6 +219,8 @@
       "nl": "Het is belangrijk om op elke leeftijd te sporten. Doe wat gym, yoga of een wandeling.",
       "cn": "在任何年龄段进行体育运动都很重要。做一些健身、瑜伽或散步。",
       "pt": "É importante praticar esportes em qualquer idade. Faça ginástica, ioga ou caminhada.",
+      "es": "Hacer ejercicio es importante a cualquier edad. Haz un poco de gimnasia, yoga o da un paseo.",
+      "de": "Bewegung ist in jedem Alter wichtig. Machen Sie etwas Gymnastik, Yoga oder einen Spaziergang.",
       "hi": "किसी भी उम्र में शारीरिक रूप से सक्रिय रहना महत्वपूर्ण है। कुछ व्यायाम, योग या बस टहलने जाएं।"
     }
   },
@@ -197,6 +233,8 @@
       "nl": " Glimlach naar anderen",
       "cn": " 对别人微笑",
       "pt": " Sorria para os outros",
+      "es": "Sonreír a los demás",
+      "de": "Andere anlächeln",
       "hi": "मुस्कुराएं!"
     },
     "message": {
@@ -206,6 +244,8 @@
       "nl": "Glimlachen naar mensen die je op straat tegenkomt, kan jouw dag en die van anderen beter maken.\n",
       "cn": "对街上经过的人微笑可以让你和他人的一天变得更好。\n",
       "pt": "Sorrir para as pessoas por quem você passa na rua pode melhorar o seu dia e o dos outros.\n",
+      "es": "Sonreír a las personas con las que te cruzas por la calle puede mejorar tu día y el de los demás.",
+      "de": "Wenn Sie den Menschen zulächeln, denen Sie auf der Straße begegnen, wird Ihr Tag schöner – und der der anderen auch.",
       "hi": "सड़क पर मिलने वाले लोगों को देखकर मुस्कुराना आपके और दूसरों के दिन को बेहतर बना सकता है।"
     }
   },
@@ -218,6 +258,8 @@
       "nl": "Ga naar de kapper",
       "cn": "去理发店",
       "pt": "Vá ao cabeleireiro",
+      "es": "Ir a la peluquería",
+      "de": "Zum Friseur gehen",
       "hi": "सैलून जाएं "
     },
     "message": {
@@ -227,6 +269,8 @@
       "nl": "Goed voor jezelf zorgen is belangrijk. Ga naar de kapper om te ontspannen en mensen te ontmoeten.\n",
       "cn": "照顾好自己很重要。去理发店放松并结识朋友。\n",
       "pt": "Cuidar de si mesmo é importante. Vá ao cabeleireiro para relaxar e conhecer pessoas.\n",
+      "es": "Cuidarse es importante. Ve a la peluquería para relajarte y conocer gente.",
+      "de": "Es ist wichtig, sich um sich selbst zu kümmern. Gehen Sie zum Friseur, um sich zu entspannen und Menschen zu treffen.",
       "hi": "अपने लिए समय निकालना आवश्यक है। आराम करने और नए लोगों से मिलने के लिए हेयर अपॉइंटमेंट का आनंद लें। "
     }
   },
@@ -239,6 +283,8 @@
       "nl": "Ga een wandeling maken",
       "cn": "出去散步",
       "pt": "Sair para uma caminhada",
+      "es": "Salir a pasear",
+      "de": "Spazieren gehen",
       "hi": "टहलने जाएं"
     },
     "message": {
@@ -248,6 +294,8 @@
       "nl": "Door activiteiten buitenshuis te ondernemen, kunt u sociale verbindingen onderhouden en uzelf niet isoleren.",
       "cn": "在家外进行活动可以让您保持社交联系，而不是孤立自己。",
       "pt": "Fazer atividades fora de casa permite manter conexões sociais e não se isolar.",
+      "es": "Hacer actividades fuera de casa te permite mantener el contacto con los demás y no aislarte.",
+      "de": "Aktivitäten außer Haus helfen Ihnen, in Kontakt mit anderen zu bleiben und sich nicht zu isolieren.",
       "hi": "घर के बाहर गतिविधियाँ करने से आप सामाजिक रूप से जुड़े रहते हैं और खुद को अलग-थलग नहीं करते।"
     }
   }
