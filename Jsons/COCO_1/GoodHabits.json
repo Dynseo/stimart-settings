@@ -7,7 +7,7 @@
       "it": "Leggere un libro",
       "cn": "读一本书",
       "pt": "Leia um livro",
-      "de": "Ein Buch lesen",
+      "de": "Lies ein Buch",
       "es": "Lee un libro",
       "hi": "एक किताब पढ़ो"
     },
@@ -17,7 +17,7 @@
       "it": "La lettura stimola la tua immaginazione e il tuo linguaggio. Trova un libro adatto alla tua età e ai tuoi interessi.",
       "cn": "阅读可以激发你的想象力和语言。找到一本适合您年龄和兴趣的书。",
       "pt": "A leitura estimula a imaginação e a linguagem. Encontre um livro adaptado à sua idade e interesses.",
-      "de": "Lesen regt die Fantasie und die Sprache an. Finden Sie ein Buch, das Ihrem Alter und Ihren Interessen entspricht.",
+      "de": "Lesen regt die Fantasie und die Sprache an. Finde ein Buch, das zu deinem Alter und deinen Interessen passt.",
       "es": "La lectura estimula la imaginación y el lenguaje. Encuentre un libro adecuado a su edad e intereses.",
       "hi": "पढ़ना कल्पना और भाषा को उत्तेजित करता है। अपनी उम्र और रुचियों के अनुसार एक किताब खोजो।"
     }
@@ -30,7 +30,7 @@
       "it": "Riduci il tempo trascorso davanti allo schermo",
       "cn": "减少看屏幕的时间",
       "pt": "Reduza o tempo de tela",
-      "de": "Reduzieren Sie Ihre Bildschirmzeit",
+      "de": "Reduziere deine Bildschirmzeit",
       "es": "Reduce tu tiempo frente a la pantalla",
       "hi": "अपना स्क्रीन टाइम कम करो"
     },
@@ -40,7 +40,7 @@
       "it": "Avere un uso misurato degli schermi è importante per il tuo sviluppo. Fai delle pause regolari.",
       "cn": "有节制地使用屏幕对于你的发展很重要。定期休息。",
       "pt": "Ter um uso medido das telas é importante para o seu desenvolvimento. Faça pausas regulares.",
-      "de": "Es ist wichtig, eine ausgewogene Bildschirmzeit zu haben. Machen Sie regelmäßig Pausen.",
+      "de": "Es ist wichtig, die Bildschirmzeit im Gleichgewicht zu halten. Mach regelmäßig Pausen.",
       "es": "Es importante tener un tiempo equilibrado frente a la pantalla. Tome descansos regulares.",
       "hi": "स्क्रीन का संतुलित उपयोग आपके विकास के लिए महत्वपूर्ण है। नियमित रूप से ब्रेक लो।"
     }
@@ -76,7 +76,7 @@
       "it": "Impara qualcosa",
       "cn": "学到一些东西",
       "pt": "Aprender alguma coisa",
-      "de": "Etwas lernen",
+      "de": "Lerne etwas",
       "es": "Aprender algo",
       "hi": "कुछ नया सीखो"
     },
@@ -86,7 +86,7 @@
       "it": "Imparare qualcosa di nuovo ti aiuta a scoprire il mondo e a soddisfare la tua curiosità.",
       "cn": "学习新事物可以帮助您发现世界并满足您的好奇心。",
       "pt": "Aprender algo novo ajuda você a descobrir o mundo e satisfaz sua curiosidade.",
-      "de": "Das Erlernen neuer Dinge hilft Ihnen, die Welt zu entdecken und Ihre Neugier zu befriedigen.",
+      "de": "Neue Dinge zu lernen hilft dir, die Welt zu entdecken und deine Neugier zu stillen.",
       "es": "Aprender cosas nuevas te ayuda a descubrir el mundo y satisfacer tu curiosidad.",
       "hi": "कुछ नया सीखना तुम्हें दुनिया की खोज करने और अपनी जिज्ञासा को संतुष्ट करने में मदद करता है।"
     }
@@ -99,7 +99,7 @@
       "it": "Fai un complimento a qualcuno",
       "cn": "给某人一个赞美",
       "pt": "Faça um elogio a alguém",
-      "de": "Machen Sie jemandem ein Kompliment",
+      "de": "Mach jemandem ein Kompliment",
       "es": "Hacerle un cumplido a alguien",
       "hi": "किसी की तारीफ करो"
     },
@@ -109,7 +109,7 @@
       "it": "Dire ai tuoi cari che sono importanti per te aiuta a rafforzare le amicizie ed esprimere le tue emozioni.",
       "cn": "告诉您所爱的人他们对您很重要有助于加强友谊并表达您的情感。",
       "pt": "Dizer aos seus entes queridos que eles são importantes para você ajuda a fortalecer amizades e a expressar suas emoções.",
-      "de": "Wenn Sie Ihren Lieben sagen, dass sie wichtig sind, können Sie Freundschaften stärken und Ihre Gefühle ausdrücken.",
+      "de": "Wenn du deinen Lieben sagst, dass sie dir wichtig sind, stärkst du eure Freundschaft und drückst deine Gefühle aus.",
       "es": "Decirles a tus seres queridos que son importantes ayuda a fortalecer las amistades y a expresar tus emociones.",
       "hi": "अपने प्रियजनों को बताना कि वे तुम्हारे लिए महत्वपूर्ण हैं, दोस्ती मजबूत करने और अपनी भावनाएँ व्यक्त करने में मदद करता है।"
     }
@@ -122,7 +122,7 @@
       "it": "Pensa alle parole magiche!",
       "cn": "想想那些神奇的词吧！",
       "pt": "Pense nas palavras mágicas!",
-      "de": "Denken Sie an die Zauberworte!",
+      "de": "Denk an die Zauberwörter!",
       "es": "¡Piensa en las palabras mágicas!",
       "hi": "\"जादुई शब्द\" मत भूलो!"
     },
@@ -145,7 +145,7 @@
       "it": "Pensa a ciò che ti rende orgoglioso",
       "cn": "想想什么让你感到自豪",
       "pt": "Pense no que te deixa orgulhoso",
-      "de": "Denken Sie darüber nach, was Sie stolz macht",
+      "de": "Denk daran, worauf du stolz bist",
       "es": "Piensa en lo que te hace sentir orgulloso",
       "hi": "अपने आप पर गर्व करो"
     },
@@ -155,7 +155,7 @@
       "it": "Avere fiducia in ciò che puoi fare ti aiuta a superare le avversità.",
       "cn": "对自己能做的事情充满信心可以帮助您克服逆境。",
       "pt": "Ter confiança no que você pode fazer ajuda a superar as adversidades.",
-      "de": "Wenn Sie Vertrauen in das haben, was Sie tun können, können Sie auch bei Schwierigkeiten nicht aufgeben.",
+      "de": "Wenn du Vertrauen in das hast, was du kannst, gibst du auch bei Schwierigkeiten nicht auf.",
       "es": "Tener confianza en lo que puedes hacer te permite no detenerte ante las dificultades.",
       "hi": "जो तुम कर सकते हो उस पर विश्वास रखना तुम्हें कठिनाइयों से पार पाने में मदद करता है।"
     }
@@ -168,7 +168,7 @@
       "it": "Fai una buona azione",
       "cn": "做一件好事",
       "pt": "Faça uma boa ação",
-      "de": "Tue eine gute Tat",
+      "de": "Tu eine gute Tat",
       "es": "hacer una buena acción",
       "hi": "कुछ अच्छा करो"
     },
@@ -178,7 +178,7 @@
       "it": "Pensare e aiutare gli altri ti insegna l’altruismo. Basta una piccola parola, un piccolo sorriso...",
       "cn": "思考和帮助他人会教会你利他主义。所需要的只是一句话，一个微笑......",
       "pt": "Pensar e ajudar os outros ensina altruísmo. Basta uma palavrinha, um sorrisinho...",
-      "de": "Wenn man an andere denkt und ihnen hilft, lernt man, selbstlos zu sein. Alles, was es braucht, ist ein kleines Wort, ein kleines Lächeln ...",
+      "de": "Wenn du an andere denkst und ihnen hilfst, lernst du, selbstlos zu sein. Es reicht schon ein kleines Wort, ein kleines Lächeln...",
       "es": "Pensar y ayudar a los demás te enseña a ser desinteresado. Sólo hace falta una pequeña palabra, una pequeña sonrisa...",
       "hi": "दूसरों के बारे में सोचना और उनकी मदद करना तुम्हें परोपकारी बनना सिखाता है। बस एक छोटा सा शब्द, एक छोटी सी मुस्कान..."
     }
@@ -191,7 +191,7 @@
       "it": "Fai 1 ora di sport",
       "cn": "进行 1 小时的运动",
       "pt": "Faça 1 hora de esporte",
-      "de": "Machen Sie 1 Stunde Sport",
+      "de": "Mach 1 Stunde Sport",
       "es": "Hacer 1 hora de deporte",
       "hi": "1 घंटे व्यायाम करो"
     },
@@ -201,7 +201,7 @@
       "it": "Fare sport è essenziale per il tuo sviluppo. Devi esercitarti almeno 1 ora al giorno!",
       "cn": "参加体育运动对于您的发展至关重要。每天至少要运动1小时！",
       "pt": "Praticar esportes é essencial para o seu desenvolvimento. Você tem que se exercitar pelo menos 1 hora por dia!",
-      "de": "Sport zu treiben ist für Ihre Entwicklung von entscheidender Bedeutung. Sie müssen sich täglich 1 Stunde körperlich betätigen!",
+      "de": "Sport ist wichtig für deine Entwicklung. Du solltest dich jeden Tag 1 Stunde bewegen!",
       "es": "Practicar deporte es fundamental para tu desarrollo. ¡Necesitas hacer 1 hora de actividad física al día!",
       "hi": "खेलकूद करना तुम्हारे विकास के लिए आवश्यक है। तुम्हें प्रतिदिन कम से कम 1 घंटे शारीरिक गतिविधि करनी चाहिए!"
     }
@@ -214,7 +214,7 @@
       "it": "Fare giardinaggio",
       "cn": "做一些园艺",
       "pt": "Faça uma jardinagem",
-      "de": "Machen Sie etwas Gartenarbeit",
+      "de": "Hilf im Garten",
       "es": "hacer un poco de jardineria",
       "hi": "बगीचे में अपने माता-पिता की मदद करो"
     },
@@ -224,7 +224,7 @@
       "it": "Aiutare nel giardinaggio ti insegna come essere responsabile e paziente, ma anche come rimanere organizzato.",
       "cn": "帮助园艺可以教会你如何负责任和耐心，同时也教会你如何保持井井有条。",
       "pt": "Ajudar na jardinagem ensina como ser responsável e paciente, mas também como se manter organizado.",
-      "de": "Wenn Sie im Garten mithelfen, lernen Sie, verantwortungsbewusst und geduldig zu sein und sich selbst zu organisieren.",
+      "de": "Wenn du im Garten hilfst, lernst du, verantwortungsbewusst und geduldig zu sein, und es hilft dir auch, dich zu organisieren.",
       "es": "Ayudar en el jardín te enseña a ser responsable y paciente, y también te ayuda a organizarte.",
       "hi": "बागवानी में मदद करना तुम्हें जिम्मेदार और धैर्यवान बनना सिखाता है, और व्यवस्थित रहना भी सिखाता है।"
     }
@@ -237,7 +237,7 @@
       "it": "Provare nuove cose",
       "cn": "尝试新事物",
       "pt": "Tente coisas novas",
-      "de": "Versuche neue Dinge",
+      "de": "Probiere neue Dinge aus",
       "es": "Probar cosas nuevas",
       "hi": "कुछ नया आज़माओ"
     },
@@ -247,7 +247,7 @@
       "it": "Essere curiosi permette di scoprire il mondo che ci circonda. Non limitarti a ciò che sai.",
       "cn": "好奇心可以让你发现周围的世界。不要局限于你所知道的。",
       "pt": "Ser curioso permite descobrir o mundo ao seu redor. Não se limite ao que você sabe.",
-      "de": "Neugier ermöglicht es Ihnen, die Welt um Sie herum zu entdecken. Beschränken Sie sich nicht auf das, was Sie wissen.",
+      "de": "Neugierig zu sein hilft dir, die Welt um dich herum zu entdecken. Beschränke dich nicht auf das, was du schon kennst.",
       "es": "Ser curioso te permite descubrir el mundo que te rodea. No te limites a lo que sabes.",
       "hi": "जिज्ञासु होना तुम्हें अपने आसपास की दुनिया की खोज करने देता है। जो तुम जानते हो उसी तक सीमित मत रहो।"
     }
@@ -260,7 +260,7 @@
       "it": "Osserva la natura che ti circonda",
       "cn": "看看你周围的大自然",
       "pt": "Olhe para a natureza ao seu redor",
-      "de": "Schauen Sie sich die Natur um Sie herum an",
+      "de": "Schau dir die Natur um dich herum an",
       "es": "Mira la naturaleza que te rodea",
       "hi": "अपने आसपास की प्रकृति को देखो"
     },
@@ -270,7 +270,7 @@
       "it": "Osservare la natura permette di rilassarsi e di apprezzare la bellezza della fauna e della flora.  ",
       "cn": "观察大自然可​​以让您放松并欣赏动植物的美丽。  ",
       "pt": "Observar a natureza permite relaxar e apreciar a beleza da fauna e da flora.  ",
-      "de": "Die Beobachtung der Natur ermöglicht es Ihnen, sich zu entspannen und die Schönheit der Flora und Fauna zu genießen.  ",
+      "de": "Die Natur zu beobachten hilft dir, dich zu entspannen und die Schönheit von Tieren und Pflanzen zu genießen.  ",
       "es": "Observar la naturaleza permite relajarse y apreciar la belleza de la flora y la fauna.  ",
       "hi": "प्रकृति का अवलोकन करने से तुम्हें आराम मिलता है और जीव-जंतुओं तथा वनस्पतियों की सुंदरता की सराहना कर सकते हो।"
     }

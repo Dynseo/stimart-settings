@@ -243,7 +243,7 @@
       "cn": "进行一次认知评估",
       "pt": "Fazer uma avaliação cognitiva",
       "es": "Hacer una evaluación cognitiva",
-      "de": "Einen kognitiven Test machen",
+      "de": "Eine kognitive Bewertung durchführen",
       "nl": "Een cognitieve test doen",
       "hi": "संज्ञानात्मक मूल्यांकन करें"
     },
@@ -317,7 +317,7 @@
       "cn": "在自适应难度游戏中以最高等级玩一局",
       "pt": "Jogar uma partida no nível máximo num jogo de dificuldade adaptativa",
       "es": "Jugar una partida al nivel máximo en un juego de dificultad adaptativa",
-      "de": "Ein Spiel auf der höchsten Stufe in einem Spiel mit adaptiver Schwierigkeit spielen",
+      "de": "Eine Partie auf der höchsten Stufe eines Spiels mit adaptiver Schwierigkeit spielen",
       "nl": "Speel een potje op het hoogste niveau in een spel met aanpasbare moeilijkheid",
       "hi": "अनुकूली-कठिनाई वाले गेम में अधिकतम स्तर पर एक गेम खेलें"
     },
@@ -343,7 +343,7 @@
       "cn": "全部抓住！",
       "pt": "Apanhá-los todos!",
       "es": "¡Atrápalos a todos!",
-      "de": "Alle schnappen!",
+      "de": "Schnapp sie dir alle!",
       "nl": "Vang ze allemaal!",
       "hi": "सबको पकड़ो!"
     },
@@ -354,7 +354,7 @@
       "cn": "在诺亚方舟中拯救100只动物，在鼹鼠大进攻中敲打100只鼹鼠，并在专业牧羊人中无失误地赢得10只绵羊",
       "pt": "Salvar 100 animais em Arca de Noé, acertar 100 toupeiras em A invasão da toupeira e ganhar 10 ovelhas em Panurgo sem cometer nenhum erro",
       "es": "Salvar 100 animales en El Arca de Noé, golpear 100 topos en Atrapa Topitos y ganar 10 ovejas en El Rebaño sin cometer ningún error",
-      "de": "100 Tiere in Die Arche Noah retten, 100 Maulwürfe in Die Invasion der Maulwürfe treffen und 10 Schafe in Panurge gewinnen, ohne einen Fehler zu machen",
+      "de": "100 Tiere in „Die Arche Noah“ retten, 100 Maulwürfe in „Die Invasion der Maulwürfe“ treffen und 10 Schafe in „Panurge“ gewinnen, ohne einen Fehler zu machen",
       "nl": "Red 100 dieren in De ark van Noach, tik 100 mollen in De Mol-Invasie en win 10 schapen in Panurge zonder een fout te maken",
       "hi": "नूह का जहाज़ में 100 जानवर बचाएं, छछूंदर आक्रमण में 100 छछूंदरों को मारें और पनूर्ज में बिना कोई गलती किए 10 भेड़ें जीतें"
     },
@@ -467,7 +467,7 @@
       "cn": "用一颗球戳破3个正确的气球",
       "pt": "Estourar 3 balões certos com uma única bola",
       "es": "Explotar 3 globos buenos con una sola bola",
-      "de": "3 richtige Luftballons mit einem einzigen Ball zerplatzen",
+      "de": "3 richtige Luftballons mit einem einzigen Schuss platzen lassen",
       "nl": "Knal 3 goede ballonnen met één enkele bal",
       "hi": "एक ही गेंद से 3 सही गुब्बारे फोड़ें"
     },
@@ -752,7 +752,7 @@
       "cn": "在一局Block Puzzle中达到5000分",
       "pt": "Alcançar 5000 pontos numa partida de Block Puzzle",
       "es": "Alcanzar 5000 puntos en una partida de Block Puzzle",
-      "de": "5000 Punkte in einer Partie Block Puzzle erreichen",
+      "de": "5000 Punkte in einer Partie „Verrückte Blöcke“ erreichen",
       "nl": "Bereik 5000 punten in één potje Block Puzzle",
       "hi": "Block Puzzle के एक गेम में 5000 अंक तक पहुंचें"
     },
@@ -791,7 +791,7 @@
       "cn": "在一局滚雪球中达到15个雪人",
       "pt": "Alcançar 15 bonecos de neve numa partida de Efeito bola de neve",
       "es": "Alcanzar 15 muñecos de nieve en una partida de Efecto bola de nieve",
-      "de": "15 Schneemänner in einer Partie Schneeball-Effekt erreichen",
+      "de": "15 Schneemänner in einer Partie „Schneeballeffekt“ bauen",
       "nl": "Bereik 15 sneeuwpoppen in één potje Sneeuwbaleffect",
       "hi": "स्नोबॉल इफेक्ट के एक गेम में 15 हिममानव तक पहुंचें"
     },
@@ -1029,7 +1029,7 @@
       "cn": "以困难模式完成一局找不同项且不出任何错误",
       "pt": "Realizar uma partida de Intruso no modo difícil sem cometer nenhum erro",
       "es": "Completar una partida de Intruso en modo difícil sin cometer ningún error",
-      "de": "Eine Partie Eindringling im schweren Modus ohne Fehler abschließen",
+      "de": "Eine Partie „Was passt nicht?“ im schweren Modus ohne Fehler abschließen",
       "nl": "Voltooi een potje Indringer op de moeilijke modus zonder fouten",
       "hi": "घुसपैठिया का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
     },
@@ -1068,7 +1068,7 @@
       "cn": "找出10个不同项且不出一个错误",
       "pt": "Encontrar 10 intrusos sem cometer um único erro",
       "es": "Encontrar 10 intrusos sin cometer ni un solo error",
-      "de": "10 Eindringlinge ohne einen einzigen Fehler finden",
+      "de": "10 unpassende Wörter ohne einen einzigen Fehler finden",
       "nl": "Vind 10 indringers zonder één enkele fout",
       "hi": "10 घुसपैठियों को बिना एक भी गलती किए खोजें"
     },
@@ -1098,7 +1098,7 @@
       "cn": "异项探测器",
       "pt": "Detector de intrusos",
       "es": "Detector de intrusos",
-      "de": "Eindringlings-Radar",
+      "de": "Spürnase",
       "nl": "Indringerradar",
       "hi": "घुसपैठिया रडार"
     },
@@ -1109,7 +1109,7 @@
       "cn": "累计揭穿30个不同项",
       "pt": "Desmascarar 30 intrusos no total",
       "es": "Desenmascarar 30 intrusos en total",
-      "de": "Insgesamt 30 Eindringlinge entlarven",
+      "de": "Insgesamt 30 unpassende Wörter entlarven",
       "nl": "Ontmasker in totaal 30 indringers",
       "hi": "कुल 30 घुसपैठियों का पर्दाफाश करें"
     },
@@ -1148,7 +1148,7 @@
       "cn": "以困难模式完成一局音节且不出任何错误",
       "pt": "Realizar uma partida de Sílabas no modo difícil sem cometer nenhum erro",
       "es": "Completar una partida de Sílabas en modo difícil sin cometer ningún error",
-      "de": "Eine Partie Silben im schweren Modus ohne Fehler abschließen",
+      "de": "Eine Partie „Syllabus“ im schweren Modus ohne Fehler abschließen",
       "nl": "Voltooi een potje Lettergrepen op de moeilijke modus zonder fouten",
       "hi": "अक्षरों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
     },

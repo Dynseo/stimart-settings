@@ -216,7 +216,7 @@
         "nl": "Ontdek games die zijn aangepast aan dyscalculie, om te werken aan cognitieve functies zoals de volgorde van het numerieke systeem, tafels van vermenigvuldiging of berekeningen.",
         "pt": "Descubra jogos adaptados à discalculia, para trabalhar funções cognitivas como a ordem do sistema numérico, tabuada ou cálculos.",
         "es": "Descubre juegos adaptados a la discalculia, para trabajar funciones cognitivas como el orden del sistema numérico, las tablas de multiplicar o los cálculos.",
-        "de": "Entdecken Sie Spiele, die an Dyskalkulie angepasst sind, um kognitive Funktionen wie die Reihenfolge des Zahlensystems, Multiplikationstabellen oder Berechnungen zu trainieren.",
+        "de": "Entdecken Sie Spiele, die an Dyskalkulie angepasst sind, um kognitive Funktionen wie das Zahlenverständnis, das Einmaleins oder das Rechnen zu trainieren.",
         "hi": "डिस्कैल्कुलिया के लिए अनुकूलित खेलों की खोज करें, संख्या प्रणाली के क्रम, गुणन सारणी या गणनाओं जैसे संज्ञानात्मक कार्यों पर काम करने के लिए।"
       },
       "games": [
@@ -241,7 +241,7 @@
         "nl": "Dyslexie en dysorthografie",
         "pt": "Dislexia e disortografia",
         "es": "Dislexia y disgrafia",
-        "de": "Legasthenie und Dysgraphie",
+        "de": "Legasthenie und Rechtschreibstörung",
         "hi": "डिस्लेक्सिया और डिसग्राफिया"
       },
       "description": {
@@ -252,7 +252,7 @@
         "nl": "Ontdek games die zijn aangepast aan dyslexie en dysorthografie, om te werken aan cognitieve functies zoals lezen, zinsstructuur of semantische classificatie.",
         "pt": "Descubra jogos adaptados à dislexia e à disortografia, para trabalhar funções cognitivas como leitura, estrutura de frases ou classificação semântica.",
         "es": "Descubre juegos adaptados a la dislexia y la disortografía, para trabajar funciones cognitivas como la lectura, la estructura de las frases o la clasificación semántica.",
-        "de": "Entdecken Sie Spiele, die an Legasthenie und Dysorthographie angepasst sind, um kognitive Funktionen wie Lesen, Satzstruktur oder semantische Klassifizierung zu trainieren.",
+        "de": "Entdecken Sie Spiele, die an Legasthenie und Rechtschreibstörungen angepasst sind, um kognitive Funktionen wie Lesen, Satzbau oder semantische Klassifizierung zu trainieren.",
         "hi": "डिस्लेक्सिया और डिसऑर्थोग्राफी के लिए अनुकूलित खेलों की खोज करें, पठन, वाक्य संरचना या अर्थ वर्गीकरण जैसे संज्ञानात्मक कार्यों पर काम करने के लिए।"
       },
       "games": [
@@ -344,7 +344,7 @@
         "nl": "Lezen",
         "pt": "Leitura",
         "es": "Lectura",
-        "de": "Lektüre",
+        "de": "Lesen",
         "hi": "पठन"
       },
       "games": [
@@ -574,7 +574,7 @@
         "nl": "Behendigheid",
         "pt": "Destreza",
         "es": "Destreza ",
-        "de": "Geschicklichkeit ",
+        "de": "Geschicklichkeit",
         "hi": "निपुणता"
       },
       "description": {
@@ -647,7 +647,7 @@
         "nl": "Ik ben nieuwsgierig",
         "pt": "estou curioso",
         "es": "Soy curioso",
-        "de": "ich bin neugierig",
+        "de": "Ich bin neugierig",
         "hi": "मैं उत्सुक हूँ"
       },
       "description": {

@@ -120,7 +120,7 @@
       "cn": "返回起点",
       "nl": "Terug naar start",
       "pt": "Retornos ao início",
-      "de": "Zurück zum Start",
+      "de": "Rückkehr zum Start",
       "es": "Vuelta al inicio",
       "hi": "शुरुआत पर वापसी"
     }
@@ -148,7 +148,7 @@
       "cn": "最少移动",
       "nl": "Minimale verplaatsingen",
       "pt": "Movimentos mínimos",
-      "de": "Minimale Züge",
+      "de": "Mindestanzahl an Zügen",
       "es": "Movimientos mínimos",
       "hi": "न्यूनतम चालें"
     }
@@ -703,7 +703,7 @@
       "cn": "最大连击",
       "nl": "Maximum combo",
       "pt": "Combo máximo",
-      "de": "Maximaler Combo",
+      "de": "Max. Combo",
       "es": "Combo máximo",
       "hi": "अधिकतम कॉम्बो"
     }
@@ -733,7 +733,7 @@
       "cn": "坏对",
       "nl": "Slechte paren",
       "pt": "Pares ruins",
-      "de": "Schlechte Paare",
+      "de": "Falsche Paare",
       "es": "Malas parejas",
       "hi": "गलत जोड़े"
     }
@@ -845,7 +845,7 @@
       "cn": "需要补充的内容",
       "nl": "Aanvullingen die moeten worden gemaakt",
       "pt": "Adições a serem feitas",
-      "de": "Zu ergänzende Ergänzungen",
+      "de": "Zu lösende Additionen",
       "es": "Adiciones que se deben realizar",
       "hi": "करने के लिए जोड़"
     }
@@ -876,7 +876,7 @@
         "cn": "朗诵文本",
         "nl": "Voorgedragen tekst",
         "pt": "Texto recitado",
-        "de": "Rezitiert Text",
+        "de": "Rezitierter Text",
         "es": "Texto recitado",
         "hi": "पाठ किया गया पाठ"
     }

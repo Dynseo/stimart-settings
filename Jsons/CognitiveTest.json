@@ -1192,7 +1192,7 @@
   "de": [
     [
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Geburtstag",
           "Geburstag",
@@ -1201,7 +1201,7 @@
         ]
       },
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Schokolade",
           "Schokkolade",
@@ -1210,16 +1210,16 @@
         ]
       },
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Freundschaft",
           "Freuntschaft",
           "Freundshaft",
-          "Freuntschaft"
+          "Freundschafft"
         ]
       },
       {
-        "question": "Finde das Synonym von schnell",
+        "question": "Finden Sie das Synonym von schnell",
         "answers": [
           "Rasch",
           "Langsam",
@@ -1228,7 +1228,7 @@
         ]
       },
       {
-        "question": "Finde das Synonym von beginnen",
+        "question": "Finden Sie das Synonym von beginnen",
         "answers": [
           "Anfangen",
           "Beenden",
@@ -1237,7 +1237,7 @@
         ]
       },
       {
-        "question": "Finde das Synonym von klein",
+        "question": "Finden Sie das Synonym von klein",
         "answers": [
           "Winzig",
           "Groß",
@@ -1248,7 +1248,7 @@
     ],
     [
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Apotheke",
           "Apoteke",
@@ -1257,7 +1257,7 @@
         ]
       },
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Geburtstag",
           "Geburtsag",
@@ -1266,7 +1266,7 @@
         ]
       },
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Rhythmus",
           "Rythmus",
@@ -1275,7 +1275,7 @@
         ]
       },
       {
-        "question": "Finde das Synonym von groß",
+        "question": "Finden Sie das Synonym von groß",
         "answers": [
           "Enorm",
           "Klein",
@@ -1284,7 +1284,7 @@
         ]
       },
       {
-        "question": "Finde das Synonym von schön",
+        "question": "Finden Sie das Synonym von schön",
         "answers": [
           "Hübsch",
           "Schmutzig",
@@ -1293,7 +1293,7 @@
         ]
       },
       {
-        "question": "Finde das Synonym von sprechen",
+        "question": "Finden Sie das Synonym von sprechen",
         "answers": [
           "Reden",
           "Schlafen",
@@ -1304,16 +1304,16 @@
     ],
     [
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Entwicklung",
           "Entwiklung",
           "Entwikklung",
-          "Entwikklung"
+          "Entwicklunk"
         ]
       },
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Parallel",
           "Paralell",
@@ -1322,16 +1322,16 @@
         ]
       },
       {
-        "question": "Finde das richtig geschriebene Wort",
+        "question": "Finden Sie das richtig geschriebene Wort",
         "answers": [
           "Restaurant",
           "Restorant",
           "Restaurannt",
-          "Restaurant"
+          "Restaurent"
         ]
       },
       {
-        "question": "Finde das Synonym von zufrieden",
+        "question": "Finden Sie das Synonym von zufrieden",
         "answers": [
           "Glücklich",
           "Wütend",
@@ -1340,7 +1340,7 @@
         ]
       },
       {
-        "question": "Finde das Synonym von beenden",
+        "question": "Finden Sie das Synonym von beenden",
         "answers": [
           "Abschließen",
           "Beginnen",
@@ -1349,7 +1349,7 @@
         ]
       },
       {
-        "question": "Finde das Synonym von schauen",
+        "question": "Finden Sie das Synonym von schauen",
         "answers": [
           "Beobachten",
           "Ignorieren",
