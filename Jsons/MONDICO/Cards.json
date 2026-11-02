@@ -4,7 +4,7 @@
     "category": "sleep",
     "title": {
       "fr": "Enlever les vêtements",
-      "us": "Remove the clothes",
+      "us": "Take off your clothes",
       "it": "Togliere i vestiti",
       "nl": "Verwijder de kleding",
       "cn": "脱掉衣服",
@@ -49,7 +49,7 @@
     "category": "sleep",
     "title": {
       "fr": "Aller aux toilettes",
-      "us": "Go to the toilet",
+      "us": "Go to the bathroom",
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
@@ -94,7 +94,7 @@
     "category": "put_table",
     "title": {
       "fr": "Mettre la nappe",
-      "us": "Put the tablecloth",
+      "us": "Put on the tablecloth",
       "it": "Mettere la tovaglia",
       "nl": "Leg het tafelkleed",
       "cn": "铺上桌布",
@@ -109,7 +109,7 @@
     "category": "put_table",
     "title": {
       "fr": "Mettre les assiettes",
-      "us": "Put the plates",
+      "us": "Set out the plates",
       "it": "Mettere i piatti",
       "nl": "Zet de borden",
       "cn": "放上盘子",
@@ -124,7 +124,7 @@
     "category": "put_table",
     "title": {
       "fr": "Mettre les couverts",
-      "us": "Set the table",
+      "us": "Set out the silverware",
       "it": "Mettere le posate",
       "nl": "De tafel dekken",
       "cn": "设置桌子",
@@ -139,7 +139,7 @@
     "category": "put_table",
     "title": {
       "fr": "Mettre les verres",
-      "us": "Put the glasses",
+      "us": "Set out the glasses",
       "it": "Mettere i bicchieri",
       "nl": "Zet de bril",
       "cn": "戴上眼镜",
@@ -214,7 +214,7 @@
     "category": "eat",
     "title": {
       "fr": "Lancer la machine",
-      "us": "Start the machine",
+      "us": "Start the dishwasher",
       "it": "Fare la lavastoviglie",
       "nl": "Start de machine",
       "cn": "启动机器",
@@ -304,7 +304,7 @@
     "category": "toilettes",
     "title": {
       "fr": "Aller aux toilettes",
-      "us": "Go to the toilet",
+      "us": "Go to the bathroom",
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
@@ -394,7 +394,7 @@
     "category": "wash_hands",
     "title": {
       "fr": "Ouvrir le robinet d'eau",
-      "us": "Open the water tap",
+      "us": "Turn on the tap",
       "it": "Aprire il rubinetto dell'acqua",
       "nl": "Open de waterkraan",
       "cn": "打开水龙头",
@@ -469,7 +469,7 @@
     "category": "brush_teeth",
     "title": {
       "fr": "Ouvrir le robinet d'eau",
-      "us": "Open the water tap",
+      "us": "Turn on the tap",
       "it": "Aprire il rubinetto dell'acqua",
       "nl": "Open de waterkraan",
       "cn": "打开水龙头",
@@ -484,7 +484,7 @@
     "category": "brush_teeth",
     "title": {
       "fr": "Mettre le dentifrice",
-      "us": "Put the toothpaste",
+      "us": "Put on the toothpaste",
       "it": "Mettere il ​​dentifricio",
       "nl": "Doe de tandpasta",
       "cn": "放上牙膏",

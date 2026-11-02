@@ -3,7 +3,7 @@
     "category": "brain",
     "title": {
       "fr": "Faire une liste de tâches",
-      "us": "Make To-do lists",
+      "us": "Make to-do lists",
       "it": "Fare delle To-do list",
       "cn": "制定待办事项清单",
       "pt": "Fazer uma lista de tarefas",
@@ -14,7 +14,7 @@
     },
     "message": {
       "fr": "Faire des listes vous permet d’être plus organisé, de ne pas oublier et d'être plus efficace.",
-      "us": "Making to-do lists allows you to be more organized, not to forget and to be more efficient.",
+      "us": "Making to-do lists helps you be more organized, remember things and be more efficient.",
       "it": "Fare delle liste permette di essere più organizzati, di non dimenticare e di essere più efficaci.",
       "cn": "列清单可以让你更有条理，不会忘记，而且效率更高。",
       "pt": "Fazer listas ajuda-o a ser mais organizado, a lembrar-se de coisas e a ser mais eficiente.",
@@ -89,7 +89,7 @@
     },
     "message": {
       "fr": "Lire un journal permet de savoir ce qu’il se passe autour de nous en stimulant le langage.",
-      "us": "Reading a newspaper allows you to know what is going in the world while stimulating your language.",
+      "us": "Reading a newspaper allows you to know what is going on in the world while stimulating your language skills.",
       "it": "Leggere il giornale permette di sapere ciò che succede intorno a noi, stimolando il linguaggio.",
       "cn": "阅读报纸可以让我们通过刺激的语言了解周围发生的事情。",
       "pt": "Ler um jornal ajuda-nos a saber o que se passa à nossa volta, estimulando a linguagem.",
@@ -128,7 +128,7 @@
     "category": "habits",
     "title": {
       "fr": "Appeler ou écrire à vos proches",
-      "us": "Call or write to someone",
+      "us": "Call or write to loved ones",
       "it": "Chiamare i propri cari",
       "cn": "给您所爱的人打电话或写信",
       "pt": "Telefonar ou escrever aos seus familiares",
@@ -139,7 +139,7 @@
     },
     "message": {
       "fr": "La famille et les amis sont des membres importants de la vie, ne les oubliez pas. ",
-      "us": "Family and friends are important members of your life, it is important not to neglect them.",
+      "us": "Family and friends are important people in your life; don't forget them.",
       "it": "La famiglia e gli amici sono membri importanti della nostra vita, é importante non trascurarli.",
       "cn": "家人和朋友是生活中重要的成员，不要忘记他们。",
       "pt": "A família e os amigos são uma parte importante da vida, por isso não os esqueça.",
@@ -203,7 +203,7 @@
     "category": "outside",
     "title": {
       "fr": "Faire 30 minutes de sport",
-      "us": "Do 30 minutes of sport",
+      "us": "Exercise for 30 minutes",
       "it": "Fare 30 minuti di sport",
       "cn": "进行 30 分钟的运动",
       "pt": "Fazer 30 minutos de desporto",
@@ -289,7 +289,7 @@
     },
     "message": {
       "fr": "Changer un trajet habituel aide à découvrir de nouvelles choses et stimule l’orientation.",
-      "us": "Changing a usual route helps to discover new things and stimulates orientation.",
+      "us": "Changing your usual route helps you discover new things and stimulates your sense of direction.",
       "it": "Cambiare un tragitto abituale aiuta a scoprire delle nuove cose e stimola l'orientamento.",
       "cn": "改变通常的路线有助于发现新事物并激发方向感。",
       "pt": "Mudar o seu percurso habitual ajuda-o a descobrir coisas novas e estimula o seu sentido de orientação.",

@@ -3,7 +3,7 @@
     "game_mnemo": "emotion_affection",
     "title": {
       "fr": "L'affection ! L'affection signifie être attendri, avoir des pensées positives pour un ami, un membre de la famille ou un animal de compagnie.\n Ici, on est souriant, on pense aux bons moments. On peut se faire un câlin, se faire un bisou, dire à une ou un camarade qu'on l'aime bien.",
-      "us": "Affection! Affection means feeling tender, having positive thoughts for a friend, family member or pet.\n Here, we are smiling, we think of the good times. We can hug, kiss, tell a friend that we like them.",
+      "us": "Affection! Affection means feeling tender, having positive thoughts about a friend, family member or pet.\n Here, we smile and think of the good times. We can give a hug or a kiss, or tell a friend that we like them.",
       "it": "Affetto! Affetto significa sentirsi teneri, avere pensieri positivi per un amico, un familiare o un animale domestico.\n Qui sorridiamo, pensiamo ai bei tempi. Possiamo abbracciare, baciare, dire a un amico che ci piacciono.",
       "nl": "Affectie! Genegenheid betekent teder voelen en positieve gedachten hebben voor een vriend, familielid of huisdier.\n Hier glimlachen we, we denken aan de goede tijden. We kunnen een vriend knuffelen, kussen en vertellen dat we hem of haar leuk vinden.",
       "pt": "Afeição! Carinho significa sentir-se terno, ter pensamentos positivos por um amigo, familiar ou animal de estimação.\n Aqui estamos sorrindo, pensamos nos bons momentos. Podemos abraçar, beijar, dizer a um amigo que gostamos dele.",
@@ -17,7 +17,7 @@
     "game_mnemo": "emotion_boredom",
     "title": {
       "fr": "L’ennui ! L’ennui est présent lorsqu’on est dans une situation qui ne nous intéresse pas. On n'a pas envie d’écouter la personne en face ou on n'a pas envie de faire quelque chose.\n Pour l’ennui, on va souffler fort, lever les yeux en l’air et regarder autour de nous.",
-      "us": "Boredom! Boredom is present when we are in a situation that does not interest us. We don't want to listen to the person opposite or we don't want to do something.\n For boredom, we will blow hard, look up and look around us.",
+      "us": "Boredom! Boredom comes when we are in a situation that does not interest us. We don't want to listen to the person in front of us or we don't want to do something.\n For boredom, we sigh loudly, look up and look around us.",
       "it": "Noia! La noia è presente quando ci troviamo in una situazione che non ci interessa. Non vogliamo ascoltare la persona di fronte o non vogliamo fare qualcosa.\n Per la noia, soffieremo forte, alzeremo lo sguardo e ci guarderemo intorno.",
       "nl": "Verveling! Verveling is aanwezig als we ons in een situatie bevinden die ons niet interesseert. We willen niet luisteren naar de persoon tegenover ons of we willen niets doen.\n Uit verveling gaan we hard blazen, omhoog kijken en om ons heen kijken.",
       "pt": "Tédio! O tédio está presente quando estamos numa situação que não nos interessa. Não queremos ouvir a pessoa à nossa frente ou não queremos fazer nada.\n Para o tédio, vamos soprar forte, olhar para cima e olhar ao nosso redor.",
@@ -31,7 +31,7 @@
     "game_mnemo": "emotion_calm",
     "title": {
       "fr": "La sérénité ! La sérénité signifie que tu es reposé, que tu ne penses pas aux problèmes et que tu as des pensées positives.\n Pour la sérénité, ton visage est détendu, les bras souples. Tu peux être assis ou debout.",
-      "us": "Serenity ! Serenity means that you are rested, you don't think about problems and you think positive thoughts.\n For serenity, your face is relaxed, your arms flexible. You can be seated or standing.",
+      "us": "Serenity! Serenity means that you are rested, you don't think about problems and you think positive thoughts.\n For serenity, your face is relaxed, your arms loose. You can be seated or standing.",
       "it": "Serenità! Serenità significa che sei riposato, non pensi ai problemi e hai pensieri positivi.\n Per serenità, il tuo viso è rilassato, le tue braccia flessibili. Puoi stare seduto o in piedi.",
       "nl": "Rust ! Sereniteit betekent dat je uitgerust bent, niet aan problemen denkt en positieve gedachten hebt.\n Voor rust is uw gezicht ontspannen en uw armen flexibel. Je kunt zitten of staan.",
       "pt": "Serenidade! Serenidade significa que você está descansado, não pensa nos problemas e tem pensamentos positivos.\n Para serenidade, seu rosto fica relaxado e seus braços flexíveis. Você pode estar sentado ou em pé.",
@@ -45,7 +45,7 @@
     "game_mnemo": "emotion_confusion",
     "title": {
       "fr": "La confusion signifie être perdu dans nos idées à cause d’un événement, par exemple. On peut se tromper sur le nom de quelqu’un ou d’un objet.\n Pour la confusion, on ouvre grand les yeux, on fait un grand \"HOO\" avec la bouche et on lève les sourcils.",
-      "us": "Confusion means being lost in our thoughts because of an event, for example. You can get the name of someone or an object wrong.\n For confusion, open your eyes wide, make a big “HOO” with your mouth and raise your eyebrows.",
+      "us": "Confusion means being mixed up in our thoughts because of an event, for example. You can get the name of someone or an object wrong.\n For confusion, open your eyes wide, make a big “HOO” with your mouth and raise your eyebrows.",
       "it": "Confusione significa perdersi nei propri pensieri a causa di un evento, ad esempio. Puoi sbagliare il nome di qualcuno o di un oggetto.\n Per creare confusione, spalanca gli occhi, fai un grande \"HOO\" con la bocca e alza le sopracciglia.",
       "nl": "Verwarring betekent dat we in gedachten verzonken zijn vanwege bijvoorbeeld een gebeurtenis. Je kunt de naam van iemand of een object verkeerd interpreteren.\n Voor verwarring: open je ogen wijd, maak een grote “HOO” met je mond en trek je wenkbrauwen op.",
       "pt": "Confusão significa estar perdido em pensamentos por causa de um acontecimento, por exemplo. Você pode errar o nome de alguém ou de um objeto.\n Para confusão, abra bem os olhos, faça um grande “HOO” com a boca e levante as sobrancelhas.",
@@ -59,7 +59,7 @@
     "game_mnemo": "emotion_dignity",
     "title": {
       "fr": "La fierté ! La fierté, c’est le sentiment que l’on a lorsqu’on a confiance en soi, confiance en nos compétences. Cette émotion augmente après avoir atteint un objectif ou un bon résultat. Par exemple, lorsqu’on gagne une compétition.\n Lorsqu’on est fier, on se tient avec le dos droit et nos épaules sont ouvertes. On ne baisse pas le regard. Au contraire, on tient la tête haute et on regarde les autres droit dans les yeux.",
-      "us": "Pride ! Pride is the feeling we have when we have confidence in ourselves, confidence in our skills. This emotion increases after achieving a goal or a good result. For example, when you win a competition.\n When we are proud, we stand with our backs straight and our shoulders open. We don't look down. On the contrary, we hold our heads high and look others straight in the eye.",
+      "us": "Pride! Pride is the feeling we have when we have confidence in ourselves, confidence in our skills. This emotion increases after achieving a goal or a good result. For example, when you win a competition.\n When we are proud, we stand with our backs straight and our shoulders open. We don't look down. On the contrary, we hold our heads high and look others straight in the eye.",
       "it": "Orgoglio ! L'orgoglio è il sentimento che proviamo quando abbiamo fiducia in noi stessi, fiducia nelle nostre capacità. Questa emozione aumenta dopo aver raggiunto un obiettivo o un buon risultato. Ad esempio, quando vinci una competizione.\n Quando siamo orgogliosi, stiamo con la schiena dritta e le spalle aperte. Non guardiamo in basso. Al contrario, teniamo la testa alta e guardiamo gli altri dritto negli occhi.",
       "nl": "Trots ! Trots is het gevoel dat we hebben als we vertrouwen hebben in onszelf, vertrouwen in onze vaardigheden. Deze emotie neemt toe na het behalen van een doel of een goed resultaat. Bijvoorbeeld als je een wedstrijd wint.\n Als we trots zijn, staan ​​we met onze rug recht en onze schouders open. Wij kijken niet naar beneden. Integendeel, we houden ons hoofd hoog en kijken anderen recht in de ogen.",
       "pt": "Orgulho ! Orgulho é o sentimento que temos quando temos confiança em nós mesmos, confiança em nossas habilidades. Essa emoção aumenta após atingir uma meta ou um bom resultado. Por exemplo, quando você ganha uma competição.\n Quando estamos orgulhosos, ficamos com as costas retas e os ombros abertos. Não olhamos para baixo. Pelo contrário, mantemos a cabeça erguida e olhamos os outros diretamente nos olhos.",
@@ -73,7 +73,7 @@
     "game_mnemo": "emotion_disgust",
     "title": {
       "fr": "Le dégoût ! Le dégoût est la réaction que l’on a quand on n’aime pas quelque chose comme un aliment, une couleur ou un objet.\n Pour le dégoût, on fronce les sourcils, on plisse le nez, on lève la lèvre du haut pour faire apparaître les dents et on recule un peu la tête.",
-      "us": "Disgust ! Disgust is the reaction we have when we don't like something like a food, a color or an object.\n For disgust, we frown, we wrinkle our nose, we raise our upper lip to reveal our teeth and we move our head back a little.",
+      "us": "Disgust! Disgust is the reaction we have when we don't like something, such as a food, a color or an object.\n For disgust, we frown, we wrinkle our nose, we raise our upper lip to reveal our teeth and we move our head back a little.",
       "it": "Disgusto ! Il disgusto è la reazione che abbiamo quando non ci piace qualcosa come un cibo, un colore o un oggetto.\n Per disgusto, aggrottiamo le sopracciglia, arricciamo il naso, alziamo il labbro superiore per scoprire i denti e spostiamo leggermente la testa all'indietro.",
       "nl": "Walging! Walging is de reactie die we hebben als we iets als voedsel, kleur of voorwerp niet lekker vinden.\n Uit walging fronsen we onze wenkbrauwen, rimpelen we onze neus, heffen we onze bovenlip op zodat onze tanden zichtbaar worden en bewegen we ons hoofd een beetje naar achteren.",
       "pt": "Nojo! Nojo é a reação que temos quando não gostamos de algo como um alimento, uma cor ou um objeto.\n Por desgosto, franzimos a testa, torcemos o nariz, levantamos o lábio superior para revelar os dentes e movemos um pouco a cabeça para trás.",
@@ -87,7 +87,7 @@
     "game_mnemo": "emotion_embarrassment",
     "title": {
       "fr": "L’embarras ! L’embarras arrive lorsqu’on est dans une situation qui ne nous convient pas, qui provoque une gêne.\n Pour l’embarras, on hausse légèrement les épaules, on lève les sourcils en l’air, on fait un petit sourire et on pivote un peu la tête en diagonale.",
-      "us": "Embarrassment ! Embarrassment happens when we are in a situation that does not suit us, that causes discomfort.\n For embarrassment, shrug your shoulders slightly, raise your eyebrows in the air, give a small smile and turn your head diagonally a little.",
+      "us": "Embarrassment! Embarrassment happens when we are in a situation that doesn't feel right, that makes us uncomfortable.\n For embarrassment, shrug your shoulders slightly, raise your eyebrows, give a small smile and turn your head a little to the side.",
       "it": "Imbarazzo ! L'imbarazzo avviene quando ci troviamo in una situazione che non ci si addice, che provoca disagio.\n Per imbarazzo, alza leggermente le spalle, alza le sopracciglia in aria, fai un piccolo sorriso e gira leggermente la testa in diagonale.",
       "nl": "Schaamte! Schaamte ontstaat wanneer we ons in een situatie bevinden die niet bij ons past, die ongemak veroorzaakt.\n Haal uit schaamte uw schouders lichtjes op, trek uw wenkbrauwen in de lucht, glimlach even en draai uw hoofd een beetje diagonaal.",
       "pt": "Constrangimento! O constrangimento acontece quando estamos em uma situação que não nos convém, que causa desconforto.\n Para constrangimento, encolha levemente os ombros, levante as sobrancelhas, dê um pequeno sorriso e vire um pouco a cabeça na diagonal.",
@@ -101,7 +101,7 @@
     "game_mnemo": "emotion_fear",
     "title": {
       "fr": "La peur ! La peur est une émotion qui arrive lorsque l’on ne se sent pas en sécurité ou s'il y a un danger. Par exemple, on peut avoir peur de l’obscurité.\n Quand on a peur, on se fait tout petit, comme pour devenir une boule, on tremble et on se ferme les yeux avec les mains.",
-      "us": "The fear ! Fear is an emotion that happens when you don't feel safe or if there is danger. For example, we may be afraid of the dark.\n When we are afraid, we make ourselves very small, as if to become a ball, we tremble and we close our eyes with our hands.",
+      "us": "Fear! Fear is an emotion that happens when you don't feel safe or if there is danger. For example, we may be afraid of the dark.\n When we are afraid, we make ourselves very small, as if to become a ball, we tremble and we cover our eyes with our hands.",
       "it": "Il timore ! La paura è un'emozione che accade quando non ti senti sicuro o se c'è pericolo. Ad esempio, potremmo avere paura del buio.\n Quando abbiamo paura ci facciamo piccolissimi, come se diventassimo una palla, tremiamo e chiudiamo gli occhi con le mani.",
       "nl": "De angst ! Angst is een emotie die ontstaat als je je niet veilig voelt of als er gevaar dreigt. We kunnen bijvoorbeeld bang zijn in het donker.\n Als we bang zijn, maken we onszelf heel klein, alsof we een bal willen worden, we trillen en we sluiten onze ogen met onze handen.",
       "pt": "O medo ! O medo é uma emoção que acontece quando você não se sente seguro ou se há perigo. Por exemplo, podemos ter medo do escuro.\n Quando temos medo, nos tornamos muito pequenos, como se fôssemos virar uma bola, trememos e fechamos os olhos com as mãos.",
@@ -115,7 +115,7 @@
     "game_mnemo": "emotion_hunger",
     "title": {
       "fr": "La faim ! La faim est une sensation dans notre ventre, lorsqu’il fait du bruit et que notre corps est un peu faible.\n Pour la faim, on se touche le ventre et on passe notre langue sur la lèvre supérieure.",
-      "us": "Hunger ! Hunger is a feeling in our stomach, when it is noisy and our body is a little weak.\n For hunger, we touch our stomach and run our tongue over our upper lip.",
+      "us": "Hunger! Hunger is a feeling in our stomach, when it rumbles and our body feels a little weak.\n For hunger, we touch our stomach and run our tongue over our upper lip.",
       "it": "Fame ! La fame è una sensazione nel nostro stomaco, quando è rumoroso e il nostro corpo è un po' debole.\n Per fame, ci tocchiamo lo stomaco e facciamo scorrere la lingua sul labbro superiore.",
       "nl": "Honger! Honger is een gevoel in onze maag, wanneer deze luidruchtig is en ons lichaam een ​​beetje zwak is.\n Voor honger raken we onze maag aan en gaan we met onze tong over onze bovenlip.",
       "pt": "Fome ! A fome é uma sensação no estômago, quando faz barulho e nosso corpo fica um pouco fraco.\n Para sentir fome, tocamos a barriga e passamos a língua no lábio superior.",
@@ -143,7 +143,7 @@
     "game_mnemo": "emotion_interest",
     "title": {
       "fr": "L’intérêt ! L’intérêt, c’est penser à une chose, une personne ou une situation et vouloir en savoir plus, apprendre et comprendre.\n Pour l’intérêt, on va ouvrir grand les yeux et les oreilles, pour avoir plus d’informations. On va poser des questions et on va se pencher vers l’objet d’intérêt.",
-      "us": "Interest! Interest is thinking about a thing, a person or a situation and wanting to know more, learn and understand.\n For the sake of interest, we will keep our eyes and ears wide open for more information. We will ask questions and we will lean towards the object of interest.",
+      "us": "Interest! Interest is thinking about a thing, a person or a situation and wanting to know more, learn and understand.\n For interest, we open our eyes and ears wide to get more information. We ask questions and lean toward what interests us.",
       "it": "Interesse! L'interesse è pensare a una cosa, una persona o una situazione e volerne sapere di più, imparare e capire.\n Per motivi di interesse, terremo gli occhi e le orecchie ben aperti per ulteriori informazioni. Faremo domande e ci sposteremo verso l'oggetto di interesse.",
       "nl": "Interesse! Interesse is nadenken over iets, een persoon of een situatie en meer willen weten, leren en begrijpen.\n Uit interesse houden wij onze ogen en oren wijd open voor meer informatie. We zullen vragen stellen en we zullen ons richten op het object van interesse.",
       "pt": "Interesse! Interesse é pensar numa coisa, numa pessoa ou numa situação e querer saber mais, aprender e compreender.\n Por uma questão de interesse, manteremos nossos olhos e ouvidos bem abertos para mais informações. Faremos perguntas e nos inclinaremos para o objeto de interesse.",
@@ -157,7 +157,7 @@
     "game_mnemo": "emotion_pain",
     "title": {
       "fr": "La douleur ! La douleur est une sensation déplaisante qui peut faire mal. On peut avoir mal physiquement à cause d’un accident. La douleur peut aussi être un sentiment de manque de quelqu’un ou de quelque chose ou de la tristesse.\n Pour exprimer la douleur, on lève les sourcils vers le haut, on plisse les yeux, et on fait une grimace avec le visage.",
-      "us": "Pain ! Pain is an unpleasant sensation that can hurt. You can be physically hurt by an accident. Pain can also be a feeling of missing someone or something or sadness.\n To express pain, we raise our eyebrows upwards, squint our eyes, and make a grimace with our face.",
+      "us": "Pain! Pain is an unpleasant sensation that can hurt. You can be physically hurt by an accident. Pain can also be the feeling of missing someone or something, or sadness.\n To express pain, we raise our eyebrows, squint our eyes and grimace.",
       "it": "Dolore ! Il dolore è una sensazione spiacevole che può far male. Puoi rimanere ferito fisicamente da un incidente. Il dolore può anche essere la sensazione di mancanza di qualcuno o qualcosa o tristezza.\n Per esprimere dolore alziamo le sopracciglia verso l'alto, socchiudiamo gli occhi e facciamo una smorfia con il viso.",
       "nl": "Pijn ! Pijn is een onaangenaam gevoel dat pijn kan doen. Door een ongeval kunt u lichamelijk letsel oplopen. Pijn kan ook het gevoel zijn dat je iemand of iets mist, of verdriet.\n Om pijn uit te drukken trekken we onze wenkbrauwen omhoog, knijpen onze ogen tot spleetjes en trekken een grimas met ons gezicht.",
       "pt": "Dor ! A dor é uma sensação desagradável que pode doer. Você pode se machucar fisicamente em um acidente. A dor também pode ser uma sensação de falta de alguém ou de alguma coisa ou tristeza.\n Para expressar a dor, levantamos as sobrancelhas, semicerramos os olhos e fazemos uma careta com o rosto.",
@@ -171,7 +171,7 @@
     "game_mnemo": "emotion_pride",
     "title": {
       "fr": "La fierté ! La fierté, c’est le sentiment que l’on a lorsqu’on a confiance en soi, confiance en nos compétences. Cette émotion augmente après avoir atteint un objectif ou un bon résultat. Par exemple, lorsqu’on gagne une compétition.\n Lorsqu’on est fier, on se tient avec le dos droit et nos épaules sont ouvertes. On ne baisse pas le regard, au contraire, on tient la tête haute et on regarde les autres droit dans les yeux.",
-      "us": "Pride ! Pride is the feeling we have when we have confidence in ourselves, confidence in our skills. This emotion increases after achieving a goal or a good result. For example, when you win a competition.\n When we are proud, we stand with our backs straight and our shoulders open. We don't look down, on the contrary, we hold our heads high and we look others straight in the eye.",
+      "us": "Pride! Pride is the feeling we have when we have confidence in ourselves, confidence in our skills. This emotion increases after achieving a goal or a good result. For example, when you win a competition.\n When we are proud, we stand with our backs straight and our shoulders open. We don't look down. On the contrary, we hold our heads high and we look others straight in the eye.",
       "it": "Orgoglio ! L'orgoglio è il sentimento che proviamo quando abbiamo fiducia in noi stessi, fiducia nelle nostre capacità. Questa emozione aumenta dopo aver raggiunto un obiettivo o un buon risultato. Ad esempio, quando vinci una competizione.\n Quando siamo orgogliosi, stiamo con la schiena dritta e le spalle aperte. Non abbassiamo lo sguardo, anzi, teniamo la testa alta e guardiamo gli altri dritto negli occhi.",
       "nl": "Trots ! Trots is het gevoel dat we hebben als we vertrouwen hebben in onszelf, vertrouwen in onze vaardigheden. Deze emotie neemt toe na het behalen van een doel of een goed resultaat. Bijvoorbeeld als je een wedstrijd wint.\n Als we trots zijn, staan ​​we met onze rug recht en onze schouders open. Wij kijken niet naar beneden, integendeel, wij houden ons hoofd omhoog en kijken anderen recht in de ogen.",
       "pt": "Orgulho ! Orgulho é o sentimento que temos quando temos confiança em nós mesmos, confiança em nossas habilidades. Essa emoção aumenta após atingir uma meta ou um bom resultado. Por exemplo, quando você ganha uma competição.\n Quando estamos orgulhosos, ficamos com as costas retas e os ombros abertos. Não olhamos para baixo, pelo contrário, mantemos a cabeça erguida e olhamos os outros diretamente nos olhos.",
@@ -185,7 +185,7 @@
     "game_mnemo": "emotion_surprise",
     "title": {
       "fr": "La surprise ! La surprise signifie que tu es étonné par un moment, une personne ou un objet comme un cadeau inattendu.\n Quand on est surpris, on ouvre grand la bouche, on ouvre les yeux.",
-      "us": "The surprise ! Surprise means that you are surprised by a moment, a person or an object like an unexpected gift.\n When we are surprised, we open our mouths wide, we open our eyes.",
+      "us": "Surprise! Surprise means that you are amazed by a moment, a person or an object, like an unexpected gift.\n When we are surprised, we open our mouths wide and we open our eyes.",
       "it": "La sorpresa ! Sorpresa significa rimanere sorpresi da un momento, da una persona o da un oggetto come un regalo inaspettato.\n Quando siamo sorpresi, spalanchiamo la bocca, apriamo gli occhi.",
       "nl": "De verrassing ! Verrassing betekent dat je verrast wordt door een moment, een persoon of een voorwerp, zoals een onverwacht geschenk.\n Als we verrast zijn, doen we onze mond wijd open, we doen onze ogen open.",
       "pt": "A surpresa ! Surpresa significa que você é surpreendido por um momento, uma pessoa ou um objeto como um presente inesperado.\n Quando somos surpreendidos, abrimos bem a boca, abrimos os olhos.",
@@ -199,7 +199,7 @@
     "game_mnemo": "emotion_tired",
     "title": {
       "fr": "La fatigue ! La fatigue arrive après avoir fourni un grand effort physique ou après avoir beaucoup réfléchi.\n Pour la fatigue, on va bâiller très fort et en même temps on va étirer nos bras et s'étirer le plus possible jusqu’à ce que nos bras et nos jambes soient comme du coton.",
-      "us": "Tiredness ! Fatigue occurs after exerting great physical effort or after thinking a lot.\n For fatigue, we will yawn very hard and at the same time we will stretch our arms and stretch as much as possible until our arms and legs feel like cotton.",
+      "us": "Tiredness! Tiredness comes after a big physical effort or after thinking a lot.\n For tiredness, we yawn very wide and at the same time we stretch our arms and stretch as much as possible until our arms and legs feel like cotton.",
       "it": "Stanchezza! La stanchezza si verifica dopo aver esercitato un grande sforzo fisico o dopo aver pensato molto.\n Per la stanchezza, sbadiglieremo molto forte e allo stesso tempo allungheremo le braccia e ci allungheremo il più possibile finché le nostre braccia e le nostre gambe non sembreranno cotone.",
       "nl": "Vermoeidheid! Vermoeidheid treedt op na grote fysieke inspanning of na veel nadenken.\n Bij vermoeidheid gaan we heel hard gapen en tegelijkertijd strekken we onze armen en strekken we ons zoveel mogelijk uit totdat onze armen en benen aanvoelen als katoen.",
       "pt": "Cansaço! A fadiga ocorre após grande esforço físico ou depois de pensar muito.\n Para o cansaço, bocejaremos muito e ao mesmo tempo esticaremos os braços e alongaremos o máximo possível até que nossos braços e pernas pareçam algodão.",
@@ -255,7 +255,7 @@
     "game_mnemo": "position_cactus",
     "title": {
       "fr": "Pour la position du cactus, tiens-toi debout, lève une jambe sur le côté le plus haut possible, tends le bras opposé, et l’autre bras, tends-le vers le ciel.",
-      "us": "For the cactus position, stand, raise one leg to the side as high as possible, extend the opposite arm, and the other arm, extend it towards the sky.",
+      "us": "For the cactus position, stand, raise one leg to the side as high as possible, extend the opposite arm, and stretch the other arm towards the sky.",
       "it": "Per la posizione del cactus, stare in piedi, sollevare una gamba di lato il più in alto possibile, estendere il braccio opposto e estendere l'altro braccio verso il cielo.",
       "nl": "Voor de cactuspositie: ga staan, til één been zo hoog mogelijk opzij, strek de andere arm uit en strek deze met de andere arm naar de hemel.",
       "pt": "Para a posição de cacto, fique em pé, levante uma perna para o lado o mais alto possível, estenda o braço oposto, e o outro braço, estenda-o em direção ao céu.",
@@ -451,7 +451,7 @@
     "game_mnemo": "position_ninja",
     "title": {
       "fr": "Pour faire la position du ninja, avance une jambe en avant, appuie-toi sur ce genou et tire les bras en arrière.",
-      "us": "To do the ninja position, walk one leg forward, lean on that knee and pull your arms back.",
+      "us": "To do the ninja position, step one leg forward, lean on that knee and pull your arms back.",
       "it": "Per eseguire la posizione ninja, cammina con una gamba in avanti, appoggiati su quel ginocchio e tira indietro le braccia.",
       "nl": "Om de ninjapositie uit te voeren, loopt u één been naar voren, leunt u op die knie en trekt u uw armen naar achteren.",
       "pt": "Para fazer a posição ninja, ande uma perna para frente, apoie-se nesse joelho e puxe os braços para trás.",
@@ -507,7 +507,7 @@
     "game_mnemo": "position_straircase",
     "title": {
       "fr": "Pour faire la position de l’escalier, allonge-toi par terre, tends les jambes, appuie-toi sur ta main qui reste au sol, soulève ton corps et lève l’autre main vers le ciel.",
-      "us": "To do the stair position, lie down on the ground, straighten your legs, lean on your hand that remains on the ground, lift your body and raise the other hand towards the sky.",
+      "us": "To do the stair position, lie down on the ground, straighten your legs, lean on the hand that stays on the ground, lift your body and raise the other hand towards the sky.",
       "it": "Per fare la posizione della scala, sdraiati a terra, raddrizza le gambe, appoggiati sulla mano che rimane a terra, solleva il corpo e alza l'altra mano verso il cielo.",
       "nl": "Om de trappositie uit te voeren, gaat u op de grond liggen, strekt u uw benen, leunt u op uw hand die op de grond blijft, tilt u uw lichaam op en strekt u de andere hand naar de hemel.",
       "pt": "Para fazer a posição de escada, deite-se no chão, estique as pernas, apoie-se na mão que permanece no chão, levante o corpo e levante a outra mão em direção ao céu.",
@@ -563,7 +563,7 @@
     "game_mnemo": "position_tree",
     "title": {
       "fr": "Pour faire la position du sage, tiens-toi debout, plie la jambe et mets ton pied sur le genou opposé, puis joins tes mains.",
-      "us": "To do the wise man's pose, stand, bend your leg and put your foot on the opposite knee, then join your hands.",
+      "us": "To do the wise man's pose, stand, bend your leg and put your foot on the opposite knee, then put your hands together.",
       "it": "Per eseguire la posa del saggio, alzati, piega la gamba e metti il ​​piede sul ginocchio opposto, quindi unisci le mani.",
       "nl": "Om de houding van de wijze man uit te voeren, ga staan, buig je been en zet je voet op de andere knie, en vouw dan je handen.",
       "pt": "Para fazer a pose do sábio, fique de pé, dobre a perna e coloque o pé no joelho oposto, depois junte as mãos.",
@@ -619,7 +619,7 @@
     "game_mnemo": "yoga_butterfly",
     "title": {
       "fr": "Pour la position du papillon, assieds-toi par terre, les pieds joints devant toi, la plante des pieds l’une contre l’autre. Tiens tes pieds ensemble avec tes mains et essaie d’avoir le dos bien droit. En prenant une grande inspiration, rapproche tes genoux l’un de l’autre. Sur l’expiration, descends tes genoux vers le sol.",
-      "us": "For the butterfly position, sit on the floor with your feet together in front of you, the soles of your feet together. Hold your feet together with your hands and try to have your back straight. Taking a deep breath, bring your knees together. As you exhale, lower your knees to the floor.",
+      "us": "For the butterfly position, sit on the floor with your feet together in front of you, the soles of your feet together. Hold your feet together with your hands and try to keep your back straight. Taking a deep breath, bring your knees together. As you exhale, lower your knees to the floor.",
       "it": "Per la posizione della farfalla, siediti sul pavimento con i piedi uniti davanti a te, con le piante dei piedi unite. Tieni i piedi uniti con le mani e cerca di tenere la schiena dritta. Facendo un respiro profondo, unisci le ginocchia. Mentre espiri, abbassa le ginocchia a terra.",
       "nl": "Voor de vlinderpositie ga je op de grond zitten met je voeten tegen elkaar aan, de voetzolen tegen elkaar. Houd uw voeten bij elkaar met uw handen en probeer uw rug recht te houden. Haal diep adem en breng je knieën naar elkaar toe. Terwijl je uitademt, laat je je knieën op de grond zakken.",
       "pt": "Para a posição borboleta, sente-se no chão com os pés juntos à sua frente e as solas dos pés juntas. Segure os pés juntos com as mãos e tente manter as costas retas. Respirando fundo, junte os joelhos. Ao expirar, abaixe os joelhos até o chão.",
@@ -661,7 +661,7 @@
     "game_mnemo": "yoga_cobra",
     "title": {
       "fr": "Pour la position du cobra, allonge-toi sur le ventre, pose tes mains par terre au niveau de ton torse, appuie sur tes mains pour soulever ton torse et ta tête vers le ciel dans une grande expiration.",
-      "us": "For the cobra position, lie on your stomach, place your hands on the ground at the level of your torso, press on your hands to lift your torso and your head towards the sky with a deep exhale.",
+      "us": "For the cobra position, lie on your stomach, place your hands on the ground next to your torso, press on your hands to lift your torso and your head towards the sky with a deep exhale.",
       "it": "Per la posizione del cobra, sdraiati a pancia in giù, appoggia le mani a terra all'altezza del busto, premi sulle mani per sollevare il busto e la testa verso il cielo con un'espirazione profonda.",
       "nl": "Voor de cobra-positie: ga op je buik liggen, plaats je handen op de grond ter hoogte van je romp, druk op je handen om je romp en hoofd naar de hemel te tillen met een diepe uitademing.",
       "pt": "Para a posição de cobra, deite-se de bruços, coloque as mãos no chão na altura do tronco, pressione as mãos para levantar o tronco e a cabeça em direção ao céu com uma expiração profunda.",
@@ -689,7 +689,7 @@
     "game_mnemo": "yoga_downward_dog",
     "title": {
       "fr": "Pour la position du chien tête en bas, allonge-toi sur le ventre, mets tes mains sous tes épaules, plante la pointe de tes pieds dans le sol et sur une grande expiration, pousse dans tes bras et envoie tes hanches vers le ciel. Reste dans cette position quelques instants. Sur l’inspiration, amène ton bassin un peu plus vers le ciel. Sur l’expiration, tes talons un peu plus vers le sol.",
-      "us": "For the downward facing dog position, lie on your stomach, put your hands under your shoulders, plant the tips of your feet into the ground and on a deep exhale, push into your arms and send your hips towards the sky. Stay in this position for a few moments. On the inhale, bring your pelvis a little more towards the sky. As you exhale, place your heels a little more towards the ground.",
+      "us": "For the downward-facing dog position, lie on your stomach, put your hands under your shoulders, plant your toes into the ground and on a deep exhale, push into your arms and send your hips towards the sky. Stay in this position for a few moments. On the inhale, bring your pelvis a little more towards the sky. As you exhale, place your heels a little more towards the ground.",
       "it": "Per la posizione del cane a testa in giù, sdraiati a pancia in giù, metti le mani sotto le spalle, pianta la punta dei piedi nel terreno e, con un'espirazione profonda, spingi tra le braccia e manda i fianchi verso il cielo. Rimani in questa posizione per qualche istante. Durante l'inspirazione, porta il bacino un po' più verso il cielo. Mentre espiri, avvicina leggermente i talloni al suolo.",
       "nl": "Voor de naar beneden gerichte hondpositie: ga op je buik liggen, plaats je handen onder je schouders, plant de toppen van je voeten in de grond en adem diep uit, duw je armen in en stuur je heupen naar de hemel. Blijf een paar ogenblikken in deze positie. Breng tijdens het inademen je bekken iets meer naar de hemel. Terwijl je uitademt, plaats je je hielen iets meer naar de grond.",
       "pt": "Para a posição do cão voltado para baixo, deite-se de bruços, coloque as mãos sob os ombros, plante as pontas dos pés no chão e, ao expirar profundamente, empurre os braços e direcione os quadris para o céu. Fique nesta posição por alguns momentos. Ao inspirar, traga a pélvis um pouco mais em direção ao céu. Ao expirar, coloque os calcanhares um pouco mais em direção ao chão.",
@@ -731,7 +731,7 @@
     "game_mnemo": "yoga_elephant",
     "title": {
       "fr": "Pour la position de l’éléphant, mets-toi debout et écarte légèrement les jambes, joins tes mains, prends une grande inspiration, et ramène-les au-dessus de ta tête. Sur une grande expiration, baisse les mains, et fais-les passer entre tes jambes. Retourne à la position initiale et recommence le mouvement autant de fois que tu veux.",
-      "us": "For the elephant position, stand up and spread your legs slightly, bring your hands together, take a deep breath, and bring them above your head. On a deep exhale, lower your hands and pass them between your legs. Return to the initial position and repeat the movement as many times as you want.",
+      "us": "For the elephant position, stand up and spread your legs slightly, bring your hands together, take a deep breath, and bring them above your head. On a deep exhale, lower your hands and pass them between your legs. Return to the starting position and repeat the movement as many times as you want.",
       "it": "Per la posizione dell'elefante, alzati e allarga leggermente le gambe, unisci le mani, fai un respiro profondo e portale sopra la testa. Durante un'espirazione profonda, abbassa le mani e passale tra le gambe. Ritorna alla posizione iniziale e ripeti il ​​movimento quante volte vuoi.",
       "nl": "Voor de olifantspositie: sta op en spreid je benen iets, breng je handen bij elkaar, haal diep adem en breng ze boven je hoofd. Terwijl je diep uitademt, laat je je handen zakken en plaats je ze tussen je benen. Keer terug naar de beginpositie en herhaal de beweging zo vaak als je wilt.",
       "pt": "Para a posição do elefante, levante-se e abra ligeiramente as pernas, junte as mãos, respire fundo e coloque-as acima da cabeça. Ao expirar profundamente, abaixe as mãos e passe-as entre as pernas. Volte à posição inicial e repita o movimento quantas vezes quiser.",
@@ -745,7 +745,7 @@
     "game_mnemo": "yoga_fox",
     "title": {
       "fr": "Pour la position du renard, mets-toi à quatre pattes, sur une grande inspiration amène un genou vers ton torse et rentre ta tête entre tes bras. Sur une grande expiration, étire ta jambe vers l’arrière et lève ta tête vers le ciel. Essaie de monter ta jambe le plus haut possible, sans perdre ton calme et ton équilibre, recommence autant de fois que tu veux.",
-      "us": "For the fox position, get on all fours, on a deep breath bring one knee towards your chest and tuck your head between your arms. On a deep exhale, stretch your leg back and raise your head toward the sky. Try to raise your leg as high as possible, without losing your composure, and repeat your balance as many times as you want.",
+      "us": "For the fox position, get on all fours, on a deep breath bring one knee towards your chest and tuck your head between your arms. On a deep exhale, stretch your leg back and raise your head toward the sky. Try to raise your leg as high as possible, without losing your calm or your balance, and repeat as many times as you want.",
       "it": "Per la posizione della volpe, mettiti a quattro zampe, con un respiro profondo porta un ginocchio verso il petto e infila la testa tra le braccia. Con un'espirazione profonda, allunga la gamba indietro e alza la testa verso il cielo. Cerca di sollevare la gamba più in alto possibile, senza perdere la calma, e ripeti l'equilibrio quante volte vuoi.",
       "nl": "Voor de vospositie ga je op handen en knieën zitten, adem diep in en breng één knie naar je borst en stop je hoofd tussen je armen. Terwijl je diep uitademt, strek je je been naar achteren en til je je hoofd naar de hemel. Probeer uw been zo hoog mogelijk op te heffen, zonder uw kalmte te verliezen, en herhaal uw evenwicht zo vaak als u wilt.",
       "pt": "Para a posição de raposa, fique de quatro, respirando fundo, leve um joelho em direção ao peito e coloque a cabeça entre os braços. Ao expirar profundamente, estique a perna para trás e levante a cabeça em direção ao céu. Tente levantar a perna o mais alto possível, sem perder a compostura, e repita o equilíbrio quantas vezes quiser.",
@@ -759,7 +759,7 @@
     "game_mnemo": "yoga_frog",
     "title": {
       "fr": "Pour la position de la grenouille, mets-toi à quatre pattes, puis écarte tes jambes le plus largement possible. Sur une expiration, pose tes coudes et baisse ton buste le plus possible jusqu’à ce que ta tête touche le sol.",
-      "us": "For the frog position, get on all fours, then spread your legs as wide as possible. On an exhale, place your elbows and lower your torso as much as possible until your head touches the ground.",
+      "us": "For the frog position, get on all fours, then spread your legs as wide as possible. On an exhale, place your elbows on the floor and lower your torso as much as possible until your head touches the ground.",
       "it": "Per la posizione della rana, mettiti a quattro zampe, quindi allarga le gambe il più possibile. Mentre espiri, posiziona i gomiti e abbassa il busto il più possibile finché la testa non tocca il suolo.",
       "nl": "Voor de kikkerpositie ga je op handen en knieën zitten en spreid je benen zo wijd mogelijk. Terwijl je uitademt, plaats je je ellebogen en laat je je romp zo ver mogelijk zakken totdat je hoofd de grond raakt.",
       "pt": "Para a posição de sapo, fique de quatro e abra as pernas o máximo possível. Ao expirar, coloque os cotovelos e abaixe o tronco o máximo possível até que a cabeça toque o chão.",
@@ -773,7 +773,7 @@
     "game_mnemo": "yoga_giraffe",
     "title": {
       "fr": "Pour la position de la girafe, tiens-toi debout, plie une jambe et fais glisser l’autre jambe vers l’arrière. Pose la main avant par terre, à l’intérieur de la jambe avant. À l’expiration, intensifie la fente. En prenant une grande inspiration, soulève la main libre dans le ciel, puis ramène ton bras au-dessus de ta tête, jusqu’à ce que ton bras touche ton oreille.",
-      "us": "For the giraffe pose, stand, bend one leg and slide the other leg back. Place the front hand on the ground, on the inside of the front leg. As you exhale, intensify the lunge. Taking a deep breath, raise your free hand into the sky, then bring your arm above your head, until your arm touches your ear.",
+      "us": "For the giraffe pose, stand, bend one leg and slide the other leg back. Place the front hand on the ground, on the inside of the front leg. As you exhale, deepen the lunge. Taking a deep breath, raise your free hand into the sky, then bring your arm above your head, until your arm touches your ear.",
       "it": "Per la posa della giraffa, alzati, piega una gamba e fai scivolare indietro l'altra gamba. Appoggia la mano anteriore a terra, all'interno della gamba anteriore. Mentre espiri, intensifica l'affondo. Fai un respiro profondo, alza la mano libera verso il cielo, quindi porta il braccio sopra la testa, finché il braccio non tocca l'orecchio.",
       "nl": "Voor de girafhouding ga je staan, buig je één been en schuif je het andere been naar achteren. Plaats de voorste hand op de grond, aan de binnenkant van het voorbeen. Terwijl je uitademt, intensiveer je de uitval. Haal diep adem, steek uw vrije hand de lucht in en breng dan uw arm boven uw hoofd, totdat uw arm uw oor raakt.",
       "pt": "Para a pose da girafa, fique de pé, dobre uma perna e deslize a outra para trás. Coloque a mão da frente no chão, na parte interna da perna da frente. Ao expirar, intensifique a estocada. Respirando fundo, levante a mão livre para o céu e depois coloque o braço acima da cabeça, até que o braço toque a orelha.",
@@ -787,7 +787,7 @@
     "game_mnemo": "yoga_happy_baby",
     "title": {
       "fr": "Pour la position du bébé, allonge-toi sur le dos, lève les jambes et plie les genoux. Mets tes mains sur la plante de tes pieds et tire tes genoux vers toi. Reste là quelques instants et profite de ce moment de calme.",
-      "us": "For baby position, lie on your back, raise your legs and bend your knees. Put your hands on the soles of your feet and pull your knees toward you. Stay there for a few moments and enjoy this moment of calm.",
+      "us": "For the baby position, lie on your back, raise your legs and bend your knees. Put your hands on the soles of your feet and pull your knees toward you. Stay there for a few moments and enjoy this moment of calm.",
       "it": "Per la posizione del bambino, sdraiati sulla schiena, solleva le gambe e piega le ginocchia. Metti le mani sulla pianta dei piedi e tira le ginocchia verso di te. Rimani lì per qualche istante e goditi questo momento di calma.",
       "nl": "Voor de babypositie: ga op je rug liggen, til je benen op en buig je knieën. Plaats uw handen op uw voetzolen en trek uw knieën naar u toe. Blijf daar een paar ogenblikken en geniet van dit moment van rust.",
       "pt": "Para a posição do bebê, deite-se de costas, levante as pernas e dobre os joelhos. Coloque as mãos nas solas dos pés e puxe os joelhos em sua direção. Fique aí por alguns instantes e aproveite esse momento de calma.",
@@ -829,7 +829,7 @@
     "game_mnemo": "yoga_penguin",
     "title": {
       "fr": "Pour la position du pingouin, tiens-toi debout, en prenant une grande respiration, soulève tes bras dans le ciel et joins-les. Bouge ton buste sur le côté et sens tout ton corps s’étirer. Puis retourne à la position initiale. Prends une autre grande respiration et fais la même chose de l’autre côté.",
-      "us": "For the penguin pose, stand, taking a deep breath, raise your arms into the sky and bring them together. Move your torso to the side and feel your whole body stretch. Then return to the initial position. Take another deep breath and do the same on the other side.",
+      "us": "For the penguin pose, stand and, taking a deep breath, raise your arms into the sky and bring them together. Move your torso to the side and feel your whole body stretch. Then return to the starting position. Take another deep breath and do the same on the other side.",
       "it": "Per la posa del pinguino, stai in piedi, fai un respiro profondo, alza le braccia al cielo e uniscile. Muovi il busto di lato e senti tutto il corpo allungarsi. Quindi tornare alla posizione iniziale. Fai un altro respiro profondo e fai lo stesso dall'altra parte.",
       "nl": "Voor de pinguïnhouding ga je staan, haal diep adem, steek je armen in de lucht en breng ze naar elkaar toe. Beweeg uw romp opzij en voel hoe uw hele lichaam zich uitstrekt. Keer vervolgens terug naar de beginpositie. Haal nog eens diep adem en doe hetzelfde aan de andere kant.",
       "pt": "Para a pose do pinguim, fique de pé, respirando fundo, levante os braços para o céu e junte-os. Mova o tronco para o lado e sinta todo o corpo esticar. Em seguida, retorne à posição inicial. Respire fundo novamente e faça o mesmo do outro lado.",
@@ -843,7 +843,7 @@
     "game_mnemo": "yoga_puppy",
     "title": {
       "fr": "Pour la position du chiot, mets-toi à quatre pattes, plante la pointe de tes pieds dans le sol. Garde tes hanches bien au-dessus de tes genoux et avance tes mains doucement vers l’avant. Continue à descendre calmement vers le sol jusqu’à ce que ton front touche le sol. Reste dans cette position quelques instants, en prenant de profondes respirations.",
-      "us": "For puppy position, get on all fours, plant the balls of your toes into the ground. Keep your hips well above your knees and slowly move your hands forward. Continue to calmly descend toward the floor until your forehead touches the floor. Stay in this position for a few moments, taking deep breaths.",
+      "us": "For the puppy position, get on all fours, plant your toes into the ground. Keep your hips well above your knees and slowly move your hands forward. Continue to calmly descend toward the floor until your forehead touches the floor. Stay in this position for a few moments, taking deep breaths.",
       "it": "Per la posizione da cucciolo, mettiti a quattro zampe e pianta le punte dei piedi nel terreno. Tieni i fianchi ben sopra le ginocchia e muovi lentamente le mani in avanti. Continua a scendere con calma verso il pavimento finché la fronte non tocca il pavimento. Rimani in questa posizione per qualche istante, facendo respiri profondi.",
       "nl": "Voor de puppypositie ga je op handen en voeten zitten en plant je de ballen van je tenen in de grond. Houd je heupen ruim boven je knieën en beweeg je handen langzaam naar voren. Blijf rustig naar de vloer afdalen totdat je voorhoofd de vloer raakt. Blijf een paar ogenblikken in deze positie en haal diep adem.",
       "pt": "Para a posição de cachorrinho, fique de quatro e plante as pontas dos dedos dos pés no chão. Mantenha os quadris bem acima dos joelhos e mova lentamente as mãos para a frente. Continue a descer calmamente em direção ao chão até que sua testa toque o chão. Fique nesta posição por alguns instantes, respirando fundo.",
@@ -885,7 +885,7 @@
     "game_mnemo": "yoga_sun",
     "title": {
       "fr": "Pour la position du soleil, joins les jambes et soulève-toi sur la pointe des pieds. Lève doucement les bras jusqu’à unir tes mains, au-dessus de la tête. Essaie d’amener tes mains le plus haut possible sur une grande inspiration. À l’expiration, relâche l’effort et détends-toi.",
-      "us": "For the sun pose, bring your legs together and raise yourself on your tiptoes. Slowly raise your arms until your hands are united, above your head. Try to bring your hands as high as possible on a deep breath. As you exhale, release the effort and relax.",
+      "us": "For the sun pose, bring your legs together and raise yourself on your tiptoes. Slowly raise your arms until your hands meet above your head. Try to bring your hands as high as possible on a deep breath. As you exhale, release the effort and relax.",
       "it": "Per la posa del sole, unisci le gambe e alzati in punta di piedi. Alza lentamente le braccia finché le mani non sono unite, sopra la testa. Prova a portare le mani il più in alto possibile durante un respiro profondo. Mentre espiri, rilascia lo sforzo e rilassati.",
       "nl": "Voor de zonnehouding breng je je benen bij elkaar en ga je op je tenen staan. Hef langzaam je armen op totdat je handen verenigd zijn, boven je hoofd. Probeer je handen zo hoog mogelijk te brengen terwijl je diep ademhaalt. Terwijl je uitademt, laat je de inspanning los en ontspan je.",
       "pt": "Para a pose do sol, junte as pernas e fique na ponta dos pés. Levante lentamente os braços até que as mãos se unam, acima da cabeça. Tente levar as mãos o mais alto possível respirando fundo. Ao expirar, libere o esforço e relaxe.",
@@ -899,7 +899,7 @@
     "game_mnemo": "yoga_tree",
     "title": {
       "fr": "Pour la position de l’arbre, tiens-toi bien droit. Soulève le pied gauche pour l'installer contre ton genou droit. Ouvre le genou gauche vers l’extérieur. Une fois que tu es stable, amène calmement tes bras vers le ciel et joins-les au-dessus de ta tête. Sens tout ton corps s’étirer. Quand tu te sens prêt, recommence l’exercice de l’autre côté.",
-      "us": "For the tree position, stand up straight. Lift your left foot to place it against your right knee. Open the left knee outwards. Once you are stable, calmly bring your arms up to the sky and join them above your head. Feel your whole body stretch. When you feel ready, start the exercise again on the other side.",
+      "us": "For the tree position, stand up straight. Lift your left foot to place it against your right knee. Open the left knee outwards. Once you are stable, calmly bring your arms up to the sky and bring them together above your head. Feel your whole body stretch. When you feel ready, start the exercise again on the other side.",
       "it": "Per la posizione dell'albero, stai dritto. Solleva il piede sinistro per posizionarlo contro il ginocchio destro. Apri il ginocchio sinistro verso l'esterno. Una volta che sei stabile, alza con calma le braccia al cielo e uniscile sopra la testa. Senti tutto il tuo corpo allungarsi. Quando ti senti pronto, ricomincia l'esercizio dall'altra parte.",
       "nl": "Ga rechtop staan ​​voor de boompositie. Til uw linkervoet op om deze tegen uw rechterknie te plaatsen. Open de linkerknie naar buiten. Als je eenmaal stabiel bent, breng je je armen rustig naar de hemel en breng ze samen boven je hoofd. Voel hoe je hele lichaam zich uitstrekt. Wanneer u zich er klaar voor voelt, begint u de oefening opnieuw aan de andere kant.",
       "pt": "Para a posição da árvore, fique em pé. Levante o pé esquerdo para colocá-lo contra o joelho direito. Abra o joelho esquerdo para fora. Quando estiver estável, levante calmamente os braços para o céu e junte-os acima da cabeça. Sinta todo o seu corpo esticar. Quando se sentir pronto, reinicie o exercício do outro lado.",
@@ -913,7 +913,7 @@
     "game_mnemo": "yoga_turtle",
     "title": {
       "fr": "Pour la position de la tortue, assieds-toi par terre avec les pieds joints devant toi, la plante des pieds l'une contre l’autre. Tiens ton dos bien droit et glisse tes bras à l’intérieur de tes jambes, pour venir poser tes mains de chaque côté de tes pieds. Sur une profonde expiration, baisse tout doucement ta tête, ton buste vers l’avant.",
-      "us": "For the turtle position, sit on the floor with your feet together in front of you, the soles of your feet together. Hold your back straight and slide your arms inside your legs, placing your hands on each side of your feet. On a deep exhale, slowly lower your head, your chest forward.",
+      "us": "For the turtle position, sit on the floor with your feet together in front of you, the soles of your feet together. Keep your back straight and slide your arms inside your legs, placing your hands on each side of your feet. On a deep exhale, slowly lower your head and chest forward.",
       "it": "Per la posizione della tartaruga, siediti sul pavimento con i piedi uniti davanti a te, con le piante dei piedi unite. Tieni la schiena dritta e fai scivolare le braccia all'interno delle gambe, posizionando le mani su ciascun lato dei piedi. Con un'espirazione profonda, abbassa lentamente la testa, il petto in avanti.",
       "nl": "Voor de schildpadpositie ga je op de grond zitten met je voeten tegen elkaar aan, de voetzolen tegen elkaar. Houd uw rug recht en schuif uw armen in uw benen, waarbij u uw handen aan elke kant van uw voeten plaatst. Terwijl je diep uitademt, laat je langzaam je hoofd zakken, je borst naar voren.",
       "pt": "Para a posição de tartaruga, sente-se no chão com os pés juntos à sua frente e as solas dos pés juntas. Mantenha as costas retas e deslize os braços por dentro das pernas, colocando as mãos em cada lado dos pés. Ao expirar profundamente, abaixe lentamente a cabeça, com o peito para a frente.",
@@ -927,7 +927,7 @@
     "game_mnemo": "yoga_warrior",
     "title": {
       "fr": "Pour la position du guerrier, plie légèrement une jambe vers l’avant et fais glisser l’autre jambe vers l’arrière. Lève les bras vers le ciel, jusqu’à joindre tes mains. Pendant que tu sens ton corps s’étirer, prends quelques grandes et calmes respirations.",
-      "us": "For the warrior pose, bend one leg slightly forward and slide the other leg back. Raise your arms towards the sky, until you join your hands. As you feel your body stretching take a few deep, calm breaths.",
+      "us": "For the warrior pose, bend one leg slightly forward and slide the other leg back. Raise your arms towards the sky, until your hands meet. As you feel your body stretching, take a few deep, calm breaths.",
       "it": "Per la posa del guerriero, piega leggermente una gamba in avanti e fai scivolare l'altra gamba indietro. Alza le braccia verso il cielo, fino a unire le mani. Mentre senti che il tuo corpo si allunga, fai alcuni respiri profondi e calmi.",
       "nl": "Voor de krijgerhouding buig je één been iets naar voren en schuif je het andere been naar achteren. Hef uw armen naar de hemel, totdat u uw handen samenvoegt. Terwijl u voelt dat uw lichaam zich uitrekt, haalt u een paar keer diep en rustig adem.",
       "pt": "Para a postura do guerreiro, dobre uma perna ligeiramente para a frente e deslize a outra para trás. Levante os braços em direção ao céu, até unir as mãos. Ao sentir o alongamento do corpo, respire fundo e calmamente.",

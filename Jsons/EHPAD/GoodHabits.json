@@ -3,7 +3,7 @@
     "category": "brain",
     "title": {
       "fr": "Suivre sa routine\n\n",
-      "us": "Create a routine",
+      "us": "Follow your routine",
       "it": "Seguire una routine",
       "nl": "Volg je routine\n\n",
       "cn": "遵循你的日常习惯\n\n",
@@ -14,7 +14,7 @@
     },
     "message": {
       "fr": "Créer une routine nous aide à organiser notre journée et à ne pas oublier les choses importantes.",
-      "us": "Having a set routine helps us organize our day and not to forget the important things.",
+      "us": "Having a set routine helps us organize our day and not forget the important things.",
       "it": "Creare delle routine ci aiuta a organizzare la giornata e a non dimenticare le cose importanti.",
       "nl": "Het creëren van een routine helpt ons onze dag te organiseren en de belangrijke dingen niet te vergeten.",
       "cn": "制定例行公事可以帮助我们安排一天的生活，并且不会忘记重要的事情。",
@@ -53,7 +53,7 @@
     "category": "brain",
     "title": {
       "fr": "Boire 1 litre d’eau",
-      "us": "Drink 1 gallon of water",
+      "us": "Drink 1 liter of water",
       "it": "Bere 1 litro di acqua",
       "nl": "Drink 1 liter water",
       "cn": "喝1升水",
@@ -114,7 +114,7 @@
     },
     "message": {
       "fr": "Manger est synonyme de bonheur : un bon repas peut faire retrouver le sourire. ",
-      "us": "Cooking is synonym with happiness. A nice cooked meal can make you smile.",
+      "us": "Eating is synonymous with happiness: a good meal can bring back your smile.",
       "it": "Mangiare é sinonimo di benessere: un buon piatto può far tornare il sorriso.",
       "nl": "Eten staat synoniem voor geluk: een goede maaltijd kan een glimlach terugbrengen.",
       "cn": "吃是幸福的代名词：一顿美餐可以带回笑容。",
@@ -139,7 +139,7 @@
     },
     "message": {
       "fr": "Découvrir une nouvelle passion permet de rendre vos journées plus dynamiques.",
-      "us": "It's possible to find a new hobbie at any age, a little something to brighten up your day.",
+      "us": "Discovering a new hobby can make your days more lively.",
       "it": "Scoprire una nuova passione permette di rendere le giornate più dinamiche.",
       "nl": "Het ontdekken van een nieuwe passie kan uw dag dynamischer maken.",
       "cn": "发现新的热情可以让你的一天更加充满活力。",
@@ -153,7 +153,7 @@
     "category": "habits",
     "title": {
       "fr": "Appeler ou écrire à vos proches",
-      "us": "Call or write to a closed one",
+      "us": "Call or write to loved ones",
       "it": "Chiama o scrivi ai tuoi cari",
       "nl": "Bel of schrijf naar uw dierbaren",
       "cn": "给您所爱的人打电话或写信",
@@ -164,7 +164,7 @@
     },
     "message": {
       "fr": "La famille et les amis sont des membres importants de la vie, ne les oubliez pas. ",
-      "us": "Family and friends are important members of your life, it is important not to neglect them.",
+      "us": "Family and friends are important people in your life; don't forget them.",
       "it": "La famiglia e gli amici sono membri importanti della nostra vita, é importante non trascurarli.",
       "nl": "Familie en vrienden zijn belangrijke leden van het leven, vergeet ze niet.",
       "cn": "家人和朋友是生活中重要的成员，不要忘记他们。",
@@ -214,7 +214,7 @@
     },
     "message": {
       "fr": "Il est important de faire du sport à tout âge. Faites un peu de gym, de yoga ou une promenade.",
-      "us": "Being physically active is important at any age. Do some gymnastics, yoga or even just go for a walk.",
+      "us": "Being physically active is important at any age. Do some exercises or yoga, or go for a walk.",
       "it": "Fare sport é importante ad ogni età. Fate un pò di palestra, di yoga o una passeggiata.",
       "nl": "Het is belangrijk om op elke leeftijd te sporten. Doe wat gym, yoga of een wandeling.",
       "cn": "在任何年龄段进行体育运动都很重要。做一些健身、瑜伽或散步。",
@@ -239,7 +239,7 @@
     },
     "message": {
       "fr": "Sourire aux personnes que vous croisez dans la rue peut améliorer votre journée et celle des autres.\n",
-      "us": "Smiling at people you pass on the street can improve your day and the day of others.",
+      "us": "Smiling at people you pass on the street can improve your day and theirs.",
       "it": "Sorridere alle persone che si incontrano per strada può migliorare la nostra giornata e la loro.",
       "nl": "Glimlachen naar mensen die je op straat tegenkomt, kan jouw dag en die van anderen beter maken.\n",
       "cn": "对街上经过的人微笑可以让你和他人的一天变得更好。\n",
@@ -264,7 +264,7 @@
     },
     "message": {
       "fr": "Prendre soin de soi est important. Allez chez le coiffeur pour vous détendre et rencontrer des gens.\n",
-      "us": "Taking time for you is essential. Enjoy a nice hair appointment to relax and meet new people. ",
+      "us": "Taking time for yourself is essential. Enjoy a nice hair appointment to relax and meet new people. ",
       "it": "Prendersi cura di sé é importante. Andate dal parrucchiere per rilassarvi e incontrare altre persone.",
       "nl": "Goed voor jezelf zorgen is belangrijk. Ga naar de kapper om te ontspannen en mensen te ontmoeten.\n",
       "cn": "照顾好自己很重要。去理发店放松并结识朋友。\n",

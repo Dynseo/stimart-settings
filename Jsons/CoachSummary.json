@@ -97,7 +97,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Au moins trois jours de jeu cette semaine, un beau rythme pour progresser. Bien joué !",
-      "us": "At least three days of play this week, a good pace to progress. Well done!",
+      "us": "At least three days of play this week, a good pace for making progress. Well done!",
       "it": "Almeno tre giorni di gioco questa settimana, un buon ritmo per progredire. Ben fatto!",
       "pt": "Pelo menos três dias de jogo esta semana, um bom ritmo para progredir. Bom trabalho!",
       "nl": "Deze week minimaal drie dagen spelen, een goed tempo om vooruitgang te boeken. Goed gedaan!",
@@ -169,7 +169,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. N'oubliez pas que la régularité est la clé pour maximiser les bienfaits.",
-      "us": "You played less than three days this week. Remember, regularity is the key to maximizing benefits.",
+      "us": "You played fewer than three days this week. Remember, regular play is the key to maximizing the benefits.",
       "it": "Hai giocato meno di tre giorni questa settimana. Ricorda, la regolarità è la chiave per massimizzare i benefici.",
       "pt": "Você jogou menos de três dias esta semana. Lembre-se de que a regularidade é a chave para maximizar os benefícios.",
       "nl": "Je hebt deze week minder dan drie dagen gespeeld. Vergeet niet dat regelmaat de sleutel is tot het maximaliseren van de voordelen.",
@@ -187,7 +187,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Moins de trois jours de jeu cette semaine. N’oubliez pas, la pratique régulière est essentielle pour progresser.",
-      "us": "Less than three days of play this week. Remember, regular practice is essential to progress.",
+      "us": "Fewer than three days of play this week. Remember, regular practice is essential to making progress.",
       "it": "Meno di tre giorni di gioco questa settimana. Ricorda, la pratica regolare è essenziale per progredire.",
       "pt": "Menos de três dias de jogo esta semana. Lembre-se de que a prática regular é essencial para o progresso.",
       "nl": "Deze week minder dan drie speeldagen. Vergeet niet dat regelmatige beoefening essentieel is om vooruitgang te boeken.",
@@ -205,7 +205,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous avez joué moins de trois jours cette semaine. Un peu plus de constance vous aidera à maximiser vos performances.",
-      "us": "You played less than three days this week. A little more consistency will help you maximize your performance.",
+      "us": "You played fewer than three days this week. A little more consistency will help you maximize your performance.",
       "it": "Hai giocato meno di tre giorni questa settimana. Un po’ più di coerenza ti aiuterà a massimizzare le tue prestazioni.",
       "pt": "Você jogou menos de três dias esta semana. Um pouco mais de consistência o ajudará a maximizar seu desempenho.",
       "nl": "Je hebt deze week minder dan drie dagen gespeeld. Een beetje meer consistentie zal u helpen uw prestaties te maximaliseren.",
@@ -223,7 +223,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Parfois, il est difficile de jouer régulièrement, et c’est tout à fait normal. Si besoin, n’hésitez pas à demander à un proche de vous accompagner pour un moment convivial.",
-      "us": "Sometimes it's difficult to play consistently, and that's completely normal. If necessary, do not hesitate to ask a loved one to accompany you for a friendly moment.",
+      "us": "Sometimes it's difficult to play consistently, and that's completely normal. If you need to, feel free to ask a loved one to join you for a pleasant moment together.",
       "it": "A volte è difficile giocare con costanza, e questo è del tutto normale. Se necessario, non esitate a chiedere a una persona cara di accompagnarvi per un momento conviviale.",
       "pt": "Às vezes é difícil jogar de forma consistente e isso é completamente normal. Se necessário, não hesite em pedir a um ente querido que o acompanhe num momento de amizade.",
       "nl": "Soms is het moeilijk om consistent te spelen, en dat is volkomen normaal. Aarzel indien nodig niet om een ​​dierbare te vragen u te vergezellen voor een vriendelijk moment.",
@@ -277,7 +277,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous jouez à un large éventail de jeux, ce qui est idéal pour stimuler plusieurs fonctions cognitives. Bravo pour la diversité de vos choix de jeux ! ",
-      "us": "You play a wide range of games, which is ideal for stimulating several cognitive functions. Bravo for the diversity of your game choices! ",
+      "us": "You play a wide range of games, which is ideal for stimulating several cognitive functions. Well done on the variety of your game choices! ",
       "it": "Giochi a un'ampia gamma di giochi, ideali per stimolare diverse funzioni cognitive. Bravo per la diversità delle tue scelte di gioco! ",
       "pt": "Você joga uma ampla variedade de jogos, o que é ideal para estimular diversas funções cognitivas. Bravo pela diversidade de suas escolhas de jogo! ",
       "nl": "Je speelt een breed scala aan games, wat ideaal is voor het stimuleren van meerdere cognitieve functies. Bravo voor de diversiteit van je spelkeuzes! ",
@@ -313,7 +313,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Plus de cinq jeux différents cette semaine ! Cette variété est idéale pour maximiser votre agilité mentale.",
-      "us": "More than five different games this week! This strain is ideal for maximizing your mental agility.",
+      "us": "More than five different games this week! This variety is ideal for maximizing your mental agility.",
       "it": "Più di cinque giochi diversi questa settimana! Questa varietà è ideale per massimizzare la tua agilità mentale.",
       "pt": "Mais de cinco jogos diferentes esta semana! Esta variedade é ideal para maximizar sua agilidade mental.",
       "nl": "Ruim vijf verschillende spellen deze week! Deze soort is ideaal voor het maximaliseren van je mentale behendigheid.",
@@ -421,7 +421,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Jouer régulièrement à <gameName> est une belle habitude. Si cela vous plaît, pourquoi ne pas essayer un autre jeu pour varier un peu ? Je peux vous conseiller <gameName2>, il devrait vous plaire ! ",
-      "us": "Playing <gameName> regularly is a great habit. If you like it, why not try another game for a little variety? I can advise you <gameName2>, you should like it! ",
+      "us": "Playing <gameName> regularly is a great habit. If you like it, why not try another game for a little variety? I can recommend <gameName2>, you should like it! ",
       "it": "Giocare regolarmente a <gameName> è un'ottima abitudine. Se ti piace, perché non provare un altro gioco per un po' di varietà? Posso consigliarti <gameName2>, ti dovrebbe piacere! ",
       "pt": "Jogar <gameName> regularmente é um ótimo hábito. Se você gosta, por que não experimentar outro jogo para variar um pouco? Posso te aconselhar <gameName2>, você vai gostar! ",
       "nl": "Regelmatig <gameName> spelen is een goede gewoonte. Als je het leuk vindt, waarom probeer je dan niet een ander spel voor een beetje variatie? Ik kan je <gameName2> adviseren, je zou het leuk moeten vinden! ",
@@ -439,7 +439,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Nous avons remarqué des progrès notables dans <gameName>. Vous améliorez vos performances globales, et cela montre que vos efforts paient. ",
-      "us": "We've noticed some notable progress in <gameName>. You improve your overall performance, and it shows that your efforts are paying off. ",
+      "us": "We've noticed some notable progress in <gameName>. You're improving your overall performance, and it shows that your efforts are paying off. ",
       "it": "Abbiamo notato alcuni progressi notevoli in <gameName>. Migliori le tue prestazioni complessive e ciò dimostra che i tuoi sforzi stanno dando i loro frutti. ",
       "pt": "Notamos alguns progressos notáveis ​​em <gameName>. Você melhora seu desempenho geral e isso mostra que seus esforços estão valendo a pena. ",
       "nl": "We hebben opmerkelijke vooruitgang opgemerkt in <gameName>. U verbetert uw algehele prestaties en het laat zien dat uw inspanningen vruchten afwerpen. ",
@@ -493,7 +493,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous avez gagné le trophée <trophy> ! Continuez à relever les défis pour compléter votre collection.",
-      "us": "You have won the <trophy> trophy! Continue to complete the challenges to complete your collection.",
+      "us": "You have won the <trophy> trophy! Keep taking on challenges to complete your collection.",
       "it": "Hai vinto il <trophy>! Continua a completare le sfide per completare la tua collezione.",
       "pt": "Você ganhou o <trophy>! Continue completando os desafios para completar sua coleção.",
       "nl": "Je hebt de <trophy> gewonnen! Ga door met het voltooien van de uitdagingen om je verzameling te voltooien.",
@@ -547,7 +547,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Votre moyenne au niveau facile est de <grade>. Pourquoi ne pas passer au niveau moyen pour plus de défis ?",
-      "us": "Your average at the easy level is <grade>. Why not upgrade to medium level for more challenges?",
+      "us": "Your average at the easy level is <grade>. Why not move up to the medium level for more challenges?",
       "it": "La tua media al livello facile è <grade>. Perché non passare al livello medio per ulteriori sfide?",
       "pt": "Sua média no nível fácil é <grade>. Por que não atualizar para o nível médio para mais desafios?",
       "nl": "Je gemiddelde op het makkelijke niveau is <grade>. Waarom niet upgraden naar een gemiddeld niveau voor meer uitdagingen?",
@@ -565,7 +565,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous avez obtenu une moyenne de <grade> dans le niveau facile. Il serait temps de tenter le niveau moyen pour plus de stimulation !",
-      "us": "You achieved an average of <grade> in the easy level. It's time to try the medium level for more stimulation!",
+      "us": "You achieved an average of <grade> at the easy level. It's time to try the medium level for more stimulation!",
       "it": "Hai raggiunto una media di <grade> nel livello facile. È ora di provare il livello medio per una maggiore stimolazione!",
       "pt": "Você alcançou uma média de <grade> no nível fácil. É hora de experimentar o nível médio para mais estimulação!",
       "nl": "Je behaalde een gemiddelde van <grade> op het makkelijke niveau. Het is tijd om het gemiddelde niveau te proberen voor meer stimulatie!",
@@ -583,7 +583,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous avez une moyenne de <grade> au niveau facile. Que diriez-vous de passer au niveau moyen pour progresser davantage ?",
-      "us": "You have an average of <grade> at the easy level. How about upgrading to medium level to progress further?",
+      "us": "You have an average of <grade> at the easy level. How about moving up to the medium level to progress further?",
       "it": "Hai una media di <grade> al livello facile. Che ne dici di passare al livello medio per progredire ulteriormente?",
       "pt": "Você tem uma média de <grade> no nível fácil. Que tal atualizar para o nível médio para progredir ainda mais?",
       "nl": "Je hebt een gemiddelde van <grade> op het makkelijke niveau. Hoe zit het met upgraden naar een gemiddeld niveau om verder te komen?",
@@ -601,7 +601,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous avez une moyenne de <grade> au niveau moyen. Pourquoi ne pas tenter le niveau difficile pour aller encore plus loin ?",
-      "us": "You have an average of <grade> at average level. Why not try the difficult level to go even further?",
+      "us": "You have an average of <grade> at the medium level. Why not try the hard level to go even further?",
       "it": "Hai una media di <grade> al livello medio. Perché non provare il livello difficile per andare ancora oltre?",
       "pt": "Você tem uma média de <grade> no nível médio. Por que não tentar o nível difícil para ir ainda mais longe?",
       "nl": "Je hebt een gemiddelde van <grade> op gemiddeld niveau. Waarom probeer je niet het moeilijke niveau om nog verder te gaan?",
@@ -619,7 +619,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Avec une excellente moyenne de <grade> dans le niveau moyen, il serait intéressant d'explorer le niveau difficile !",
-      "us": "With an excellent <grade> average in the medium level, it would be interesting to explore the hard level!",
+      "us": "With an excellent <grade> average at the medium level, it would be interesting to explore the hard level!",
       "it": "Con un'eccellente media <grade> nel livello medio, sarebbe interessante esplorare il livello difficile!",
       "pt": "Com uma excelente média <grade> no nível médio, seria interessante explorar o nível difícil!",
       "nl": "Met een uitstekend <grade> gemiddelde op het middenniveau zou het interessant zijn om het harde niveau te verkennen!",
@@ -637,7 +637,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Vous affichez une moyenne de <grade> au niveau moyen. Il est temps de mettre vos compétences à l'épreuve au niveau difficile !",
-      "us": "You have an average of <grade> at the average level. It's time to put your skills to the test on the difficult level!",
+      "us": "You have an average of <grade> at the medium level. It's time to put your skills to the test at the hard level!",
       "it": "Hai una media di <score> al livello medio. È tempo di mettere alla prova le tue abilità al livello difficile!",
       "pt": "Você tem uma média de <grade> no nível médio. É hora de testar suas habilidades no nível difícil!",
       "nl": "Je hebt een gemiddelde van <score> op het gemiddelde niveau. Het is tijd om je vaardigheden op de proef te stellen op het moeilijke niveau!",
@@ -673,7 +673,7 @@
     "isForCoco": true,
     "title": {
       "fr": "Poursuivez cette belle dynamique en explorant de nouveaux défis et en affinant vos compétences.",
-      "us": "Continue this great dynamic by exploring new challenges and refining your skills.",
+      "us": "Keep up this great momentum by exploring new challenges and refining your skills.",
       "it": "Continua questa grande dinamica esplorando nuove sfide e affinando le tue abilità.",
       "pt": "Continue esta grande dinâmica explorando novos desafios e refinando suas habilidades.",
       "nl": "Zet deze geweldige dynamiek voort door nieuwe uitdagingen te verkennen en je vaardigheden te verfijnen.",
@@ -763,7 +763,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Je vois que vous aimez les défis qui sollicitent votre attention, une belle façon d’exercer votre vigilance et votre concentration tout en vous amusant. Voici une astuce qui pourrait vous aider à aller encore plus loin : faire des pauses si nécessaire. L’attention fonctionne mieux lorsqu’elle est sollicitée par courtes périodes. N’hésitez pas à souffler entre deux parties.",
-      "us": "I see that you like challenges that require your attention, a great way to exercise your alertness and concentration while having fun. Here's a tip that could help you go even further: take breaks if necessary. Attention works best when required in short bursts. Don’t hesitate to breathe between two games.",
+      "us": "I see that you like challenges that require your attention, a great way to exercise your alertness and concentration while having fun. Here's a tip that could help you go even further: take breaks if necessary. Attention works best in short bursts. Feel free to take a breather between games.",
       "it": "Vedo che ti piacciono le sfide che richiedono la tua attenzione, un ottimo modo per esercitare la tua attenzione e concentrazione divertendoti. Ecco un consiglio che potrebbe aiutarti ad andare ancora oltre: fai delle pause se necessario. L'attenzione funziona meglio quando richiesta in brevi periodi. Non esitate a respirare tra due partite.",
       "pt": "Vejo que você gosta de desafios que exijam sua atenção, uma ótima forma de exercitar seu estado de alerta e concentração enquanto se diverte. Aqui vai uma dica que pode te ajudar a ir ainda mais longe: faça pausas se necessário. A atenção funciona melhor quando necessária em períodos curtos. Não hesite em respirar entre dois jogos.",
       "nl": "Ik zie dat je van uitdagingen houdt die je aandacht vereisen, een geweldige manier om je alertheid en concentratie te oefenen terwijl je plezier hebt. Hier is een tip die u kan helpen nog verder te gaan: neem indien nodig pauzes. Aandacht werkt het beste wanneer dit in korte uitbarstingen nodig is. Aarzel niet om tussen twee games door adem te halen.",
@@ -889,7 +889,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Jouer à des jeux qui sollicitent votre langage est une très bonne habitude pour enrichir votre esprit et garder votre mémoire active. Prenez votre temps : ne vous précipitez pas, réfléchissez aux différentes significations des mots et aux indices cachés dans le jeu.",
-      "us": "Playing games that challenge your language is a very good habit to enrich your mind and keep your memory active. Take your time: don't rush, think about the different meanings of the words and the clues hidden in the game.",
+      "us": "Playing games that challenge your language skills is a very good habit to enrich your mind and keep your memory active. Take your time: don't rush, think about the different meanings of the words and the clues hidden in the game.",
       "it": "Giocare a giochi che mettono alla prova la tua lingua è un'ottima abitudine per arricchire la tua mente e mantenere attiva la tua memoria. Prenditi il ​​tuo tempo: non avere fretta, pensa ai diversi significati delle parole e agli indizi nascosti nel gioco.",
       "pt": "Jogar jogos que desafiam o seu idioma é um hábito muito bom para enriquecer a sua mente e manter a sua memória ativa. Não tenha pressa: não tenha pressa, pense nos diferentes significados das palavras e nas pistas escondidas no jogo.",
       "nl": "Het spelen van spelletjes die uw taal uitdagen is een zeer goede gewoonte om uw geest te verrijken en uw geheugen actief te houden. Neem de tijd: haast je niet, denk na over de verschillende betekenissen van de woorden en de aanwijzingen die in het spel verborgen zijn.",
@@ -907,7 +907,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Les jeux de langage sont parfaits pour développer votre aisance et votre capacité à jouer avec les mots. Et il semble que vous les appréciez particulièrement ! Pour profiter encore plus de vos jeux, voici un conseil à essayer : lisez les mots à voix haute si possible. Cela aide à mieux les intégrer et à renforcer la mémoire auditive.",
-      "us": "Language games are perfect for developing your fluency and ability to play with words. And it seems that you particularly like them! To enjoy your games even more, here's a tip to try: read the words out loud if possible. This helps to better integrate them and strengthen auditory memory.",
+      "us": "Language games are perfect for developing your fluency and ability to play with words. And it seems that you particularly like them! To enjoy your games even more, here's a tip to try: read the words out loud if possible. This helps you absorb them better and strengthens auditory memory.",
       "it": "I giochi linguistici sono perfetti per sviluppare la tua fluidità e la capacità di giocare con le parole. E sembra che ti piacciano particolarmente! Per divertirti ancora di più con i tuoi giochi, ecco un consiglio da provare: leggi le parole ad alta voce, se possibile. Questo aiuta a integrarli meglio e a rafforzare la memoria uditiva.",
       "pt": "Os jogos de linguagem são perfeitos para desenvolver sua fluência e capacidade de brincar com as palavras. E parece que você gosta particularmente deles! Para aproveitar ainda mais seus jogos, aqui vai uma dica: leia as palavras em voz alta, se possível. Isso ajuda a integrá-los melhor e a fortalecer a memória auditiva.",
       "nl": "Taalspellen zijn perfect voor het ontwikkelen van uw spreekvaardigheid en het vermogen om met woorden te spelen. En het lijkt erop dat je ze vooral leuk vindt! Om nog meer van je games te genieten, is hier een tip die je kunt proberen: lees de woorden zo mogelijk hardop. Dit helpt om ze beter te integreren en het auditieve geheugen te versterken.",
@@ -943,7 +943,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Vous appréciez les jeux de mémoire, et c’est une excellente manière d’entretenir vos souvenirs et de stimuler votre esprit tout en vous amusant. Une astuce pour aller encore plus loin : essayez de visualiser mentalement ce que vous devez retenir. Faire des associations d’images ou de petites histoires peut aider à mieux mémoriser !",
-      "us": "You enjoy memory games, and this is a great way to maintain your memories and stimulate your mind while having fun. A tip to go even further: try to mentally visualize what you need to remember. Making associations of images or short stories can help you memorize better!",
+      "us": "You enjoy memory games, and this is a great way to maintain your memories and stimulate your mind while having fun. A tip to go even further: try to mentally visualize what you need to remember. Associating things with images or short stories can help you memorize better!",
       "it": "Ti piacciono i giochi di memoria e questo è un ottimo modo per conservare i tuoi ricordi e stimolare la tua mente divertendoti. Un consiglio per andare ancora oltre: prova a visualizzare mentalmente ciò che devi ricordare. Fare associazioni di immagini o racconti può aiutarti a memorizzare meglio!",
       "pt": "Você gosta de jogos de memória e esta é uma ótima maneira de manter suas memórias e estimular sua mente enquanto se diverte. Uma dica para ir ainda mais longe: tente visualizar mentalmente o que você precisa lembrar. Fazer associações de imagens ou contos pode te ajudar a memorizar melhor!",
       "nl": "Je houdt van geheugenspellen, en dit is een geweldige manier om je herinneringen vast te houden en je geest te stimuleren terwijl je plezier hebt. Een tip om nog verder te gaan: probeer mentaal te visualiseren wat je moet onthouden. Door associaties te maken met afbeeldingen of korte verhalen kun je beter onthouden!",
@@ -979,7 +979,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Votre engagement dans les jeux de mémoire montre votre envie de garder votre esprit actif. Bravo ! Pour encore mieux progresser, essayez de jouer à des moments où vous vous sentez reposé et détendu. La mémoire fonctionne mieux quand on est serein et concentré !",
-      "us": "Your engagement in memory games shows your desire to keep your mind active. Well done ! To improve even further, try to play at times when you feel rested and relaxed. Memory works better when you are calm and focused!",
+      "us": "Your engagement in memory games shows your desire to keep your mind active. Well done! To improve even further, try to play at times when you feel rested and relaxed. Memory works better when you are calm and focused!",
       "it": "Il tuo impegno nei giochi di memoria mostra il tuo desiderio di mantenere la mente attiva. Ben fatto ! Per migliorare ulteriormente, prova a giocare nei momenti in cui ti senti riposato e rilassato. La memoria funziona meglio quando sei calmo e concentrato!",
       "pt": "Seu envolvimento em jogos de memória mostra seu desejo de manter sua mente ativa. Bom trabalho ! Para melhorar ainda mais, tente jogar em momentos em que se sinta descansado e relaxado. A memória funciona melhor quando você está calmo e focado!",
       "nl": "Uit uw betrokkenheid bij geheugenspelletjes blijkt dat u uw geest actief wilt houden. Goed gedaan ! Om nog verder te verbeteren, probeer te spelen op momenten dat u zich uitgerust en ontspannen voelt. Het geheugen werkt beter als je kalm en gefocust bent!",
@@ -997,7 +997,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Chaque partie jouée est une belle occasion d’exercer votre mémoire et de stimuler votre esprit. Un conseil pour progresser encore plus : essayez de reformuler ce que vous venez de mémoriser avec vos propres mots ou d’en discuter avec un proche. Dire les choses à voix haute ou les expliquer permet souvent de mieux les ancrer dans la mémoire !",
-      "us": "Each game played is a great opportunity to exercise your memory and stimulate your mind. A tip to progress even further: try to reformulate what you have just memorized in your own words or discuss it with a loved one. Saying things out loud or explaining them often helps to anchor them better in memory!",
+      "us": "Each game played is a great opportunity to exercise your memory and stimulate your mind. A tip to progress even further: try to rephrase what you have just memorized in your own words or discuss it with a loved one. Saying things out loud or explaining them often helps to anchor them better in memory!",
       "it": "Ogni partita giocata è una grande opportunità per esercitare la memoria e stimolare la mente. Un consiglio per progredire ancora di più: prova a riformulare ciò che hai appena memorizzato con parole tue o discutilo con una persona cara. Dire le cose ad alta voce o spiegarle spesso aiuta ad ancorarle meglio nella memoria!",
       "pt": "Cada jogo disputado é uma ótima oportunidade para exercitar a memória e estimular a mente. Uma dica para progredir ainda mais: tente reformular o que acabou de memorizar com suas próprias palavras ou converse com alguém querido. Dizer coisas em voz alta ou explicá-las muitas vezes ajuda a ancorá-las melhor na memória!",
       "nl": "Elk gespeeld spel is een geweldige kans om uw geheugen te oefenen en uw geest te stimuleren. Een tip om nog verder te komen: probeer wat je zojuist uit je hoofd hebt geleerd in je eigen woorden te herformuleren of bespreek het met een dierbare. Dingen hardop zeggen of uitleggen helpt vaak om ze beter in het geheugen te verankeren!",
@@ -1051,7 +1051,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Jouer à des jeux variés est une belle habitude ! Que ce soit la mémoire, le langage ou l’attention, chaque type de jeu apporte ses bienfaits. Un conseil pour progresser : prenez votre temps et jouez dans un endroit calme. Moins de distractions, c’est plus de chances de bien retenir les informations !",
-      "us": "Playing a variety of games is a great habit! Whether it is memory, language or attention, each type of play brings its benefits. A tip for progress: take your time and play in a quiet place. Fewer distractions mean more chances of retaining information well!",
+      "us": "Playing a variety of games is a great habit! Whether it is memory, language or attention, each type of game brings its benefits. A tip for progress: take your time and play in a quiet place. Fewer distractions mean more chances of retaining information well!",
       "it": "Giocare a una varietà di giochi è un'ottima abitudine! Che si tratti di memoria, linguaggio o attenzione, ogni tipo di gioco porta i suoi benefici. Un consiglio per progredire: prenditi il ​​tuo tempo e gioca in un posto tranquillo. Meno distrazioni significano più possibilità di conservare bene le informazioni!",
       "pt": "Jogar uma variedade de jogos é um ótimo hábito! Seja memória, linguagem ou atenção, cada tipo de brincadeira traz seus benefícios. Uma dica para progredir: não tenha pressa e brinque em um local tranquilo. Menos distrações significam mais chances de reter bem as informações!",
       "nl": "Verschillende spellen spelen is een goede gewoonte! Of het nu gaat om geheugen, taal of aandacht, elk type spel brengt zijn voordelen met zich mee. Een tip voor de voortgang: neem de tijd en speel op een rustige plek. Minder afleiding betekent meer kansen om informatie goed te onthouden!",
@@ -1105,7 +1105,7 @@
     "isForCoco": false,
     "title": {
       "fr": "Quelle belle diversité dans vos jeux ! Alterner entre différents types de défis stimule plusieurs capacités cognitives. Un petit conseil : rejouer à un jeu après quelques jours permet de consolider ce que vous avez appris. La répétition espacée est l’un des meilleurs moyens de renforcer la mémoire !\n",
-      "us": "What great diversity in your games! Alternating between different types of challenges stimulates several cognitive abilities. A little tip: playing a game again after a few days helps consolidate what you have learned. Spaced repetition is one of the best ways to strengthen memory!\n",
+      "us": "What a great variety of games! Alternating between different types of challenges stimulates several cognitive abilities. A little tip: playing a game again after a few days helps consolidate what you have learned. Spaced repetition is one of the best ways to strengthen memory!\n",
       "it": "Che grande diversità nei tuoi giochi! L’alternanza tra diversi tipi di sfide stimola diverse capacità cognitive. Un piccolo consiglio: rigiocare un gioco dopo qualche giorno aiuta a consolidare quanto imparato. La ripetizione spaziata è uno dei modi migliori per rafforzare la memoria!\n",
       "pt": "Que grande diversidade em seus jogos! A alternância entre diferentes tipos de desafios estimula diversas habilidades cognitivas. Uma pequena dica: jogar novamente depois de alguns dias ajuda a consolidar o que você aprendeu. A repetição espaçada é uma das melhores formas de fortalecer a memória!\n",
       "nl": "Wat een grote diversiteit in jullie spellen! Het afwisselen tussen verschillende soorten uitdagingen stimuleert verschillende cognitieve vaardigheden. Een kleine tip: na een paar dagen opnieuw een spel spelen helpt om het geleerde te consolideren. Gespreide herhaling is een van de beste manieren om het geheugen te versterken!\n",
@@ -1123,7 +1123,7 @@
     "isForCoco": true,
     "title": {
       "fr": "\nÀ bientôt pour de nouvelles parties !",
-      "us": "\nSee you soon for new games!",
+      "us": "\nSee you soon for more games!",
       "it": "\nA presto per nuovi giochi!",
       "pt": "\nVejo vocês em breve para novos jogos!",
       "nl": "\nTot snel voor nieuwe spellen!",

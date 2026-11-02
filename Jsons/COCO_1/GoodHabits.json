@@ -13,7 +13,7 @@
     },
     "message": {
       "fr": "La lecture stimule l’imagination et le langage. Trouve un livre adapté à ton âge et à tes intérêts.",
-      "us": "Reading stimulates your imagination and language. Find a book adapted to your age and interests.",
+      "us": "Reading stimulates your imagination and language skills. Find a book that suits your age and interests.",
       "it": "La lettura stimola la tua immaginazione e il tuo linguaggio. Trova un libro adatto alla tua età e ai tuoi interessi.",
       "cn": "阅读可以激发你的想象力和语言。找到一本适合您年龄和兴趣的书。",
       "pt": "A leitura estimula a imaginação e a linguagem. Encontre um livro adaptado à sua idade e interesses.",
@@ -26,7 +26,7 @@
     "category": "brain",
     "title": {
       "fr": "Diminue ton temps d’écran",
-      "us": "Reduce your screentime",
+      "us": "Reduce your screen time",
       "it": "Riduci il tempo trascorso davanti allo schermo",
       "cn": "减少看屏幕的时间",
       "pt": "Reduza o tempo de tela",
@@ -36,7 +36,7 @@
     },
     "message": {
       "fr": "Il est important d’avoir un temps d’écran équilibré. Fais des pauses régulièrement.",
-      "us": "Having a measured use of screens is important for your development. Take regular breaks.",
+      "us": "It's important to keep your screen time balanced. Take regular breaks.",
       "it": "Avere un uso misurato degli schermi è importante per il tuo sviluppo. Fai delle pause regolari.",
       "cn": "有节制地使用屏幕对于你的发展很重要。定期休息。",
       "pt": "Ter um uso medido das telas é importante para o seu desenvolvimento. Faça pausas regulares.",
@@ -59,7 +59,7 @@
     },
     "message": {
       "fr": "Aider tes parents avant qu'ils ne le demandent t'apprend à être autonome, et leur fait plaisir.",
-      "us": "Helping your parents before they ask teaches you to be responsible, and makes them happy.",
+      "us": "Helping your parents before they ask teaches you to be independent, and makes them happy.",
       "it": "Aiutare i tuoi genitori prima che te lo chiedano ti insegna ad essere responsabile e li rende felici.",
       "cn": "在父母提出要求之前帮助他们可以教会你负责任，并让他们高兴。",
       "pt": "Ajudar seus pais antes que eles peçam ensina você a ser responsável e os deixa felizes.",
@@ -151,7 +151,7 @@
     },
     "message": {
       "fr": "Avoir confiance en ce que tu sais faire te permet de ne pas t’arrêter face aux difficultés.",
-      "us": "Being confident in what you can do helps you overcome adversities.",
+      "us": "Being confident in what you can do helps you keep going when things get hard.",
       "it": "Avere fiducia in ciò che puoi fare ti aiuta a superare le avversità.",
       "cn": "对自己能做的事情充满信心可以帮助您克服逆境。",
       "pt": "Ter confiança no que você pode fazer ajuda a superar as adversidades.",
@@ -174,7 +174,7 @@
     },
     "message": {
       "fr": "Penser aux autres et les aider t'apprend à être altruiste. Il suffit d’un petit mot, d'un petit sourire…",
-      "us": "Thinking and helping others teaches you altruism. All it takes is a little word, a little smile...",
+      "us": "Thinking of others and helping them teaches you to be generous. All it takes is a kind word, a little smile...",
       "it": "Pensare e aiutare gli altri ti insegna l’altruismo. Basta una piccola parola, un piccolo sorriso...",
       "cn": "思考和帮助他人会教会你利他主义。所需要的只是一句话，一个微笑......",
       "pt": "Pensar e ajudar os outros ensina altruísmo. Basta uma palavrinha, um sorrisinho...",
@@ -243,7 +243,7 @@
     },
     "message": {
       "fr": "Être curieux te permet de découvrir le monde qui t'entoure. Ne te limite pas à ce que tu connais.",
-      "us": "Being curious allows to discover the world around you. Don't limit to what you know.",
+      "us": "Being curious lets you discover the world around you. Don't limit yourself to what you know.",
       "it": "Essere curiosi permette di scoprire il mondo che ci circonda. Non limitarti a ciò che sai.",
       "cn": "好奇心可以让你发现周围的世界。不要局限于你所知道的。",
       "pt": "Ser curioso permite descobrir o mundo ao seu redor. Não se limite ao que você sabe.",
@@ -256,7 +256,7 @@
     "category": "outside",
     "title": {
       "fr": "Regarde la nature autour de toi",
-      "us": "Look at the nature around you",
+      "us": "Look at nature around you",
       "it": "Osserva la natura che ti circonda",
       "cn": "看看你周围的大自然",
       "pt": "Olhe para a natureza ao seu redor",

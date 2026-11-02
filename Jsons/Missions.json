@@ -227,7 +227,7 @@
     "id": "doCognitiveTest",
     "title": {
       "fr": "Bilan cognitif",
-      "us": "Cognitive Check",
+      "us": "Cognitive Assessment",
       "it": "Test cognitivo",
       "cn": "认知测评",
       "pt": "Avaliação cognitiva",
@@ -462,7 +462,7 @@
     },
     "instruction": {
       "fr": "Éclater 3 bons ballons avec une seule balle",
-      "us": "Pop 3 right balloons with a single ball",
+      "us": "Pop 3 correct balloons with a single ball",
       "it": "Scoppiare 3 palloncini giusti con una sola palla",
       "cn": "用一颗球戳破3个正确的气球",
       "pt": "Estourar 3 balões certos com uma única bola",
@@ -933,7 +933,7 @@
     "id": "hangmanTenNoClue",
     "title": {
       "fr": "Sans indice",
-      "us": "No Cheating",
+      "us": "Hint-Free",
       "it": "Senza indizio",
       "cn": "不用提示",
       "pt": "Sem dica",
@@ -944,7 +944,7 @@
     },
     "instruction": {
       "fr": "Trouver 6 mots sans utiliser d’indice",
-      "us": "Find 6 words without using a clue",
+      "us": "Find 6 words without using a hint",
       "it": "Trovare 6 parole senza usare alcun indizio",
       "cn": "不使用提示找出6个单词",
       "pt": "Encontrar 6 palavras sem usar nenhuma dica",

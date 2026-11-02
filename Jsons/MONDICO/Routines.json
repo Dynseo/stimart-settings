@@ -3,7 +3,7 @@
     "id": "sleep",
     "title": {
       "fr": "Se coucher",
-      "us": "To go to bed",
+      "us": "Go to bed",
       "it": "Andare a letto",
       "nl": "Naar bed gaan",
       "cn": "去睡觉",
@@ -51,7 +51,7 @@
     "id": "toilettes",
     "title": {
       "fr": "Aller aux toilettes",
-      "us": "Go to the toilet",
+      "us": "Go to the bathroom",
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
@@ -75,7 +75,7 @@
     "id": "wash_hands",
     "title": {
       "fr": "Se laver les mains",
-      "us": "To wash hands",
+      "us": "Wash your hands",
       "it": "Lavarsi le mani",
       "nl": "Om handen te wassen",
       "cn": "洗手",

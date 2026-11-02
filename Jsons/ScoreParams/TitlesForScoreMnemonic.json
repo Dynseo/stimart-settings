@@ -101,7 +101,7 @@
     "scoreMnemonic": "nbItemsClickedByMistakes",
     "title": {
       "fr": "Objets tapés par erreur",
-      "us": "Objects clicked by mistake",
+      "us": "Items tapped by mistake",
       "it": "Oggetti cliccati per errore",
       "cn": "错误点击的物品",
       "nl": "Per ongeluk aangeklikte objecten",
@@ -593,7 +593,7 @@
     "game": "SNAKE",
     "title": {
       "fr": "Proies mangées",
-      "us": "Preys eaten",
+      "us": "Prey eaten",
       "it": "Prede mangiate",
       "cn": "吃掉的猎物",
       "nl": "Opgegeten prooien",
@@ -608,7 +608,7 @@
     "game": "SNAKE",
     "title": {
       "fr": "Proies manquées",
-      "us": "Missed preys",
+      "us": "Missed prey",
       "it": "Prede mancate",
       "cn": "错过的猎物",
       "nl": "Gemiste prooien",
@@ -713,7 +713,7 @@
     "game": "NOAHS_ARK",
     "title": {
       "fr": "Animaux sauvés",
-      "us": "Rescued Animals",
+      "us": "Rescued animals",
       "it": "Animali salvati",
       "cn": "获救动物",
       "nl": "Geredde dieren",
@@ -840,7 +840,7 @@
     "mode": "free",
     "title": {
       "fr": "Additions à réaliser",
-      "us": "Additions to be made",
+      "us": "Additions to solve",
       "it": "Aggiunte da apportare",
       "cn": "需要补充的内容",
       "nl": "Aanvullingen die moeten worden gemaakt",
