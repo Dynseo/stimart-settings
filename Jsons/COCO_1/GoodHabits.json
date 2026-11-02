@@ -58,7 +58,7 @@
       "hi": "घर पर अपने माता-पिता की मदद करो"
     },
     "message": {
-      "fr": "Aider tes parents avant qu'ils ne le demandent t'apprends à être autonome, et leur fais plaisir.",
+      "fr": "Aider tes parents avant qu'ils ne le demandent t'apprend à être autonome, et leur fait plaisir.",
       "us": "Helping your parents before they ask teaches you to be responsible, and makes them happy.",
       "it": "Aiutare i tuoi genitori prima che te lo chiedano ti insegna ad essere responsabile e li rende felici.",
       "cn": "在父母提出要求之前帮助他们可以教会你负责任，并让他们高兴。",
@@ -71,7 +71,7 @@
   {
     "category": "brain",
     "title": {
-      "fr": "Apprend quelque chose",
+      "fr": "Apprends quelque chose",
       "us": "Learn something new",
       "it": "Impara qualcosa",
       "cn": "学到一些东西",
@@ -140,7 +140,7 @@
   {
     "category": "habits",
     "title": {
-      "fr": "Pense à ce qui te rends fier",
+      "fr": "Pense à ce qui te rend fier",
       "us": "Be proud of yourself",
       "it": "Pensa a ciò che ti rende orgoglioso",
       "cn": "想想什么让你感到自豪",
@@ -173,7 +173,7 @@
       "hi": "कुछ अच्छा करो"
     },
     "message": {
-      "fr": "Penser et aider les autres t'apprend à être altruiste. Il suffit d’un petit mot, d'un petit sourire…",
+      "fr": "Penser aux autres et les aider t'apprend à être altruiste. Il suffit d’un petit mot, d'un petit sourire…",
       "us": "Thinking and helping others teaches you altruism. All it takes is a little word, a little smile...",
       "it": "Pensare e aiutare gli altri ti insegna l’altruismo. Basta una piccola parola, un piccolo sorriso...",
       "cn": "思考和帮助他人会教会你利他主义。所需要的只是一句话，一个微笑......",
@@ -219,7 +219,7 @@
       "hi": "बगीचे में अपने माता-पिता की मदद करो"
     },
     "message": {
-      "fr": "Aider à jardiner t'apprends à être responsable et patient, et t'aides aussi à t'organiser.",
+      "fr": "Aider à jardiner t'apprend à être responsable et patient, et t'aide aussi à t'organiser.",
       "us": "Helping with gardening teaches you how to be responsible and patient, but also how to stay organized.",
       "it": "Aiutare nel giardinaggio ti insegna come essere responsabile e paziente, ma anche come rimanere organizzato.",
       "cn": "帮助园艺可以教会你如何负责任和耐心，同时也教会你如何保持井井有条。",
@@ -265,7 +265,7 @@
       "hi": "अपने आसपास की प्रकृति को देखो"
     },
     "message": {
-      "fr": "Observer la nature te permet de te relaxer et d'apprécier la beauté de la faune et la flore.  ",
+      "fr": "Observer la nature te permet de te relaxer et d'apprécier la beauté de la faune et de la flore.  ",
       "us": "Observing nature allows you to relax and appreciate the beauty of the fauna and flora.  ",
       "it": "Osservare la natura permette di rilassarsi e di apprezzare la bellezza della fauna e della flora.  ",
       "cn": "观察大自然可​​以让您放松并欣赏动植物的美丽。  ",

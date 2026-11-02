@@ -124,7 +124,7 @@
     "isForPapy": true,
     "isForCoco": true,
     "title": {
-      "fr": "Dyslexie et Dysorthographie",
+      "fr": "Dyslexie et dysorthographie",
       "us": "Dyslexia and dysgraphia",
       "it": "Dislessia e disortografia",
       "cn": "诵读困难和拼写障碍",
@@ -408,7 +408,7 @@
       "hi": "संस्कृति"
     },
     "description": {
-      "fr": "Testez vos connaissances culturelles",
+      "fr": "Teste tes connaissances culturelles",
       "cn": "测试你的文化知识",
       "nl": "Test je culturele kennis",
       "hi": "अपने सांस्कृतिक ज्ञान का परीक्षण करें"
@@ -447,7 +447,7 @@
       "hi": "निपुणता"
     },
     "description": {
-      "fr": "Travaillez votre dextérité pour mieux contrôler le mouvement de vos mains",
+      "fr": "Travaille ta dextérité pour mieux contrôler le mouvement de tes mains",
       "cn": "锻炼你的灵活性，更好地控制你的手的运动",
       "nl": "Werk aan uw behendigheid om de beweging van uw handen beter te controleren",
       "hi": "अपने हाथों की गति को बेहतर ढंग से नियंत्रित करने के लिए अपनी निपुणता पर काम करें"
@@ -480,7 +480,7 @@
       "hi": "तर्क"
     },
     "description": {
-      "fr": "Travaillez votre logique pour améliorer votre stratégie",
+      "fr": "Travaille ta logique pour améliorer ta stratégie",
       "cn": "锻炼你的逻辑来改进你的策略",
       "nl": "Werk aan uw logica om uw strategie te verbeteren",
       "hi": "अपनी रणनीति को बेहतर बनाने के लिए अपने तर्क पर काम करें"
@@ -515,7 +515,7 @@
       "hi": "मैं जिज्ञासु हूँ"
     },
     "description": {
-      "fr": "Laissez-nous vous surprendre avec l'un de ces jeux",
+      "fr": "Laisse-nous te surprendre avec l'un de ces jeux",
       "cn": "让我们通过其中一款游戏给您带来惊喜",
       "nl": "Laat je verrassen met één van deze spellen",
       "hi": "इनमें से किसी एक खेल से हमें आपको आश्चर्यचकित करने दें"

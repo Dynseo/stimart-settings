@@ -198,7 +198,7 @@
     "id": "clean_mouth",
     "category": "eat",
     "title": {
-      "fr": "Nettoyez votre bouche",
+      "fr": "Nettoyer sa bouche",
       "us": "Clean your mouth",
       "it": "Pulire la bocca",
       "nl": "Maak je mond schoon",
@@ -333,7 +333,7 @@
     "id": "throw_away_paper",
     "category": "toilettes",
     "title": {
-      "fr": "Jetter le papier toilette",
+      "fr": "Jeter le papier toilette",
       "us": "Throw away the toilet paper",
       "it": "Buttare la carta igienica",
       "nl": "Gooi het toiletpapier weg",
@@ -513,7 +513,7 @@
     "id": "rinse_with_water",
     "category": "brush_teeth",
     "title": {
-      "fr": "Rincer la bouche à l\"eau",
+      "fr": "Rincer la bouche à l'eau",
       "us": "Rinse your mouth with water",
       "it": "Sciacquare la bocca",
       "nl": "Spoel uw mond met water",
@@ -528,7 +528,7 @@
     "id": "rinse_toothbrush",
     "category": "brush_teeth",
     "title": {
-      "fr": "Rincer la brosse a dents",
+      "fr": "Rincer la brosse à dents",
       "us": "Rinse the toothbrush",
       "it": "Sciacquare lo spazzolino",
       "nl": "Spoel de tandenborstel af",

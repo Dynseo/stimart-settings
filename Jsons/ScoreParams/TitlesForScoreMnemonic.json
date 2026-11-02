@@ -427,7 +427,7 @@
     "scoreMnemonic": "nbGoodAnswersDetails1",
     "game": "WHACKAMOLE",
     "title": {
-      "fr": "Taupes normales tappées",
+      "fr": "Taupes normales tapées",
       "us": "Normal moles hit",
       "it": "Talpe normali colpite",
       "cn": "击中的普通地鼠",
@@ -442,7 +442,7 @@
     "scoreMnemonic": "nbGoodAnswersDetails2",
     "game": "WHACKAMOLE",
     "title": {
-      "fr": "Taupes à casque tappées",
+      "fr": "Taupes à casque tapées",
       "us": "Helmeted moles hit",
       "it": "Talpe con casco colpite",
       "cn": "击中的戴头盔地鼠",
@@ -457,7 +457,7 @@
     "scoreMnemonic": "nbItemsClickedByMistakes",
     "game": "WHACKAMOLE",
     "title": {
-      "fr": "Taupes à lunettes tappées",
+      "fr": "Taupes à lunettes tapées",
       "us": "Moles with glasses hit",
       "it": "Talpe con occhiali colpite",
       "cn": "击中的戴眼镜地鼠",
@@ -759,7 +759,7 @@
     "app" : "COCO_1",
     "level" : "easy",
     "title": {
-      "fr": "Élements à trouver",
+      "fr": "Éléments à trouver",
       "us": "Elements to find",
       "it": "Elementi da trovare",
       "cn": "要查找的元素",
@@ -776,7 +776,7 @@
     "app" : "COCO_1",
     "level" : "medium",
     "title": {
-      "fr": "Élements à trouver",
+      "fr": "Éléments à trouver",
       "us": "Elements to find",
       "it": "Elementi da trovare",
       "cn": "要查找的元素",
@@ -808,7 +808,7 @@
     "scoreMnemonic": "nbGoodAnswers",
     "game": "RELIBULLE",
     "title": {
-      "fr": "Élements à trouver",
+      "fr": "Éléments à trouver",
       "us": "Elements to find",
       "it": "Elementi da trovare",
       "cn": "要查找的元素",
@@ -823,7 +823,7 @@
     "scoreMnemonic": "nbGoodAnswers",
     "game": "COOK",
     "title": {
-      "fr": "Élements à trouver",
+      "fr": "Éléments à trouver",
       "us": "Elements to find",
       "it": "Elementi da trovare",
       "cn": "要查找的元素",

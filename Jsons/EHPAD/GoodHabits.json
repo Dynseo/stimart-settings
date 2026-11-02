@@ -88,7 +88,7 @@
       "hi": "ताश खेलें"
     },
     "message": {
-      "fr": "Les jeux de cartes sont un moyen très répandu pour garder votre cerveau éveillé en s’amusant. ",
+      "fr": "Les jeux de cartes sont un moyen très répandu pour garder votre cerveau éveillé en vous amusant. ",
       "us": "Card games are a well-known tool to keep your brain active while having fun.",
       "it": "I giochi di carte sono un modo conosciuto per mantenere il cervello attivo divertendosi.",
       "nl": "Kaartspellen zijn een populaire manier om je hersenen scherp te houden terwijl je plezier hebt.",
@@ -138,7 +138,7 @@
       "hi": "कुछ ऐसा करें जो आपको पसंद हो"
     },
     "message": {
-      "fr": "Découvrir une nouvelle passion permet de rendre vos journée plus dynamiques.",
+      "fr": "Découvrir une nouvelle passion permet de rendre vos journées plus dynamiques.",
       "us": "It's possible to find a new hobbie at any age, a little something to brighten up your day.",
       "it": "Scoprire una nuova passione permette di rendere le giornate più dinamiche.",
       "nl": "Het ontdekken van een nieuwe passie kan uw dag dynamischer maken.",
@@ -227,7 +227,7 @@
   {
     "category": "outside",
     "title": {
-      "fr": " Sourire aux autres",
+      "fr": "Sourire aux autres",
       "us": "Smile!",
       "it": "Sorridere agli altri",
       "nl": " Glimlach naar anderen",
