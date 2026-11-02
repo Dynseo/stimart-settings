@@ -44,7 +44,7 @@
       "it": "La tua opinione",
       "cn": "宝贵意见",
       "pt": "Uma opinião que conta",
-      "es": "Tu opinión",
+      "es": "Una opinión que cuenta",
       "de": "Eine Meinung, die zählt",
       "nl": "Jouw mening",
       "hi": "आपकी राय"
@@ -231,7 +231,7 @@
       "it": "Test cognitivo",
       "cn": "认知测评",
       "pt": "Avaliação cognitiva",
-      "es": "Chequeo cognitivo",
+      "es": "Evaluación cognitiva",
       "de": "Kognitiver Check",
       "nl": "Cognitieve check",
       "hi": "संज्ञानात्मक जांच"
@@ -268,7 +268,7 @@
       "it": "Curiosità",
       "cn": "好奇心",
       "pt": "Curiosidade",
-      "es": "Curiosidad",
+      "es": "Pequeña curiosidad",
       "de": "Neugierig",
       "nl": "Nieuwsgierig",
       "hi": "जिज्ञासा"
@@ -279,7 +279,7 @@
       "it": "Chiedere al tuo coach IA qual è il tuo gioco preferito",
       "cn": "问AI教练：“我最喜欢的游戏是什么？”",
       "pt": "Perguntar ao coach de IA: «Qual é o meu jogo favorito?»",
-      "es": "Preguntar a tu coach de IA cuál es tu juego favorito",
+      "es": "Preguntar al Coach IA: “¿Cuál es mi juego favorito?”",
       "de": "Den KI-Coach fragen: „Was ist mein Lieblingsspiel?“",
       "nl": "Vraag je AI-coach wat je favoriete spel is",
       "hi": "अपने AI कोच से पूछें कि आपका पसंदीदा गेम कौन सा है"
@@ -342,7 +342,7 @@
       "it": "Acchiappali tutti!",
       "cn": "全部抓住！",
       "pt": "Apanhá-los todos!",
-      "es": "¡Atrápalos a todos!",
+      "es": "¡Atrápelos a todos!",
       "de": "Schnapp sie dir alle!",
       "nl": "Vang ze allemaal!",
       "hi": "सबको पकड़ो!"
@@ -547,7 +547,7 @@
       "it": "Raggiungere 12 pecore in una partita di Panurge",
       "cn": "在一局Panurge中达到12只绵羊",
       "pt": "Alcançar 12 ovelhas numa partida de Panurge",
-      "es": "Alcanzar 12 ovejas en una partida de Panurge",
+      "es": "Alcanzar 12 ovejas en una partida de El Rebaño",
       "de": "12 Schafe in einer Partie Panurge erreichen",
       "nl": "Bereik 12 schapen in één potje Panurge",
       "hi": "Panurge के एक गेम में 12 भेड़ों तक पहुंचें"
@@ -625,7 +625,7 @@
       "it": "Trovare 40 simili senza fare errori in modalità difficile",
       "cn": "在困难模式下无失误地找到40个相似项",
       "pt": "Encontrar 40 similis sem cometer nenhum erro no modo difícil",
-      "es": "Encontrar 40 similis sin cometer ningún error en modo difícil",
+      "es": "Encontrar 40 pares sin cometer ningún error en modo difícil",
       "de": "40 Similis im schweren Modus ohne Fehler finden",
       "nl": "Vind 40 similis zonder een fout te maken op moeilijk",
       "hi": "कठिन मोड में बिना कोई गलती किए 40 मिलते-जुलते खोजें"
@@ -790,7 +790,7 @@
       "it": "Raggiungere 15 pupazzi di neve in una partita di Effetto valanga",
       "cn": "在一局滚雪球中达到15个雪人",
       "pt": "Alcançar 15 bonecos de neve numa partida de Efeito bola de neve",
-      "es": "Alcanzar 15 muñecos de nieve en una partida de Efecto bola de nieve",
+      "es": "Alcanzar 15 muñecos de nieve en una partida de Bola de Nieve",
       "de": "15 Schneemänner in einer Partie „Schneeballeffekt“ bauen",
       "nl": "Bereik 15 sneeuwpoppen in één potje Sneeuwbaleffect",
       "hi": "स्नोबॉल इफेक्ट के एक गेम में 15 हिममानव तक पहुंचें"
@@ -1056,7 +1056,7 @@
       "it": "Non ti sfugge nulla",
       "cn": "无所遁形",
       "pt": "Atenção total",
-      "es": "Nada se te escapa",
+      "es": "Vigilancia absoluta",
       "de": "Volle Wachsamkeit",
       "nl": "Niets ontsnapt je",
       "hi": "कुछ भी आपसे नहीं बचता"

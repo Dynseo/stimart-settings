@@ -93,7 +93,7 @@
       "nl": "Gemiste objecten",
       "pt": "Objetos perdidos",
       "de": "Verpasste Objekte",
-      "es": "Objetos no vistos",
+      "es": "Objetos olvidados",
       "hi": "छूटी हुई वस्तुएँ"
     }
   },
@@ -107,7 +107,7 @@
       "nl": "Per ongeluk aangeklikte objecten",
       "pt": "Objetos clicados por engano",
       "de": "Falsch angeklickte Objekte",
-      "es": "Objetos escritos por error",
+      "es": "Objetos tocados por error",
       "hi": "गलती से क्लिक की गई वस्तुएँ"
     }
   },
@@ -121,7 +121,7 @@
       "nl": "Terug naar start",
       "pt": "Retornos ao início",
       "de": "Rückkehr zum Start",
-      "es": "Vuelta al inicio",
+      "es": "Vueltas al inicio",
       "hi": "शुरुआत पर वापसी"
     }
   },
@@ -359,7 +359,7 @@
       "nl": "Te raken ballonnen",
       "pt": "Balões a acertar",
       "de": "Zu treffende Ballons",
-      "es": "Globos que hay que tocar",
+      "es": "Globos correctos por tocar",
       "hi": "फोड़ने वाले गुब्बारे"
     }
   },
@@ -554,7 +554,7 @@
       "nl": "Gemiste woorden",
       "pt": "Palavras faltantes",
       "de": "Verpasste Wörter",
-      "es": "Palabras faltantes",
+      "es": "Palabras no encontradas",
       "hi": "छूटे हुए शब्द"
     }
   },
@@ -734,7 +734,7 @@
       "nl": "Slechte paren",
       "pt": "Pares ruins",
       "de": "Falsche Paare",
-      "es": "Malas parejas",
+      "es": "Parejas incorrectas",
       "hi": "गलत जोड़े"
     }
   },
@@ -749,7 +749,7 @@
       "nl": "Punten",
       "pt": "Pontos",
       "de": "Punkte",
-      "es": "Agujas",
+      "es": "Puntos",
       "hi": "अंक"
     }
   },
@@ -766,7 +766,7 @@
       "nl": "Te vinden elementen",
       "pt": "Elementos para encontrar",
       "de": "Zu findende Elemente",
-      "es": "Elementos a encontrar",
+      "es": "Elementos por encontrar",
       "hi": "खोजने के लिए तत्व"
     }
   },
@@ -783,7 +783,7 @@
       "nl": "Te vinden elementen",
       "pt": "Elementos para encontrar",
       "de": "Zu findende Elemente",
-      "es": "Elementos a encontrar",
+      "es": "Elementos por encontrar",
       "hi": "खोजने के लिए तत्व"
     }
   },
@@ -815,7 +815,7 @@
       "nl": "Te vinden elementen",
       "pt": "Elementos para encontrar",
       "de": "Zu findende Elemente",
-      "es": "Elementos a encontrar",
+      "es": "Elementos por encontrar",
       "hi": "खोजने के लिए तत्व"
     }
   },
@@ -830,7 +830,7 @@
       "nl": "Te vinden elementen",
       "pt": "Elementos para encontrar",
       "de": "Zu findende Elemente",
-      "es": "Elementos a encontrar",
+      "es": "Elementos por encontrar",
       "hi": "खोजने के लिए तत्व"
     }
   },
@@ -846,7 +846,7 @@
       "nl": "Aanvullingen die moeten worden gemaakt",
       "pt": "Adições a serem feitas",
       "de": "Zu lösende Additionen",
-      "es": "Adiciones que se deben realizar",
+      "es": "Sumas por hacer",
       "hi": "करने के लिए जोड़"
     }
   },
