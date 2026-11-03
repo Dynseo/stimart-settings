@@ -879,7 +879,7 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de feliz",
+        "question": "Encontre o sinónimo de feliz",
         "answers": [
           "Contente",
           "Triste",
@@ -888,7 +888,7 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de começar",
+        "question": "Encontre o sinónimo de começar",
         "answers": [
           "Iniciar",
           "Terminar",
@@ -897,7 +897,7 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de pequeno",
+        "question": "Encontre o sinónimo de pequeno",
         "answers": [
           "Miúdo",
           "Grande",
@@ -935,7 +935,7 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de grande",
+        "question": "Encontre o sinónimo de grande",
         "answers": [
           "Enorme",
           "Pequeno",
@@ -944,7 +944,7 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de bonito",
+        "question": "Encontre o sinónimo de bonito",
         "answers": [
           "Belo",
           "Sujo",
@@ -953,7 +953,7 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de falar",
+        "question": "Encontre o sinónimo de falar",
         "answers": [
           "Conversar",
           "Dormir",
@@ -991,16 +991,16 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de contente",
+        "question": "Encontre o sinónimo de contente",
         "answers": [
           "Feliz",
-          "Bravo",
+          "Zangado",
           "Pesado",
           "Seco"
         ]
       },
       {
-        "question": "Encontre o sinônimo de terminar",
+        "question": "Encontre o sinónimo de terminar",
         "answers": [
           "Concluir",
           "Começar",
@@ -1009,7 +1009,7 @@
         ]
       },
       {
-        "question": "Encontre o sinônimo de olhar",
+        "question": "Encontre o sinónimo de olhar",
         "answers": [
           "Observar",
           "Ignorar",

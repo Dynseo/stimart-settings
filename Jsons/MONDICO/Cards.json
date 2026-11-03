@@ -8,7 +8,7 @@
       "it": "Togliere i vestiti",
       "nl": "Verwijder de kleding",
       "cn": "脱掉衣服",
-      "pt": "Tire as roupas",
+      "pt": "Tirar a roupa",
       "es": "Quitarse la ropa",
       "de": "Kleidung ausziehen",
       "hi": "कपड़े उतारें"
@@ -23,7 +23,7 @@
       "it": "Mettere il ​​pigiama",
       "nl": "Trek een pyjama aan",
       "cn": "穿上睡衣",
-      "pt": "Coloque o pijama",
+      "pt": "Vestir o pijama",
       "es": "Ponerse el pijama",
       "de": "Schlafanzug anziehen",
       "hi": "पजामा पहनें"
@@ -38,7 +38,7 @@
       "it": "Lavare i denti",
       "nl": "Poets je tanden",
       "cn": "刷牙",
-      "pt": "Escove seus dentes",
+      "pt": "Lavar os dentes",
       "es": "Cepillarse los dientes",
       "de": "Zähne putzen",
       "hi": "अपने दाँत ब्रश करें"
@@ -53,7 +53,7 @@
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
-      "pt": "Ir ao banheiro",
+      "pt": "Ir à casa de banho",
       "es": "Ir al baño",
       "de": "Auf die Toilette gehen",
       "hi": "शौचालय जाएं"
@@ -68,7 +68,7 @@
       "it": "Spegni la luce",
       "nl": "Doe het licht uit",
       "cn": "关掉灯",
-      "pt": "Apague a luz",
+      "pt": "Apagar a luz",
       "es": "Apagar la luz",
       "de": "Das Licht ausschalten",
       "hi": "बत्ती बंद करें"
@@ -83,7 +83,7 @@
       "it": "Andare a letto",
       "nl": "Naar bed gaan",
       "cn": "去睡觉",
-      "pt": "Para ir para a cama",
+      "pt": "Deitar-se",
       "es": "Ir a la cama",
       "de": "Ins Bett gehen",
       "hi": "सो जाएं"
@@ -98,7 +98,7 @@
       "it": "Mettere la tovaglia",
       "nl": "Leg het tafelkleed",
       "cn": "铺上桌布",
-      "pt": "Coloque a toalha de mesa",
+      "pt": "Pôr a toalha de mesa",
       "es": "Poner el mantel",
       "de": "Die Tischdecke auflegen",
       "hi": "मेज़पोश बिछाएं"
@@ -113,7 +113,7 @@
       "it": "Mettere i piatti",
       "nl": "Zet de borden",
       "cn": "放上盘子",
-      "pt": "Coloque os pratos",
+      "pt": "Pôr os pratos",
       "es": "Poner los platos",
       "de": "Die Teller hinstellen",
       "hi": "प्लेटें रखें"
@@ -128,7 +128,7 @@
       "it": "Mettere le posate",
       "nl": "De tafel dekken",
       "cn": "设置桌子",
-      "pt": "Para pôr a mesa",
+      "pt": "Pôr os talheres",
       "es": "Poner los cubiertos",
       "de": "Das Besteck hinlegen",
       "hi": "मेज़ सजाएं"
@@ -143,7 +143,7 @@
       "it": "Mettere i bicchieri",
       "nl": "Zet de bril",
       "cn": "戴上眼镜",
-      "pt": "Coloque os óculos",
+      "pt": "Pôr os copos",
       "es": "Poner los vasos",
       "de": "Die Gläser hinstellen",
       "hi": "गिलास रखें"
@@ -158,7 +158,7 @@
       "it": "Lavarsi le mani",
       "nl": "Was je handen",
       "cn": "洗手",
-      "pt": "Lave as mãos",
+      "pt": "Lavar as mãos",
       "es": "Lavarse las manos",
       "de": "Hände waschen",
       "hi": "अपने हाथ धोएं"
@@ -188,7 +188,7 @@
       "it": "Finire il pasto",
       "nl": "Maak uw maaltijd af",
       "cn": "吃完饭",
-      "pt": "Termine sua refeição",
+      "pt": "Acabar a refeição",
       "es": "Terminar la comida",
       "de": "Die Mahlzeit beenden",
       "hi": "अपना भोजन समाप्त करें"
@@ -203,7 +203,7 @@
       "it": "Pulire la bocca",
       "nl": "Maak je mond schoon",
       "cn": "清洁你的嘴",
-      "pt": "Limpe sua boca",
+      "pt": "Limpar a boca",
       "es": "Limpiarse la boca",
       "de": "Den Mund abwischen",
       "hi": "अपना मुँह साफ करें"
@@ -218,7 +218,7 @@
       "it": "Fare la lavastoviglie",
       "nl": "Start de machine",
       "cn": "启动机器",
-      "pt": "Ligue a máquina",
+      "pt": "Ligar a máquina",
       "es": "Poner la máquina",
       "de": "Die Maschine starten",
       "hi": "मशीन चालू करें"
@@ -233,7 +233,7 @@
       "it": "Mettre la biancheria intima",
       "nl": "Trek je ondergoed aan",
       "cn": "穿上你的内衣",
-      "pt": "Coloque sua roupa íntima",
+      "pt": "Vestir a roupa interior",
       "es": "Ponerse la ropa interior",
       "de": "Unterwäsche anziehen",
       "hi": "अपने अंडरवियर पहनें"
@@ -248,7 +248,7 @@
       "it": "Mettere i pantaloni",
       "nl": "Broek aantrekken",
       "cn": "穿上裤子",
-      "pt": "Coloque calças",
+      "pt": "Vestir as calças",
       "es": "Ponerse los pantalones",
       "de": "Hose anziehen",
       "hi": "पैंट पहनें"
@@ -263,7 +263,7 @@
       "it": "Mettere la maglietta",
       "nl": "Zet de bovenkant erop",
       "cn": "放在上面",
-      "pt": "Coloque no topo",
+      "pt": "Vestir a parte de cima",
       "es": "Ponerse la camiseta",
       "de": "Oberteil anziehen",
       "hi": "ऊपरी कपड़ा पहनें"
@@ -278,7 +278,7 @@
       "it": "Mettere le scarpe",
       "nl": "Trek de schoenen aan",
       "cn": "穿上鞋子",
-      "pt": "Coloque os sapatos",
+      "pt": "Calçar os sapatos",
       "es": "Ponerse los zapatos",
       "de": "Schuhe anziehen",
       "hi": "जूते पहनें"
@@ -293,7 +293,7 @@
       "it": "Abbassare i pantaloni",
       "nl": "trek je broek naar beneden",
       "cn": "拉下你的裤子",
-      "pt": "Abaixe as calças",
+      "pt": "Descer as calças",
       "es": "Bajarse los pantalones",
       "de": "Hose herunterziehen",
       "hi": "अपनी पैंट नीचे करें"
@@ -308,7 +308,7 @@
       "it": "Andare in bagno",
       "nl": "Ga naar het toilet",
       "cn": "去厕所",
-      "pt": "Ir ao banheiro",
+      "pt": "Ir à casa de banho",
       "es": "Ir al baño",
       "de": "Auf die Toilette gehen",
       "hi": "शौचालय जाएं"
@@ -323,7 +323,7 @@
       "it": "Usare la carta igienica",
       "nl": "Gebruik toiletpapier",
       "cn": "使用卫生纸",
-      "pt": "Use papel higiênico",
+      "pt": "Usar o papel higiénico",
       "es": "Usar papel higiénico",
       "de": "Toilettenpapier benutzen",
       "hi": "टॉयलेट पेपर का उपयोग करें"
@@ -338,7 +338,7 @@
       "it": "Buttare la carta igienica",
       "nl": "Gooi het toiletpapier weg",
       "cn": "把卫生纸扔掉",
-      "pt": "Jogue fora o papel higiênico",
+      "pt": "Deitar fora o papel higiénico",
       "es": "Tirar el papel higiénico",
       "de": "Toilettenpapier wegwerfen",
       "hi": "टॉयलेट पेपर फेंकें"
@@ -353,7 +353,7 @@
       "it": "Mettere i pantaloni",
       "nl": "Broek aantrekken",
       "cn": "穿上裤子",
-      "pt": "Coloque calças",
+      "pt": "Vestir as calças",
       "es": "Ponerse los pantalones",
       "de": "Hose anziehen",
       "hi": "पैंट पहनें"
@@ -368,7 +368,7 @@
       "it": "Tirare l'acqua",
       "nl": "Doorspoelen",
       "cn": "冲水",
-      "pt": "Rubor",
+      "pt": "Puxar o autoclismo",
       "es": "Tirar de la cadena",
       "de": "Spülen",
       "hi": "फ्लश करें"
@@ -383,7 +383,7 @@
       "it": "Lavarsi le mani",
       "nl": "Was je handen",
       "cn": "洗手",
-      "pt": "Lave as mãos",
+      "pt": "Lavar as mãos",
       "es": "Lavarse las manos",
       "de": "Hände waschen",
       "hi": "अपने हाथ धोएं"
@@ -398,7 +398,7 @@
       "it": "Aprire il rubinetto dell'acqua",
       "nl": "Open de waterkraan",
       "cn": "打开水龙头",
-      "pt": "Abra a torneira da água",
+      "pt": "Abrir a torneira",
       "es": "Abrir el grifo",
       "de": "Den Wasserhahn aufdrehen",
       "hi": "पानी का नल खोलें"
@@ -413,7 +413,7 @@
       "it": "Prendere il sapone",
       "nl": "Neem zeep en laat het schuimen",
       "cn": "取肥皂并起泡沫",
-      "pt": "Pegue o sabonete e ensaboe",
+      "pt": "Tirar sabonete e fazer espuma",
       "es": "Tomar jabón y hacer espuma",
       "de": "Seife nehmen und aufschäumen",
       "hi": "साबुन लें और झाग बनाएं"
@@ -428,7 +428,7 @@
       "it": "Lavarsi le mani",
       "nl": "Was je handen",
       "cn": "洗手",
-      "pt": "Lave as mãos",
+      "pt": "Lavar as mãos",
       "es": "Lavarse las manos",
       "de": "Hände waschen",
       "hi": "अपने हाथ धोएं"
@@ -443,7 +443,7 @@
       "it": "Chiudere il rubinetto",
       "nl": "Draai de kraan dicht",
       "cn": "关掉水龙头",
-      "pt": "Feche a torneira",
+      "pt": "Fechar a torneira",
       "es": "Cerrar el grifo",
       "de": "Den Wasserhahn zudrehen",
       "hi": "नल बंद करें"
@@ -458,7 +458,7 @@
       "it": "Asciugare le mani",
       "nl": "Droog je handen",
       "cn": "擦干双手",
-      "pt": "Seque as mãos",
+      "pt": "Secar as mãos",
       "es": "Secarse las manos",
       "de": "Hände abtrocknen",
       "hi": "अपने हाथ सुखाएं"
@@ -473,7 +473,7 @@
       "it": "Aprire il rubinetto dell'acqua",
       "nl": "Open de waterkraan",
       "cn": "打开水龙头",
-      "pt": "Abra a torneira da água",
+      "pt": "Abrir a torneira",
       "es": "Abrir el grifo",
       "de": "Den Wasserhahn aufdrehen",
       "hi": "पानी का नल खोलें"
@@ -488,7 +488,7 @@
       "it": "Mettere il ​​dentifricio",
       "nl": "Doe de tandpasta",
       "cn": "放上牙膏",
-      "pt": "Coloque a pasta de dente",
+      "pt": "Pôr a pasta de dentes",
       "es": "Poner la pasta de dientes",
       "de": "Zahnpasta auftragen",
       "hi": "टूथपेस्ट लगाएं"
@@ -503,7 +503,7 @@
       "it": "Lavare i denti",
       "nl": "Poets je tanden",
       "cn": "刷牙",
-      "pt": "Escove seus dentes",
+      "pt": "Lavar os dentes",
       "es": "Cepillarse los dientes",
       "de": "Zähne putzen",
       "hi": "अपने दाँत ब्रश करें"
@@ -518,7 +518,7 @@
       "it": "Sciacquare la bocca",
       "nl": "Spoel uw mond met water",
       "cn": "用水漱口",
-      "pt": "Enxágue a boca com água",
+      "pt": "Enxaguar a boca com água",
       "es": "Enjuagarse la boca con agua",
       "de": "Den Mund mit Wasser ausspülen",
       "hi": "पानी से अपना मुँह धोएं"
@@ -533,7 +533,7 @@
       "it": "Sciacquare lo spazzolino",
       "nl": "Spoel de tandenborstel af",
       "cn": "冲洗牙刷",
-      "pt": "Enxágue a escova de dentes",
+      "pt": "Enxaguar a escova de dentes",
       "es": "Enjuagar el cepillo de dientes",
       "de": "Die Zahnbürste abspülen",
       "hi": "टूथब्रश धोएं"
@@ -548,7 +548,7 @@
       "it": "Chiudere il rubinetto",
       "nl": "Draai de kraan dicht",
       "cn": "关掉水龙头",
-      "pt": "Feche a torneira",
+      "pt": "Fechar a torneira",
       "es": "Cerrar el grifo",
       "de": "Den Wasserhahn zudrehen",
       "hi": "नल बंद करें"
