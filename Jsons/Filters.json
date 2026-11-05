@@ -300,6 +300,93 @@
       ]
     },
     {
+      "id": "cancer",
+      "category": "specific_need",
+      "isForPapy": true,
+      "isForCoco": false,
+      "title": {
+        "fr": "Cancer",
+        "us": "Cancer",
+        "it": "Cancro",
+        "cn": "癌症",
+        "nl": "Kanker",
+        "pt": "Câncer",
+        "es": "Cáncer",
+        "de": "Krebs",
+        "hi": "कैंसर"
+      },
+      "description": {
+        "fr": "Découvrez les jeux adaptés aux troubles cognitifs liés au cancer et à ses traitements, pour travailler sur des fonctions cognitives telles que la vitesse de traitement, la concentration ou l’accès aux mots.",
+        "us": "Discover games adapted to cognitive difficulties related to cancer and its treatments, to work on cognitive functions such as processing speed, concentration, and word retrieval.",
+        "it": "Scopri i giochi adatti alle difficoltà cognitive legate al cancro e ai suoi trattamenti, per allenare funzioni cognitive come la velocità di elaborazione, la concentrazione e il recupero delle parole.",
+        "cn": "探索适用于癌症及其治疗相关认知困难的游戏，锻炼处理速度、专注力和词语提取等认知功能。",
+        "nl": "Ontdek games voor cognitieve problemen die verband houden met kanker en de behandelingen, om functies zoals verwerkingssnelheid, concentratie en woordvinding te oefenen.",
+        "pt": "Descubra jogos adaptados às dificuldades cognitivas relacionadas ao câncer e aos seus tratamentos, para trabalhar funções como velocidade de processamento, concentração e acesso às palavras.",
+        "es": "Descubre juegos adaptados a las dificultades cognitivas relacionadas con el cáncer y sus tratamientos, para trabajar funciones como la velocidad de procesamiento, la concentración y el acceso a las palabras.",
+        "de": "Entdecken Sie Spiele für kognitive Schwierigkeiten im Zusammenhang mit Krebs und seinen Behandlungen, um Funktionen wie Verarbeitungsgeschwindigkeit, Konzentration und Wortabruf zu trainieren.",
+        "hi": "कैंसर और उसके उपचारों से जुड़ी संज्ञानात्मक कठिनाइयों के लिए अनुकूलित खेल खोजें। इनके माध्यम से जानकारी की गति, एकाग्रता और शब्द याद करने जैसी क्षमताओं का अभ्यास करें।"
+      },
+      "games": [
+        "CASCADE",
+        "SIMILI",
+        "SCROLLANDCATCH",
+        "CHESSBOARD",
+        "COLORMIND",
+        "CALCULUS",
+        "MEMORY",
+        "SHAPEBOX",
+        "CARS",
+        "FURIOUS",
+        "WORDLE",
+        "SYLLABUS",
+        "WHO_AM_I"
+      ]
+    },
+    {
+      "id": "multiple_sclerosis",
+      "category": "specific_need",
+      "isForPapy": true,
+      "isForCoco": false,
+      "title": {
+        "fr": "Sclérose en plaques",
+        "us": "Multiple sclerosis",
+        "it": "Sclerosi multipla",
+        "cn": "多发性硬化症",
+        "nl": "Multiple sclerose",
+        "pt": "Esclerose múltipla",
+        "es": "Esclerosis múltiple",
+        "de": "Multiple Sklerose",
+        "hi": "मल्टीपल स्क्लेरोसिस"
+      },
+      "description": {
+        "fr": "Découvrez les jeux adaptés aux personnes atteintes de sclérose en plaques, pour travailler sur des fonctions cognitives telles que la vitesse de traitement, la mémoire ou l’attention.",
+        "us": "Discover games adapted for people with multiple sclerosis, to work on cognitive functions such as processing speed, memory, and attention.",
+        "it": "Scopri i giochi adatti alle persone con sclerosi multipla, per allenare funzioni cognitive come la velocità di elaborazione, la memoria e l’attenzione.",
+        "cn": "探索适用于多发性硬化症患者的游戏，锻炼处理速度、记忆力和注意力等认知功能。",
+        "nl": "Ontdek games voor mensen met multiple sclerose, om cognitieve functies zoals verwerkingssnelheid, geheugen en aandacht te oefenen.",
+        "pt": "Descubra jogos adaptados para pessoas com esclerose múltipla, para trabalhar funções cognitivas como velocidade de processamento, memória e atenção.",
+        "es": "Descubre juegos adaptados para personas con esclerosis múltiple, para trabajar funciones cognitivas como la velocidad de procesamiento, la memoria y la atención.",
+        "de": "Entdecken Sie Spiele für Menschen mit Multipler Sklerose, um kognitive Funktionen wie Verarbeitungsgeschwindigkeit, Gedächtnis und Aufmerksamkeit zu trainieren.",
+        "hi": "मल्टीपल स्क्लेरोसिस से पीड़ित लोगों के लिए अनुकूलित खेल खोजें। इनके माध्यम से जानकारी की गति, स्मृति और ध्यान जैसी क्षमताओं का अभ्यास करें।"
+      },
+      "games": [
+        "CASCADE",
+        "SIMILI",
+        "SCROLLANDCATCH",
+        "CHESSBOARD",
+        "CALCULUS",
+        "MEMORY",
+        "CYRANO",
+        "LOST_POEM",
+        "SHAPEBOX",
+        "CARS",
+        "FURIOUS",
+        "INTRUS",
+        "WORDLE",
+        "SYLLABUS"
+      ]
+    },
+    {
       "id": "down_syndrome",
       "category": "specific_need",
       "isForPapy": false,
