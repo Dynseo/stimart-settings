@@ -10,7 +10,8 @@
       "es": "Embajador",
       "de": "Botschafter",
       "nl": "Ambassadeur",
-      "hi": "राजदूत"
+      "hi": "राजदूत",
+      "el": "Πρεσβευτής"
     },
     "instruction": {
       "fr": "Partager l’application avec un ami",
@@ -21,7 +22,8 @@
       "es": "Compartir la aplicación con un amigo",
       "de": "Die App mit einem Freund teilen",
       "nl": "Deel de app met een vriend",
-      "hi": "ऐप को किसी दोस्त के साथ साझा करें"
+      "hi": "ऐप को किसी दोस्त के साथ साझा करें",
+      "el": "Μοιραστείτε την εφαρμογή με έναν φίλο"
     },
     "points": 150,
     "difficulty": "easy",
@@ -47,7 +49,8 @@
       "es": "Una opinión que cuenta",
       "de": "Eine Meinung, die zählt",
       "nl": "Jouw mening",
-      "hi": "आपकी राय"
+      "hi": "आपकी राय",
+      "el": "Η γνώμη σας μετράει"
     },
     "instruction": {
       "fr": "Noter l’application sur l’App Store",
@@ -58,7 +61,8 @@
       "es": "Valorar la aplicación en el App Store",
       "de": "Die App im App Store bewerten",
       "nl": "Beoordeel de app in de App Store",
-      "hi": "App Store पर ऐप को रेट करें"
+      "hi": "App Store पर ऐप को रेट करें",
+      "el": "Βαθμολογήστε την εφαρμογή στο App Store"
     },
     "points": 150,
     "difficulty": "easy",
@@ -84,7 +88,8 @@
       "es": "En pareja",
       "de": "Zu zweit",
       "nl": "Met z'n tweeën",
-      "hi": "जोड़ी में"
+      "hi": "जोड़ी में",
+      "el": "Για δύο"
     },
     "instruction": {
       "fr": "Terminer une partie à 2 joueurs",
@@ -95,7 +100,8 @@
       "es": "Terminar una partida a 2 jugadores",
       "de": "Ein Spiel mit 2 Spielern beenden",
       "nl": "Een potje met 2 spelers uitspelen",
-      "hi": "2 खिलाड़ियों वाला गेम पूरा करें"
+      "hi": "2 खिलाड़ियों वाला गेम पूरा करें",
+      "el": "Ολοκληρώστε μια παρτίδα με 2 παίκτες"
     },
     "points": 150,
     "difficulty": "easy",
@@ -122,7 +128,8 @@
       "es": "A distancia",
       "de": "Aus der Ferne",
       "nl": "Op afstand",
-      "hi": "दूर से"
+      "hi": "दूर से",
+      "el": "Από απόσταση"
     },
     "instruction": {
       "fr": "Terminer une partie en SharePlay avec un ami",
@@ -133,7 +140,8 @@
       "es": "Terminar una partida en SharePlay con un amigo",
       "de": "Ein SharePlay-Spiel mit einem Freund beenden",
       "nl": "Een SharePlay-potje met een vriend uitspelen",
-      "hi": "किसी दोस्त के साथ SharePlay में एक गेम पूरा करें"
+      "hi": "किसी दोस्त के साथ SharePlay में एक गेम पूरा करें",
+      "el": "Ολοκληρώστε μια παρτίδα μέσω SharePlay με έναν φίλο"
     },
     "points": 200,
     "difficulty": "medium",
@@ -160,7 +168,8 @@
       "es": "Entrenador en ciernes",
       "de": "Angehender Coach",
       "nl": "Coach in wording",
-      "hi": "उभरता कोच"
+      "hi": "उभरता कोच",
+      "el": "Εκκολαπτόμενος προπονητής"
     },
     "instruction": {
       "fr": "Créer un programme d’entraînement",
@@ -171,7 +180,8 @@
       "es": "Crear un programa de entrenamiento",
       "de": "Ein Trainingsprogramm erstellen",
       "nl": "Een trainingsprogramma maken",
-      "hi": "प्रशिक्षण कार्यक्रम बनाएं"
+      "hi": "प्रशिक्षण कार्यक्रम बनाएं",
+      "el": "Δημιουργήστε ένα πρόγραμμα εξάσκησης"
     },
     "points": 200,
     "difficulty": "medium",
@@ -197,7 +207,8 @@
       "es": "Bienestar",
       "de": "Wohlbefinden",
       "nl": "Welzijn",
-      "hi": "सेहत"
+      "hi": "सेहत",
+      "el": "Ευεξία"
     },
     "instruction": {
       "fr": "Lire 5 astuces santé différentes",
@@ -208,7 +219,8 @@
       "es": "Leer 5 consejos de salud diferentes",
       "de": "5 verschiedene Gesundheitstipps lesen",
       "nl": "Lees 5 verschillende gezondheidstips",
-      "hi": "5 अलग-अलग स्वास्थ्य सुझाव पढ़ें"
+      "hi": "5 अलग-अलग स्वास्थ्य सुझाव पढ़ें",
+      "el": "Διαβάστε 5 διαφορετικές συμβουλές υγείας"
     },
     "points": 150,
     "difficulty": "easy",
@@ -234,7 +246,8 @@
       "es": "Evaluación cognitiva",
       "de": "Kognitiver Check",
       "nl": "Cognitieve check",
-      "hi": "संज्ञानात्मक जांच"
+      "hi": "संज्ञानात्मक जांच",
+      "el": "Γνωστική αξιολόγηση"
     },
     "instruction": {
       "fr": "Faire un bilan cognitif",
@@ -245,7 +258,8 @@
       "es": "Hacer una evaluación cognitiva",
       "de": "Eine kognitive Bewertung durchführen",
       "nl": "Een cognitieve test doen",
-      "hi": "संज्ञानात्मक मूल्यांकन करें"
+      "hi": "संज्ञानात्मक मूल्यांकन करें",
+      "el": "Κάντε μια γνωστική αξιολόγηση"
     },
     "points": 200,
     "difficulty": "medium",
@@ -271,7 +285,8 @@
       "es": "Pequeña curiosidad",
       "de": "Neugierig",
       "nl": "Nieuwsgierig",
-      "hi": "जिज्ञासा"
+      "hi": "जिज्ञासा",
+      "el": "Λίγη περιέργεια"
     },
     "instruction": {
       "fr": "Demander au coach IA : « Quel est mon jeu favori ? »",
@@ -282,7 +297,8 @@
       "es": "Preguntar al Coach IA: “¿Cuál es mi juego favorito?”",
       "de": "Den KI-Coach fragen: „Was ist mein Lieblingsspiel?“",
       "nl": "Vraag je AI-coach wat je favoriete spel is",
-      "hi": "अपने AI कोच से पूछें कि आपका पसंदीदा गेम कौन सा है"
+      "hi": "अपने AI कोच से पूछें कि आपका पसंदीदा गेम कौन सा है",
+      "el": "Ρωτήστε τον προπονητή τεχνητής νοημοσύνης: «Ποιο είναι το αγαπημένο μου παιχνίδι;»"
     },
     "points": 100,
     "difficulty": "easy",
@@ -308,7 +324,8 @@
       "es": "En la cima",
       "de": "Ganz oben",
       "nl": "Aan de top",
-      "hi": "शिखर पर"
+      "hi": "शिखर पर",
+      "el": "Στην κορυφή"
     },
     "instruction": {
       "fr": "Jouer une partie au niveau maximum dans un jeu à difficulté adaptative",
@@ -319,7 +336,8 @@
       "es": "Jugar una partida al nivel máximo en un juego de dificultad adaptativa",
       "de": "Eine Partie auf der höchsten Stufe eines Spiels mit adaptiver Schwierigkeit spielen",
       "nl": "Speel een potje op het hoogste niveau in een spel met aanpasbare moeilijkheid",
-      "hi": "अनुकूली-कठिनाई वाले गेम में अधिकतम स्तर पर एक गेम खेलें"
+      "hi": "अनुकूली-कठिनाई वाले गेम में अधिकतम स्तर पर एक गेम खेलें",
+      "el": "Παίξτε μια παρτίδα στο ανώτατο επίπεδο σε ένα παιχνίδι με προσαρμοζόμενη δυσκολία"
     },
     "points": 300,
     "difficulty": "hard",
@@ -345,7 +363,8 @@
       "es": "¡Atrápelos a todos!",
       "de": "Schnapp sie dir alle!",
       "nl": "Vang ze allemaal!",
-      "hi": "सबको पकड़ो!"
+      "hi": "सबको पकड़ो!",
+      "el": "Πιάστε τα όλα!"
     },
     "instruction": {
       "fr": "Sauver 100 animaux dans L'Arche de Noé, taper 100 taupes dans L'invasion des Taupes et gagner 10 moutons dans Panurge sans faire d’erreur",
@@ -356,7 +375,8 @@
       "es": "Salvar 100 animales en El Arca de Noé, golpear 100 topos en Atrapa Topitos y ganar 10 ovejas en El Rebaño sin cometer ningún error",
       "de": "100 Tiere in „Die Arche Noah“ retten, 100 Maulwürfe in „Die Invasion der Maulwürfe“ treffen und 10 Schafe in „Panurge“ gewinnen, ohne einen Fehler zu machen",
       "nl": "Red 100 dieren in De ark van Noach, tik 100 mollen in De Mol-Invasie en win 10 schapen in Panurge zonder een fout te maken",
-      "hi": "नूह का जहाज़ में 100 जानवर बचाएं, छछूंदर आक्रमण में 100 छछूंदरों को मारें और पनूर्ज में बिना कोई गलती किए 10 भेड़ें जीतें"
+      "hi": "नूह का जहाज़ में 100 जानवर बचाएं, छछूंदर आक्रमण में 100 छछूंदरों को मारें और पनूर्ज में बिना कोई गलती किए 10 भेड़ें जीतें",
+      "el": "Σώστε 100 ζώα στην «Κιβωτό του Νώε», χτυπήστε 100 τυφλοπόντικες στο παιχνίδι «Εισβολή των τυφλοπόντικων» και κερδίστε 10 πρόβατα στο παιχνίδι «Πανούργος» χωρίς κανένα λάθος"
     },
     "points": 750,
     "difficulty": "hard",
@@ -417,7 +437,8 @@
       "es": "Sin fallos",
       "de": "Fehlerfrei",
       "nl": "Foutloos",
-      "hi": "बेदाग"
+      "hi": "बेदाग",
+      "el": "Χωρίς λάθος"
     },
     "instruction": {
       "fr": "Sauver 300 animaux sans faire d’erreur",
@@ -428,7 +449,8 @@
       "es": "Salvar 300 animales sin cometer ningún error",
       "de": "300 Tiere retten, ohne einen Fehler zu machen",
       "nl": "Red 300 dieren zonder een fout te maken",
-      "hi": "बिना कोई गलती किए 300 जानवर बचाएं"
+      "hi": "बिना कोई गलती किए 300 जानवर बचाएं",
+      "el": "Σώστε 300 ζώα χωρίς κανένα λάθος"
     },
     "points": 600,
     "difficulty": "hard",
@@ -458,7 +480,8 @@
       "es": "Tiro agrupado",
       "de": "Gruppenschuss",
       "nl": "Gegroepeerd schot",
-      "hi": "समूह निशाना"
+      "hi": "समूह निशाना",
+      "el": "Μονοκοπανιά"
     },
     "instruction": {
       "fr": "Éclater 3 bons ballons avec une seule balle",
@@ -469,7 +492,8 @@
       "es": "Explotar 3 globos buenos con una sola bola",
       "de": "3 richtige Luftballons mit einem einzigen Schuss platzen lassen",
       "nl": "Knal 3 goede ballonnen met één enkele bal",
-      "hi": "एक ही गेंद से 3 सही गुब्बारे फोड़ें"
+      "hi": "एक ही गेंद से 3 सही गुब्बारे फोड़ें",
+      "el": "Σκάστε 3 σωστά μπαλόνια με μία μόνο μπάλα"
     },
     "points": 250,
     "difficulty": "medium",
@@ -497,7 +521,8 @@
       "es": "Golpe de genio",
       "de": "Geistesblitz",
       "nl": "Geniale flits",
-      "hi": "प्रतिभा की चमक"
+      "hi": "प्रतिभा की चमक",
+      "el": "Αστραπιαία ευφυΐα"
     },
     "instruction": {
       "fr": "Faire 16 bonnes réponses d’affilée en moins d’une minute",
@@ -508,7 +533,8 @@
       "es": "Dar 16 respuestas correctas seguidas en menos de un minuto",
       "de": "16 richtige Antworten hintereinander in weniger als einer Minute geben",
       "nl": "Geef 16 goede antwoorden op rij in minder dan een minuut",
-      "hi": "एक मिनट से कम में लगातार 16 सही जवाब दें"
+      "hi": "एक मिनट से कम में लगातार 16 सही जवाब दें",
+      "el": "Δώστε 16 σωστές απαντήσεις στη σειρά σε λιγότερο από ένα λεπτό"
     },
     "points": 300,
     "difficulty": "hard",
@@ -539,7 +565,8 @@
       "es": "Gran rebaño",
       "de": "Große Herde",
       "nl": "Grote kudde",
-      "hi": "बड़ा झुंड"
+      "hi": "बड़ा झुंड",
+      "el": "Μεγάλο κοπάδι"
     },
     "instruction": {
       "fr": "Atteindre 12 moutons en une partie de Panurge",
@@ -550,7 +577,8 @@
       "es": "Alcanzar 12 ovejas en una partida de El Rebaño",
       "de": "12 Schafe in einer Partie Panurge erreichen",
       "nl": "Bereik 12 schapen in één potje Panurge",
-      "hi": "Panurge के एक गेम में 12 भेड़ों तक पहुंचें"
+      "hi": "Panurge के एक गेम में 12 भेड़ों तक पहुंचें",
+      "el": "Φτάστε τα 12 πρόβατα σε μία παρτίδα στο παιχνίδι «Πανούργος»"
     },
     "points": 300,
     "difficulty": "medium",
@@ -578,7 +606,8 @@
       "es": "Cuadrícula perfecta",
       "de": "Perfektes Gitter",
       "nl": "Perfect rooster",
-      "hi": "परफेक्ट ग्रिड"
+      "hi": "परफेक्ट ग्रिड",
+      "el": "Τέλειο πλέγμα"
     },
     "instruction": {
       "fr": "Réaliser une partie de Sudoku en mode difficile sans faire d'erreur",
@@ -589,7 +618,8 @@
       "es": "Completar una partida de Sudoku en modo difícil sin cometer ningún error",
       "de": "Eine Sudoku-Partie im schweren Modus ohne Fehler abschließen",
       "nl": "Voltooi een potje Sudoku op moeilijk zonder een fout te maken",
-      "hi": "कठिन मोड में बिना कोई गलती किए एक सुडोकू गेम पूरा करें"
+      "hi": "कठिन मोड में बिना कोई गलती किए एक सुडोकू गेम पूरा करें",
+      "el": "Ολοκληρώστε ένα Σουντόκου στο δύσκολο επίπεδο χωρίς κανένα λάθος"
     },
     "points": 400,
     "difficulty": "hard",
@@ -617,7 +647,8 @@
       "es": "Ojo de lince",
       "de": "Adlerauge",
       "nl": "Arendsoog",
-      "hi": "बाज़ की नज़र"
+      "hi": "बाज़ की नज़र",
+      "el": "Μάτι αετού"
     },
     "instruction": {
       "fr": "Trouver 40 similis sans faire d'erreur en mode difficile",
@@ -628,7 +659,8 @@
       "es": "Encontrar 40 pares sin cometer ningún error en modo difícil",
       "de": "40 Similis im schweren Modus ohne Fehler finden",
       "nl": "Vind 40 similis zonder een fout te maken op moeilijk",
-      "hi": "कठिन मोड में बिना कोई गलती किए 40 मिलते-जुलते खोजें"
+      "hi": "कठिन मोड में बिना कोई गलती किए 40 मिलते-जुलते खोजें",
+      "el": "Βρείτε 40 διπλές εικόνες στο παιχνίδι «Simili» χωρίς κανένα λάθος, στο δύσκολο επίπεδο"
     },
     "points": 500,
     "difficulty": "hard",
@@ -659,7 +691,8 @@
       "es": "Impecable",
       "de": "Makellos",
       "nl": "Foutloos",
-      "hi": "बेदाग"
+      "hi": "बेदाग",
+      "el": "Χωρίς ψεγάδι"
     },
     "instruction": {
       "fr": "Jouer à Roland pendant 4 minutes sans faire d'erreur en mode difficile",
@@ -670,7 +703,8 @@
       "es": "Jugar a Roland durante 4 minutos sin cometer ningún error en modo difícil",
       "de": "Roland 4 Minuten lang im schweren Modus ohne Fehler spielen",
       "nl": "Speel 4 minuten Roland zonder een fout te maken op moeilijk",
-      "hi": "कठिन मोड में बिना कोई गलती किए 4 मिनट तक Roland खेलें"
+      "hi": "कठिन मोड में बिना कोई गलती किए 4 मिनट तक Roland खेलें",
+      "el": "Παίξτε «Roland» για 4 λεπτά χωρίς κανένα λάθος, στο δύσκολο επίπεδο"
     },
     "points": 500,
     "difficulty": "hard",
@@ -701,7 +735,8 @@
       "es": "Sin fallos",
       "de": "Fehlerfrei",
       "nl": "Zonder fouten",
-      "hi": "कोई गलती नहीं"
+      "hi": "कोई गलती नहीं",
+      "el": "Μηδέν λάθη"
     },
     "instruction": {
       "fr": "Donner 100 bonnes réponses sans faire d'erreur dans Colorform en mode difficile",
@@ -712,7 +747,8 @@
       "es": "Dar 100 respuestas correctas sin errores en Colorform en modo difícil",
       "de": "100 richtige Antworten ohne Fehler in Colorform im schweren Modus geben",
       "nl": "Geef 100 goede antwoorden zonder fout in Colorform op moeilijk",
-      "hi": "कठिन मोड में Colorform में बिना गलती 100 सही जवाब दें"
+      "hi": "कठिन मोड में Colorform में बिना गलती 100 सही जवाब दें",
+      "el": "Δώστε 100 σωστές απαντήσεις χωρίς κανένα λάθος στο παιχνίδι «Colorform», στο δύσκολο επίπεδο"
     },
     "points": 500,
     "difficulty": "hard",
@@ -743,7 +779,8 @@
       "es": "Gran puntuación",
       "de": "Top-Score",
       "nl": "Topscore",
-      "hi": "बड़ा स्कोर"
+      "hi": "बड़ा स्कोर",
+      "el": "Τεράστια βαθμολογία"
     },
     "instruction": {
       "fr": "Atteindre 5000 points en une partie de Block Puzzle",
@@ -754,7 +791,8 @@
       "es": "Alcanzar 5000 puntos en una partida de Block Puzzle",
       "de": "5000 Punkte in einer Partie „Verrückte Blöcke“ erreichen",
       "nl": "Bereik 5000 punten in één potje Block Puzzle",
-      "hi": "Block Puzzle के एक गेम में 5000 अंक तक पहुंचें"
+      "hi": "Block Puzzle के एक गेम में 5000 अंक तक पहुंचें",
+      "el": "Φτάστε τους 5000 πόντους σε μία παρτίδα στο παιχνίδι «Block Puzzle»"
     },
     "points": 350,
     "difficulty": "hard",
@@ -782,7 +820,8 @@
       "es": "Pleno invierno",
       "de": "Tiefer Winter",
       "nl": "Diepe winter",
-      "hi": "गहरी सर्दी"
+      "hi": "गहरी सर्दी",
+      "el": "Βαρύς χειμώνας"
     },
     "instruction": {
       "fr": "Atteindre 15 bonhommes de neige en une partie dans Effet boule de neige",
@@ -793,7 +832,8 @@
       "es": "Alcanzar 15 muñecos de nieve en una partida de Bola de Nieve",
       "de": "15 Schneemänner in einer Partie „Schneeballeffekt“ bauen",
       "nl": "Bereik 15 sneeuwpoppen in één potje Sneeuwbaleffect",
-      "hi": "स्नोबॉल इफेक्ट के एक गेम में 15 हिममानव तक पहुंचें"
+      "hi": "स्नोबॉल इफेक्ट के एक गेम में 15 हिममानव तक पहुंचें",
+      "el": "Φτάστε τους 15 χιονάνθρωπους σε μία παρτίδα στο παιχνίδι «Φαινόμενο χιονοστιβάδας»"
     },
     "points": 300,
     "difficulty": "medium",
@@ -821,7 +861,8 @@
       "es": "Cálculo perfecto",
       "de": "Perfekte Rechnung",
       "nl": "Perfecte rekensom",
-      "hi": "उत्तम गणना"
+      "hi": "उत्तम गणना",
+      "el": "Τέλειοι υπολογισμοί"
     },
     "instruction": {
       "fr": "Réaliser une partie de Calcul mental en mode difficile sans faire d’erreur",
@@ -832,7 +873,8 @@
       "es": "Completar una partida de Cálculo mental en modo difícil sin cometer ningún error",
       "de": "Eine Partie Kopfrechnen im schweren Modus ohne Fehler abschließen",
       "nl": "Voltooi een potje Hoofdrekenen op de moeilijke modus zonder fouten",
-      "hi": "मानसिक गणना का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+      "hi": "मानसिक गणना का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें",
+      "el": "Ολοκληρώστε μια παρτίδα στο παιχνίδι «Νοερός υπολογισμός» στο δύσκολο επίπεδο χωρίς κανένα λάθος"
     },
     "points": 350,
     "difficulty": "hard",
@@ -860,7 +902,8 @@
       "es": "Sin una nota en falso",
       "de": "Ohne Fehltritt",
       "nl": "Zonder misstap",
-      "hi": "बिना किसी चूक के"
+      "hi": "बिना किसी चूक के",
+      "el": "Χωρίς παραφωνία"
     },
     "instruction": {
       "fr": "Résoudre 15 calculs sans faire une seule erreur",
@@ -871,7 +914,8 @@
       "es": "Resolver 15 cálculos sin cometer ni un solo error",
       "de": "15 Rechnungen ohne einen einzigen Fehler lösen",
       "nl": "Los 15 berekeningen op zonder één enkele fout",
-      "hi": "15 गणनाएँ बिना एक भी गलती किए हल करें"
+      "hi": "15 गणनाएँ बिना एक भी गलती किए हल करें",
+      "el": "Λύστε 15 πράξεις χωρίς ούτε ένα λάθος"
     },
     "points": 250,
     "difficulty": "medium",
@@ -901,7 +945,8 @@
       "es": "Maratón de cifras",
       "de": "Zahlen-Marathon",
       "nl": "Cijfermarathon",
-      "hi": "अंकों की मैराथन"
+      "hi": "अंकों की मैराथन",
+      "el": "Μαραθώνιος αριθμών"
     },
     "instruction": {
       "fr": "Résoudre 30 calculs au total",
@@ -912,7 +957,8 @@
       "es": "Resolver 30 cálculos en total",
       "de": "Insgesamt 30 Rechnungen lösen",
       "nl": "Los in totaal 30 berekeningen op",
-      "hi": "कुल 30 गणनाएँ हल करें"
+      "hi": "कुल 30 गणनाएँ हल करें",
+      "el": "Λύστε 30 πράξεις συνολικά"
     },
     "points": 150,
     "difficulty": "easy",
@@ -940,7 +986,8 @@
       "es": "Sin pista",
       "de": "Ohne Hinweis",
       "nl": "Zonder aanwijzing",
-      "hi": "बिना संकेत के"
+      "hi": "बिना संकेत के",
+      "el": "Χωρίς βοήθεια"
     },
     "instruction": {
       "fr": "Trouver 6 mots sans utiliser d’indice",
@@ -951,7 +998,8 @@
       "es": "Encontrar 6 palabras sin usar ninguna pista",
       "de": "6 Wörter ohne Hinweis finden",
       "nl": "Vind 6 woorden zonder een aanwijzing te gebruiken",
-      "hi": "बिना किसी संकेत का उपयोग किए 6 शब्द खोजें"
+      "hi": "बिना किसी संकेत का उपयोग किए 6 शब्द खोजें",
+      "el": "Βρείτε 6 λέξεις χωρίς να χρησιμοποιήσετε βοήθεια"
     },
     "points": 250,
     "difficulty": "medium",
@@ -981,7 +1029,8 @@
       "es": "Palabra por palabra",
       "de": "Wort für Wort",
       "nl": "Woord voor woord",
-      "hi": "शब्द दर शब्द"
+      "hi": "शब्द दर शब्द",
+      "el": "Λέξη προς λέξη"
     },
     "instruction": {
       "fr": "Réaliser une partie du Pendu en mode difficile sans échouer sur un mot",
@@ -992,7 +1041,8 @@
       "es": "Completar una partida del Ahorcado en modo difícil sin fallar ninguna palabra",
       "de": "Eine Partie Galgenmännchen im schweren Modus abschließen, ohne an einem Wort zu scheitern",
       "nl": "Voltooi een potje Galgje op de moeilijke modus zonder een woord te missen",
-      "hi": "फाँसी का एक गेम कठिन मोड में बिना किसी शब्द में असफल हुए पूरा करें"
+      "hi": "फाँसी का एक गेम कठिन मोड में बिना किसी शब्द में असफल हुए पूरा करें",
+      "el": "Ολοκληρώστε μια παρτίδα στο παιχνίδι «Κρεμάλα» στο δύσκολο επίπεδο χωρίς να αποτύχετε σε καμία λέξη"
     },
     "points": 400,
     "difficulty": "hard",
@@ -1020,7 +1070,8 @@
       "es": "Ojo de halcón",
       "de": "Falkenauge",
       "nl": "Havikoog",
-      "hi": "बाज़ की नज़र"
+      "hi": "बाज़ की नज़र",
+      "el": "Μάτι γερακιού"
     },
     "instruction": {
       "fr": "Réaliser une partie d’Intrus en mode difficile sans faire d’erreur",
@@ -1031,7 +1082,8 @@
       "es": "Completar una partida de Intruso en modo difícil sin cometer ningún error",
       "de": "Eine Partie „Was passt nicht?“ im schweren Modus ohne Fehler abschließen",
       "nl": "Voltooi een potje Indringer op de moeilijke modus zonder fouten",
-      "hi": "घुसपैठिया का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+      "hi": "घुसपैठिया का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें",
+      "el": "Ολοκληρώστε μια παρτίδα στο παιχνίδι «Ο παρείσακτος» στο δύσκολο επίπεδο χωρίς κανένα λάθος"
     },
     "points": 350,
     "difficulty": "hard",
@@ -1059,7 +1111,8 @@
       "es": "Vigilancia absoluta",
       "de": "Volle Wachsamkeit",
       "nl": "Niets ontsnapt je",
-      "hi": "कुछ भी आपसे नहीं बचता"
+      "hi": "कुछ भी आपसे नहीं बचता",
+      "el": "Τίποτα δεν σας ξεφεύγει"
     },
     "instruction": {
       "fr": "Trouver 10 intrus sans faire une seule erreur",
@@ -1070,7 +1123,8 @@
       "es": "Encontrar 10 intrusos sin cometer ni un solo error",
       "de": "10 unpassende Wörter ohne einen einzigen Fehler finden",
       "nl": "Vind 10 indringers zonder één enkele fout",
-      "hi": "10 घुसपैठियों को बिना एक भी गलती किए खोजें"
+      "hi": "10 घुसपैठियों को बिना एक भी गलती किए खोजें",
+      "el": "Βρείτε 10 παρείσακτους χωρίς ούτε ένα λάθος"
     },
     "points": 250,
     "difficulty": "medium",
@@ -1100,7 +1154,8 @@
       "es": "Detector de intrusos",
       "de": "Spürnase",
       "nl": "Indringerradar",
-      "hi": "घुसपैठिया रडार"
+      "hi": "घुसपैठिया रडार",
+      "el": "Ανιχνευτής παρείσακτων"
     },
     "instruction": {
       "fr": "Démasquer 30 intrus au total",
@@ -1111,7 +1166,8 @@
       "es": "Desenmascarar 30 intrusos en total",
       "de": "Insgesamt 30 unpassende Wörter entlarven",
       "nl": "Ontmasker in totaal 30 indringers",
-      "hi": "कुल 30 घुसपैठियों का पर्दाफाश करें"
+      "hi": "कुल 30 घुसपैठियों का पर्दाफाश करें",
+      "el": "Ξεσκεπάστε 30 παρείσακτους συνολικά"
     },
     "points": 150,
     "difficulty": "easy",
@@ -1139,7 +1195,8 @@
       "es": "Ensamblaje perfecto",
       "de": "Perfekter Zusammenbau",
       "nl": "Perfecte montage",
-      "hi": "उत्तम संयोजन"
+      "hi": "उत्तम संयोजन",
+      "el": "Τέλειο ταίριασμα"
     },
     "instruction": {
       "fr": "Réaliser une partie de Syllabes en mode difficile sans faire d’erreur",
@@ -1150,7 +1207,8 @@
       "es": "Completar una partida de Sílabas en modo difícil sin cometer ningún error",
       "de": "Eine Partie „Syllabus“ im schweren Modus ohne Fehler abschließen",
       "nl": "Voltooi een potje Lettergrepen op de moeilijke modus zonder fouten",
-      "hi": "अक्षरों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+      "hi": "अक्षरों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें",
+      "el": "Ολοκληρώστε μια παρτίδα στο παιχνίδι «Συλλαβές» στο δύσκολο επίπεδο χωρίς κανένα λάθος"
     },
     "points": 350,
     "difficulty": "hard",
@@ -1178,7 +1236,8 @@
       "es": "Sin pasar turno",
       "de": "Ohne auszusetzen",
       "nl": "Zonder een beurt over te slaan",
-      "hi": "बिना बारी छोड़े"
+      "hi": "बिना बारी छोड़े",
+      "el": "Χωρίς προσπέραση"
     },
     "instruction": {
       "fr": "Reconstituer 6 proverbes sans en passer aucun",
@@ -1189,7 +1248,8 @@
       "es": "Reconstruir 6 proverbios sin saltarse ninguno",
       "de": "6 Sprichwörter zusammensetzen, ohne eines auszulassen",
       "nl": "Stel 6 spreekwoorden samen zonder er een over te slaan",
-      "hi": "6 कहावतें बिना किसी को छोड़े फिर से बनाएँ"
+      "hi": "6 कहावतें बिना किसी को छोड़े फिर से बनाएँ",
+      "el": "Συνθέστε 6 παροιμίες χωρίς να προσπεράσετε καμία"
     },
     "points": 250,
     "difficulty": "medium",
@@ -1219,7 +1279,8 @@
       "es": "Sabiduría perfecta",
       "de": "Perfekte Weisheit",
       "nl": "Perfecte wijsheid",
-      "hi": "उत्तम ज्ञान"
+      "hi": "उत्तम ज्ञान",
+      "el": "Τέλεια σοφία"
     },
     "instruction": {
       "fr": "Réaliser une partie de Proverbes en mode difficile sans faire d’erreur",
@@ -1230,7 +1291,8 @@
       "es": "Completar una partida de Proverbios en modo difícil sin cometer ningún error",
       "de": "Eine Partie Sprichwörter im schweren Modus ohne Fehler abschließen",
       "nl": "Voltooi een potje Spreekwoorden op de moeilijke modus zonder fouten",
-      "hi": "कहावतों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें"
+      "hi": "कहावतों का एक गेम कठिन मोड में बिना कोई गलती किए पूरा करें",
+      "el": "Ολοκληρώστε μια παρτίδα στο παιχνίδι «Παροιμίες» στο δύσκολο επίπεδο χωρίς κανένα λάθος"
     },
     "points": 350,
     "difficulty": "hard",
@@ -1258,7 +1320,8 @@
       "es": "Narrador incansable",
       "de": "Unermüdlicher Erzähler",
       "nl": "Onvermoeibare verteller",
-      "hi": "अथक कथावाचक"
+      "hi": "अथक कथावाचक",
+      "el": "Ακούραστος αφηγητής"
     },
     "instruction": {
       "fr": "Reconstituer 20 proverbes au total",
@@ -1269,7 +1332,8 @@
       "es": "Reconstruir 20 proverbios en total",
       "de": "Insgesamt 20 Sprichwörter zusammensetzen",
       "nl": "Stel in totaal 20 spreekwoorden samen",
-      "hi": "कुल 20 कहावतें फिर से बनाएँ"
+      "hi": "कुल 20 कहावतें फिर से बनाएँ",
+      "el": "Συνθέστε 20 παροιμίες συνολικά"
     },
     "points": 150,
     "difficulty": "easy",
@@ -1297,7 +1361,8 @@
       "es": "Maestro del laberinto",
       "de": "Meister des Labyrinths",
       "nl": "Meester van het doolhof",
-      "hi": "भूलभुलैया का माहिर"
+      "hi": "भूलभुलैया का माहिर",
+      "el": "Μάστορας του λαβύρινθου"
     },
     "instruction": {
       "fr": "Terminer un labyrinthe au niveau adaptatif maximal",
@@ -1308,7 +1373,8 @@
       "es": "Terminar un laberinto en el nivel adaptativo máximo",
       "de": "Ein Labyrinth auf der höchsten adaptiven Stufe abschließen",
       "nl": "Voltooi een doolhof op het maximale adaptieve niveau",
-      "hi": "अधिकतम अनुकूली स्तर पर एक भूलभुलैया पूरी करें"
+      "hi": "अधिकतम अनुकूली स्तर पर एक भूलभुलैया पूरी करें",
+      "el": "Ολοκληρώστε έναν λαβύρινθο στο ανώτατο προσαρμοζόμενο επίπεδο"
     },
     "points": 400,
     "difficulty": "hard",
@@ -1334,7 +1400,8 @@
       "es": "Sin ninguna pista",
       "de": "Ganz ohne Hinweis",
       "nl": "Zonder enige aanwijzing",
-      "hi": "बिना किसी संकेत के"
+      "hi": "बिना किसी संकेत के",
+      "el": "Καμία βοήθεια"
     },
     "instruction": {
       "fr": "Résoudre 3 labyrinthes sans utiliser d’indice",
@@ -1345,7 +1412,8 @@
       "es": "Resolver 3 laberintos sin usar ninguna pista",
       "de": "3 Labyrinthe ohne Hinweis lösen",
       "nl": "Los 3 doolhoven op zonder een aanwijzing te gebruiken",
-      "hi": "बिना किसी संकेत का उपयोग किए 3 भूलभुलैया हल करें"
+      "hi": "बिना किसी संकेत का उपयोग किए 3 भूलभुलैया हल करें",
+      "el": "Λύστε 3 λαβύρινθους χωρίς να χρησιμοποιήσετε βοήθεια"
     },
     "points": 250,
     "difficulty": "medium",
@@ -1375,7 +1443,8 @@
       "es": "Gran explorador",
       "de": "Großer Entdecker",
       "nl": "Grote ontdekkingsreiziger",
-      "hi": "महान खोजकर्ता"
+      "hi": "महान खोजकर्ता",
+      "el": "Μεγάλος εξερευνητής"
     },
     "instruction": {
       "fr": "Terminer 10 labyrinthes au total",
@@ -1386,7 +1455,8 @@
       "es": "Terminar 10 laberintos en total",
       "de": "Insgesamt 10 Labyrinthe abschließen",
       "nl": "Voltooi in totaal 10 doolhoven",
-      "hi": "कुल 10 भूलभुलैया पूरी करें"
+      "hi": "कुल 10 भूलभुलैया पूरी करें",
+      "el": "Ολοκληρώστε 10 λαβύρινθους συνολικά"
     },
     "points": 150,
     "difficulty": "easy",

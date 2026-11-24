@@ -9,7 +9,8 @@
       "pt": "Lê um livro",
       "de": "Lies ein Buch",
       "es": "Lee un libro",
-      "hi": "एक किताब पढ़ो"
+      "hi": "एक किताब पढ़ो",
+      "el": "Διάβασε ένα βιβλίο"
     },
     "message": {
       "fr": "La lecture stimule l’imagination et le langage. Trouve un livre adapté à ton âge et à tes intérêts.",
@@ -19,7 +20,8 @@
       "pt": "A leitura estimula a imaginação e a linguagem. Procura um livro adequado à tua idade e aos teus interesses.",
       "de": "Lesen regt die Fantasie und die Sprache an. Finde ein Buch, das zu deinem Alter und deinen Interessen passt.",
       "es": "La lectura estimula la imaginación y el lenguaje. Encuentra un libro adecuado a tu edad y a tus intereses.",
-      "hi": "पढ़ना कल्पना और भाषा को उत्तेजित करता है। अपनी उम्र और रुचियों के अनुसार एक किताब खोजो।"
+      "hi": "पढ़ना कल्पना और भाषा को उत्तेजित करता है। अपनी उम्र और रुचियों के अनुसार एक किताब खोजो।",
+      "el": "Το διάβασμα ενθαρρύνει τη φαντασία και τη γλώσσα. Βρες ένα βιβλίο που ταιριάζει στην ηλικία και στα ενδιαφέροντά σου."
     }
   },
   {
@@ -32,7 +34,8 @@
       "pt": "Reduz o teu tempo de ecrã",
       "de": "Reduziere deine Bildschirmzeit",
       "es": "Reduce tu tiempo frente a la pantalla",
-      "hi": "अपना स्क्रीन टाइम कम करो"
+      "hi": "अपना स्क्रीन टाइम कम करो",
+      "el": "Μείωσε τον χρόνο σου μπροστά στην οθόνη"
     },
     "message": {
       "fr": "Il est important d’avoir un temps d’écran équilibré. Fais des pauses régulièrement.",
@@ -42,7 +45,8 @@
       "pt": "É importante ter um tempo de ecrã equilibrado. Faz pausas regularmente.",
       "de": "Es ist wichtig, die Bildschirmzeit im Gleichgewicht zu halten. Mach regelmäßig Pausen.",
       "es": "Es importante tener un tiempo equilibrado frente a la pantalla. Haz descansos con regularidad.",
-      "hi": "स्क्रीन का संतुलित उपयोग आपके विकास के लिए महत्वपूर्ण है। नियमित रूप से ब्रेक लो।"
+      "hi": "स्क्रीन का संतुलित उपयोग आपके विकास के लिए महत्वपूर्ण है। नियमित रूप से ब्रेक लो।",
+      "el": "Είναι σημαντικό να περνάς με μέτρο τον χρόνο σου μπροστά στην οθόνη. Κάνε τακτικά διαλείμματα."
     }
   },
   {
@@ -55,7 +59,8 @@
       "pt": "Ajuda os teus pais em casa",
       "de": "Hilf deinen Eltern zu Hause",
       "es": "Ayuda a tus padres en casa",
-      "hi": "घर पर अपने माता-पिता की मदद करो"
+      "hi": "घर पर अपने माता-पिता की मदद करो",
+      "el": "Βοήθησε τους γονείς σου στο σπίτι"
     },
     "message": {
       "fr": "Aider tes parents avant qu'ils ne le demandent t'apprend à être autonome, et leur fait plaisir.",
@@ -65,7 +70,8 @@
       "pt": "Ajudar os teus pais antes de eles pedirem ensina-te a ter autonomia e deixa-os contentes.",
       "de": "Deinen Eltern zu helfen, bevor sie darum bitten, lehrt dich, unabhängig zu sein, und macht sie glücklich.",
       "es": "Ayudar a tus padres antes de que te lo pidan te enseña a ser independiente y los hace felices.",
-      "hi": "माता-पिता से पूछे जाने से पहले उनकी मदद करना तुम्हें जिम्मेदार बनना सिखाता है, और उन्हें खुश करता है।"
+      "hi": "माता-पिता से पूछे जाने से पहले उनकी मदद करना तुम्हें जिम्मेदार बनना सिखाता है, और उन्हें खुश करता है।",
+      "el": "Όταν βοηθάς τους γονείς σου πριν σου το ζητήσουν, κερδίζεις αυτονομία και τους κάνεις χαρά."
     }
   },
   {
@@ -78,7 +84,8 @@
       "pt": "Aprende alguma coisa",
       "de": "Lerne etwas",
       "es": "Aprende algo",
-      "hi": "कुछ नया सीखो"
+      "hi": "कुछ नया सीखो",
+      "el": "Μάθε κάτι καινούργιο"
     },
     "message": {
       "fr": "Apprendre de nouvelles choses aide à découvrir le monde et à assouvir ta curiosité.",
@@ -88,7 +95,8 @@
       "pt": "Aprender coisas novas ajuda-te a descobrir o mundo e a satisfazer a tua curiosidade.",
       "de": "Neue Dinge zu lernen hilft dir, die Welt zu entdecken und deine Neugier zu stillen.",
       "es": "Aprender cosas nuevas te ayuda a descubrir el mundo y satisfacer tu curiosidad.",
-      "hi": "कुछ नया सीखना तुम्हें दुनिया की खोज करने और अपनी जिज्ञासा को संतुष्ट करने में मदद करता है।"
+      "hi": "कुछ नया सीखना तुम्हें दुनिया की खोज करने और अपनी जिज्ञासा को संतुष्ट करने में मदद करता है।",
+      "el": "Μαθαίνοντας καινούργια πράγματα ανακαλύπτεις τον κόσμο και ικανοποιείς την περιέργειά σου."
     }
   },
   {
@@ -101,7 +109,8 @@
       "pt": "Faz um elogio a alguém",
       "de": "Mach jemandem ein Kompliment",
       "es": "Hazle un cumplido a alguien",
-      "hi": "किसी की तारीफ करो"
+      "hi": "किसी की तारीफ करो",
+      "el": "Κάνε ένα κομπλιμέντο σε κάποιον"
     },
     "message": {
       "fr": "Dire à tes proches qu’ils sont importants permet de renforcer les amitiés et d’exprimer tes émotions.",
@@ -111,7 +120,8 @@
       "pt": "Dizer às pessoas de quem gostas que são importantes ajuda a fortalecer as amizades e a exprimir as tuas emoções.",
       "de": "Wenn du deinen Lieben sagst, dass sie dir wichtig sind, stärkst du eure Freundschaft und drückst deine Gefühle aus.",
       "es": "Decirles a tus seres queridos que son importantes ayuda a fortalecer las amistades y a expresar tus emociones.",
-      "hi": "अपने प्रियजनों को बताना कि वे तुम्हारे लिए महत्वपूर्ण हैं, दोस्ती मजबूत करने और अपनी भावनाएँ व्यक्त करने में मदद करता है।"
+      "hi": "अपने प्रियजनों को बताना कि वे तुम्हारे लिए महत्वपूर्ण हैं, दोस्ती मजबूत करने और अपनी भावनाएँ व्यक्त करने में मदद करता है।",
+      "el": "Όταν λες στους δικούς σου ανθρώπους ότι είναι σημαντικοί για σένα, δυναμώνεις τις φιλίες σου και εκφράζεις τα συναισθήματά σου."
     }
   },
   {
@@ -124,7 +134,8 @@
       "pt": "Lembra-te das palavras mágicas!",
       "de": "Denk an die Zauberwörter!",
       "es": "¡Piensa en las palabras mágicas!",
-      "hi": "\"जादुई शब्द\" मत भूलो!"
+      "hi": "\"जादुई शब्द\" मत भूलो!",
+      "el": "Μην ξεχνάς τις «μαγικές λέξεις»!"
     },
     "message": {
       "fr": "Dire « merci » ou « s’il te plait » est un signe de gentillesse et de respect envers les autres. ",
@@ -134,7 +145,8 @@
       "pt": "Dizer «obrigado» ou «por favor» é um sinal de gentileza e de respeito pelos outros. ",
       "de": "„Danke“ oder „Bitte“ zu sagen ist ein Zeichen von Freundlichkeit und Respekt gegenüber anderen. ",
       "es": "Decir “gracias” o “por favor” es una señal de bondad y respeto hacia los demás. ",
-      "hi": "\"धन्यवाद\" या \"कृपया\" कहना दूसरों के प्रति दयालुता और सम्मान का संकेत है।"
+      "hi": "\"धन्यवाद\" या \"कृपया\" कहना दूसरों के प्रति दयालुता और सम्मान का संकेत है।",
+      "el": "Όταν λες «ευχαριστώ» ή «παρακαλώ», δείχνεις καλοσύνη και σεβασμό στους άλλους. "
     }
   },
   {
@@ -147,7 +159,8 @@
       "pt": "Pensa naquilo que te enche de orgulho",
       "de": "Denk daran, worauf du stolz bist",
       "es": "Piensa en lo que te hace sentir orgulloso",
-      "hi": "अपने आप पर गर्व करो"
+      "hi": "अपने आप पर गर्व करो",
+      "el": "Σκέψου τι σε κάνει να νιώθεις περηφάνια"
     },
     "message": {
       "fr": "Avoir confiance en ce que tu sais faire te permet de ne pas t’arrêter face aux difficultés.",
@@ -157,7 +170,8 @@
       "pt": "Ter confiança naquilo que sabes fazer ajuda-te a não desistir perante as dificuldades.",
       "de": "Wenn du Vertrauen in das hast, was du kannst, gibst du auch bei Schwierigkeiten nicht auf.",
       "es": "Tener confianza en lo que puedes hacer te permite no detenerte ante las dificultades.",
-      "hi": "जो तुम कर सकते हो उस पर विश्वास रखना तुम्हें कठिनाइयों से पार पाने में मदद करता है।"
+      "hi": "जो तुम कर सकते हो उस पर विश्वास रखना तुम्हें कठिनाइयों से पार पाने में मदद करता है।",
+      "el": "Όταν έχεις εμπιστοσύνη σε αυτά που ξέρεις να κάνεις, δεν σταματάς μπροστά στις δυσκολίες."
     }
   },
   {
@@ -170,7 +184,8 @@
       "pt": "Faz uma boa ação",
       "de": "Tu eine gute Tat",
       "es": "Haz una buena acción",
-      "hi": "कुछ अच्छा करो"
+      "hi": "कुछ अच्छा करो",
+      "el": "Κάνε μια καλή πράξη"
     },
     "message": {
       "fr": "Penser aux autres et les aider t'apprend à être altruiste. Il suffit d’un petit mot, d'un petit sourire…",
@@ -180,7 +195,8 @@
       "pt": "Pensar nos outros e ajudá-los ensina-te a ser altruísta. Basta uma palavrinha, um sorrisinho…",
       "de": "Wenn du an andere denkst und ihnen hilfst, lernst du, selbstlos zu sein. Es reicht schon ein kleines Wort, ein kleines Lächeln...",
       "es": "Pensar en los demás y ayudarlos te enseña a ser altruista. Basta con una palabrita, una sonrisita…",
-      "hi": "दूसरों के बारे में सोचना और उनकी मदद करना तुम्हें परोपकारी बनना सिखाता है। बस एक छोटा सा शब्द, एक छोटी सी मुस्कान..."
+      "hi": "दूसरों के बारे में सोचना और उनकी मदद करना तुम्हें परोपकारी बनना सिखाता है। बस एक छोटा सा शब्द, एक छोटी सी मुस्कान...",
+      "el": "Όταν σκέφτεσαι τους άλλους και τους βοηθάς, μαθαίνεις τη γενναιοδωρία. Αρκεί μια καλή κουβέντα, ένα μικρό χαμόγελο…"
     }
   },
   {
@@ -193,7 +209,8 @@
       "pt": "Faz 1 hora de desporto",
       "de": "Mach 1 Stunde Sport",
       "es": "Haz 1 hora de deporte",
-      "hi": "1 घंटे व्यायाम करो"
+      "hi": "1 घंटे व्यायाम करो",
+      "el": "Γυμνάσου για 1 ώρα"
     },
     "message": {
       "fr": "Faire du sport est essentiel à ton développement. Il faut faire 1 heure d’activité physique par jour !",
@@ -203,7 +220,8 @@
       "pt": "Fazer desporto é essencial para o teu desenvolvimento. Deves fazer 1 hora de atividade física por dia!",
       "de": "Sport ist wichtig für deine Entwicklung. Du solltest dich jeden Tag 1 Stunde bewegen!",
       "es": "Practicar deporte es fundamental para tu desarrollo. ¡Necesitas hacer 1 hora de actividad física al día!",
-      "hi": "खेलकूद करना तुम्हारे विकास के लिए आवश्यक है। तुम्हें प्रतिदिन कम से कम 1 घंटे शारीरिक गतिविधि करनी चाहिए!"
+      "hi": "खेलकूद करना तुम्हारे विकास के लिए आवश्यक है। तुम्हें प्रतिदिन कम से कम 1 घंटे शारीरिक गतिविधि करनी चाहिए!",
+      "el": "Η άθληση είναι απαραίτητη για την ανάπτυξή σου. Χρειάζεσαι 1 ώρα σωματικής δραστηριότητας κάθε μέρα!"
     }
   },
   {
@@ -216,7 +234,8 @@
       "pt": "Faz jardinagem",
       "de": "Hilf im Garten",
       "es": "Haz un poco de jardinería",
-      "hi": "बगीचे में अपने माता-पिता की मदद करो"
+      "hi": "बगीचे में अपने माता-पिता की मदद करो",
+      "el": "Βοήθησε στον κήπο"
     },
     "message": {
       "fr": "Aider à jardiner t'apprend à être responsable et patient, et t'aide aussi à t'organiser.",
@@ -226,7 +245,8 @@
       "pt": "Ajudar na jardinagem ensina-te a ser responsável e paciente, e também te ajuda a organizares-te.",
       "de": "Wenn du im Garten hilfst, lernst du, verantwortungsbewusst und geduldig zu sein, und es hilft dir auch, dich zu organisieren.",
       "es": "Ayudar en el jardín te enseña a ser responsable y paciente, y también te ayuda a organizarte.",
-      "hi": "बागवानी में मदद करना तुम्हें जिम्मेदार और धैर्यवान बनना सिखाता है, और व्यवस्थित रहना भी सिखाता है।"
+      "hi": "बागवानी में मदद करना तुम्हें जिम्मेदार और धैर्यवान बनना सिखाता है, और व्यवस्थित रहना भी सिखाता है।",
+      "el": "Όταν βοηθάς στον κήπο, μαθαίνεις υπευθυνότητα και υπομονή, αλλά και να οργανώνεσαι."
     }
   },
   {
@@ -239,7 +259,8 @@
       "pt": "Experimenta coisas novas",
       "de": "Probiere neue Dinge aus",
       "es": "Prueba cosas nuevas",
-      "hi": "कुछ नया आज़माओ"
+      "hi": "कुछ नया आज़माओ",
+      "el": "Δοκίμασε κάτι καινούργιο"
     },
     "message": {
       "fr": "Être curieux te permet de découvrir le monde qui t'entoure. Ne te limite pas à ce que tu connais.",
@@ -249,7 +270,8 @@
       "pt": "Ter curiosidade permite-te descobrir o mundo que te rodeia. Não te limites ao que já conheces.",
       "de": "Neugierig zu sein hilft dir, die Welt um dich herum zu entdecken. Beschränke dich nicht auf das, was du schon kennst.",
       "es": "Ser curioso te permite descubrir el mundo que te rodea. No te limites a lo que conoces.",
-      "hi": "जिज्ञासु होना तुम्हें अपने आसपास की दुनिया की खोज करने देता है। जो तुम जानते हो उसी तक सीमित मत रहो।"
+      "hi": "जिज्ञासु होना तुम्हें अपने आसपास की दुनिया की खोज करने देता है। जो तुम जानते हो उसी तक सीमित मत रहो।",
+      "el": "Η περιέργεια σε βοηθά να ανακαλύπτεις τον κόσμο γύρω σου. Μην περιορίζεσαι σε αυτά που ήδη ξέρεις."
     }
   },
   {
@@ -262,7 +284,8 @@
       "pt": "Observa a natureza à tua volta",
       "de": "Schau dir die Natur um dich herum an",
       "es": "Mira la naturaleza que te rodea",
-      "hi": "अपने आसपास की प्रकृति को देखो"
+      "hi": "अपने आसपास की प्रकृति को देखो",
+      "el": "Κοίτα τη φύση γύρω σου"
     },
     "message": {
       "fr": "Observer la nature te permet de te relaxer et d'apprécier la beauté de la faune et de la flore.  ",
@@ -272,7 +295,8 @@
       "pt": "Observar a natureza ajuda-te a relaxar e a apreciar a beleza da fauna e da flora.  ",
       "de": "Die Natur zu beobachten hilft dir, dich zu entspannen und die Schönheit von Tieren und Pflanzen zu genießen.  ",
       "es": "Observar la naturaleza te permite relajarte y apreciar la belleza de la flora y la fauna.  ",
-      "hi": "प्रकृति का अवलोकन करने से तुम्हें आराम मिलता है और जीव-जंतुओं तथा वनस्पतियों की सुंदरता की सराहना कर सकते हो।"
+      "hi": "प्रकृति का अवलोकन करने से तुम्हें आराम मिलता है और जीव-जंतुओं तथा वनस्पतियों की सुंदरता की सराहना कर सकते हो।",
+      "el": "Παρατηρώντας τη φύση χαλαρώνεις και εκτιμάς την ομορφιά των ζώων και των φυτών.  "
     }
   }
 ]

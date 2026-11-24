@@ -10,7 +10,8 @@
       "es": "Hacer una lista de tareas",
       "de": "Erstellen Sie eine To-do-Liste",
       "nl": "Maak een To-do-lijst",
-      "hi": "करने की सूची बनाएं"
+      "hi": "करने की सूची बनाएं",
+      "el": "Φτιάξτε μια λίστα με δουλειές"
     },
     "message": {
       "fr": "Faire des listes vous permet d’être plus organisé, de ne pas oublier et d'être plus efficace.",
@@ -21,7 +22,8 @@
       "es": "Hacer listas le permite ser más organizado, no olvidar las cosas y ser más eficiente.",
       "de": "Durch das Erstellen von Listen können Sie besser organisiert sein, sich erinnern und effizienter arbeiten.",
       "nl": "Door lijsten te maken, kunt u beter georganiseerd zijn, onthouden en efficiënter werken.",
-      "hi": "करने की सूची बनाने से आप अधिक व्यवस्थित, भूलने से बचने और अधिक कुशल होने में मदद मिलती है।"
+      "hi": "करने की सूची बनाने से आप अधिक व्यवस्थित, भूलने से बचने और अधिक कुशल होने में मदद मिलती है।",
+      "el": "Οι λίστες σάς βοηθούν να είστε πιο οργανωμένοι, να μην ξεχνάτε και να είστε πιο αποτελεσματικοί."
     }
   },
   {
@@ -35,7 +37,8 @@
       "es": "Ordenar la casa",
       "de": "Räumen Sie Ihr Haus auf",
       "nl": "Ruim je huis op",
-      "hi": "अपना घर साफ करें"
+      "hi": "अपना घर साफ करें",
+      "el": "Τακτοποιήστε το σπίτι σας"
     },
     "message": {
       "fr": "Faire le ménage dans votre maison donne un sentiment de propreté, et vous aide à être organisé.",
@@ -46,7 +49,8 @@
       "es": "Limpiar su casa le da una sensación de limpieza y le ayuda a ser organizado.",
       "de": "Wenn Sie Ihr Zuhause aufräumen, fühlen Sie sich wohler, und es hilft Ihnen, organisiert zu bleiben.",
       "nl": "Het schoonmaken van uw huis geeft u een gevoel van netheid en helpt u georganiseerd te blijven.",
-      "hi": "घर की सफाई करने से स्वच्छता का एहसास होता है और साथ ही आपको व्यवस्थित रहने में मदद मिलती है।"
+      "hi": "घर की सफाई करने से स्वच्छता का एहसास होता है और साथ ही आपको व्यवस्थित रहने में मदद मिलती है।",
+      "el": "Το καθάρισμα του σπιτιού σάς δίνει μια αίσθηση καθαριότητας και σας βοηθά να είστε οργανωμένοι."
     }
   },
   {
@@ -60,7 +64,8 @@
       "es": "Jugar a las cartas",
       "de": "Karten spielen",
       "nl": "Speel kaarten",
-      "hi": "ताश खेलें"
+      "hi": "ताश खेलें",
+      "el": "Παίξτε χαρτιά"
     },
     "message": {
       "fr": "Les jeux de cartes sont un moyen très répandu pour garder votre cerveau éveillé en vous amusant.",
@@ -71,7 +76,8 @@
       "es": "Los juegos de cartas son una forma popular de mantener el cerebro alerta mientras se divierte.",
       "de": "Kartenspiele sind eine beliebte Möglichkeit, Ihr Gehirn fit zu halten und gleichzeitig Spaß zu haben.",
       "nl": "Kaartspellen zijn een populaire manier om je hersenen scherp te houden terwijl je plezier hebt.",
-      "hi": "ताश के खेल मज़े करते हुए अपने मस्तिष्क को सक्रिय रखने का एक प्रसिद्ध तरीका है।"
+      "hi": "ताश के खेल मज़े करते हुए अपने मस्तिष्क को सक्रिय रखने का एक प्रसिद्ध तरीका है।",
+      "el": "Τα παιχνίδια με την τράπουλα είναι ένας πολύ διαδεδομένος τρόπος να κρατάτε τον εγκέφαλό σας σε εγρήγορση διασκεδάζοντας."
     }
   },
   {
@@ -85,7 +91,8 @@
       "es": "Leer un periódico",
       "de": "Lesen Sie eine Zeitung",
       "nl": "Lees een krant",
-      "hi": "अखबार पढ़ें"
+      "hi": "अखबार पढ़ें",
+      "el": "Διαβάστε μια εφημερίδα"
     },
     "message": {
       "fr": "Lire un journal permet de savoir ce qu’il se passe autour de nous en stimulant le langage.",
@@ -96,7 +103,8 @@
       "es": "Leer un periódico nos permite conocer lo que sucede a nuestro alrededor estimulando el lenguaje.",
       "de": "Beim Zeitunglesen erfährt man, was um einen herum passiert, und regt dabei die Sprache an.",
       "nl": "Door een krant te lezen, weten we wat er om ons heen gebeurt door taal te stimuleren.",
-      "hi": "अखबार पढ़ने से आप अपनी भाषा को प्रोत्साहित करते हुए दुनिया में क्या हो रहा है जान सकते हैं।"
+      "hi": "अखबार पढ़ने से आप अपनी भाषा को प्रोत्साहित करते हुए दुनिया में क्या हो रहा है जान सकते हैं।",
+      "el": "Διαβάζοντας εφημερίδα μαθαίνετε τι συμβαίνει γύρω μας, ενώ εξασκείτε και τη γλώσσα."
     }
   },
   {
@@ -110,7 +118,8 @@
       "es": "Tener un pensamiento positivo",
       "de": "Denken Sie positiv",
       "nl": "Heb een positieve gedachte",
-      "hi": "कुछ सकारात्मक सोचें"
+      "hi": "कुछ सकारात्मक सोचें",
+      "el": "Σκεφτείτε κάτι θετικό"
     },
     "message": {
       "fr": "Penser à un événement qui vous a fait sourire permet de voir les bons côtés de la vie !",
@@ -121,7 +130,8 @@
       "es": "¡Pensar en algo que le hizo sonreír permite ver el lado bueno de la vida!",
       "de": "Wenn Sie an ein Ereignis denken, das Sie zum Lächeln gebracht hat, können Sie die guten Seiten des Lebens erkennen!",
       "nl": "Als je aan een gebeurtenis denkt die je aan het lachen maakte, kun je de goede kanten van het leven zien!",
-      "hi": "आज जिस चीज़ ने आपको मुस्कुराया उसके बारे में सोचें। जीवन की अच्छी चीज़ों पर ध्यान देना बेहतर है!"
+      "hi": "आज जिस चीज़ ने आपको मुस्कुराया उसके बारे में सोचें। जीवन की अच्छी चीज़ों पर ध्यान देना बेहतर है!",
+      "el": "Σκεφτείτε κάτι που σας έκανε να χαμογελάσετε: έτσι βλέπετε τις καλές πλευρές της ζωής!"
     }
   },
   {
@@ -135,7 +145,8 @@
       "es": "Llamar o escribir a sus seres queridos",
       "de": "Rufen Sie an oder schreiben Sie Ihren Lieben",
       "nl": "Bel of schrijf naar uw dierbaren",
-      "hi": "किसी को फोन करें या लिखें"
+      "hi": "किसी को फोन करें या लिखें",
+      "el": "Τηλεφωνήστε ή γράψτε στους δικούς σας ανθρώπους"
     },
     "message": {
       "fr": "La famille et les amis sont des membres importants de la vie, ne les oubliez pas. ",
@@ -146,7 +157,8 @@
       "es": "La familia y los amigos son una parte importante de la vida, no los olvide. ",
       "de": "Familie und Freunde sind ein wichtiger Teil des Lebens – vergessen Sie sie nicht. ",
       "nl": "Familie en vrienden zijn belangrijke leden van het leven, vergeet ze niet. ",
-      "hi": "परिवार और दोस्त आपके जीवन के महत्वपूर्ण सदस्य हैं, उनकी उपेक्षा न करना महत्वपूर्ण है।"
+      "hi": "परिवार और दोस्त आपके जीवन के महत्वपूर्ण सदस्य हैं, उनकी उपेक्षा न करना महत्वपूर्ण है।",
+      "el": "Η οικογένεια και οι φίλοι είναι σημαντικοί άνθρωποι στη ζωή σας, μην τους ξεχνάτε."
     }
   },
   {
@@ -160,7 +172,8 @@
       "es": "Comer equilibrado",
       "de": "Ernähren Sie sich ausgewogen",
       "nl": "Eet evenwichtig",
-      "hi": "स्वस्थ खाएं"
+      "hi": "स्वस्थ खाएं",
+      "el": "Τρώτε ισορροπημένα"
     },
     "message": {
       "fr": "Une bonne alimentation influence vos fonctions cognitives, un petit gâteau améliore l'humeur.",
@@ -171,7 +184,8 @@
       "es": "Una buena alimentación influye en sus funciones cognitivas, un pastelito mejora el estado de ánimo.",
       "de": "Eine gute Ernährung beeinflusst Ihre kognitiven Funktionen, und ein kleiner Kuchen hebt die Stimmung.",
       "nl": "Een goed dieet beïnvloedt je cognitieve functies, een cupcake verbetert je humeur.",
-      "hi": "अच्छा आहार आपके संज्ञानात्मक कार्य को प्रभावित करता है, कभी-कभार मिठाई आपके मूड को बेहतर बनाती है।"
+      "hi": "अच्छा आहार आपके संज्ञानात्मक कार्य को प्रभावित करता है, कभी-कभार मिठाई आपके मूड को बेहतर बनाती है।",
+      "el": "Η καλή διατροφή επηρεάζει τις γνωστικές σας λειτουργίες, και ένα γλυκάκι φτιάχνει τη διάθεση."
     }
   },
   {
@@ -185,7 +199,8 @@
       "es": "Dormir al menos 6 horas por noche",
       "de": "Schlafen Sie mindestens 6 Stunden pro Nacht",
       "nl": "Slaap minimaal 6 uur per nacht",
-      "hi": "कम से कम 6 घंटे सोएं"
+      "hi": "कम से कम 6 घंटे सोएं",
+      "el": "Κοιμηθείτε τουλάχιστον 6 ώρες κάθε νύχτα"
     },
     "message": {
       "fr": "Dormir permet au corps et au cerveau de se reposer, écoutez-les quand ils sont fatigués.",
@@ -196,7 +211,8 @@
       "es": "Dormir permite que el cuerpo y el cerebro descansen, escúchelos cuando estén cansados.",
       "de": "Im Schlaf ruhen sich Körper und Gehirn aus. Hören Sie auf sie, wenn sie müde sind.",
       "nl": "Door te slapen kunnen het lichaam en de hersenen rusten, luister ernaar als ze moe zijn.",
-      "hi": "नींद आपके मस्तिष्क और शरीर को आराम देती है, थकान होने पर उनकी सुनें।"
+      "hi": "नींद आपके मस्तिष्क और शरीर को आराम देती है, थकान होने पर उनकी सुनें।",
+      "el": "Ο ύπνος ξεκουράζει το σώμα και τον εγκέφαλο, ακούστε τα όταν είναι κουρασμένα."
     }
   },
   {
@@ -210,7 +226,8 @@
       "es": "Hacer 30 minutos de deporte",
       "de": "Machen Sie 30 Minuten Sport",
       "nl": "Doe 30 minuten aan sport",
-      "hi": "30 मिनट व्यायाम करें"
+      "hi": "30 मिनट व्यायाम करें",
+      "el": "Γυμναστείτε για 30 λεπτά"
     },
     "message": {
       "fr": "Faire une activité physique a beaucoup d’effets positifs sur le corps, le cerveau et l’humeur.",
@@ -221,7 +238,8 @@
       "es": "Realizar actividad física tiene muchos efectos positivos en el cuerpo, el cerebro y el estado de ánimo.",
       "de": "Körperliche Aktivität hat viele positive Auswirkungen auf Körper, Gehirn und Stimmung.",
       "nl": "Het doen van fysieke activiteit heeft veel positieve effecten op het lichaam, de hersenen en de stemming.",
-      "hi": "शारीरिक रूप से सक्रिय रहने के शरीर, मस्तिष्क और मूड पर कई सकारात्मक प्रभाव पड़ते हैं।"
+      "hi": "शारीरिक रूप से सक्रिय रहने के शरीर, मस्तिष्क और मूड पर कई सकारात्मक प्रभाव पड़ते हैं।",
+      "el": "Η σωματική δραστηριότητα έχει πολλά οφέλη για το σώμα, τον εγκέφαλο και τη διάθεση."
     }
   },
   {
@@ -235,7 +253,8 @@
       "es": "Salir a caminar",
       "de": "Gehen Sie spazieren",
       "nl": "Ga een wandeling maken",
-      "hi": "टहलने जाएं"
+      "hi": "टहलने जाएं",
+      "el": "Βγείτε για περίπατο"
     },
     "message": {
       "fr": "Faire des activités en dehors de chez vous permet de garder un lien social et de ne pas vous isoler.",
@@ -246,7 +265,8 @@
       "es": "Realizar actividades fuera de casa le permite mantener conexiones sociales y no aislarse.",
       "de": "Durch Aktivitäten außerhalb Ihres Zuhauses können Sie soziale Kontakte aufrechterhalten und sich nicht isolieren.",
       "nl": "Door activiteiten buitenshuis te ondernemen, kunt u sociale verbindingen onderhouden en uzelf niet isoleren.",
-      "hi": "घर के बाहर गतिविधियाँ करने से आप सामाजिक रूप से जुड़े रहते हैं और खुद को अलग-थलग नहीं करते।"
+      "hi": "घर के बाहर गतिविधियाँ करने से आप सामाजिक रूप से जुड़े रहते हैं और खुद को अलग-थलग नहीं करते।",
+      "el": "Οι δραστηριότητες έξω από το σπίτι σάς βοηθούν να διατηρείτε την επαφή με τους άλλους και να μην απομονώνεστε."
     }
   },
   {
@@ -260,7 +280,8 @@
       "es": "Tomarse tiempo para uno mismo",
       "de": "Nehmen Sie sich Zeit für sich",
       "nl": "Neem de tijd voor jezelf",
-      "hi": "अपने लिए समय निकालें"
+      "hi": "अपने लिए समय निकालें",
+      "el": "Αφιερώστε χρόνο στον εαυτό σας"
     },
     "message": {
       "fr": "Il est important de s’accorder du temps pour se relaxer et faire quelque chose qui nous plaît.",
@@ -271,7 +292,8 @@
       "es": "Es importante darnos tiempo para relajarnos y hacer algo que nos guste.",
       "de": "Es ist wichtig, sich Zeit zum Entspannen zu nehmen und etwas zu tun, das Ihnen Spaß macht.",
       "nl": "Het is belangrijk om jezelf de tijd te geven om te ontspannen en iets te doen wat je leuk vindt.",
-      "hi": "आराम करने और कुछ ऐसा करने के लिए समय निकालना महत्वपूर्ण है जो आपको पसंद हो।"
+      "hi": "आराम करने और कुछ ऐसा करने के लिए समय निकालना महत्वपूर्ण है जो आपको पसंद हो।",
+      "el": "Είναι σημαντικό να βρίσκουμε χρόνο για να χαλαρώνουμε και να κάνουμε κάτι που μας αρέσει."
     }
   },
   {
@@ -285,7 +307,8 @@
       "es": "Cambiar la rutina",
       "de": "Ändern Sie Ihre Routine",
       "nl": "Verander je routine",
-      "hi": "अपनी दिनचर्या बदलें"
+      "hi": "अपनी दिनचर्या बदलें",
+      "el": "Αλλάξτε τη ρουτίνα σας"
     },
     "message": {
       "fr": "Changer un trajet habituel aide à découvrir de nouvelles choses et stimule l’orientation.",
@@ -296,7 +319,8 @@
       "es": "Cambiar una ruta habitual ayuda a descubrir cosas nuevas y estimula la orientación.",
       "de": "Das Abändern einer gewohnten Route hilft, Neues zu entdecken und regt die Orientierung an.",
       "nl": "Het veranderen van een gebruikelijke route helpt je nieuwe dingen te ontdekken en stimuleert de oriëntatie.",
-      "hi": "सामान्य रास्ता बदलने से नई चीजें खोजने में मदद मिलती है और दिशा-ज्ञान प्रेरित होता है।"
+      "hi": "सामान्य रास्ता बदलने से नई चीजें खोजने में मदद मिलती है और दिशा-ज्ञान प्रेरित होता है।",
+      "el": "Όταν αλλάζετε μια διαδρομή που κάνετε συνήθως, ανακαλύπτετε καινούργια πράγματα και εξασκείτε τον προσανατολισμό σας."
     }
   }
 ]

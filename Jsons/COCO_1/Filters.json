@@ -10,7 +10,8 @@
       "it": "Autismo",
       "cn": "自闭症",
       "nl": "Autisme",
-      "hi": "ऑटिज़्म"
+      "hi": "ऑटिज़्म",
+      "el": "Αυτισμός"
     },
     "games": [
       "COLORFORM",
@@ -39,7 +40,8 @@
       "it": "ADHD",
       "cn": "多动症",
       "nl": "ADHD",
-      "hi": "एडीएचडी"
+      "hi": "एडीएचडी",
+      "el": "ΔΕΠΥ"
     },
     "games": [
       "COLORFORM",
@@ -71,7 +73,8 @@
       "it": "Disprassia",
       "cn": "运用障碍",
       "nl": "Dyspraxie",
-      "hi": "डिस्प्रैक्सिया"
+      "hi": "डिस्प्रैक्सिया",
+      "el": "Δυσπραξία"
     },
     "games": [
       "PUZZLE",
@@ -107,7 +110,8 @@
       "it": "Discalculia",
       "cn": "计算障碍",
       "nl": "Dyscalculie",
-      "hi": "डिस्कैलकुलिया"
+      "hi": "डिस्कैलकुलिया",
+      "el": "Δυσαριθμησία"
     },
     "games": [
       "CALCULUS",
@@ -129,7 +133,8 @@
       "it": "Dislessia e disortografia",
       "cn": "诵读困难和拼写障碍",
       "nl": "Dyslexie en dysorthografie",
-      "hi": "डिस्लेक्सिया और डिसग्राफिया"
+      "hi": "डिस्लेक्सिया और डिसग्राफिया",
+      "el": "Δυσλεξία και δυσορθογραφία"
     },
     "games": [
       "SLIDE_MAZE",
@@ -151,7 +156,8 @@
       "it": "Disfasia",
       "cn": "失语症",
       "nl": "Dysfasie",
-      "hi": "डिस्फेसिया"
+      "hi": "डिस्फेसिया",
+      "el": "Δυσφασία"
     },
     "games": [
       "INTRUS",
@@ -174,7 +180,8 @@
       "it": "Trisomia",
       "cn": "三体性",
       "nl": "Trisomie",
-      "hi": "डाउन सिंड्रोम"
+      "hi": "डाउन सिंड्रोम",
+      "el": "Σύνδρομο Down"
     },
     "games": [
       "COLORFORM",
@@ -204,7 +211,8 @@
       "it": "Colpo",
       "cn": "中风",
       "nl": "Hartinfarct",
-      "hi": "स्ट्रोक"
+      "hi": "स्ट्रोक",
+      "el": "Εγκεφαλικό"
     },
     "games": [
       "CALCULUS",
@@ -237,7 +245,8 @@
       "it": "Lettura",
       "cn": "阅读",
       "nl": "Lectuur",
-      "hi": "पठन"
+      "hi": "पठन",
+      "el": "Ανάγνωση"
     },
     "games": [
       "PUZZLE",
@@ -263,7 +272,8 @@
       "it": "Ortografia",
       "cn": "拼写",
       "nl": "Spelling",
-      "hi": "वर्तनी"
+      "hi": "वर्तनी",
+      "el": "Ορθογραφία"
     },
     "games": [
       "INTRUS",
@@ -283,7 +293,8 @@
       "it": "Matematica",
       "cn": "数学",
       "nl": "Wiskunde",
-      "hi": "गणित"
+      "hi": "गणित",
+      "el": "Μαθηματικά"
     },
     "games": [
       "COLORFORM",
@@ -303,7 +314,8 @@
     "isForCoco": true,
     "title": {
       "fr": "Anglais",
-      "hi": "अंग्रेज़ी"
+      "hi": "अंग्रेज़ी",
+      "el": "Αγγλικά"
     },
     "games": [
       "PUZZLE",
@@ -326,7 +338,8 @@
       "it": "Storia",
       "cn": "历史",
       "nl": "Geschiedenis",
-      "hi": "इतिहास"
+      "hi": "इतिहास",
+      "el": "Ιστορία"
     },
     "games": [
       "QUIZZLE",
@@ -344,7 +357,8 @@
       "it": "Interroga il mondo",
       "cn": "质疑世界",
       "nl": "Stel de wereld in vraag",
-      "hi": "दुनिया की खोज"
+      "hi": "दुनिया की खोज",
+      "el": "Γνωριμία με τον κόσμο"
     },
     "games": [
       "ANIMALS",
@@ -364,7 +378,8 @@
       "it": "Attività fisica",
       "cn": "体力活动",
       "nl": "Fysieke activiteit",
-      "hi": "शारीरिक गतिविधियाँ"
+      "hi": "शारीरिक गतिविधियाँ",
+      "el": "Δραστηριότητες κίνησης"
     },
     "games": [
       "DANCING_MUSIC",
@@ -386,7 +401,8 @@
       "it": "Attività tranquille",
       "cn": "安静的活动",
       "nl": "Rustige activiteiten",
-      "hi": "शांत गतिविधियाँ"
+      "hi": "शांत गतिविधियाँ",
+      "el": "Ήρεμες δραστηριότητες"
     },
     "games": [
       "EMOTION_MIME",
@@ -405,18 +421,21 @@
       "it": "Cultura",
       "cn": "文化",
       "nl": "Cultuur",
-      "hi": "संस्कृति"
+      "hi": "संस्कृति",
+      "el": "Γενικές γνώσεις"
     },
     "description": {
       "fr": "Teste tes connaissances culturelles",
       "cn": "测试你的文化知识",
       "nl": "Test je culturele kennis",
-      "hi": "अपने सांस्कृतिक ज्ञान का परीक्षण करें"
+      "hi": "अपने सांस्कृतिक ज्ञान का परीक्षण करें",
+      "el": "Δοκίμασε τις γενικές σου γνώσεις"
     },
     "decription": {
       "us": "Test your cultural knowledge",
       "it": "Metti alla prova la tua cultura generale",
-      "hi": "अपने सांस्कृतिक ज्ञान का परीक्षण करें"
+      "hi": "अपने सांस्कृतिक ज्ञान का परीक्षण करें",
+      "el": "Δοκίμασε τις γενικές σου γνώσεις"
     },
     "games": [
       "PUZZLE",
@@ -444,18 +463,21 @@
       "it": "Destrezza",
       "cn": "灵巧",
       "nl": "Behendigheid",
-      "hi": "निपुणता"
+      "hi": "निपुणता",
+      "el": "Επιδεξιότητα"
     },
     "description": {
       "fr": "Travaille ta dextérité pour mieux contrôler le mouvement de tes mains",
       "cn": "锻炼你的灵活性，更好地控制你的手的运动",
       "nl": "Werk aan uw behendigheid om de beweging van uw handen beter te controleren",
-      "hi": "अपने हाथों की गति को बेहतर ढंग से नियंत्रित करने के लिए अपनी निपुणता पर काम करें"
+      "hi": "अपने हाथों की गति को बेहतर ढंग से नियंत्रित करने के लिए अपनी निपुणता पर काम करें",
+      "el": "Εξάσκησε την επιδεξιότητά σου για να ελέγχεις καλύτερα τις κινήσεις των χεριών σου"
     },
     "decription": {
       "us": "Work on your dexterity to better control your hand movements",
       "it": "Lavora sulla tua destrezza per controllare meglio il movimento delle tue mani",
-      "hi": "अपने हाथों की गति को बेहतर ढंग से नियंत्रित करने के लिए अपनी निपुणता पर काम करें"
+      "hi": "अपने हाथों की गति को बेहतर ढंग से नियंत्रित करने के लिए अपनी निपुणता पर काम करें",
+      "el": "Εξάσκησε την επιδεξιότητά σου για να ελέγχεις καλύτερα τις κινήσεις των χεριών σου"
     },
     "games": [
       "PUZZLE",
@@ -477,18 +499,21 @@
       "it": "Logica",
       "cn": "逻辑",
       "nl": "Logica",
-      "hi": "तर्क"
+      "hi": "तर्क",
+      "el": "Λογική"
     },
     "description": {
       "fr": "Travaille ta logique pour améliorer ta stratégie",
       "cn": "锻炼你的逻辑来改进你的策略",
       "nl": "Werk aan uw logica om uw strategie te verbeteren",
-      "hi": "अपनी रणनीति को बेहतर बनाने के लिए अपने तर्क पर काम करें"
+      "hi": "अपनी रणनीति को बेहतर बनाने के लिए अपने तर्क पर काम करें",
+      "el": "Εξάσκησε τη λογική σου για να βελτιώσεις τη στρατηγική σου"
     },
     "decription": {
       "us": "Work on your logic to improve your strategy",
       "it": "Lavora sulla logica per migliorare le tue strategie",
-      "hi": "अपनी रणनीति को बेहतर बनाने के लिए अपने तर्क पर काम करें"
+      "hi": "अपनी रणनीति को बेहतर बनाने के लिए अपने तर्क पर काम करें",
+      "el": "Εξάσκησε τη λογική σου για να βελτιώσεις τη στρατηγική σου"
     },
     "games": [
       "SUDOKU",
@@ -512,18 +537,21 @@
       "it": "Sono curioso",
       "cn": "我很好奇",
       "nl": "Ik ben nieuwsgierig",
-      "hi": "मैं जिज्ञासु हूँ"
+      "hi": "मैं जिज्ञासु हूँ",
+      "el": "Έχω περιέργεια"
     },
     "description": {
       "fr": "Laisse-nous te surprendre avec l'un de ces jeux",
       "cn": "让我们通过其中一款游戏给您带来惊喜",
       "nl": "Laat je verrassen met één van deze spellen",
-      "hi": "इनमें से किसी एक खेल से हमें आपको आश्चर्यचकित करने दें"
+      "hi": "इनमें से किसी एक खेल से हमें आपको आश्चर्यचकित करने दें",
+      "el": "Άσε μας να σε εκπλήξουμε με ένα από αυτά τα παιχνίδια"
     },
     "decription": {
       "us": "Let us surprise you with one of these games",
       "it": "Lasciati sorprendere con uno di questi giochi",
-      "hi": "इनमें से किसी एक खेल से हमें आपको आश्चर्यचकित करने दें"
+      "hi": "इनमें से किसी एक खेल से हमें आपको आश्चर्यचकित करने दें",
+      "el": "Άσε μας να σε εκπλήξουμε με ένα από αυτά τα παιχνίδια"
     },
     "games": [
       "COLORMIND",
@@ -549,18 +577,21 @@
       "it": "Intrattenimento collettivo",
       "cn": "集体娱乐",
       "nl": "Collectief vermaak",
-      "hi": "सामूहिक गतिविधियाँ"
+      "hi": "सामूहिक गतिविधियाँ",
+      "el": "Ομαδικές δραστηριότητες"
     },
     "description": {
       "fr": "Idéal pour jouer à plusieurs joueurs sur un seul écran",
       "cn": "非常适合在一个屏幕上与多个玩家一起玩",
       "nl": "Ideaal om met meerdere spelers op één scherm te spelen",
-      "hi": "एक ही स्क्रीन पर कई खिलाड़ियों के साथ खेलने के लिए आदर्श"
+      "hi": "एक ही स्क्रीन पर कई खिलाड़ियों के साथ खेलने के लिए आदर्श",
+      "el": "Ιδανικό για πολλούς παίκτες σε μία μόνο οθόνη"
     },
     "decription": {
       "us": "Ideal for playing with multiple players on a single screen",
       "it": "Ideale per giocare con più giocatori su un unico schermo",
-      "hi": "एक ही स्क्रीन पर कई खिलाड़ियों के साथ खेलने के लिए आदर्श"
+      "hi": "एक ही स्क्रीन पर कई खिलाड़ियों के साथ खेलने के लिए आदर्श",
+      "el": "Ιδανικό για πολλούς παίκτες σε μία μόνο οθόνη"
     },
     "games": [
       "QUIZZLE",

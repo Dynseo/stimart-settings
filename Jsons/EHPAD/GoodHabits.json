@@ -10,7 +10,8 @@
       "pt": "Seguir a sua rotina\n\n",
       "es": "Seguir una rutina",
       "de": "Der eigenen Routine folgen",
-      "hi": "एक दिनचर्या बनाएं"
+      "hi": "एक दिनचर्या बनाएं",
+      "el": "Ακολουθήστε την καθημερινή σας ρουτίνα"
     },
     "message": {
       "fr": "Créer une routine nous aide à organiser notre journée et à ne pas oublier les choses importantes.",
@@ -21,7 +22,8 @@
       "pt": "Criar uma rotina ajuda-nos a organizar o dia e a não esquecer as coisas importantes.",
       "es": "Tener una rutina nos ayuda a organizar el día y a no olvidar las cosas importantes.",
       "de": "Eine feste Routine hilft uns, unseren Tag zu organisieren und die wichtigen Dinge nicht zu vergessen.",
-      "hi": "एक निश्चित दिनचर्या होने से हमें अपने दिन को व्यवस्थित करने और महत्वपूर्ण चीजों को न भूलने में मदद मिलती है।"
+      "hi": "एक निश्चित दिनचर्या होने से हमें अपने दिन को व्यवस्थित करने और महत्वपूर्ण चीजों को न भूलने में मदद मिलती है।",
+      "el": "Μια σταθερή ρουτίνα μάς βοηθά να οργανώνουμε τη μέρα μας και να μην ξεχνάμε τα σημαντικά πράγματα."
     }
   },
   {
@@ -35,7 +37,8 @@
       "pt": "Ler 2 páginas do jornal",
       "es": "Leer 2 páginas del periódico",
       "de": "2 Seiten Zeitung lesen",
-      "hi": "अखबार के दो पृष्ठ पढ़ें"
+      "hi": "अखबार के दो पृष्ठ पढ़ें",
+      "el": "Διαβάστε 2 σελίδες της εφημερίδας"
     },
     "message": {
       "fr": "La lecture est une activité relaxante qui permet de se reposer en gardant son cerveau éveillé. \r",
@@ -46,7 +49,8 @@
       "pt": "A leitura é uma atividade relaxante que permite descansar e, ao mesmo tempo, manter o cérebro desperto. \r",
       "es": "La lectura es una actividad relajante que permite descansar manteniendo el cerebro despierto.",
       "de": "Lesen ist eine entspannende Beschäftigung: Man ruht sich aus und hält dabei sein Gehirn wach.",
-      "hi": "पढ़ना एक आरामदायक गतिविधि है जो आपके मस्तिष्क को सक्रिय रखते हुए आपको आराम करने देती है।\n"
+      "hi": "पढ़ना एक आरामदायक गतिविधि है जो आपके मस्तिष्क को सक्रिय रखते हुए आपको आराम करने देती है।\n",
+      "el": "Το διάβασμα είναι μια χαλαρωτική δραστηριότητα που σας ξεκουράζει, ενώ κρατά τον εγκέφαλό σας σε εγρήγορση.\n"
     }
   },
   {
@@ -60,7 +64,8 @@
       "pt": "Beber 1 litro de água",
       "es": "Beber 1 litro de agua",
       "de": "1 Liter Wasser trinken",
-      "hi": "1 लीटर पानी पिएं"
+      "hi": "1 लीटर पानी पिएं",
+      "el": "Πιείτε 1 λίτρο νερό"
     },
     "message": {
       "fr": "Rester hydraté est important pour la santé physique et mentale ! ",
@@ -71,7 +76,8 @@
       "pt": "Manter a hidratação é importante para a saúde física e mental! ",
       "es": "¡Mantenerse hidratado es importante para la salud física y mental!",
       "de": "Genug zu trinken ist wichtig für die körperliche und geistige Gesundheit!",
-      "hi": "हाइड्रेटेड रहना आपके शारीरिक और मानसिक स्वास्थ्य के लिए बहुत महत्वपूर्ण है!"
+      "hi": "हाइड्रेटेड रहना आपके शारीरिक और मानसिक स्वास्थ्य के लिए बहुत महत्वपूर्ण है!",
+      "el": "Η καλή ενυδάτωση είναι σημαντική για τη σωματική και την ψυχική υγεία!"
     }
   },
   {
@@ -85,7 +91,8 @@
       "pt": "Jogar às cartas",
       "es": "Jugar a las cartas",
       "de": "Karten spielen",
-      "hi": "ताश खेलें"
+      "hi": "ताश खेलें",
+      "el": "Παίξτε χαρτιά"
     },
     "message": {
       "fr": "Les jeux de cartes sont un moyen très répandu pour garder votre cerveau éveillé en vous amusant. ",
@@ -96,7 +103,8 @@
       "pt": "Os jogos de cartas são uma forma muito popular de manter o seu cérebro desperto enquanto se diverte. ",
       "es": "Los juegos de cartas son una forma muy popular de mantener el cerebro despierto mientras se divierte.",
       "de": "Kartenspiele sind eine beliebte Art, Ihr Gehirn wach zu halten und dabei Spaß zu haben.",
-      "hi": "ताश के खेल मज़े करते हुए अपने मस्तिष्क को सक्रिय रखने का एक प्रसिद्ध तरीका है।"
+      "hi": "ताश के खेल मज़े करते हुए अपने मस्तिष्क को सक्रिय रखने का एक प्रसिद्ध तरीका है।",
+      "el": "Τα παιχνίδια με την τράπουλα είναι ένας πολύ διαδεδομένος τρόπος να κρατάτε τον εγκέφαλό σας σε εγρήγορση διασκεδάζοντας."
     }
   },
   {
@@ -110,7 +118,8 @@
       "pt": "Cozinhar uma refeição\r",
       "es": "Cocinar una comida",
       "de": "Eine Mahlzeit kochen",
-      "hi": "एक भोजन पकाएं"
+      "hi": "एक भोजन पकाएं",
+      "el": "Μαγειρέψτε ένα φαγητό"
     },
     "message": {
       "fr": "Manger est synonyme de bonheur : un bon repas peut faire retrouver le sourire. ",
@@ -121,7 +130,8 @@
       "pt": "Comer é sinónimo de felicidade: uma boa refeição pode devolver o sorriso. ",
       "es": "Comer es sinónimo de felicidad: una buena comida puede devolver la sonrisa.",
       "de": "Essen bedeutet Freude: Eine gute Mahlzeit kann Ihnen wieder ein Lächeln schenken.",
-      "hi": "खाना बनाना खुशी का पर्याय है। एक अच्छा पका हुआ भोजन आपको मुस्कुरा सकता है।"
+      "hi": "खाना बनाना खुशी का पर्याय है। एक अच्छा पका हुआ भोजन आपको मुस्कुरा सकता है।",
+      "el": "Το φαγητό είναι συνώνυμο της χαράς: ένα καλό γεύμα μπορεί να σας φέρει ξανά το χαμόγελο."
     }
   },
   {
@@ -135,7 +145,8 @@
       "pt": "Fazer uma coisa de que gosta",
       "es": "Hacer algo que le guste",
       "de": "Etwas tun, das Ihnen Freude macht",
-      "hi": "कुछ ऐसा करें जो आपको पसंद हो"
+      "hi": "कुछ ऐसा करें जो आपको पसंद हो",
+      "el": "Κάντε κάτι που σας αρέσει"
     },
     "message": {
       "fr": "Découvrir une nouvelle passion permet de rendre vos journées plus dynamiques.",
@@ -146,7 +157,8 @@
       "pt": "Descobrir uma nova paixão torna os seus dias mais dinâmicos.",
       "es": "Descubrir una nueva pasión hace que sus días sean más dinámicos.",
       "de": "Eine neue Leidenschaft zu entdecken, bringt mehr Schwung in Ihre Tage.",
-      "hi": "किसी भी उम्र में एक नया शौक खोजना संभव है, आपके दिन को रोशन करने के लिए कुछ छोटा सा।"
+      "hi": "किसी भी उम्र में एक नया शौक खोजना संभव है, आपके दिन को रोशन करने के लिए कुछ छोटा सा।",
+      "el": "Μια νέα ασχολία που σας αρέσει κάνει τις μέρες σας πιο ζωντανές."
     }
   },
   {
@@ -160,7 +172,8 @@
       "pt": "Telefonar ou escrever aos seus entes queridos",
       "es": "Llamar o escribir a sus seres queridos",
       "de": "Ihre Lieben anrufen oder ihnen schreiben",
-      "hi": "किसी अपने को फोन करें या लिखें"
+      "hi": "किसी अपने को फोन करें या लिखें",
+      "el": "Τηλεφωνήστε ή γράψτε στους δικούς σας ανθρώπους"
     },
     "message": {
       "fr": "La famille et les amis sont des membres importants de la vie, ne les oubliez pas. ",
@@ -171,7 +184,8 @@
       "pt": "A família e os amigos têm um lugar importante na vida, não os esqueça. ",
       "es": "La familia y los amigos son una parte importante de la vida, no se olvide de ellos.",
       "de": "Familie und Freunde sind ein wichtiger Teil des Lebens – vergessen Sie sie nicht.",
-      "hi": "परिवार और दोस्त आपके जीवन के महत्वपूर्ण सदस्य हैं, उनकी उपेक्षा न करना महत्वपूर्ण है।"
+      "hi": "परिवार और दोस्त आपके जीवन के महत्वपूर्ण सदस्य हैं, उनकी उपेक्षा न करना महत्वपूर्ण है।",
+      "el": "Η οικογένεια και οι φίλοι είναι σημαντικοί άνθρωποι στη ζωή σας, μην τους ξεχνάτε."
     }
   },
   {
@@ -185,7 +199,8 @@
       "pt": "Ter um pensamento positivo",
       "es": "Tener un pensamiento positivo",
       "de": "Einen positiven Gedanken haben",
-      "hi": "कुछ सकारात्मक सोचें"
+      "hi": "कुछ सकारात्मक सोचें",
+      "el": "Σκεφτείτε κάτι θετικό"
     },
     "message": {
       "fr": "Penser à un événement qui vous a fait sourire vous permet de voir les bons côtés de la vie !",
@@ -196,7 +211,8 @@
       "pt": "Pensar num momento que lhe trouxe um sorriso ajuda a ver o lado bom da vida!",
       "es": "¡Pensar en algo que le hizo sonreír le permite ver el lado bueno de la vida!",
       "de": "Wenn Sie an etwas denken, das Sie zum Lächeln gebracht hat, sehen Sie die schönen Seiten des Lebens!",
-      "hi": "आज जिस चीज़ ने आपको मुस्कुराया उसके बारे में सोचें। जीवन की अच्छी चीज़ों पर ध्यान देना बेहतर है!"
+      "hi": "आज जिस चीज़ ने आपको मुस्कुराया उसके बारे में सोचें। जीवन की अच्छी चीज़ों पर ध्यान देना बेहतर है!",
+      "el": "Σκεφτείτε κάτι που σας έκανε να χαμογελάσετε: έτσι βλέπετε τις καλές πλευρές της ζωής!"
     }
   },
   {
@@ -210,7 +226,8 @@
       "pt": "Mexer-se durante 20 minutos",
       "es": "Moverse durante 20 minutos",
       "de": "Sich 20 Minuten bewegen",
-      "hi": "20 मिनट के लिए सक्रिय हों"
+      "hi": "20 मिनट के लिए सक्रिय हों",
+      "el": "Κινηθείτε για 20 λεπτά"
     },
     "message": {
       "fr": "Il est important de faire du sport à tout âge. Faites un peu de gym, de yoga ou une promenade.",
@@ -221,7 +238,8 @@
       "pt": "É importante fazer desporto em qualquer idade. Faça um pouco de ginástica, de ioga ou um passeio.",
       "es": "Hacer ejercicio es importante a cualquier edad. Haga un poco de gimnasia, yoga o dé un paseo.",
       "de": "Bewegung ist in jedem Alter wichtig. Machen Sie etwas Gymnastik, Yoga oder einen Spaziergang.",
-      "hi": "किसी भी उम्र में शारीरिक रूप से सक्रिय रहना महत्वपूर्ण है। कुछ व्यायाम, योग या बस टहलने जाएं।"
+      "hi": "किसी भी उम्र में शारीरिक रूप से सक्रिय रहना महत्वपूर्ण है। कुछ व्यायाम, योग या बस टहलने जाएं।",
+      "el": "Η σωματική δραστηριότητα είναι σημαντική σε κάθε ηλικία. Κάντε λίγη γυμναστική, γιόγκα ή έναν περίπατο."
     }
   },
   {
@@ -235,7 +253,8 @@
       "pt": "Sorrir aos outros",
       "es": "Sonreír a los demás",
       "de": "Andere anlächeln",
-      "hi": "मुस्कुराएं!"
+      "hi": "मुस्कुराएं!",
+      "el": "Χαμογελάστε στους άλλους"
     },
     "message": {
       "fr": "Sourire aux personnes que vous croisez dans la rue peut améliorer votre journée et celle des autres.\n",
@@ -246,7 +265,8 @@
       "pt": "Sorrir às pessoas com quem se cruza na rua pode melhorar o seu dia e o dos outros.\n",
       "es": "Sonreír a las personas con las que se cruza por la calle puede mejorar su día y el de los demás.",
       "de": "Wenn Sie den Menschen zulächeln, denen Sie auf der Straße begegnen, wird Ihr Tag schöner – und der der anderen auch.",
-      "hi": "सड़क पर मिलने वाले लोगों को देखकर मुस्कुराना आपके और दूसरों के दिन को बेहतर बना सकता है।"
+      "hi": "सड़क पर मिलने वाले लोगों को देखकर मुस्कुराना आपके और दूसरों के दिन को बेहतर बना सकता है।",
+      "el": "Όταν χαμογελάτε στους ανθρώπους που συναντάτε στον δρόμο, κάνετε καλύτερη τη μέρα σας και τη δική τους."
     }
   },
   {
@@ -260,7 +280,8 @@
       "pt": "Ir ao cabeleireiro",
       "es": "Ir a la peluquería",
       "de": "Zum Friseur gehen",
-      "hi": "सैलून जाएं "
+      "hi": "सैलून जाएं ",
+      "el": "Πηγαίνετε στο κομμωτήριο "
     },
     "message": {
       "fr": "Prendre soin de soi est important. Allez chez le coiffeur pour vous détendre et rencontrer des gens.\n",
@@ -271,7 +292,8 @@
       "pt": "Cuidar de si é importante. Vá ao cabeleireiro para relaxar e conhecer pessoas.\n",
       "es": "Cuidarse es importante. Vaya a la peluquería para relajarse y conocer gente.",
       "de": "Es ist wichtig, sich um sich selbst zu kümmern. Gehen Sie zum Friseur, um sich zu entspannen und Menschen zu treffen.",
-      "hi": "अपने लिए समय निकालना आवश्यक है। आराम करने और नए लोगों से मिलने के लिए हेयर अपॉइंटमेंट का आनंद लें। "
+      "hi": "अपने लिए समय निकालना आवश्यक है। आराम करने और नए लोगों से मिलने के लिए हेयर अपॉइंटमेंट का आनंद लें। ",
+      "el": "Είναι σημαντικό να φροντίζετε τον εαυτό σας. Πηγαίνετε στο κομμωτήριο για να χαλαρώσετε και να γνωρίσετε κόσμο. "
     }
   },
   {
@@ -285,7 +307,8 @@
       "pt": "Sair para passear",
       "es": "Salir a pasear",
       "de": "Spazieren gehen",
-      "hi": "टहलने जाएं"
+      "hi": "टहलने जाएं",
+      "el": "Βγείτε για περίπατο"
     },
     "message": {
       "fr": "Faire des activités en dehors de chez vous permet de garder un lien social et de ne pas vous isoler.",
@@ -296,7 +319,8 @@
       "pt": "Fazer atividades fora de casa permite-lhe manter os laços sociais e não se isolar.",
       "es": "Hacer actividades fuera de casa le permite mantener el contacto con los demás y no aislarse.",
       "de": "Aktivitäten außer Haus helfen Ihnen, in Kontakt mit anderen zu bleiben und sich nicht zu isolieren.",
-      "hi": "घर के बाहर गतिविधियाँ करने से आप सामाजिक रूप से जुड़े रहते हैं और खुद को अलग-थलग नहीं करते।"
+      "hi": "घर के बाहर गतिविधियाँ करने से आप सामाजिक रूप से जुड़े रहते हैं और खुद को अलग-थलग नहीं करते।",
+      "el": "Οι δραστηριότητες έξω από το σπίτι σάς βοηθούν να διατηρείτε την επαφή με τους άλλους και να μην απομονώνεστε."
     }
   }
 ]
