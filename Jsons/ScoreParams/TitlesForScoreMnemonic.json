@@ -939,5 +939,77 @@
         "hi": "पाठ किया गया पाठ",
         "el": "Κείμενο που απαγγέλθηκε"
     }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "SCRIBBUS",
+    "app" : "PAPY",
+    "level" : "medium",
+    "title": {
+      "fr": "Bonnes lettres",
+      "us": "Correct letters",
+      "it": "Lettere esatte",
+      "cn": "正确字母",
+      "nl": "Juiste letters",
+      "pt": "Letras corretas",
+      "de": "Richtige Buchstaben",
+      "es": "Letras correctas",
+      "hi": "सही अक्षर",
+      "el": "Σωστά γράμματα"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "SCRIBBUS",
+    "app" : "PAPY",
+    "level" : "medium",
+    "title": {
+      "fr": "Mauvaises lettres",
+      "us": "Wrong letters",
+      "it": "Lettere sbagliate",
+      "cn": "错误字母",
+      "nl": "Foute letters",
+      "pt": "Letras erradas",
+      "de": "Falsche Buchstaben",
+      "es": "Letras incorrectas",
+      "hi": "गलत अक्षर",
+      "el": "Λάθος γράμματα"
+    }
+  },
+  {
+    "scoreMnemonic": "nbGoodAnswers",
+    "game": "SCRIBBUS",
+    "app" : "PAPY",
+    "level" : "difficult",
+    "title": {
+      "fr": "Bonnes lettres",
+      "us": "Correct letters",
+      "it": "Lettere esatte",
+      "cn": "正确字母",
+      "nl": "Juiste letters",
+      "pt": "Letras corretas",
+      "de": "Richtige Buchstaben",
+      "es": "Letras correctas",
+      "hi": "सही अक्षर",
+      "el": "Σωστά γράμματα"
+    }
+  },
+  {
+    "scoreMnemonic": "nbBadAnswers",
+    "game": "SCRIBBUS",
+    "app" : "PAPY",
+    "level" : "difficult",
+    "title": {
+      "fr": "Mauvaises lettres",
+      "us": "Wrong letters",
+      "it": "Lettere sbagliate",
+      "cn": "错误字母",
+      "nl": "Foute letters",
+      "pt": "Letras erradas",
+      "de": "Falsche Buchstaben",
+      "es": "Letras incorrectas",
+      "hi": "गलत अक्षर",
+      "el": "Λάθος γράμματα"
+    }
   }
 ]

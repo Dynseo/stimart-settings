@@ -1399,6 +1399,58 @@
         }
       ],
       "chatbotDescription": "Wordle is the word-guessing game where players have attempts to guess a word. After each guess, tiles change color: green = correct letter in correct position, yellow = correct letter in wrong position, gray = letter not in word. Scoring: score1 = words guessed correctly, score2 = total guesses used, score3 = games where word was not found. This game trains vocabulary, deductive reasoning, and strategic thinking. Tips: Start with words containing common letters (E, A, R, T, O, I, S), use color feedback to eliminate possibilities, consider letter positions carefully."
+    },
+    "SCRIBBUS": {
+      "improvementCriteria": [
+        {
+          "app": "PAPY",
+          "level": "medium",
+          "scoreMnemonic": "nbGoodAnswers"
+        },
+        {
+          "app": "PAPY",
+          "level": "difficult",
+          "scoreMnemonic": "nbGoodAnswers"
+        },
+        {
+          "app": "PAPY",
+          "level": "easy",
+          "scoreMnemonic": "time"
+        },
+        {
+          "app": "COCO_1",
+          "scoreMnemonic": "time"
+        },
+        {
+          "app": "EHPAD",
+          "scoreMnemonic": "time"
+        }
+      ],
+      "scoreMnemonics": [
+        {
+          "scoreMnemonic": "nbItemsClickedByMistakes",
+          "scoreColumn": "score4",
+          "useFeedback": true
+        }
+      ],
+      "scoreVisualisation": [
+        {
+          "type": "gradeDetail",
+          "columns": [
+            "nbGoodAnswers",
+            "nbBadAnswers",
+            "nbClues"
+          ]
+        },
+        {
+          "type": "moreInfo",
+          "columns": [
+            "nbItemsClickedByMistakes",
+            "time"
+          ]
+        }
+      ],
+      "chatbotDescription": "Scribbus is a spelling game played over 5 pictures taken from the downloaded resources: animals, objects, flags (Edith) and musical instruments. Before the game the player picks a category (animals, objects, flags, instruments) or Mixed, which alternates every category. Each round shows a picture with one empty box per letter of its name underneath. The first empty box is selected; the player taps a letter on the keyboard (laid out like the device's own keyboard, e.g. AZERTY or QWERTY) and it goes into the selected box only, there is no automatic reveal of every occurrence as in Hangman. After a right letter the next empty box is selected; the player can also tap any empty box to select it. Accented letters are typed with their base letter. A wrong letter shakes the box and costs a try. When the tries run out, the name is shown and the word counts as failed. The question mark button fills one box (the selected one, or the first empty one) and counts as a clue. Level 1 (easy) gives the first letter, level 2 (medium) gives one other letter, never the first, level 3 (hard) gives no letter; longer names come at higher levels. In Joe, levels 2 and 3 are a race against the clock: the player has 1 minute to write as many right letters as possible (pictures keep coming, there is no fixed number of rounds). For each box the keyboard only offers 5 letters, the right one among them; in French the wrong ones are spelling traps (same sound written another way like an/en, au/o, c/k/qu/s, g/j, ph/f, s/z, a forgotten silent h or final letter, a single or doubled consonant). Right and wrong letters are counted; in those levels score1 = right letters and score2 = wrong letters, and the number of right letters is the performance to beat. Scoring: score1 = names written, score2 = names failed, score3 = clues used, score4 = wrong letters. This game trains spelling, vocabulary and visual recognition. Tips: say the name out loud, start with the letters you are sure of, use the given letter to place the others."
     }
   }
 }
